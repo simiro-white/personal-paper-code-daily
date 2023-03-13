@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-03-13 20:36:47 Asia/Shanghai
+ Automated deployment @ 2023-03-13 21:04:04 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -75,40 +75,6 @@
 
 ## Multi-modal
 
-### Multi-modal
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-03-10**|**Single-branch Network for Multimodal Training**|Muhammad Saad Saeed et.al.|[2303.06129v1](http://arxiv.org/abs/2303.06129v1)|[link](https://github.com/msaadsaeed/sbnet)|
-|**2023-03-10**|**Understanding and Constructing Latent Modality Structures in Multi-modal Representation Learning**|Qian Jiang et.al.|[2303.05952v1](http://arxiv.org/abs/2303.05952v1)|null|
-|**2023-03-10**|**Learning Decoupled Multi-touch Force Estimation, Localization and Stretch for Soft Capacitive E-skin**|Abu Bakar Dawood et.al.|[2303.05936v1](http://arxiv.org/abs/2303.05936v1)|null|
-|**2023-03-10**|**Analyzing covariate clustering effects in healthcare cost subgroups: insights and applications for prediction**|Zhengxiao Li et.al.|[2303.05793v1](http://arxiv.org/abs/2303.05793v1)|null|
-|**2023-03-10**|**CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment**|Jiangbin Zheng et.al.|[2303.05725v1](http://arxiv.org/abs/2303.05725v1)|null|
-|**2023-03-10**|**Simultaneous estimation of multiple eigenvalues with short-depth quantum circuit on early fault-tolerant quantum computers**|Zhiyan Ding et.al.|[2303.05714v1](http://arxiv.org/abs/2303.05714v1)|null|
-|**2023-03-10**|**MuLTI: Efficient Video-and-Language Understanding with MultiWay-Sampler and Multiple Choice Modeling**|Jiaqi Xu et.al.|[2303.05707v1](http://arxiv.org/abs/2303.05707v1)|null|
-|**2023-03-09**|**Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection**|Shilong Liu et.al.|[2303.05499v2](http://arxiv.org/abs/2303.05499v2)|[link](https://github.com/idea-research/groundingdino)|
-|**2023-03-09**|**Presentation Attack Detection with Advanced CNN Models for Noncontact-based Fingerprint Systems**|Sandip Purnapatra et.al.|[2303.05459v1](http://arxiv.org/abs/2303.05459v1)|null|
-|**2023-03-09**|**Kernel Regression with Infinite-Width Neural Networks on Millions of Examples**|Ben Adlam et.al.|[2303.05420v1](http://arxiv.org/abs/2303.05420v1)|null|
-|**2023-03-09**|**MMCosine: Multi-Modal Cosine Loss Towards Balanced Audio-Visual Fine-Grained Learning**|Ruize Xu et.al.|[2303.05338v1](http://arxiv.org/abs/2303.05338v1)|null|
-|**2023-03-09**|**Replacement as a Self-supervision for Fine-grained Vision-language Pre-training**|Lisai Zhang et.al.|[2303.05313v1](http://arxiv.org/abs/2303.05313v1)|null|
-|**2023-03-09**|**MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition**|Xize Cheng et.al.|[2303.05309v1](http://arxiv.org/abs/2303.05309v1)|null|
-|**2023-03-09**|**M3AE: Multimodal Representation Learning for Brain Tumor Segmentation with Missing Modalities**|Hong Liu et.al.|[2303.05302v1](http://arxiv.org/abs/2303.05302v1)|[link](https://github.com/ccarliu/m3ae)|
-|**2023-03-09**|**Designing Dynamic Robot Characters to Improve Robot-Human Communications**|Carl Oechsner et.al.|[2303.05219v1](http://arxiv.org/abs/2303.05219v1)|null|
-|**2023-03-09**|**GOATS: Goal Sampling Adaptation for Scooping with Curriculum Reinforcement Learning**|Yaru Niu et.al.|[2303.05193v1](http://arxiv.org/abs/2303.05193v1)|null|
-|**2023-03-09**|**Classification in Histopathology: A unique deep embeddings extractor for multiple classification tasks**|Adrien Nivaggioli et.al.|[2303.05180v1](http://arxiv.org/abs/2303.05180v1)|null|
-|**2023-03-09**|**Segmentation method for cerebral blood vessels from MRA using hysteresis**|Georgia Kenyon et.al.|[2303.05113v1](http://arxiv.org/abs/2303.05113v1)|null|
-|**2023-03-09**|**Improving Video Retrieval by Adaptive Margin**|Feng He et.al.|[2303.05093v1](http://arxiv.org/abs/2303.05093v1)|null|
-|**2023-03-09**|**ICL-D3IE: In-Context Learning with Diverse Demonstrations Updating for Document Information Extraction**|Jiabang He et.al.|[2303.05063v1](http://arxiv.org/abs/2303.05063v1)|null|
-|**2023-03-09**|**Invertible Kernel PCA with Random Fourier Features**|Daniel Gedon et.al.|[2303.05043v1](http://arxiv.org/abs/2303.05043v1)|[link](https://github.com/dgedon/invertible_kernel_PCA)|
-|**2023-03-09**|**SSL^2: Self-Supervised Learning meets Semi-Supervised Learning: Multiple Sclerosis Segmentation in 7T-MRI from large-scale 3T-MRI**|Jiacheng Wang et.al.|[2303.05026v1](http://arxiv.org/abs/2303.05026v1)|null|
-|**2023-03-09**|**Exploring Smart Commercial Building Occupants' Perceptions and Notification Preferences of Internet of Things Data Collection in the United States**|Tu Le et.al.|[2303.04955v1](http://arxiv.org/abs/2303.04955v1)|null|
-|**2023-03-08**|**Morpho-logic from a Topos Perspective: Application to symbolic AI**|Marc Aiguier et.al.|[2303.04895v1](http://arxiv.org/abs/2303.04895v1)|null|
-|**2023-03-08**|**CLIP-FO3D: Learning Free Open-world 3D Scene Representations from 2D Dense CLIP**|Junbo Zhang et.al.|[2303.04748v1](http://arxiv.org/abs/2303.04748v1)|null|
-|**2023-03-08**|**Descriptive complexity for distributed computing with circuits**|Veeti Ahvonen et.al.|[2303.04735v1](http://arxiv.org/abs/2303.04735v1)|null|
-|**2023-03-08**|**Global Localization in Unstructured Environments using Semantic Object Maps Built from Various Viewpoints**|Jacqueline Ankenbauer et.al.|[2303.04658v1](http://arxiv.org/abs/2303.04658v1)|null|
-|**2023-03-08**|**Robust Multimodal Fusion for Human Activity Recognition**|Sanju Xaviar et.al.|[2303.04636v1](http://arxiv.org/abs/2303.04636v1)|null|
-|**2023-03-08**|**Definitions and (Uniform) Interpolants in First-Order Modal Logic**|Agi Kurucz et.al.|[2303.04598v1](http://arxiv.org/abs/2303.04598v1)|null|
-|**2023-03-08**|**New Audio Representations Image Gan Generation from BriVL**|Sen Fang et.al.|[2303.04585v1](http://arxiv.org/abs/2303.04585v1)|[link](https://github.com/fangsen9000/brivl-generation)|
-
 ### CLIP
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -142,6 +108,40 @@
 |**2023-03-05**|**Comparative study of Transformer and LSTM Network with attention mechanism on Image Captioning**|Pranav Dandwate et.al.|[2303.02648v1](http://arxiv.org/abs/2303.02648v1)|null|
 |**2023-03-05**|**Bounding the Optimal Value Function in Compositional Reinforcement Learning**|Jacob Adamczyk et.al.|[2303.02557v1](http://arxiv.org/abs/2303.02557v1)|null|
 |**2023-03-04**|**FAME-ViL: Multi-Tasking Vision-Language Model for Heterogeneous Fashion Tasks**|Xiao Han et.al.|[2303.02483v1](http://arxiv.org/abs/2303.02483v1)|[link](https://github.com/brandonhanx/fame-vil)|
+
+### Multi-modal
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-03-10**|**Single-branch Network for Multimodal Training**|Muhammad Saad Saeed et.al.|[2303.06129v1](http://arxiv.org/abs/2303.06129v1)|[link](https://github.com/msaadsaeed/sbnet)|
+|**2023-03-10**|**Understanding and Constructing Latent Modality Structures in Multi-modal Representation Learning**|Qian Jiang et.al.|[2303.05952v1](http://arxiv.org/abs/2303.05952v1)|null|
+|**2023-03-10**|**Learning Decoupled Multi-touch Force Estimation, Localization and Stretch for Soft Capacitive E-skin**|Abu Bakar Dawood et.al.|[2303.05936v1](http://arxiv.org/abs/2303.05936v1)|null|
+|**2023-03-10**|**Analyzing covariate clustering effects in healthcare cost subgroups: insights and applications for prediction**|Zhengxiao Li et.al.|[2303.05793v1](http://arxiv.org/abs/2303.05793v1)|null|
+|**2023-03-10**|**CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment**|Jiangbin Zheng et.al.|[2303.05725v1](http://arxiv.org/abs/2303.05725v1)|null|
+|**2023-03-10**|**Simultaneous estimation of multiple eigenvalues with short-depth quantum circuit on early fault-tolerant quantum computers**|Zhiyan Ding et.al.|[2303.05714v1](http://arxiv.org/abs/2303.05714v1)|null|
+|**2023-03-10**|**MuLTI: Efficient Video-and-Language Understanding with MultiWay-Sampler and Multiple Choice Modeling**|Jiaqi Xu et.al.|[2303.05707v1](http://arxiv.org/abs/2303.05707v1)|null|
+|**2023-03-09**|**Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection**|Shilong Liu et.al.|[2303.05499v2](http://arxiv.org/abs/2303.05499v2)|[link](https://github.com/idea-research/groundingdino)|
+|**2023-03-09**|**Presentation Attack Detection with Advanced CNN Models for Noncontact-based Fingerprint Systems**|Sandip Purnapatra et.al.|[2303.05459v1](http://arxiv.org/abs/2303.05459v1)|null|
+|**2023-03-09**|**Kernel Regression with Infinite-Width Neural Networks on Millions of Examples**|Ben Adlam et.al.|[2303.05420v1](http://arxiv.org/abs/2303.05420v1)|null|
+|**2023-03-09**|**MMCosine: Multi-Modal Cosine Loss Towards Balanced Audio-Visual Fine-Grained Learning**|Ruize Xu et.al.|[2303.05338v1](http://arxiv.org/abs/2303.05338v1)|null|
+|**2023-03-09**|**Replacement as a Self-supervision for Fine-grained Vision-language Pre-training**|Lisai Zhang et.al.|[2303.05313v1](http://arxiv.org/abs/2303.05313v1)|null|
+|**2023-03-09**|**MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition**|Xize Cheng et.al.|[2303.05309v1](http://arxiv.org/abs/2303.05309v1)|null|
+|**2023-03-09**|**M3AE: Multimodal Representation Learning for Brain Tumor Segmentation with Missing Modalities**|Hong Liu et.al.|[2303.05302v1](http://arxiv.org/abs/2303.05302v1)|[link](https://github.com/ccarliu/m3ae)|
+|**2023-03-09**|**Designing Dynamic Robot Characters to Improve Robot-Human Communications**|Carl Oechsner et.al.|[2303.05219v1](http://arxiv.org/abs/2303.05219v1)|null|
+|**2023-03-09**|**GOATS: Goal Sampling Adaptation for Scooping with Curriculum Reinforcement Learning**|Yaru Niu et.al.|[2303.05193v1](http://arxiv.org/abs/2303.05193v1)|null|
+|**2023-03-09**|**Classification in Histopathology: A unique deep embeddings extractor for multiple classification tasks**|Adrien Nivaggioli et.al.|[2303.05180v1](http://arxiv.org/abs/2303.05180v1)|null|
+|**2023-03-09**|**Segmentation method for cerebral blood vessels from MRA using hysteresis**|Georgia Kenyon et.al.|[2303.05113v1](http://arxiv.org/abs/2303.05113v1)|null|
+|**2023-03-09**|**Improving Video Retrieval by Adaptive Margin**|Feng He et.al.|[2303.05093v1](http://arxiv.org/abs/2303.05093v1)|null|
+|**2023-03-09**|**ICL-D3IE: In-Context Learning with Diverse Demonstrations Updating for Document Information Extraction**|Jiabang He et.al.|[2303.05063v1](http://arxiv.org/abs/2303.05063v1)|null|
+|**2023-03-09**|**Invertible Kernel PCA with Random Fourier Features**|Daniel Gedon et.al.|[2303.05043v1](http://arxiv.org/abs/2303.05043v1)|[link](https://github.com/dgedon/invertible_kernel_PCA)|
+|**2023-03-09**|**SSL^2: Self-Supervised Learning meets Semi-Supervised Learning: Multiple Sclerosis Segmentation in 7T-MRI from large-scale 3T-MRI**|Jiacheng Wang et.al.|[2303.05026v1](http://arxiv.org/abs/2303.05026v1)|null|
+|**2023-03-09**|**Exploring Smart Commercial Building Occupants' Perceptions and Notification Preferences of Internet of Things Data Collection in the United States**|Tu Le et.al.|[2303.04955v1](http://arxiv.org/abs/2303.04955v1)|null|
+|**2023-03-08**|**Morpho-logic from a Topos Perspective: Application to symbolic AI**|Marc Aiguier et.al.|[2303.04895v1](http://arxiv.org/abs/2303.04895v1)|null|
+|**2023-03-08**|**CLIP-FO3D: Learning Free Open-world 3D Scene Representations from 2D Dense CLIP**|Junbo Zhang et.al.|[2303.04748v1](http://arxiv.org/abs/2303.04748v1)|null|
+|**2023-03-08**|**Descriptive complexity for distributed computing with circuits**|Veeti Ahvonen et.al.|[2303.04735v1](http://arxiv.org/abs/2303.04735v1)|null|
+|**2023-03-08**|**Global Localization in Unstructured Environments using Semantic Object Maps Built from Various Viewpoints**|Jacqueline Ankenbauer et.al.|[2303.04658v1](http://arxiv.org/abs/2303.04658v1)|null|
+|**2023-03-08**|**Robust Multimodal Fusion for Human Activity Recognition**|Sanju Xaviar et.al.|[2303.04636v1](http://arxiv.org/abs/2303.04636v1)|null|
+|**2023-03-08**|**Definitions and (Uniform) Interpolants in First-Order Modal Logic**|Agi Kurucz et.al.|[2303.04598v1](http://arxiv.org/abs/2303.04598v1)|null|
+|**2023-03-08**|**New Audio Representations Image Gan Generation from BriVL**|Sen Fang et.al.|[2303.04585v1](http://arxiv.org/abs/2303.04585v1)|[link](https://github.com/fangsen9000/brivl-generation)|
 
 ## Fashion
 
