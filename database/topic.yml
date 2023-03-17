@@ -1,13 +1,18 @@
 "Fashion":
-  "General": '"Fashion"'
+  "Attribute": '"Fashion Attribute"'
+  "Recommendation": "Fashion Recommendation"
+  "Retrieval": "Fashion Retrieval"
+  "Compatibility": "Fashion Compatibility"
+  "Virtual Try-On": '"VITON" OR "Try-on"'
+  "General": "Clothing"
 
 "Transformer":
   "Transformer": '"Transformer"'
-  "Vision Transformer": '"Vision Transformer"OR"Computer Vision Transformer"'
+  "Vision Transformer": '"Vision Transformer" OR "Computer Vision Transformer"'
 
 "Graph Neural Network":
   "Graph Neural Network": '"Graph Neural Network"'
 
 "Multi-modal":
-  "Multi-modal": '"Multi-modal"OR"Multimodal"OR"Multi modal"'
+  "Multi-modal": '"Multi-modal" OR "Multimodal" OR "Multi modal"'
   "CLIP": "CLIP"
