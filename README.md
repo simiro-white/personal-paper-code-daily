@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-04-28 20:31:17 Asia/Shanghai
+ Automated deployment @ 2023-04-28 20:54:24 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -32,40 +32,6 @@
 |**2003-07-18**|**KH15D: a star eclipsed by a large scale dusty vortex?**|P. Barge et.al.|[astro-ph/0307341v1](http://arxiv.org/abs/astro-ph/0307341v1)|null|
 |**2002-11-19**|**2D analytical modeling of distortion and sky background in multi-fiber spectrographs: the case of the Norris spectrograph at Palomar Mountain**|Maurice Viton et.al.|[astro-ph/0211423v1](http://arxiv.org/abs/astro-ph/0211423v1)|null|
 |**1998-09-30**|**Discovery of a z=0.808 damped Lyman-alpha system candidate in a UV selected quasar spectrum**|V. Le Brun et.al.|[astro-ph/9809402v1](http://arxiv.org/abs/astro-ph/9809402v1)|null|
-
-### Recommendation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-04-27**|**Putting People in Their Place: Affordance-Aware Human Insertion into Scenes**|Sumith Kulal et.al.|[2304.14406v1](http://arxiv.org/abs/2304.14406v1)|[link](https://github.com/adobe-research/affordance-insertion)|
-|**2023-04-27**|**SeqTrack: Sequence to Sequence Learning for Visual Object Tracking**|Xin Chen et.al.|[2304.14394v1](http://arxiv.org/abs/2304.14394v1)|[link](https://github.com/microsoft/videox)|
-|**2023-04-27**|**Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving**|Xiaoyu Tian et.al.|[2304.14365v1](http://arxiv.org/abs/2304.14365v1)|[link](https://github.com/Tsinghua-MARS-Lab/Occ3D)|
-|**2023-04-27**|**A Best-of-Both-Worlds Algorithm for Constrained MDPs with Long-Term Constraints**|Jacopo Germano et.al.|[2304.14326v1](http://arxiv.org/abs/2304.14326v1)|null|
-|**2023-04-27**|**The Intended Uses of Automated Fact-Checking Artefacts: Why, How and Who**|Michael Schlichtkrull et.al.|[2304.14238v1](http://arxiv.org/abs/2304.14238v1)|null|
-|**2023-04-27**|**Guidance note on best statistical practices for TOAR analyses**|Kai-Lan Chang et.al.|[2304.14236v1](http://arxiv.org/abs/2304.14236v1)|null|
-|**2023-04-27**|**Large Language Models are Strong Zero-Shot Retriever**|Tao Shen et.al.|[2304.14233v1](http://arxiv.org/abs/2304.14233v1)|null|
-|**2023-04-27**|**Answering Uncertain, Under-Specified API Queries Assisted by Knowledge-Aware Human-AI Dialogue**|Qing Huang et.al.|[2304.14163v1](http://arxiv.org/abs/2304.14163v1)|null|
-|**2023-04-27**|**A sensemaking system for grouping and suggesting stories from multiple affective viewpoints in museums**|Antonio Lieto et.al.|[2304.14117v1](http://arxiv.org/abs/2304.14117v1)|null|
-|**2023-04-27**|**Temporal and geographic analysis of the Hydroxychloroquine controversy in the French Twittosphere**|Mauro Faccin et.al.|[2304.14075v1](http://arxiv.org/abs/2304.14075v1)|null|
-|**2023-04-27**|**Prediction then Correction: An Abductive Prediction Correction Method for Sequential Recommendation**|Yulong Huang et.al.|[2304.14050v1](http://arxiv.org/abs/2304.14050v1)|null|
-|**2023-04-27**|**Towards Explainable Collaborative Filtering with Taste Clusters Learning**|Yuntao Du et.al.|[2304.13937v1](http://arxiv.org/abs/2304.13937v1)|[link](https://github.com/zealscott/ecf)|
-|**2023-04-26**|**Cross-Examination of Photoinitiated Carrier and Structural Dynamics of Black Phosphorus at Elevated Fluences**|Mazhar Chebl et.al.|[2304.13869v1](http://arxiv.org/abs/2304.13869v1)|null|
-|**2023-04-26**|**Multimodal Composite Association Score: Measuring Gender Bias in Generative Multimodal Models**|Abhishek Mandal et.al.|[2304.13855v1](http://arxiv.org/abs/2304.13855v1)|null|
-|**2023-04-26**|**Selecting Sustainable Optimal Stock by Using Multi-Criteria Fuzzy Decision-Making Approaches Based on the Development of the Gordon Model: A case study of the Toronto Stock Exchange**|Mohsen Mortazavi et.al.|[2304.13818v1](http://arxiv.org/abs/2304.13818v1)|null|
-|**2023-04-26**|**A Personalized Dense Retrieval Framework for Unified Information Access**|Hansi Zeng et.al.|[2304.13654v1](http://arxiv.org/abs/2304.13654v1)|[link](https://github.com/hansizeng/uia)|
-|**2023-04-26**|**Coset space dimensional reduction of Yang-Mills theory on non-compact symmetric spaces**|Mahir Ertürk et.al.|[2304.13645v1](http://arxiv.org/abs/2304.13645v1)|null|
-|**2023-04-26**|**Reformulating CTR Prediction: Learning Invariant Feature Interactions for Recommendation**|Yang Zhang et.al.|[2304.13643v1](http://arxiv.org/abs/2304.13643v1)|[link](https://github.com/zyang1580/dil)|
-|**2023-04-26**|**A Koopman Operator-Based Prediction Algorithm and its Application to COVID-19 Pandemic**|Igor Mezic et.al.|[2304.13601v1](http://arxiv.org/abs/2304.13601v1)|null|
-|**2023-04-26**|**Reliable and Repeatable Transit Through Cislunar Space Using the 2:1 Resonant Spatial Orbit Family**|Andrew Binder et.al.|[2304.13584v1](http://arxiv.org/abs/2304.13584v1)|null|
-|**2023-04-26**|**Improvements on Recommender System based on Mathematical Principles**|Fu Chen et.al.|[2304.13579v1](http://arxiv.org/abs/2304.13579v1)|null|
-|**2023-04-26**|**Inclusive AR/VR: Accessibility Barriers for Immersive Technologies**|Chris Creed et.al.|[2304.13465v1](http://arxiv.org/abs/2304.13465v1)|null|
-|**2023-04-26**|**Self-Supervised Multi-Modal Sequential Recommendation**|Kunzhe Song et.al.|[2304.13277v1](http://arxiv.org/abs/2304.13277v1)|[link](https://github.com/kz-song/mmsrec)|
-|**2023-04-25**|**Sebis at SemEval-2023 Task 7: A Joint System for Natural Language Inference and Evidence Retrieval from Clinical Trial Reports**|Juraj Vladika et.al.|[2304.13180v1](http://arxiv.org/abs/2304.13180v1)|null|
-|**2023-04-25**|**The Limited Integrator Model Regulator And its Use in Vehicle Steering Control**|Bilin Aksun-Guvenc et.al.|[2304.13161v1](http://arxiv.org/abs/2304.13161v1)|null|
-|**2023-04-25**|**Stable and low-precision training for large-scale vision-language models**|Mitchell Wortsman et.al.|[2304.13013v1](http://arxiv.org/abs/2304.13013v1)|[link](https://github.com/mlfoundations/open_clip)|
-|**2023-04-25**|**An Audit Framework for Adopting AI-Nudging on Children**|Marianna Ganapini et.al.|[2304.14338v1](http://arxiv.org/abs/2304.14338v1)|null|
-|**2023-04-25**|**Nondeterministic Stacks in Neural Networks**|Brian DuSell et.al.|[2304.12955v1](http://arxiv.org/abs/2304.12955v1)|null|
-|**2023-04-25**|**The Bjøntegaard Bible -- Why your Way of Comparing Video Codecs May Be Wrong**|Christian Herglotz et.al.|[2304.12852v1](http://arxiv.org/abs/2304.12852v1)|null|
-|**2023-04-25**|**GULP: Solar-Powered Smart Garbage Segregation Bins with SMS Notification and Machine Learning Image Processing**|Jerome B. Sigongan et.al.|[2304.13040v1](http://arxiv.org/abs/2304.13040v1)|null|
 
 ### Compatibility
 |Publish Date|Title|Authors|PDF|Code|
@@ -101,6 +67,40 @@
 |**2023-04-25**|**Independent additive weighted bias distributions and associated goodness-of-fit tests**|Bruno Ebner et.al.|[2304.13179v1](http://arxiv.org/abs/2304.13179v1)|null|
 |**2023-04-25**|**The Limited Integrator Model Regulator And its Use in Vehicle Steering Control**|Bilin Aksun-Guvenc et.al.|[2304.13161v1](http://arxiv.org/abs/2304.13161v1)|null|
 
+### Retrieval
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-04-27**|**Putting People in Their Place: Affordance-Aware Human Insertion into Scenes**|Sumith Kulal et.al.|[2304.14406v1](http://arxiv.org/abs/2304.14406v1)|[link](https://github.com/adobe-research/affordance-insertion)|
+|**2023-04-27**|**Private Information Retrieval and Its Applications: An Introduction, Open Problems, Future Directions**|Sajani Vithana et.al.|[2304.14397v1](http://arxiv.org/abs/2304.14397v1)|null|
+|**2023-04-27**|**SeqTrack: Sequence to Sequence Learning for Visual Object Tracking**|Xin Chen et.al.|[2304.14394v1](http://arxiv.org/abs/2304.14394v1)|[link](https://github.com/microsoft/videox)|
+|**2023-04-27**|**Analogy-Forming Transformers for Few-Shot 3D Parsing**|Nikolaos Gkanatsios et.al.|[2304.14382v1](http://arxiv.org/abs/2304.14382v1)|null|
+|**2023-04-27**|**Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving**|Xiaoyu Tian et.al.|[2304.14365v1](http://arxiv.org/abs/2304.14365v1)|[link](https://github.com/Tsinghua-MARS-Lab/Occ3D)|
+|**2023-04-27**|**Person Re-ID through Unsupervised Hypergraph Rank Selection and Fusion**|Lucas Pascotti Valem et.al.|[2304.14321v1](http://arxiv.org/abs/2304.14321v1)|null|
+|**2023-04-27**|**Large Language Models are Strong Zero-Shot Retriever**|Tao Shen et.al.|[2304.14233v1](http://arxiv.org/abs/2304.14233v1)|null|
+|**2023-04-27**|**Deeply-Coupled Convolution-Transformer with Spatial-temporal Complementary Learning for Video-based Person Re-identification**|Xuehu Liu et.al.|[2304.14122v1](http://arxiv.org/abs/2304.14122v1)|null|
+|**2023-04-27**|**Prediction then Correction: An Abductive Prediction Correction Method for Sequential Recommendation**|Yulong Huang et.al.|[2304.14050v1](http://arxiv.org/abs/2304.14050v1)|null|
+|**2023-04-27**|**Boosting Big Brother: Attacking Search Engines with Encodings**|Nicholas Boucher et.al.|[2304.14031v1](http://arxiv.org/abs/2304.14031v1)|[link](https://github.com/nickboucher/search-engine-attacks)|
+|**2023-04-27**|**Towards Explainable Collaborative Filtering with Taste Clusters Learning**|Yuntao Du et.al.|[2304.13937v1](http://arxiv.org/abs/2304.13937v1)|[link](https://github.com/zealscott/ecf)|
+|**2023-04-27**|**Retrieval-based Knowledge Augmented Vision Language Pre-training**|Jiahua Rao et.al.|[2304.13923v1](http://arxiv.org/abs/2304.13923v1)|null|
+|**2023-04-27**|**Federated Prompting and Chain-of-Thought Reasoning for Improving LLMs Answering**|Xiangyang Liu et.al.|[2304.13911v1](http://arxiv.org/abs/2304.13911v1)|null|
+|**2023-04-27**|**Improving the Quality of Commit Messages in Students' Projects**|Iris Ma et.al.|[2304.13887v1](http://arxiv.org/abs/2304.13887v1)|null|
+|**2023-04-27**|**Neural Keyphrase Generation: Analysis and Evaluation**|Tuhin Kundu et.al.|[2304.13883v1](http://arxiv.org/abs/2304.13883v1)|null|
+|**2023-04-26**|**Exploiting Simulated User Feedback for Conversational Search: Ranking, Rewriting, and Beyond**|Paul Owoicho et.al.|[2304.13874v1](http://arxiv.org/abs/2304.13874v1)|[link](https://github.com/grill-lab/convsim)|
+|**2023-04-26**|**Cross-Examination of Photoinitiated Carrier and Structural Dynamics of Black Phosphorus at Elevated Fluences**|Mazhar Chebl et.al.|[2304.13869v1](http://arxiv.org/abs/2304.13869v1)|null|
+|**2023-04-26**|**Multimodal Composite Association Score: Measuring Gender Bias in Generative Multimodal Models**|Abhishek Mandal et.al.|[2304.13855v1](http://arxiv.org/abs/2304.13855v1)|null|
+|**2023-04-26**|**Understand the Dynamic World: An End-to-End Knowledge Informed Framework for Open Domain Entity State Tracking**|Mingchen Li et.al.|[2304.13854v1](http://arxiv.org/abs/2304.13854v1)|null|
+|**2023-04-26**|**A review of ptychographic techniques for ultrashort pulse measurement**|Daniel J Kane et.al.|[2304.13847v1](http://arxiv.org/abs/2304.13847v1)|null|
+|**2023-04-26**|**Extracting Structured Seed-Mediated Gold Nanorod Growth Procedures from Literature with GPT-3**|Nicholas Walker et.al.|[2304.13846v1](http://arxiv.org/abs/2304.13846v1)|null|
+|**2023-04-26**|**Latent Fingerprint Recognition: Fusion of Local and Global Embeddings**|Steven A. Grosz et.al.|[2304.13800v1](http://arxiv.org/abs/2304.13800v1)|null|
+|**2023-04-26**|**Evaluation of GPT-3.5 and GPT-4 for supporting real-world information needs in healthcare delivery**|Debadutta Dash et.al.|[2304.13714v1](http://arxiv.org/abs/2304.13714v1)|null|
+|**2023-04-26**|**Hopfield model with planted patterns: a teacher-student self-supervised learning model**|Francesco Alemanno et.al.|[2304.13710v1](http://arxiv.org/abs/2304.13710v1)|null|
+|**2023-04-26**|**Building K-Anonymous User Cohorts with\\ Consecutive Consistent Weighted Sampling (CCWS)**|Xinyi Zheng et.al.|[2304.13677v1](http://arxiv.org/abs/2304.13677v1)|null|
+|**2023-04-26**|**A Personalized Dense Retrieval Framework for Unified Information Access**|Hansi Zeng et.al.|[2304.13654v1](http://arxiv.org/abs/2304.13654v1)|[link](https://github.com/hansizeng/uia)|
+|**2023-04-26**|**A Symmetric Dual Encoding Dense Retrieval Framework for Knowledge-Intensive Visual Question Answering**|Alireza Salemi et.al.|[2304.13649v1](http://arxiv.org/abs/2304.13649v1)|[link](https://github.com/alirezasalemi7/dedr-mm-fid)|
+|**2023-04-26**|**Coset space dimensional reduction of Yang-Mills theory on non-compact symmetric spaces**|Mahir Ertürk et.al.|[2304.13645v1](http://arxiv.org/abs/2304.13645v1)|null|
+|**2023-04-26**|**Reformulating CTR Prediction: Learning Invariant Feature Interactions for Recommendation**|Yang Zhang et.al.|[2304.13643v1](http://arxiv.org/abs/2304.13643v1)|[link](https://github.com/zyang1580/dil)|
+|**2023-04-26**|**SIMARA: a database for key-value information extraction from full pages**|Solène Tarride et.al.|[2304.13606v1](http://arxiv.org/abs/2304.13606v1)|null|
+
 ### General
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -135,6 +135,40 @@
 |**2023-03-08**|**Robotic Fabric Flattening with Wrinkle Direction Detection**|Yulei Qiu et.al.|[2303.04909v2](http://arxiv.org/abs/2303.04909v2)|null|
 |**2023-03-02**|**PlaNet-Pick: Effective Cloth Flattening Based on Latent Dynamic Planning**|Halid Abdulrahim Kadi et.al.|[2303.01345v1](http://arxiv.org/abs/2303.01345v1)|null|
 
+### Recommendation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-04-27**|**Putting People in Their Place: Affordance-Aware Human Insertion into Scenes**|Sumith Kulal et.al.|[2304.14406v1](http://arxiv.org/abs/2304.14406v1)|[link](https://github.com/adobe-research/affordance-insertion)|
+|**2023-04-27**|**SeqTrack: Sequence to Sequence Learning for Visual Object Tracking**|Xin Chen et.al.|[2304.14394v1](http://arxiv.org/abs/2304.14394v1)|[link](https://github.com/microsoft/videox)|
+|**2023-04-27**|**Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving**|Xiaoyu Tian et.al.|[2304.14365v1](http://arxiv.org/abs/2304.14365v1)|[link](https://github.com/Tsinghua-MARS-Lab/Occ3D)|
+|**2023-04-27**|**A Best-of-Both-Worlds Algorithm for Constrained MDPs with Long-Term Constraints**|Jacopo Germano et.al.|[2304.14326v1](http://arxiv.org/abs/2304.14326v1)|null|
+|**2023-04-27**|**The Intended Uses of Automated Fact-Checking Artefacts: Why, How and Who**|Michael Schlichtkrull et.al.|[2304.14238v1](http://arxiv.org/abs/2304.14238v1)|null|
+|**2023-04-27**|**Guidance note on best statistical practices for TOAR analyses**|Kai-Lan Chang et.al.|[2304.14236v1](http://arxiv.org/abs/2304.14236v1)|null|
+|**2023-04-27**|**Large Language Models are Strong Zero-Shot Retriever**|Tao Shen et.al.|[2304.14233v1](http://arxiv.org/abs/2304.14233v1)|null|
+|**2023-04-27**|**Answering Uncertain, Under-Specified API Queries Assisted by Knowledge-Aware Human-AI Dialogue**|Qing Huang et.al.|[2304.14163v1](http://arxiv.org/abs/2304.14163v1)|null|
+|**2023-04-27**|**A sensemaking system for grouping and suggesting stories from multiple affective viewpoints in museums**|Antonio Lieto et.al.|[2304.14117v1](http://arxiv.org/abs/2304.14117v1)|null|
+|**2023-04-27**|**Temporal and geographic analysis of the Hydroxychloroquine controversy in the French Twittosphere**|Mauro Faccin et.al.|[2304.14075v1](http://arxiv.org/abs/2304.14075v1)|null|
+|**2023-04-27**|**Prediction then Correction: An Abductive Prediction Correction Method for Sequential Recommendation**|Yulong Huang et.al.|[2304.14050v1](http://arxiv.org/abs/2304.14050v1)|null|
+|**2023-04-27**|**Towards Explainable Collaborative Filtering with Taste Clusters Learning**|Yuntao Du et.al.|[2304.13937v1](http://arxiv.org/abs/2304.13937v1)|[link](https://github.com/zealscott/ecf)|
+|**2023-04-26**|**Cross-Examination of Photoinitiated Carrier and Structural Dynamics of Black Phosphorus at Elevated Fluences**|Mazhar Chebl et.al.|[2304.13869v1](http://arxiv.org/abs/2304.13869v1)|null|
+|**2023-04-26**|**Multimodal Composite Association Score: Measuring Gender Bias in Generative Multimodal Models**|Abhishek Mandal et.al.|[2304.13855v1](http://arxiv.org/abs/2304.13855v1)|null|
+|**2023-04-26**|**Selecting Sustainable Optimal Stock by Using Multi-Criteria Fuzzy Decision-Making Approaches Based on the Development of the Gordon Model: A case study of the Toronto Stock Exchange**|Mohsen Mortazavi et.al.|[2304.13818v1](http://arxiv.org/abs/2304.13818v1)|null|
+|**2023-04-26**|**A Personalized Dense Retrieval Framework for Unified Information Access**|Hansi Zeng et.al.|[2304.13654v1](http://arxiv.org/abs/2304.13654v1)|[link](https://github.com/hansizeng/uia)|
+|**2023-04-26**|**Coset space dimensional reduction of Yang-Mills theory on non-compact symmetric spaces**|Mahir Ertürk et.al.|[2304.13645v1](http://arxiv.org/abs/2304.13645v1)|null|
+|**2023-04-26**|**Reformulating CTR Prediction: Learning Invariant Feature Interactions for Recommendation**|Yang Zhang et.al.|[2304.13643v1](http://arxiv.org/abs/2304.13643v1)|[link](https://github.com/zyang1580/dil)|
+|**2023-04-26**|**A Koopman Operator-Based Prediction Algorithm and its Application to COVID-19 Pandemic**|Igor Mezic et.al.|[2304.13601v1](http://arxiv.org/abs/2304.13601v1)|null|
+|**2023-04-26**|**Reliable and Repeatable Transit Through Cislunar Space Using the 2:1 Resonant Spatial Orbit Family**|Andrew Binder et.al.|[2304.13584v1](http://arxiv.org/abs/2304.13584v1)|null|
+|**2023-04-26**|**Improvements on Recommender System based on Mathematical Principles**|Fu Chen et.al.|[2304.13579v1](http://arxiv.org/abs/2304.13579v1)|null|
+|**2023-04-26**|**Inclusive AR/VR: Accessibility Barriers for Immersive Technologies**|Chris Creed et.al.|[2304.13465v1](http://arxiv.org/abs/2304.13465v1)|null|
+|**2023-04-26**|**Self-Supervised Multi-Modal Sequential Recommendation**|Kunzhe Song et.al.|[2304.13277v1](http://arxiv.org/abs/2304.13277v1)|[link](https://github.com/kz-song/mmsrec)|
+|**2023-04-25**|**Sebis at SemEval-2023 Task 7: A Joint System for Natural Language Inference and Evidence Retrieval from Clinical Trial Reports**|Juraj Vladika et.al.|[2304.13180v1](http://arxiv.org/abs/2304.13180v1)|null|
+|**2023-04-25**|**The Limited Integrator Model Regulator And its Use in Vehicle Steering Control**|Bilin Aksun-Guvenc et.al.|[2304.13161v1](http://arxiv.org/abs/2304.13161v1)|null|
+|**2023-04-25**|**Stable and low-precision training for large-scale vision-language models**|Mitchell Wortsman et.al.|[2304.13013v1](http://arxiv.org/abs/2304.13013v1)|[link](https://github.com/mlfoundations/open_clip)|
+|**2023-04-25**|**An Audit Framework for Adopting AI-Nudging on Children**|Marianna Ganapini et.al.|[2304.14338v1](http://arxiv.org/abs/2304.14338v1)|null|
+|**2023-04-25**|**Nondeterministic Stacks in Neural Networks**|Brian DuSell et.al.|[2304.12955v1](http://arxiv.org/abs/2304.12955v1)|null|
+|**2023-04-25**|**The Bjøntegaard Bible -- Why your Way of Comparing Video Codecs May Be Wrong**|Christian Herglotz et.al.|[2304.12852v1](http://arxiv.org/abs/2304.12852v1)|null|
+|**2023-04-25**|**GULP: Solar-Powered Smart Garbage Segregation Bins with SMS Notification and Machine Learning Image Processing**|Jerome B. Sigongan et.al.|[2304.13040v1](http://arxiv.org/abs/2304.13040v1)|null|
+
 ### Attribute
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -168,40 +202,6 @@
 |**2023-04-26**|**Surface charge deposition by moving drops reduces contact angles**|Xiaomei Li et.al.|[2304.13461v1](http://arxiv.org/abs/2304.13461v1)|null|
 |**2023-04-26**|**Implicit Counterfactual Data Augmentation for Deep Neural Networks**|Xiaoling Zhou et.al.|[2304.13431v1](http://arxiv.org/abs/2304.13431v1)|null|
 |**2023-04-26**|**Ionic blockade in a charged single-file water channel**|Shusong Zhang et.al.|[2304.13355v2](http://arxiv.org/abs/2304.13355v2)|null|
-
-### Retrieval
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-04-27**|**Putting People in Their Place: Affordance-Aware Human Insertion into Scenes**|Sumith Kulal et.al.|[2304.14406v1](http://arxiv.org/abs/2304.14406v1)|[link](https://github.com/adobe-research/affordance-insertion)|
-|**2023-04-27**|**Private Information Retrieval and Its Applications: An Introduction, Open Problems, Future Directions**|Sajani Vithana et.al.|[2304.14397v1](http://arxiv.org/abs/2304.14397v1)|null|
-|**2023-04-27**|**SeqTrack: Sequence to Sequence Learning for Visual Object Tracking**|Xin Chen et.al.|[2304.14394v1](http://arxiv.org/abs/2304.14394v1)|[link](https://github.com/microsoft/videox)|
-|**2023-04-27**|**Analogy-Forming Transformers for Few-Shot 3D Parsing**|Nikolaos Gkanatsios et.al.|[2304.14382v1](http://arxiv.org/abs/2304.14382v1)|null|
-|**2023-04-27**|**Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving**|Xiaoyu Tian et.al.|[2304.14365v1](http://arxiv.org/abs/2304.14365v1)|[link](https://github.com/Tsinghua-MARS-Lab/Occ3D)|
-|**2023-04-27**|**Person Re-ID through Unsupervised Hypergraph Rank Selection and Fusion**|Lucas Pascotti Valem et.al.|[2304.14321v1](http://arxiv.org/abs/2304.14321v1)|null|
-|**2023-04-27**|**Large Language Models are Strong Zero-Shot Retriever**|Tao Shen et.al.|[2304.14233v1](http://arxiv.org/abs/2304.14233v1)|null|
-|**2023-04-27**|**Deeply-Coupled Convolution-Transformer with Spatial-temporal Complementary Learning for Video-based Person Re-identification**|Xuehu Liu et.al.|[2304.14122v1](http://arxiv.org/abs/2304.14122v1)|null|
-|**2023-04-27**|**Prediction then Correction: An Abductive Prediction Correction Method for Sequential Recommendation**|Yulong Huang et.al.|[2304.14050v1](http://arxiv.org/abs/2304.14050v1)|null|
-|**2023-04-27**|**Boosting Big Brother: Attacking Search Engines with Encodings**|Nicholas Boucher et.al.|[2304.14031v1](http://arxiv.org/abs/2304.14031v1)|[link](https://github.com/nickboucher/search-engine-attacks)|
-|**2023-04-27**|**Towards Explainable Collaborative Filtering with Taste Clusters Learning**|Yuntao Du et.al.|[2304.13937v1](http://arxiv.org/abs/2304.13937v1)|[link](https://github.com/zealscott/ecf)|
-|**2023-04-27**|**Retrieval-based Knowledge Augmented Vision Language Pre-training**|Jiahua Rao et.al.|[2304.13923v1](http://arxiv.org/abs/2304.13923v1)|null|
-|**2023-04-27**|**Federated Prompting and Chain-of-Thought Reasoning for Improving LLMs Answering**|Xiangyang Liu et.al.|[2304.13911v1](http://arxiv.org/abs/2304.13911v1)|null|
-|**2023-04-27**|**Improving the Quality of Commit Messages in Students' Projects**|Iris Ma et.al.|[2304.13887v1](http://arxiv.org/abs/2304.13887v1)|null|
-|**2023-04-27**|**Neural Keyphrase Generation: Analysis and Evaluation**|Tuhin Kundu et.al.|[2304.13883v1](http://arxiv.org/abs/2304.13883v1)|null|
-|**2023-04-26**|**Exploiting Simulated User Feedback for Conversational Search: Ranking, Rewriting, and Beyond**|Paul Owoicho et.al.|[2304.13874v1](http://arxiv.org/abs/2304.13874v1)|[link](https://github.com/grill-lab/convsim)|
-|**2023-04-26**|**Cross-Examination of Photoinitiated Carrier and Structural Dynamics of Black Phosphorus at Elevated Fluences**|Mazhar Chebl et.al.|[2304.13869v1](http://arxiv.org/abs/2304.13869v1)|null|
-|**2023-04-26**|**Multimodal Composite Association Score: Measuring Gender Bias in Generative Multimodal Models**|Abhishek Mandal et.al.|[2304.13855v1](http://arxiv.org/abs/2304.13855v1)|null|
-|**2023-04-26**|**Understand the Dynamic World: An End-to-End Knowledge Informed Framework for Open Domain Entity State Tracking**|Mingchen Li et.al.|[2304.13854v1](http://arxiv.org/abs/2304.13854v1)|null|
-|**2023-04-26**|**A review of ptychographic techniques for ultrashort pulse measurement**|Daniel J Kane et.al.|[2304.13847v1](http://arxiv.org/abs/2304.13847v1)|null|
-|**2023-04-26**|**Extracting Structured Seed-Mediated Gold Nanorod Growth Procedures from Literature with GPT-3**|Nicholas Walker et.al.|[2304.13846v1](http://arxiv.org/abs/2304.13846v1)|null|
-|**2023-04-26**|**Latent Fingerprint Recognition: Fusion of Local and Global Embeddings**|Steven A. Grosz et.al.|[2304.13800v1](http://arxiv.org/abs/2304.13800v1)|null|
-|**2023-04-26**|**Evaluation of GPT-3.5 and GPT-4 for supporting real-world information needs in healthcare delivery**|Debadutta Dash et.al.|[2304.13714v1](http://arxiv.org/abs/2304.13714v1)|null|
-|**2023-04-26**|**Hopfield model with planted patterns: a teacher-student self-supervised learning model**|Francesco Alemanno et.al.|[2304.13710v1](http://arxiv.org/abs/2304.13710v1)|null|
-|**2023-04-26**|**Building K-Anonymous User Cohorts with\\ Consecutive Consistent Weighted Sampling (CCWS)**|Xinyi Zheng et.al.|[2304.13677v1](http://arxiv.org/abs/2304.13677v1)|null|
-|**2023-04-26**|**A Personalized Dense Retrieval Framework for Unified Information Access**|Hansi Zeng et.al.|[2304.13654v1](http://arxiv.org/abs/2304.13654v1)|[link](https://github.com/hansizeng/uia)|
-|**2023-04-26**|**A Symmetric Dual Encoding Dense Retrieval Framework for Knowledge-Intensive Visual Question Answering**|Alireza Salemi et.al.|[2304.13649v1](http://arxiv.org/abs/2304.13649v1)|[link](https://github.com/alirezasalemi7/dedr-mm-fid)|
-|**2023-04-26**|**Coset space dimensional reduction of Yang-Mills theory on non-compact symmetric spaces**|Mahir Ertürk et.al.|[2304.13645v1](http://arxiv.org/abs/2304.13645v1)|null|
-|**2023-04-26**|**Reformulating CTR Prediction: Learning Invariant Feature Interactions for Recommendation**|Yang Zhang et.al.|[2304.13643v1](http://arxiv.org/abs/2304.13643v1)|[link](https://github.com/zyang1580/dil)|
-|**2023-04-26**|**SIMARA: a database for key-value information extraction from full pages**|Solène Tarride et.al.|[2304.13606v1](http://arxiv.org/abs/2304.13606v1)|null|
 
 ## Multi-modal
 
