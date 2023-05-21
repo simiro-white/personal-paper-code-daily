@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-05-21 20:29:53 Asia/Shanghai
+ Automated deployment @ 2023-05-21 20:51:48 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -67,73 +67,39 @@
 |**2023-05-16**|**torchosr -- a PyTorch extension package for Open Set Recognition models evaluation in Python**|Joanna Komorniczak et.al.|[2305.09646v1](http://arxiv.org/abs/2305.09646v1)|null|
 |**2023-05-16**|**Chiral perturbation theory of the hyperfine splitting in (muonic) hydrogen**|Franziska Hagelstein et.al.|[2305.09633v1](http://arxiv.org/abs/2305.09633v1)|null|
 
-### Retrieval
+### Attribute
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-05-18**|**ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities**|Peng Wang et.al.|[2305.11172v1](http://arxiv.org/abs/2305.11172v1)|[link](https://github.com/OFA-Sys/ONE-PEACE)|
 |**2023-05-18**|**Exploring the Carbon Footprint of Hugging Face's ML Models: A Repository Mining Study**|Joel Castaño et.al.|[2305.11164v1](http://arxiv.org/abs/2305.11164v1)|null|
-|**2023-05-18**|**TOME: A Two-stage Approach for Model-based Retrieval**|Ruiyang Ren et.al.|[2305.11161v1](http://arxiv.org/abs/2305.11161v1)|null|
-|**2023-05-18**|**Preference or Intent? Double Disentangled Collaborative Filtering**|Chao Wang et.al.|[2305.11084v1](http://arxiv.org/abs/2305.11084v1)|null|
-|**2023-05-18**|**Contrastive State Augmentations for Reinforcement Learning-Based Recommender Systems**|Zhaochun Ren et.al.|[2305.11081v1](http://arxiv.org/abs/2305.11081v1)|[link](https://github.com/hn-rs/csa)|
-|**2023-05-18**|**Tram: A Token-level Retrieval-augmented Mechanism for Source Code Summarization**|Tong Ye et.al.|[2305.11074v1](http://arxiv.org/abs/2305.11074v1)|null|
-|**2023-05-18**|**A spectroscopic thermometer: individual vibrational band spectroscopy with the example of OH in the atmosphere of WASP-33b**|Sam O. M. Wright et.al.|[2305.11071v1](http://arxiv.org/abs/2305.11071v1)|null|
+|**2023-05-18**|**A continuum contact model for anisotropic friction between graphene sheets accounting for surface anisotropy and curvature**|Aningi Mokhalingam et.al.|[2305.11121v1](http://arxiv.org/abs/2305.11121v1)|null|
+|**2023-05-18**|**LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation**|Yujie Lu et.al.|[2305.11116v1](http://arxiv.org/abs/2305.11116v1)|[link](https://github.com/yujielu10/llmscore)|
 |**2023-05-18**|**PETAL: Physics Emulation Through Averaged Linearizations for Solving Inverse Problems**|Jihui Jin et.al.|[2305.11056v1](http://arxiv.org/abs/2305.11056v1)|null|
-|**2023-05-18**|**BERM: Training the Balanced and Extractable Representation for Matching to Improve Generalization Ability of Dense Retrieval**|Shicheng Xu et.al.|[2305.11052v1](http://arxiv.org/abs/2305.11052v1)|null|
-|**2023-05-18**|**Improving Recommendation System Serendipity Through Lexicase Selection**|Ryan Boldi et.al.|[2305.11044v1](http://arxiv.org/abs/2305.11044v1)|null|
-|**2023-05-18**|**The Web Can Be Your Oyster for Improving Large Language Models**|Junyi Li et.al.|[2305.10998v1](http://arxiv.org/abs/2305.10998v1)|null|
 |**2023-05-18**|**SPENSER: Towards a NeuroEvolutionary Approach for Convolutional Spiking Neural Networks**|Henrique Branquinho et.al.|[2305.10987v1](http://arxiv.org/abs/2305.10987v1)|[link](https://github.com/henriquejsb/spenser)|
-|**2023-05-18**|**Query Performance Prediction: From Ad-hoc to Conversational Search**|Chuan Meng et.al.|[2305.10923v1](http://arxiv.org/abs/2305.10923v1)|[link](https://github.com/chuanmeng/qpp4cs)|
-|**2023-05-18**|**Advancing Full-Text Search Lemmatization Techniques with Paradigm Retrieval from OpenCorpora**|Dmitriy Kalugin-Balashov et.al.|[2305.10848v1](http://arxiv.org/abs/2305.10848v1)|null|
-|**2023-05-18**|**Adaptive Graph Contrastive Learning for Recommendation**|Yangqin Jiang et.al.|[2305.10837v1](http://arxiv.org/abs/2305.10837v1)|[link](https://github.com/zzmeei/adaptivegcl)|
-|**2023-05-18**|**Integrating Item Relevance in Training Loss for Sequential Recommender Systems**|Andrea Bacciu et.al.|[2305.10824v1](http://arxiv.org/abs/2305.10824v1)|null|
-|**2023-05-18**|**When Search Meets Recommendation: Learning Disentangled Search Representation for Recommendation**|Zihua Si et.al.|[2305.10822v1](http://arxiv.org/abs/2305.10822v1)|[link](https://github.com/ethan00si/sesrec-sigir-2023)|
+|**2023-05-18**|**Learning Activation Functions for Sparse Neural Networks**|Mohammad Loni et.al.|[2305.10964v1](http://arxiv.org/abs/2305.10964v1)|null|
+|**2023-05-18**|**In Defense of Pure 16-bit Floating-Point Neural Networks**|Juyoung Yun et.al.|[2305.10947v1](http://arxiv.org/abs/2305.10947v1)|null|
+|**2023-05-18**|**A Multi-Wavelength Investigation of Dust and Stellar Mass Distributions in Galaxies: Insights from High-Resolution JWST Imaging**|Zhaoran Liu et.al.|[2305.10944v1](http://arxiv.org/abs/2305.10944v1)|null|
+|**2023-05-18**|**RobustFair: Adversarial Evaluation through Fairness Confusion Directed Gradient Search**|Xuran Li et.al.|[2305.10906v1](http://arxiv.org/abs/2305.10906v1)|null|
+|**2023-05-18**|**Free Lunch for Privacy Preserving Distributed Graph Learning**|Nimesh Agrawal et.al.|[2305.10869v1](http://arxiv.org/abs/2305.10869v1)|null|
+|**2023-05-18**|**TEPrompt: Task Enlightenment Prompt Learning for Implicit Discourse Relation Recognition**|Wei Xiang et.al.|[2305.10866v1](http://arxiv.org/abs/2305.10866v1)|[link](https://github.com/hustminslab/teprompt)|
+|**2023-05-18**|**Dissecting the RELICS cluster SPT-CLJ0615-5746 through the intracluster light: confirmation of the multiple merging state of the cluster formation**|Y. Jiménez-Teja et.al.|[2305.10860v1](http://arxiv.org/abs/2305.10860v1)|null|
 |**2023-05-18**|**Prevalence of stability for smooth Blaschke product cocycles fixing the origin**|Cecilia González-Tokman et.al.|[2305.10774v1](http://arxiv.org/abs/2305.10774v1)|null|
-|**2023-05-18**|**Seq-HGNN: Learning Sequential Node Representation on Heterogeneous Graph**|Chenguang Du et.al.|[2305.10771v1](http://arxiv.org/abs/2305.10771v1)|[link](https://github.com/nobrowning/seq_hgnn)|
-|**2023-05-18**|**ReGen: Zero-Shot Text Classification via Training Data Generation with Progressive Dense Retrieval**|Yue Yu et.al.|[2305.10703v1](http://arxiv.org/abs/2305.10703v1)|[link](https://github.com/yueyu1030/ReGen)|
-|**2023-05-18**|**Ranking the locations and predicting future crime occurrence by retrieving news from different Bangla online newspapers**|Jumman Hossain et.al.|[2305.10698v1](http://arxiv.org/abs/2305.10698v1)|null|
-|**2023-05-18**|**BioAug: Conditional Generation based Data Augmentation for Low-Resource Biomedical NER**|Sreyan Ghosh et.al.|[2305.10647v1](http://arxiv.org/abs/2305.10647v1)|[link](https://github.com/Sreyan88/BioAug)|
-|**2023-05-17**|**A Better Way to Do Masked Language Model Scoring**|Carina Kauf et.al.|[2305.10588v1](http://arxiv.org/abs/2305.10588v1)|[link](https://github.com/carina-kauf/better-mlm-scoring)|
-|**2023-05-17**|**Iteratively Learning Representations for Unseen Entities with Inter-Rule Correlations**|Zihan Wang et.al.|[2305.10531v1](http://arxiv.org/abs/2305.10531v1)|null|
-|**2023-05-17**|**CLIP-GCD: Simple Language Guided Generalized Category Discovery**|Rabah Ouldnoughi et.al.|[2305.10420v1](http://arxiv.org/abs/2305.10420v1)|null|
-|**2023-05-17**|**Large-Scale Text Analysis Using Generative Language Models: A Case Study in Discovering Public Value Expressions in AI Patents**|Sergio Pelaez et.al.|[2305.10383v2](http://arxiv.org/abs/2305.10383v2)|null|
+|**2023-05-18**|**Discriminative Diffusion Models as Few-shot Vision and Language Learners**|Xuehai He et.al.|[2305.10722v1](http://arxiv.org/abs/2305.10722v1)|null|
+|**2023-05-18**|**Wall cooling effect on spectra and structures of thermodynamic variables in hypersonic turbulent boundary layers**|Dehao Xu et.al.|[2305.10705v1](http://arxiv.org/abs/2305.10705v1)|null|
+|**2023-05-18**|**Use of Speech Impairment Severity for Dysarthric Speech Recognition**|Mengzhe Geng et.al.|[2305.10659v1](http://arxiv.org/abs/2305.10659v1)|null|
+|**2023-05-17**|**Node Attribute Prediction on Multilayer Networks with Weighted and Directed Edges**|Yiguang Zhang et.al.|[2305.10527v1](http://arxiv.org/abs/2305.10527v1)|[link](https://github.com/facebookresearch/linkextension)|
+|**2023-05-17**|**Incorporating Attribution Importance for Improving Faithfulness Metrics**|Zhixue Zhao et.al.|[2305.10496v1](http://arxiv.org/abs/2305.10496v1)|[link](https://github.com/casszhao/softfaith)|
 |**2023-05-17**|**From Region to Patch: Attribute-Aware Foreground-Background Contrastive Learning for Fine-Grained Fashion Retrieval**|Jianfeng Dong et.al.|[2305.10260v1](http://arxiv.org/abs/2305.10260v1)|[link](https://github.com/huiguanlab/rpf)|
-|**2023-05-17**|**Testing 2D temperature models in Bayesian retrievals of atmospheric properties from hot Jupiter phase curves**|Jingxuan Yang et.al.|[2305.10249v1](http://arxiv.org/abs/2305.10249v1)|null|
-|**2023-05-17**|**Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations**|Yang Deng et.al.|[2305.10172v1](http://arxiv.org/abs/2305.10172v1)|null|
-|**2023-05-17**|**Qualifying Chinese Medical Licensing Examination with Knowledge Enhanced Generative Pre-training Model**|Jiageng Wu et.al.|[2305.10163v1](http://arxiv.org/abs/2305.10163v1)|null|
-
-### General
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-05-15**|**TAA-GCN: A Temporally Aware Adaptive Graph Convolutional Network for Age Estimation**|Matthew Korban et.al.|[2305.08779v1](http://arxiv.org/abs/2305.08779v1)|null|
-|**2023-05-12**|**A Virtual Reality Framework for Human-Robot Collaboration in Cloth Folding**|Marco Moletta et.al.|[2305.07493v1](http://arxiv.org/abs/2305.07493v1)|null|
-|**2023-05-10**|**Clothes-Invariant Feature Learning by Causal Intervention for Clothes-Changing Person Re-identification**|Xulin Li et.al.|[2305.06145v1](http://arxiv.org/abs/2305.06145v1)|null|
-|**2023-05-09**|**Fashion CUT: Unsupervised domain adaptation for visual pattern classification in clothes using synthetic data and pseudo-labels**|Enric Moreu et.al.|[2305.05580v1](http://arxiv.org/abs/2305.05580v1)|null|
-|**2023-05-09**|**EFE: End-to-end Frame-to-Gaze Estimation**|Haldun Balim et.al.|[2305.05526v1](http://arxiv.org/abs/2305.05526v1)|null|
-|**2023-05-08**|**FashionTex: Controllable Virtual Try-on with Text and Texture**|Anran Lin et.al.|[2305.04451v1](http://arxiv.org/abs/2305.04451v1)|null|
-|**2023-05-07**|**Data Efficient Training with Imbalanced Label Sample Distribution for Fashion Detection**|Xin Shen et.al.|[2305.04379v3](http://arxiv.org/abs/2305.04379v3)|null|
-|**2023-05-05**|**Data-Free Learning of Reduced-Order Kinematics**|Nicholas Sharp et.al.|[2305.03846v1](http://arxiv.org/abs/2305.03846v1)|[link](https://github.com/nmwsharp/neural-physics-subspaces)|
-|**2023-05-05**|**Clothes Grasping and Unfolding Based on RGB-D Semantic Segmentation**|Xingyu Zhu et.al.|[2305.03259v2](http://arxiv.org/abs/2305.03259v2)|null|
-|**2023-05-04**|**Controllable Visual-Tactile Synthesis**|Ruihan Gao et.al.|[2305.03051v1](http://arxiv.org/abs/2305.03051v1)|[link](https://github.com/ruihangao/visual-tactile-synthesis)|
-|**2023-05-03**|**AG3D: Learning to Generate 3D Avatars from 2D Image Collections**|Zijian Dong et.al.|[2305.02312v1](http://arxiv.org/abs/2305.02312v1)|null|
-|**2023-05-02**|**DreamPaint: Few-Shot Inpainting of E-Commerce Items for Virtual Try-On without 3D Modeling**|Mehmet Saygin Seyfioglu et.al.|[2305.01257v1](http://arxiv.org/abs/2305.01257v1)|null|
-|**2023-04-21**|**Fooling Thermal Infrared Detectors in Physical World**|Chengyin Hu et.al.|[2304.10712v1](http://arxiv.org/abs/2304.10712v1)|null|
-|**2023-04-17**|**DETR-based Layered Clothing Segmentation and Fine-Grained Attribute Recognition**|Hao Tian et.al.|[2304.08107v1](http://arxiv.org/abs/2304.08107v1)|null|
-|**2023-04-17**|**Transformer-based Graph Neural Networks for Outfit Generation**|Federico Becattini et.al.|[2304.08098v1](http://arxiv.org/abs/2304.08098v1)|null|
-|**2023-04-16**|**GaitRef: Gait Recognition with Refined Sequential Skeletons**|Haidong Zhu et.al.|[2304.07916v1](http://arxiv.org/abs/2304.07916v1)|[link](https://github.com/haidongz-usc/GaitRef)|
-|**2023-04-14**|**Shape of You: Precise 3D shape estimations for diverse body types**|Rohan Sarkar et.al.|[2304.07389v1](http://arxiv.org/abs/2304.07389v1)|null|
-|**2023-04-12**|**DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion**|Johanna Karras et.al.|[2304.06025v3](http://arxiv.org/abs/2304.06025v3)|null|
-|**2023-04-11**|**HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models**|Eslam Mohamed Bakr et.al.|[2304.05390v1](http://arxiv.org/abs/2304.05390v1)|[link](https://github.com/eslambakr/HRS_benchmark)|
-|**2023-04-10**|**Robust Body Exposure (RoBE): A Graph-based Dynamics Modeling Approach to Manipulating Blankets over People**|Kavya Puthuveetil et.al.|[2304.04822v1](http://arxiv.org/abs/2304.04822v1)|null|
-|**2023-04-10**|**Identity-Guided Collaborative Learning for Cloth-Changing Person Reidentification**|Zan Gao et.al.|[2304.04400v1](http://arxiv.org/abs/2304.04400v1)|null|
-|**2023-04-08**|**High-Fidelity Clothed Avatar Reconstruction from a Single Image**|Tingting Liao et.al.|[2304.03903v1](http://arxiv.org/abs/2304.03903v1)|[link](https://github.com/tingtingliao/car)|
-|**2023-04-07**|**Bridging Action Space Mismatch in Learning from Demonstrations**|Gautam Salhotra et.al.|[2304.03833v1](http://arxiv.org/abs/2304.03833v1)|null|
-|**2023-04-07**|**Applicable Methodologies for the Mass Transfer Phenomenon in Tumble Dryers: A Review**|Sajad Salavatidezfouli et.al.|[2304.03533v1](http://arxiv.org/abs/2304.03533v1)|null|
-|**2023-04-07**|**Multi-Layered Unseen Garments Draping Network**|Dohae Lee et.al.|[2304.03492v1](http://arxiv.org/abs/2304.03492v1)|null|
-|**2023-04-06**|**DiffMimic: Efficient Motion Mimicking with Differentiable Physics**|Jiawei Ren et.al.|[2304.03274v2](http://arxiv.org/abs/2304.03274v2)|[link](https://github.com/jiawei-ren/diffmimic)|
-|**2023-04-06**|**CloSET: Modeling Clothed Humans on Continuous Surface with Explicit Template Decomposition**|Hongwen Zhang et.al.|[2304.03167v1](http://arxiv.org/abs/2304.03167v1)|null|
-|**2023-04-05**|**Dynamic Point Fields**|Sergey Prokudin et.al.|[2304.02626v2](http://arxiv.org/abs/2304.02626v2)|null|
-|**2023-04-04**|**Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing**|Alberto Baldrati et.al.|[2304.02051v1](http://arxiv.org/abs/2304.02051v1)|[link](https://github.com/aimagelab/multimodal-garment-designer)|
-|**2023-04-03**|**Bringing Telepresence to Every Desk**|Shengze Wang et.al.|[2304.01197v1](http://arxiv.org/abs/2304.01197v1)|null|
+|**2023-05-17**|**Shielded Representations: Protecting Sensitive Attributes Through Iterative Gradient-Based Projection**|Shadi Iskander et.al.|[2305.10204v1](http://arxiv.org/abs/2305.10204v1)|[link](https://github.com/technion-cs-nlp/igbp_nonlinear-removal)|
+|**2023-05-17**|**Synthesis of stable cerium oxide nanoparticles coated with phosphonic acid-based functional polymers**|Ameni Dhouib et.al.|[2305.10179v1](http://arxiv.org/abs/2305.10179v1)|null|
+|**2023-05-17**|**Multi-Grained Knowledge Retrieval for End-to-End Task-Oriented Dialog**|Fanqi Wan et.al.|[2305.10149v1](http://arxiv.org/abs/2305.10149v1)|[link](https://github.com/18907305772/maker)|
+|**2023-05-17**|**White dwarf cooling in $f(R,T)$ gravity**|Snehasish Bhattacharjee et.al.|[2305.10144v1](http://arxiv.org/abs/2305.10144v1)|null|
+|**2023-05-17**|**Controllable Mind Visual Diffusion Model**|Bohan Zeng et.al.|[2305.10135v2](http://arxiv.org/abs/2305.10135v2)|null|
+|**2023-05-17**|**Bridging the Gap: Enhancing the Utility of Synthetic Data via Post-Processing Techniques**|Andrea Lampis et.al.|[2305.10118v1](http://arxiv.org/abs/2305.10118v1)|null|
+|**2023-05-17**|**Emergence of superconductivity in single-crystalline LaFeAsO under simultaneous Sm and P substitution**|Nikolai D. Zhigadlo et.al.|[2305.10034v1](http://arxiv.org/abs/2305.10034v1)|null|
+|**2023-05-17**|**A Survey on Causal Discovery: Theory and Practice**|Alessio Zanga et.al.|[2305.10032v1](http://arxiv.org/abs/2305.10032v1)|null|
+|**2023-05-17**|**AD-KD: Attribution-Driven Knowledge Distillation for Language Model Compression**|Siyue Wu et.al.|[2305.10010v1](http://arxiv.org/abs/2305.10010v1)|[link](https://github.com/brucewsy/ad-kd)|
+|**2023-05-17**|**Dual Semantic Knowledge Composed Multimodal Dialog Systems**|Xiaolin Chen et.al.|[2305.09990v1](http://arxiv.org/abs/2305.09990v1)|null|
+|**2023-05-17**|**LPMM: Intuitive Pose Control for Neural Talking-Head Model via Landmark-Parameter Morphable Model**|Kwangho Lee et.al.|[2305.10456v1](http://arxiv.org/abs/2305.10456v1)|null|
 
 ### Recommendation
 |Publish Date|Title|Authors|PDF|Code|
@@ -169,39 +135,73 @@
 |**2023-05-16**|**Mirages: On Anthropomorphism in Dialogue Systems**|Gavin Abercrombie et.al.|[2305.09800v1](http://arxiv.org/abs/2305.09800v1)|null|
 |**2023-05-16**|**CQural: A Novel CNN based Hybrid Architecture for Quantum Continual Machine Learning**|Sanyam Jain et.al.|[2305.09738v1](http://arxiv.org/abs/2305.09738v1)|[link](https://github.com/s4nyam/cqural)|
 
-### Attribute
+### General
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-15**|**TAA-GCN: A Temporally Aware Adaptive Graph Convolutional Network for Age Estimation**|Matthew Korban et.al.|[2305.08779v1](http://arxiv.org/abs/2305.08779v1)|null|
+|**2023-05-12**|**A Virtual Reality Framework for Human-Robot Collaboration in Cloth Folding**|Marco Moletta et.al.|[2305.07493v1](http://arxiv.org/abs/2305.07493v1)|null|
+|**2023-05-10**|**Clothes-Invariant Feature Learning by Causal Intervention for Clothes-Changing Person Re-identification**|Xulin Li et.al.|[2305.06145v1](http://arxiv.org/abs/2305.06145v1)|null|
+|**2023-05-09**|**Fashion CUT: Unsupervised domain adaptation for visual pattern classification in clothes using synthetic data and pseudo-labels**|Enric Moreu et.al.|[2305.05580v1](http://arxiv.org/abs/2305.05580v1)|null|
+|**2023-05-09**|**EFE: End-to-end Frame-to-Gaze Estimation**|Haldun Balim et.al.|[2305.05526v1](http://arxiv.org/abs/2305.05526v1)|null|
+|**2023-05-08**|**FashionTex: Controllable Virtual Try-on with Text and Texture**|Anran Lin et.al.|[2305.04451v1](http://arxiv.org/abs/2305.04451v1)|null|
+|**2023-05-07**|**Data Efficient Training with Imbalanced Label Sample Distribution for Fashion Detection**|Xin Shen et.al.|[2305.04379v3](http://arxiv.org/abs/2305.04379v3)|null|
+|**2023-05-05**|**Data-Free Learning of Reduced-Order Kinematics**|Nicholas Sharp et.al.|[2305.03846v1](http://arxiv.org/abs/2305.03846v1)|[link](https://github.com/nmwsharp/neural-physics-subspaces)|
+|**2023-05-05**|**Clothes Grasping and Unfolding Based on RGB-D Semantic Segmentation**|Xingyu Zhu et.al.|[2305.03259v2](http://arxiv.org/abs/2305.03259v2)|null|
+|**2023-05-04**|**Controllable Visual-Tactile Synthesis**|Ruihan Gao et.al.|[2305.03051v1](http://arxiv.org/abs/2305.03051v1)|[link](https://github.com/ruihangao/visual-tactile-synthesis)|
+|**2023-05-03**|**AG3D: Learning to Generate 3D Avatars from 2D Image Collections**|Zijian Dong et.al.|[2305.02312v1](http://arxiv.org/abs/2305.02312v1)|null|
+|**2023-05-02**|**DreamPaint: Few-Shot Inpainting of E-Commerce Items for Virtual Try-On without 3D Modeling**|Mehmet Saygin Seyfioglu et.al.|[2305.01257v1](http://arxiv.org/abs/2305.01257v1)|null|
+|**2023-04-21**|**Fooling Thermal Infrared Detectors in Physical World**|Chengyin Hu et.al.|[2304.10712v1](http://arxiv.org/abs/2304.10712v1)|null|
+|**2023-04-17**|**DETR-based Layered Clothing Segmentation and Fine-Grained Attribute Recognition**|Hao Tian et.al.|[2304.08107v1](http://arxiv.org/abs/2304.08107v1)|null|
+|**2023-04-17**|**Transformer-based Graph Neural Networks for Outfit Generation**|Federico Becattini et.al.|[2304.08098v1](http://arxiv.org/abs/2304.08098v1)|null|
+|**2023-04-16**|**GaitRef: Gait Recognition with Refined Sequential Skeletons**|Haidong Zhu et.al.|[2304.07916v1](http://arxiv.org/abs/2304.07916v1)|[link](https://github.com/haidongz-usc/GaitRef)|
+|**2023-04-14**|**Shape of You: Precise 3D shape estimations for diverse body types**|Rohan Sarkar et.al.|[2304.07389v1](http://arxiv.org/abs/2304.07389v1)|null|
+|**2023-04-12**|**DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion**|Johanna Karras et.al.|[2304.06025v3](http://arxiv.org/abs/2304.06025v3)|null|
+|**2023-04-11**|**HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models**|Eslam Mohamed Bakr et.al.|[2304.05390v1](http://arxiv.org/abs/2304.05390v1)|[link](https://github.com/eslambakr/HRS_benchmark)|
+|**2023-04-10**|**Robust Body Exposure (RoBE): A Graph-based Dynamics Modeling Approach to Manipulating Blankets over People**|Kavya Puthuveetil et.al.|[2304.04822v1](http://arxiv.org/abs/2304.04822v1)|null|
+|**2023-04-10**|**Identity-Guided Collaborative Learning for Cloth-Changing Person Reidentification**|Zan Gao et.al.|[2304.04400v1](http://arxiv.org/abs/2304.04400v1)|null|
+|**2023-04-08**|**High-Fidelity Clothed Avatar Reconstruction from a Single Image**|Tingting Liao et.al.|[2304.03903v1](http://arxiv.org/abs/2304.03903v1)|[link](https://github.com/tingtingliao/car)|
+|**2023-04-07**|**Bridging Action Space Mismatch in Learning from Demonstrations**|Gautam Salhotra et.al.|[2304.03833v1](http://arxiv.org/abs/2304.03833v1)|null|
+|**2023-04-07**|**Applicable Methodologies for the Mass Transfer Phenomenon in Tumble Dryers: A Review**|Sajad Salavatidezfouli et.al.|[2304.03533v1](http://arxiv.org/abs/2304.03533v1)|null|
+|**2023-04-07**|**Multi-Layered Unseen Garments Draping Network**|Dohae Lee et.al.|[2304.03492v1](http://arxiv.org/abs/2304.03492v1)|null|
+|**2023-04-06**|**DiffMimic: Efficient Motion Mimicking with Differentiable Physics**|Jiawei Ren et.al.|[2304.03274v2](http://arxiv.org/abs/2304.03274v2)|[link](https://github.com/jiawei-ren/diffmimic)|
+|**2023-04-06**|**CloSET: Modeling Clothed Humans on Continuous Surface with Explicit Template Decomposition**|Hongwen Zhang et.al.|[2304.03167v1](http://arxiv.org/abs/2304.03167v1)|null|
+|**2023-04-05**|**Dynamic Point Fields**|Sergey Prokudin et.al.|[2304.02626v2](http://arxiv.org/abs/2304.02626v2)|null|
+|**2023-04-04**|**Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing**|Alberto Baldrati et.al.|[2304.02051v1](http://arxiv.org/abs/2304.02051v1)|[link](https://github.com/aimagelab/multimodal-garment-designer)|
+|**2023-04-03**|**Bringing Telepresence to Every Desk**|Shengze Wang et.al.|[2304.01197v1](http://arxiv.org/abs/2304.01197v1)|null|
+
+### Retrieval
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-05-18**|**ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities**|Peng Wang et.al.|[2305.11172v1](http://arxiv.org/abs/2305.11172v1)|[link](https://github.com/OFA-Sys/ONE-PEACE)|
 |**2023-05-18**|**Exploring the Carbon Footprint of Hugging Face's ML Models: A Repository Mining Study**|Joel Castaño et.al.|[2305.11164v1](http://arxiv.org/abs/2305.11164v1)|null|
-|**2023-05-18**|**A continuum contact model for anisotropic friction between graphene sheets accounting for surface anisotropy and curvature**|Aningi Mokhalingam et.al.|[2305.11121v1](http://arxiv.org/abs/2305.11121v1)|null|
-|**2023-05-18**|**LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation**|Yujie Lu et.al.|[2305.11116v1](http://arxiv.org/abs/2305.11116v1)|[link](https://github.com/yujielu10/llmscore)|
+|**2023-05-18**|**TOME: A Two-stage Approach for Model-based Retrieval**|Ruiyang Ren et.al.|[2305.11161v1](http://arxiv.org/abs/2305.11161v1)|null|
+|**2023-05-18**|**Preference or Intent? Double Disentangled Collaborative Filtering**|Chao Wang et.al.|[2305.11084v1](http://arxiv.org/abs/2305.11084v1)|null|
+|**2023-05-18**|**Contrastive State Augmentations for Reinforcement Learning-Based Recommender Systems**|Zhaochun Ren et.al.|[2305.11081v1](http://arxiv.org/abs/2305.11081v1)|[link](https://github.com/hn-rs/csa)|
+|**2023-05-18**|**Tram: A Token-level Retrieval-augmented Mechanism for Source Code Summarization**|Tong Ye et.al.|[2305.11074v1](http://arxiv.org/abs/2305.11074v1)|null|
+|**2023-05-18**|**A spectroscopic thermometer: individual vibrational band spectroscopy with the example of OH in the atmosphere of WASP-33b**|Sam O. M. Wright et.al.|[2305.11071v1](http://arxiv.org/abs/2305.11071v1)|null|
 |**2023-05-18**|**PETAL: Physics Emulation Through Averaged Linearizations for Solving Inverse Problems**|Jihui Jin et.al.|[2305.11056v1](http://arxiv.org/abs/2305.11056v1)|null|
+|**2023-05-18**|**BERM: Training the Balanced and Extractable Representation for Matching to Improve Generalization Ability of Dense Retrieval**|Shicheng Xu et.al.|[2305.11052v1](http://arxiv.org/abs/2305.11052v1)|null|
+|**2023-05-18**|**Improving Recommendation System Serendipity Through Lexicase Selection**|Ryan Boldi et.al.|[2305.11044v1](http://arxiv.org/abs/2305.11044v1)|null|
+|**2023-05-18**|**The Web Can Be Your Oyster for Improving Large Language Models**|Junyi Li et.al.|[2305.10998v1](http://arxiv.org/abs/2305.10998v1)|null|
 |**2023-05-18**|**SPENSER: Towards a NeuroEvolutionary Approach for Convolutional Spiking Neural Networks**|Henrique Branquinho et.al.|[2305.10987v1](http://arxiv.org/abs/2305.10987v1)|[link](https://github.com/henriquejsb/spenser)|
-|**2023-05-18**|**Learning Activation Functions for Sparse Neural Networks**|Mohammad Loni et.al.|[2305.10964v1](http://arxiv.org/abs/2305.10964v1)|null|
-|**2023-05-18**|**In Defense of Pure 16-bit Floating-Point Neural Networks**|Juyoung Yun et.al.|[2305.10947v1](http://arxiv.org/abs/2305.10947v1)|null|
-|**2023-05-18**|**A Multi-Wavelength Investigation of Dust and Stellar Mass Distributions in Galaxies: Insights from High-Resolution JWST Imaging**|Zhaoran Liu et.al.|[2305.10944v1](http://arxiv.org/abs/2305.10944v1)|null|
-|**2023-05-18**|**RobustFair: Adversarial Evaluation through Fairness Confusion Directed Gradient Search**|Xuran Li et.al.|[2305.10906v1](http://arxiv.org/abs/2305.10906v1)|null|
-|**2023-05-18**|**Free Lunch for Privacy Preserving Distributed Graph Learning**|Nimesh Agrawal et.al.|[2305.10869v1](http://arxiv.org/abs/2305.10869v1)|null|
-|**2023-05-18**|**TEPrompt: Task Enlightenment Prompt Learning for Implicit Discourse Relation Recognition**|Wei Xiang et.al.|[2305.10866v1](http://arxiv.org/abs/2305.10866v1)|[link](https://github.com/hustminslab/teprompt)|
-|**2023-05-18**|**Dissecting the RELICS cluster SPT-CLJ0615-5746 through the intracluster light: confirmation of the multiple merging state of the cluster formation**|Y. Jiménez-Teja et.al.|[2305.10860v1](http://arxiv.org/abs/2305.10860v1)|null|
+|**2023-05-18**|**Query Performance Prediction: From Ad-hoc to Conversational Search**|Chuan Meng et.al.|[2305.10923v1](http://arxiv.org/abs/2305.10923v1)|[link](https://github.com/chuanmeng/qpp4cs)|
+|**2023-05-18**|**Advancing Full-Text Search Lemmatization Techniques with Paradigm Retrieval from OpenCorpora**|Dmitriy Kalugin-Balashov et.al.|[2305.10848v1](http://arxiv.org/abs/2305.10848v1)|null|
+|**2023-05-18**|**Adaptive Graph Contrastive Learning for Recommendation**|Yangqin Jiang et.al.|[2305.10837v1](http://arxiv.org/abs/2305.10837v1)|[link](https://github.com/zzmeei/adaptivegcl)|
+|**2023-05-18**|**Integrating Item Relevance in Training Loss for Sequential Recommender Systems**|Andrea Bacciu et.al.|[2305.10824v1](http://arxiv.org/abs/2305.10824v1)|null|
+|**2023-05-18**|**When Search Meets Recommendation: Learning Disentangled Search Representation for Recommendation**|Zihua Si et.al.|[2305.10822v1](http://arxiv.org/abs/2305.10822v1)|[link](https://github.com/ethan00si/sesrec-sigir-2023)|
 |**2023-05-18**|**Prevalence of stability for smooth Blaschke product cocycles fixing the origin**|Cecilia González-Tokman et.al.|[2305.10774v1](http://arxiv.org/abs/2305.10774v1)|null|
-|**2023-05-18**|**Discriminative Diffusion Models as Few-shot Vision and Language Learners**|Xuehai He et.al.|[2305.10722v1](http://arxiv.org/abs/2305.10722v1)|null|
-|**2023-05-18**|**Wall cooling effect on spectra and structures of thermodynamic variables in hypersonic turbulent boundary layers**|Dehao Xu et.al.|[2305.10705v1](http://arxiv.org/abs/2305.10705v1)|null|
-|**2023-05-18**|**Use of Speech Impairment Severity for Dysarthric Speech Recognition**|Mengzhe Geng et.al.|[2305.10659v1](http://arxiv.org/abs/2305.10659v1)|null|
-|**2023-05-17**|**Node Attribute Prediction on Multilayer Networks with Weighted and Directed Edges**|Yiguang Zhang et.al.|[2305.10527v1](http://arxiv.org/abs/2305.10527v1)|[link](https://github.com/facebookresearch/linkextension)|
-|**2023-05-17**|**Incorporating Attribution Importance for Improving Faithfulness Metrics**|Zhixue Zhao et.al.|[2305.10496v1](http://arxiv.org/abs/2305.10496v1)|[link](https://github.com/casszhao/softfaith)|
+|**2023-05-18**|**Seq-HGNN: Learning Sequential Node Representation on Heterogeneous Graph**|Chenguang Du et.al.|[2305.10771v1](http://arxiv.org/abs/2305.10771v1)|[link](https://github.com/nobrowning/seq_hgnn)|
+|**2023-05-18**|**ReGen: Zero-Shot Text Classification via Training Data Generation with Progressive Dense Retrieval**|Yue Yu et.al.|[2305.10703v1](http://arxiv.org/abs/2305.10703v1)|[link](https://github.com/yueyu1030/ReGen)|
+|**2023-05-18**|**Ranking the locations and predicting future crime occurrence by retrieving news from different Bangla online newspapers**|Jumman Hossain et.al.|[2305.10698v1](http://arxiv.org/abs/2305.10698v1)|null|
+|**2023-05-18**|**BioAug: Conditional Generation based Data Augmentation for Low-Resource Biomedical NER**|Sreyan Ghosh et.al.|[2305.10647v1](http://arxiv.org/abs/2305.10647v1)|[link](https://github.com/Sreyan88/BioAug)|
+|**2023-05-17**|**A Better Way to Do Masked Language Model Scoring**|Carina Kauf et.al.|[2305.10588v1](http://arxiv.org/abs/2305.10588v1)|[link](https://github.com/carina-kauf/better-mlm-scoring)|
+|**2023-05-17**|**Iteratively Learning Representations for Unseen Entities with Inter-Rule Correlations**|Zihan Wang et.al.|[2305.10531v1](http://arxiv.org/abs/2305.10531v1)|null|
+|**2023-05-17**|**CLIP-GCD: Simple Language Guided Generalized Category Discovery**|Rabah Ouldnoughi et.al.|[2305.10420v1](http://arxiv.org/abs/2305.10420v1)|null|
+|**2023-05-17**|**Large-Scale Text Analysis Using Generative Language Models: A Case Study in Discovering Public Value Expressions in AI Patents**|Sergio Pelaez et.al.|[2305.10383v2](http://arxiv.org/abs/2305.10383v2)|null|
 |**2023-05-17**|**From Region to Patch: Attribute-Aware Foreground-Background Contrastive Learning for Fine-Grained Fashion Retrieval**|Jianfeng Dong et.al.|[2305.10260v1](http://arxiv.org/abs/2305.10260v1)|[link](https://github.com/huiguanlab/rpf)|
-|**2023-05-17**|**Shielded Representations: Protecting Sensitive Attributes Through Iterative Gradient-Based Projection**|Shadi Iskander et.al.|[2305.10204v1](http://arxiv.org/abs/2305.10204v1)|[link](https://github.com/technion-cs-nlp/igbp_nonlinear-removal)|
-|**2023-05-17**|**Synthesis of stable cerium oxide nanoparticles coated with phosphonic acid-based functional polymers**|Ameni Dhouib et.al.|[2305.10179v1](http://arxiv.org/abs/2305.10179v1)|null|
-|**2023-05-17**|**Multi-Grained Knowledge Retrieval for End-to-End Task-Oriented Dialog**|Fanqi Wan et.al.|[2305.10149v1](http://arxiv.org/abs/2305.10149v1)|[link](https://github.com/18907305772/maker)|
-|**2023-05-17**|**White dwarf cooling in $f(R,T)$ gravity**|Snehasish Bhattacharjee et.al.|[2305.10144v1](http://arxiv.org/abs/2305.10144v1)|null|
-|**2023-05-17**|**Controllable Mind Visual Diffusion Model**|Bohan Zeng et.al.|[2305.10135v2](http://arxiv.org/abs/2305.10135v2)|null|
-|**2023-05-17**|**Bridging the Gap: Enhancing the Utility of Synthetic Data via Post-Processing Techniques**|Andrea Lampis et.al.|[2305.10118v1](http://arxiv.org/abs/2305.10118v1)|null|
-|**2023-05-17**|**Emergence of superconductivity in single-crystalline LaFeAsO under simultaneous Sm and P substitution**|Nikolai D. Zhigadlo et.al.|[2305.10034v1](http://arxiv.org/abs/2305.10034v1)|null|
-|**2023-05-17**|**A Survey on Causal Discovery: Theory and Practice**|Alessio Zanga et.al.|[2305.10032v1](http://arxiv.org/abs/2305.10032v1)|null|
-|**2023-05-17**|**AD-KD: Attribution-Driven Knowledge Distillation for Language Model Compression**|Siyue Wu et.al.|[2305.10010v1](http://arxiv.org/abs/2305.10010v1)|[link](https://github.com/brucewsy/ad-kd)|
-|**2023-05-17**|**Dual Semantic Knowledge Composed Multimodal Dialog Systems**|Xiaolin Chen et.al.|[2305.09990v1](http://arxiv.org/abs/2305.09990v1)|null|
-|**2023-05-17**|**LPMM: Intuitive Pose Control for Neural Talking-Head Model via Landmark-Parameter Morphable Model**|Kwangho Lee et.al.|[2305.10456v1](http://arxiv.org/abs/2305.10456v1)|null|
+|**2023-05-17**|**Testing 2D temperature models in Bayesian retrievals of atmospheric properties from hot Jupiter phase curves**|Jingxuan Yang et.al.|[2305.10249v1](http://arxiv.org/abs/2305.10249v1)|null|
+|**2023-05-17**|**Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations**|Yang Deng et.al.|[2305.10172v1](http://arxiv.org/abs/2305.10172v1)|null|
+|**2023-05-17**|**Qualifying Chinese Medical Licensing Examination with Knowledge Enhanced Generative Pre-training Model**|Jiageng Wu et.al.|[2305.10163v1](http://arxiv.org/abs/2305.10163v1)|null|
 
 ## Multi-modal
 
