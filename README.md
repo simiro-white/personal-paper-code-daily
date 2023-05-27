@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-05-26 21:17:11 Asia/Shanghai
+ Automated deployment @ 2023-05-27 09:23:09 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -67,40 +67,6 @@
 |**2023-04-11**|**HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models**|Eslam Mohamed Bakr et.al.|[2304.05390v1](http://arxiv.org/abs/2304.05390v1)|[link](https://github.com/eslambakr/HRS_benchmark)|
 |**2023-04-10**|**Robust Body Exposure (RoBE): A Graph-based Dynamics Modeling Approach to Manipulating Blankets over People**|Kavya Puthuveetil et.al.|[2304.04822v1](http://arxiv.org/abs/2304.04822v1)|null|
 |**2023-04-10**|**Identity-Guided Collaborative Learning for Cloth-Changing Person Reidentification**|Zan Gao et.al.|[2304.04400v1](http://arxiv.org/abs/2304.04400v1)|null|
-
-### Compatibility
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-05-25**|**Parallel Sampling of Diffusion Models**|Andy Shih et.al.|[2305.16317v1](http://arxiv.org/abs/2305.16317v1)|null|
-|**2023-05-25**|**Landmark Attention: Random-Access Infinite Context Length for Transformers**|Amirkeivan Mohtashami et.al.|[2305.16300v1](http://arxiv.org/abs/2305.16300v1)|null|
-|**2023-05-25**|**CommonScenes: Generating Commonsense 3D Indoor Scenes with Scene Graphs**|Guangyao Zhai et.al.|[2305.16283v1](http://arxiv.org/abs/2305.16283v1)|null|
-|**2023-05-25**|**Trans-Dimensional Generative Modeling via Jump Diffusion Models**|Andrew Campbell et.al.|[2305.16261v1](http://arxiv.org/abs/2305.16261v1)|[link](https://github.com/andrew-cr/jump-diffusion)|
-|**2023-05-25**|**A Logical Interpretation of Asynchronous Multiparty Compatibility**|Marco Carbone et.al.|[2305.16240v1](http://arxiv.org/abs/2305.16240v1)|null|
-|**2023-05-25**|**Dropout Drops Double Descent**|Tian-Le Yang et.al.|[2305.16179v1](http://arxiv.org/abs/2305.16179v1)|null|
-|**2023-05-25**|**From Latent Graph to Latent Topology Inference: Differentiable Cell Complex Module**|Claudio Battiloro et.al.|[2305.16174v1](http://arxiv.org/abs/2305.16174v1)|null|
-|**2023-05-25**|**OVO: Open-Vocabulary Occupancy**|Zhiyu Tan et.al.|[2305.16133v1](http://arxiv.org/abs/2305.16133v1)|null|
-|**2023-05-25**|**Stochastic pseudomonotone parabolic obstacle problem: well-posedness $\&$ Lewy-Stampacchia's inequalities**|Niklas Sapountzoglou et.al.|[2305.16090v1](http://arxiv.org/abs/2305.16090v1)|null|
-|**2023-05-25**|**Skew bracoids**|Isabel Martin-Lyons et.al.|[2305.15848v1](http://arxiv.org/abs/2305.15848v1)|null|
-|**2023-05-25**|**Silicon Photonics -- Roadmapping the Next Generation**|Sudip Shekhar et.al.|[2305.15820v1](http://arxiv.org/abs/2305.15820v1)|null|
-|**2023-05-25**|**Lucy-SKG: Learning to Play Rocket League Efficiently Using Deep Reinforcement Learning**|Vasileios Moschopoulos et.al.|[2305.15801v1](http://arxiv.org/abs/2305.15801v1)|null|
-|**2023-05-25**|**Axion stars in MGD background**|R. Casadio et.al.|[2305.15752v1](http://arxiv.org/abs/2305.15752v1)|null|
-|**2023-05-25**|**Gorenstein projective, injective and flat modules over trivial ring extensions**|Lixin Mao et.al.|[2305.15656v1](http://arxiv.org/abs/2305.15656v1)|null|
-|**2023-05-25**|**Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision**|Han Gao et.al.|[2305.15652v1](http://arxiv.org/abs/2305.15652v1)|null|
-|**2023-05-24**|**Associated production of prompt $J/ψ$ and $\mathitΥ$ mesons in $pp$ collisions at $\sqrt{s}=13\,\mathrm{TeV}$**|LHCb collaboration et.al.|[2305.15580v1](http://arxiv.org/abs/2305.15580v1)|null|
-|**2023-05-24**|**A Novel Concentric Tube Steerable Drilling Robot for Minimally Invasive Treatment of Spinal Tumors Using Cavity and U-shape Drilling Techniques**|Susheela Sharma et.al.|[2305.15570v1](http://arxiv.org/abs/2305.15570v1)|null|
-|**2023-05-24**|**Representation Online Matters: Practical End-to-End Diversification in Search and Recommender Systems**|Pedro Silva et.al.|[2305.15534v1](http://arxiv.org/abs/2305.15534v1)|null|
-|**2023-05-24**|**Discriminating $B\to D^{*}\ellν$ form factors via polarization observables and asymmetries**|Marco Fedele et.al.|[2305.15457v1](http://arxiv.org/abs/2305.15457v1)|null|
-|**2023-05-24**|**Inflationary Potential as seen from Different Angles: Model Compatibility from Multiple CMB Missions**|William Giarè et.al.|[2305.15378v1](http://arxiv.org/abs/2305.15378v1)|null|
-|**2023-05-24**|**No-Regret Online Prediction with Strategic Experts**|Omid Sadeghi et.al.|[2305.15331v1](http://arxiv.org/abs/2305.15331v1)|null|
-|**2023-05-24**|**Robust Optical Data Encryption by Projection-Photoaligned Polymer-Stabilized-Liquid-Crystals**|Siying Liu et.al.|[2305.15322v1](http://arxiv.org/abs/2305.15322v1)|null|
-|**2023-05-24**|**Training on Thin Air: Improve Image Classification with Generated Data**|Yongchao Zhou et.al.|[2305.15316v1](http://arxiv.org/abs/2305.15316v1)|[link](https://github.com/yongchao97/diffusion_inversion)|
-|**2023-05-24**|**Diffusion-Based Audio Inpainting**|Eloi Moliner et.al.|[2305.15266v1](http://arxiv.org/abs/2305.15266v1)|null|
-|**2023-05-24**|**Decision-Aware Actor-Critic with Function Approximation and Theoretical Guarantees**|Sharan Vaswani et.al.|[2305.15249v1](http://arxiv.org/abs/2305.15249v1)|null|
-|**2023-05-24**|**Global Solutions of the Two-Dimensional Riemann Problem with Four-Shock Interactions for the Euler Equations for Potential Flow**|Gui-Qiang G. Chen et.al.|[2305.15224v1](http://arxiv.org/abs/2305.15224v1)|null|
-|**2023-05-24**|**Algodoo for Online Education: Impulse and Momentum Activities**|Atakan Coban et.al.|[2305.15451v1](http://arxiv.org/abs/2305.15451v1)|null|
-|**2023-05-24**|**On the stability and deformability of top stars**|Massimo Bianchi et.al.|[2305.15105v1](http://arxiv.org/abs/2305.15105v1)|null|
-|**2023-05-24**|**HuatuoGPT, towards Taming Language Model to Be a Doctor**|Hongbo Zhang et.al.|[2305.15075v1](http://arxiv.org/abs/2305.15075v1)|[link](https://github.com/freedomintelligence/huatuogpt)|
-|**2023-05-24**|**Enabling Joint Radar-Communication Operation in Shift Register-Based PMCW Radars**|Lucas Giroto de Oliveira et.al.|[2305.15069v1](http://arxiv.org/abs/2305.15069v1)|null|
 
 ### Attribute
 |Publish Date|Title|Authors|PDF|Code|
@@ -203,6 +169,40 @@
 |**2023-05-24**|**Automated Refugee Case Analysis: An NLP Pipeline for Supporting Legal Practitioners**|Claire Barale et.al.|[2305.15533v1](http://arxiv.org/abs/2305.15533v1)|[link](https://github.com/clairebarale/refugee_cases_ner)|
 |**2023-05-24**|**Large Language Models for User Interest Journeys**|Konstantina Christakopoulou et.al.|[2305.15498v1](http://arxiv.org/abs/2305.15498v1)|null|
 |**2023-05-24**|**Weakly Supervised Vision-and-Language Pre-training with Relative Representations**|Chi Chen et.al.|[2305.15483v1](http://arxiv.org/abs/2305.15483v1)|null|
+
+### Compatibility
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-05-25**|**Parallel Sampling of Diffusion Models**|Andy Shih et.al.|[2305.16317v1](http://arxiv.org/abs/2305.16317v1)|null|
+|**2023-05-25**|**Landmark Attention: Random-Access Infinite Context Length for Transformers**|Amirkeivan Mohtashami et.al.|[2305.16300v1](http://arxiv.org/abs/2305.16300v1)|null|
+|**2023-05-25**|**CommonScenes: Generating Commonsense 3D Indoor Scenes with Scene Graphs**|Guangyao Zhai et.al.|[2305.16283v1](http://arxiv.org/abs/2305.16283v1)|null|
+|**2023-05-25**|**Trans-Dimensional Generative Modeling via Jump Diffusion Models**|Andrew Campbell et.al.|[2305.16261v1](http://arxiv.org/abs/2305.16261v1)|[link](https://github.com/andrew-cr/jump-diffusion)|
+|**2023-05-25**|**A Logical Interpretation of Asynchronous Multiparty Compatibility**|Marco Carbone et.al.|[2305.16240v1](http://arxiv.org/abs/2305.16240v1)|null|
+|**2023-05-25**|**Dropout Drops Double Descent**|Tian-Le Yang et.al.|[2305.16179v1](http://arxiv.org/abs/2305.16179v1)|null|
+|**2023-05-25**|**From Latent Graph to Latent Topology Inference: Differentiable Cell Complex Module**|Claudio Battiloro et.al.|[2305.16174v1](http://arxiv.org/abs/2305.16174v1)|null|
+|**2023-05-25**|**OVO: Open-Vocabulary Occupancy**|Zhiyu Tan et.al.|[2305.16133v1](http://arxiv.org/abs/2305.16133v1)|null|
+|**2023-05-25**|**Stochastic pseudomonotone parabolic obstacle problem: well-posedness $\&$ Lewy-Stampacchia's inequalities**|Niklas Sapountzoglou et.al.|[2305.16090v1](http://arxiv.org/abs/2305.16090v1)|null|
+|**2023-05-25**|**Skew bracoids**|Isabel Martin-Lyons et.al.|[2305.15848v1](http://arxiv.org/abs/2305.15848v1)|null|
+|**2023-05-25**|**Silicon Photonics -- Roadmapping the Next Generation**|Sudip Shekhar et.al.|[2305.15820v1](http://arxiv.org/abs/2305.15820v1)|null|
+|**2023-05-25**|**Lucy-SKG: Learning to Play Rocket League Efficiently Using Deep Reinforcement Learning**|Vasileios Moschopoulos et.al.|[2305.15801v1](http://arxiv.org/abs/2305.15801v1)|null|
+|**2023-05-25**|**Axion stars in MGD background**|R. Casadio et.al.|[2305.15752v1](http://arxiv.org/abs/2305.15752v1)|null|
+|**2023-05-25**|**Gorenstein projective, injective and flat modules over trivial ring extensions**|Lixin Mao et.al.|[2305.15656v1](http://arxiv.org/abs/2305.15656v1)|null|
+|**2023-05-25**|**Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision**|Han Gao et.al.|[2305.15652v1](http://arxiv.org/abs/2305.15652v1)|null|
+|**2023-05-24**|**Associated production of prompt $J/ψ$ and $\mathitΥ$ mesons in $pp$ collisions at $\sqrt{s}=13\,\mathrm{TeV}$**|LHCb collaboration et.al.|[2305.15580v1](http://arxiv.org/abs/2305.15580v1)|null|
+|**2023-05-24**|**A Novel Concentric Tube Steerable Drilling Robot for Minimally Invasive Treatment of Spinal Tumors Using Cavity and U-shape Drilling Techniques**|Susheela Sharma et.al.|[2305.15570v1](http://arxiv.org/abs/2305.15570v1)|null|
+|**2023-05-24**|**Representation Online Matters: Practical End-to-End Diversification in Search and Recommender Systems**|Pedro Silva et.al.|[2305.15534v1](http://arxiv.org/abs/2305.15534v1)|null|
+|**2023-05-24**|**Discriminating $B\to D^{*}\ellν$ form factors via polarization observables and asymmetries**|Marco Fedele et.al.|[2305.15457v1](http://arxiv.org/abs/2305.15457v1)|null|
+|**2023-05-24**|**Inflationary Potential as seen from Different Angles: Model Compatibility from Multiple CMB Missions**|William Giarè et.al.|[2305.15378v1](http://arxiv.org/abs/2305.15378v1)|null|
+|**2023-05-24**|**No-Regret Online Prediction with Strategic Experts**|Omid Sadeghi et.al.|[2305.15331v1](http://arxiv.org/abs/2305.15331v1)|null|
+|**2023-05-24**|**Robust Optical Data Encryption by Projection-Photoaligned Polymer-Stabilized-Liquid-Crystals**|Siying Liu et.al.|[2305.15322v1](http://arxiv.org/abs/2305.15322v1)|null|
+|**2023-05-24**|**Training on Thin Air: Improve Image Classification with Generated Data**|Yongchao Zhou et.al.|[2305.15316v1](http://arxiv.org/abs/2305.15316v1)|[link](https://github.com/yongchao97/diffusion_inversion)|
+|**2023-05-24**|**Diffusion-Based Audio Inpainting**|Eloi Moliner et.al.|[2305.15266v1](http://arxiv.org/abs/2305.15266v1)|null|
+|**2023-05-24**|**Decision-Aware Actor-Critic with Function Approximation and Theoretical Guarantees**|Sharan Vaswani et.al.|[2305.15249v1](http://arxiv.org/abs/2305.15249v1)|null|
+|**2023-05-24**|**Global Solutions of the Two-Dimensional Riemann Problem with Four-Shock Interactions for the Euler Equations for Potential Flow**|Gui-Qiang G. Chen et.al.|[2305.15224v1](http://arxiv.org/abs/2305.15224v1)|null|
+|**2023-05-24**|**Algodoo for Online Education: Impulse and Momentum Activities**|Atakan Coban et.al.|[2305.15451v1](http://arxiv.org/abs/2305.15451v1)|null|
+|**2023-05-24**|**On the stability and deformability of top stars**|Massimo Bianchi et.al.|[2305.15105v1](http://arxiv.org/abs/2305.15105v1)|null|
+|**2023-05-24**|**HuatuoGPT, towards Taming Language Model to Be a Doctor**|Hongbo Zhang et.al.|[2305.15075v1](http://arxiv.org/abs/2305.15075v1)|[link](https://github.com/freedomintelligence/huatuogpt)|
+|**2023-05-24**|**Enabling Joint Radar-Communication Operation in Shift Register-Based PMCW Radars**|Lucas Giroto de Oliveira et.al.|[2305.15069v1](http://arxiv.org/abs/2305.15069v1)|null|
 
 ## Multi-modal
 
