@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-07-05 20:41:16 Asia/Shanghai
+ Automated deployment @ 2023-07-05 21:15:13 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -67,40 +67,6 @@
 |**2023-06-30**|**Beyond Neural-on-Neural Approaches to Speaker Gender Protection**|Loes van Bemmel et.al.|[2306.17700v1](http://arxiv.org/abs/2306.17700v1)|null|
 |**2023-06-30**|**Augmenting Holistic Review in University Admission using Natural Language Processing for Essays and Recommendation Letters**|Jinsook Lee et.al.|[2306.17575v1](http://arxiv.org/abs/2306.17575v1)|null|
 |**2023-06-30**|**Class-Incremental Learning using Diffusion Model for Distillation and Replay**|Quentin Jodelet et.al.|[2306.17560v1](http://arxiv.org/abs/2306.17560v1)|null|
-
-### Recommendation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-07-03**|**The Standard Model theory of neutron beta decay**|Mikhail Gorchtein et.al.|[2307.01145v1](http://arxiv.org/abs/2307.01145v1)|null|
-|**2023-07-03**|**Pareto optimal proxy metrics**|Lee Richardson et.al.|[2307.01000v1](http://arxiv.org/abs/2307.01000v1)|null|
-|**2023-07-03**|**Neural Architecture Transfer 2: A Paradigm for Improving Efficiency in Multi-Objective Neural Architecture Search**|Simone Sarti et.al.|[2307.00960v1](http://arxiv.org/abs/2307.00960v1)|null|
-|**2023-07-03**|**5G Wings: Investigating 5G-Connected Drones Performance in Non-Urban Areas**|Mohammed Gharib et.al.|[2307.00959v1](http://arxiv.org/abs/2307.00959v1)|null|
-|**2023-07-03**|**OpenSiteRec: An Open Dataset for Site Recommendation**|Xinhang Li et.al.|[2307.00856v1](http://arxiv.org/abs/2307.00856v1)|null|
-|**2023-07-03**|**A Comparative Study of Software Secrets Reporting by Secret Detection Tools**|Setu Kumar Basak et.al.|[2307.00714v1](http://arxiv.org/abs/2307.00714v1)|null|
-|**2023-07-02**|**Minimum Levels of Interpretability for Artificial Moral Agents**|Avish Vijayaraghavan et.al.|[2307.00660v1](http://arxiv.org/abs/2307.00660v1)|null|
-|**2023-07-02**|**Looks Can Be Deceiving: Linking User-Item Interactions and User's Propensity Towards Multi-Objective Recommendations**|Patrik Dokoupil et.al.|[2307.00654v1](http://arxiv.org/abs/2307.00654v1)|null|
-|**2023-07-02**|**Text based Large Language Model for Recommendation**|Jianchao Ji et.al.|[2307.00457v1](http://arxiv.org/abs/2307.00457v1)|null|
-|**2023-07-02**|**Don't Stop Self-Supervision: Accent Adaptation of Speech Representations via Residual Adapters**|Anshu Bhatia et.al.|[2307.00453v1](http://arxiv.org/abs/2307.00453v1)|null|
-|**2023-07-01**|**Aggregation Consistency Errors in Semantic Layers and How to Avoid Them**|Zezhou Huang et.al.|[2307.00417v1](http://arxiv.org/abs/2307.00417v1)|null|
-|**2023-07-01**|**Dark Dust III: The high-quality single-cloud reddening curve sample. Scrutinizing extinction curves in the Milky Way**|R. Siebenmorgen et.al.|[2307.00367v1](http://arxiv.org/abs/2307.00367v1)|null|
-|**2023-07-01**|**RUI: A Web-based Road Updates Information System using Google Maps API**|Benzar Glen S. Grepon et.al.|[2307.00323v1](http://arxiv.org/abs/2307.00323v1)|null|
-|**2023-07-01**|**On a Relation Between the Rate-Distortion Function and Optimal Transport**|Eric Lei et.al.|[2307.00246v1](http://arxiv.org/abs/2307.00246v1)|null|
-|**2023-06-30**|**Counterfactual Collaborative Reasoning**|Jianchao Ji et.al.|[2307.00165v1](http://arxiv.org/abs/2307.00165v1)|null|
-|**2023-06-30**|**A chip-scale second-harmonic source via injection-locked all-optical poling**|Marco Clementi et.al.|[2307.00163v1](http://arxiv.org/abs/2307.00163v1)|null|
-|**2023-06-30**|**A general two-stage progressive model of cancer natural history to project downstaging due to multi-cancer screening tests**|Jane M. Lange et.al.|[2307.00092v1](http://arxiv.org/abs/2307.00092v1)|null|
-|**2023-06-30**|**Discovery of the missing intermediate-mass helium stars stripped in binaries**|M. R. Drout et.al.|[2307.00061v1](http://arxiv.org/abs/2307.00061v1)|null|
-|**2023-06-30**|**Look, Remember and Reason: Visual Reasoning with Grounded Rationales**|Apratim Bhattacharyya et.al.|[2306.17778v1](http://arxiv.org/abs/2306.17778v1)|null|
-|**2023-06-30**|**White Paper: Isolated Stellar-Mass Black Holes: Strategy to Improve the Efficiency and Robustness of Detection with Roman**|Kailash Sahu et.al.|[2306.17725v1](http://arxiv.org/abs/2306.17725v1)|null|
-|**2023-06-30**|**Comparing Algorithm Selection Approaches on Black-Box Optimization Problems**|Ana Kostovska et.al.|[2306.17585v1](http://arxiv.org/abs/2306.17585v1)|null|
-|**2023-06-30**|**Augmenting Holistic Review in University Admission using Natural Language Processing for Essays and Recommendation Letters**|Jinsook Lee et.al.|[2306.17575v1](http://arxiv.org/abs/2306.17575v1)|null|
-|**2023-06-30**|**A Quic(k) Security Overview: A Literature Research on Implemented Security Recommendations**|Stefan Tatschner et.al.|[2306.17568v1](http://arxiv.org/abs/2306.17568v1)|null|
-|**2023-06-30**|**Class-Incremental Learning using Diffusion Model for Distillation and Replay**|Quentin Jodelet et.al.|[2306.17560v1](http://arxiv.org/abs/2306.17560v1)|null|
-|**2023-06-30**|**A multi-level analysis of data quality for formal software citation**|David Schindler et.al.|[2306.17535v1](http://arxiv.org/abs/2306.17535v1)|null|
-|**2023-06-30**|**Nuclear norm regularized loop optimization for tensor network**|Kenji Homma et.al.|[2306.17479v1](http://arxiv.org/abs/2306.17479v1)|null|
-|**2023-06-30**|**Leveraging Watch-time Feedback for Short-Video Recommendations: A Causal Labeling Framework**|Yang Zhang et.al.|[2306.17426v1](http://arxiv.org/abs/2306.17426v1)|null|
-|**2023-06-29**|**Tube2Vec: Social and Semantic Embeddings of YouTube Channels**|Léopaul Boesinger et.al.|[2306.17298v1](http://arxiv.org/abs/2306.17298v1)|null|
-|**2023-06-29**|**Towards Personalized Cold-Start Recommendation with Prompts**|Xuansheng Wu et.al.|[2306.17256v1](http://arxiv.org/abs/2306.17256v1)|null|
-|**2023-06-29**|**Roman CCS White Paper: Considerations for Selecting Fields for the Roman High-latitude Time Domain Core Community Survey**|Benjamin Rose et.al.|[2306.17226v1](http://arxiv.org/abs/2306.17226v1)|null|
 
 ### General
 |Publish Date|Title|Authors|PDF|Code|
@@ -204,6 +170,40 @@
 |**2023-06-30**|**Counterfactual Collaborative Reasoning**|Jianchao Ji et.al.|[2307.00165v1](http://arxiv.org/abs/2307.00165v1)|null|
 |**2023-06-30**|**A chip-scale second-harmonic source via injection-locked all-optical poling**|Marco Clementi et.al.|[2307.00163v1](http://arxiv.org/abs/2307.00163v1)|null|
 
+### Recommendation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-07-03**|**The Standard Model theory of neutron beta decay**|Mikhail Gorchtein et.al.|[2307.01145v1](http://arxiv.org/abs/2307.01145v1)|null|
+|**2023-07-03**|**Pareto optimal proxy metrics**|Lee Richardson et.al.|[2307.01000v1](http://arxiv.org/abs/2307.01000v1)|null|
+|**2023-07-03**|**Neural Architecture Transfer 2: A Paradigm for Improving Efficiency in Multi-Objective Neural Architecture Search**|Simone Sarti et.al.|[2307.00960v1](http://arxiv.org/abs/2307.00960v1)|null|
+|**2023-07-03**|**5G Wings: Investigating 5G-Connected Drones Performance in Non-Urban Areas**|Mohammed Gharib et.al.|[2307.00959v1](http://arxiv.org/abs/2307.00959v1)|null|
+|**2023-07-03**|**OpenSiteRec: An Open Dataset for Site Recommendation**|Xinhang Li et.al.|[2307.00856v1](http://arxiv.org/abs/2307.00856v1)|null|
+|**2023-07-03**|**A Comparative Study of Software Secrets Reporting by Secret Detection Tools**|Setu Kumar Basak et.al.|[2307.00714v1](http://arxiv.org/abs/2307.00714v1)|null|
+|**2023-07-02**|**Minimum Levels of Interpretability for Artificial Moral Agents**|Avish Vijayaraghavan et.al.|[2307.00660v1](http://arxiv.org/abs/2307.00660v1)|null|
+|**2023-07-02**|**Looks Can Be Deceiving: Linking User-Item Interactions and User's Propensity Towards Multi-Objective Recommendations**|Patrik Dokoupil et.al.|[2307.00654v1](http://arxiv.org/abs/2307.00654v1)|null|
+|**2023-07-02**|**Text based Large Language Model for Recommendation**|Jianchao Ji et.al.|[2307.00457v1](http://arxiv.org/abs/2307.00457v1)|null|
+|**2023-07-02**|**Don't Stop Self-Supervision: Accent Adaptation of Speech Representations via Residual Adapters**|Anshu Bhatia et.al.|[2307.00453v1](http://arxiv.org/abs/2307.00453v1)|null|
+|**2023-07-01**|**Aggregation Consistency Errors in Semantic Layers and How to Avoid Them**|Zezhou Huang et.al.|[2307.00417v1](http://arxiv.org/abs/2307.00417v1)|null|
+|**2023-07-01**|**Dark Dust III: The high-quality single-cloud reddening curve sample. Scrutinizing extinction curves in the Milky Way**|R. Siebenmorgen et.al.|[2307.00367v1](http://arxiv.org/abs/2307.00367v1)|null|
+|**2023-07-01**|**RUI: A Web-based Road Updates Information System using Google Maps API**|Benzar Glen S. Grepon et.al.|[2307.00323v1](http://arxiv.org/abs/2307.00323v1)|null|
+|**2023-07-01**|**On a Relation Between the Rate-Distortion Function and Optimal Transport**|Eric Lei et.al.|[2307.00246v1](http://arxiv.org/abs/2307.00246v1)|null|
+|**2023-06-30**|**Counterfactual Collaborative Reasoning**|Jianchao Ji et.al.|[2307.00165v1](http://arxiv.org/abs/2307.00165v1)|null|
+|**2023-06-30**|**A chip-scale second-harmonic source via injection-locked all-optical poling**|Marco Clementi et.al.|[2307.00163v1](http://arxiv.org/abs/2307.00163v1)|null|
+|**2023-06-30**|**A general two-stage progressive model of cancer natural history to project downstaging due to multi-cancer screening tests**|Jane M. Lange et.al.|[2307.00092v1](http://arxiv.org/abs/2307.00092v1)|null|
+|**2023-06-30**|**Discovery of the missing intermediate-mass helium stars stripped in binaries**|M. R. Drout et.al.|[2307.00061v1](http://arxiv.org/abs/2307.00061v1)|null|
+|**2023-06-30**|**Look, Remember and Reason: Visual Reasoning with Grounded Rationales**|Apratim Bhattacharyya et.al.|[2306.17778v1](http://arxiv.org/abs/2306.17778v1)|null|
+|**2023-06-30**|**White Paper: Isolated Stellar-Mass Black Holes: Strategy to Improve the Efficiency and Robustness of Detection with Roman**|Kailash Sahu et.al.|[2306.17725v1](http://arxiv.org/abs/2306.17725v1)|null|
+|**2023-06-30**|**Comparing Algorithm Selection Approaches on Black-Box Optimization Problems**|Ana Kostovska et.al.|[2306.17585v1](http://arxiv.org/abs/2306.17585v1)|null|
+|**2023-06-30**|**Augmenting Holistic Review in University Admission using Natural Language Processing for Essays and Recommendation Letters**|Jinsook Lee et.al.|[2306.17575v1](http://arxiv.org/abs/2306.17575v1)|null|
+|**2023-06-30**|**A Quic(k) Security Overview: A Literature Research on Implemented Security Recommendations**|Stefan Tatschner et.al.|[2306.17568v1](http://arxiv.org/abs/2306.17568v1)|null|
+|**2023-06-30**|**Class-Incremental Learning using Diffusion Model for Distillation and Replay**|Quentin Jodelet et.al.|[2306.17560v1](http://arxiv.org/abs/2306.17560v1)|null|
+|**2023-06-30**|**A multi-level analysis of data quality for formal software citation**|David Schindler et.al.|[2306.17535v1](http://arxiv.org/abs/2306.17535v1)|null|
+|**2023-06-30**|**Nuclear norm regularized loop optimization for tensor network**|Kenji Homma et.al.|[2306.17479v1](http://arxiv.org/abs/2306.17479v1)|null|
+|**2023-06-30**|**Leveraging Watch-time Feedback for Short-Video Recommendations: A Causal Labeling Framework**|Yang Zhang et.al.|[2306.17426v1](http://arxiv.org/abs/2306.17426v1)|null|
+|**2023-06-29**|**Tube2Vec: Social and Semantic Embeddings of YouTube Channels**|Léopaul Boesinger et.al.|[2306.17298v1](http://arxiv.org/abs/2306.17298v1)|null|
+|**2023-06-29**|**Towards Personalized Cold-Start Recommendation with Prompts**|Xuansheng Wu et.al.|[2306.17256v1](http://arxiv.org/abs/2306.17256v1)|null|
+|**2023-06-29**|**Roman CCS White Paper: Considerations for Selecting Fields for the Roman High-latitude Time Domain Core Community Survey**|Benjamin Rose et.al.|[2306.17226v1](http://arxiv.org/abs/2306.17226v1)|null|
+
 ## Graph Neural Network
 
 ### Graph Neural Network
@@ -242,40 +242,6 @@
 
 ## Multi-modal
 
-### CLIP
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-07-03**|**UniFine: A Unified and Fine-grained Approach for Zero-shot Vision-Language Understanding**|Rui Sun et.al.|[2307.00862v1](http://arxiv.org/abs/2307.00862v1)|null|
-|**2023-07-02**|**ClipSitu: Effectively Leveraging CLIP for Conditional Predictions in Situation Recognition**|Debaditya Roy et.al.|[2307.00586v1](http://arxiv.org/abs/2307.00586v1)|null|
-|**2023-07-01**|**ProbVLM: Probabilistic Adapter for Frozen Vison-Language Models**|Uddeshya Upadhyay et.al.|[2307.00398v1](http://arxiv.org/abs/2307.00398v1)|null|
-|**2023-07-01**|**Fedward: Flexible Federated Backdoor Defense Framework with Non-IID Data**|Zekai Chen et.al.|[2307.00356v1](http://arxiv.org/abs/2307.00356v1)|null|
-|**2023-06-30**|**Prompting classes: Exploring the Power of Prompt Class Learning in Weakly Supervised Semantic Segmentation**|Balamurali Murugesan et.al.|[2307.00097v1](http://arxiv.org/abs/2307.00097v1)|null|
-|**2023-06-30**|**Clipping noise cancellation receiver for the downlink of massive MIMO OFDM system**|Marcin Wachowiak et.al.|[2306.17455v1](http://arxiv.org/abs/2306.17455v1)|null|
-|**2023-06-29**|**DreamDiffusion: Generating High-Quality Images from Brain EEG Signals**|Yunpeng Bai et.al.|[2306.16934v2](http://arxiv.org/abs/2306.16934v2)|[link](https://github.com/bbaaii/DreamDiffusion)|
-|**2023-06-29**|**CLIPAG: Towards Generator-Free Text-to-Image Generation**|Roy Ganz et.al.|[2306.16805v1](http://arxiv.org/abs/2306.16805v1)|null|
-|**2023-06-29**|**Foundation Model for Endoscopy Video Analysis via Large-scale Self-supervised Pre-train**|Zhao Wang et.al.|[2306.16741v1](http://arxiv.org/abs/2306.16741v1)|[link](https://github.com/med-air/endo-fm)|
-|**2023-06-28**|**ICSVR: Investigating Compositional and Semantic Understanding in Video Retrieval Models**|Avinash Madasu et.al.|[2306.16533v1](http://arxiv.org/abs/2306.16533v1)|null|
-|**2023-06-28**|**Challenges of Zero-Shot Recognition with Vision-Language Models: Granularity and Correctness**|Zhenlin Xu et.al.|[2306.16048v1](http://arxiv.org/abs/2306.16048v1)|null|
-|**2023-06-28**|**Pseudo-Labeling Enhanced by Privileged Information and Its Application to In Situ Sequencing Images**|Marzieh Haghighi et.al.|[2306.15898v1](http://arxiv.org/abs/2306.15898v1)|null|
-|**2023-06-28**|**SpotEM: Efficient Video Search for Episodic Memory**|Santhosh Kumar Ramakrishnan et.al.|[2306.15850v1](http://arxiv.org/abs/2306.15850v1)|null|
-|**2023-06-27**|**Differentially Private Video Activity Recognition**|Zelun Luo et.al.|[2306.15742v1](http://arxiv.org/abs/2306.15742v1)|null|
-|**2023-06-27**|**CLIPA-v2: Scaling CLIP Training with 81.1% Zero-shot ImageNet Accuracy within a \$10,000 Budget; An Extra \$4,000 Unlocks 81.8% Accuracy**|Xianhang Li et.al.|[2306.15658v1](http://arxiv.org/abs/2306.15658v1)|[link](https://github.com/ucsc-vlaa/clipa)|
-|**2023-06-27**|**Approximated Prompt Tuning for Vision-Language Pre-trained Models**|Qiong Wu et.al.|[2306.15706v1](http://arxiv.org/abs/2306.15706v1)|null|
-|**2023-06-26**|**Semi-Supervised Image Captioning with CLIP**|Chuanyang Jin et.al.|[2306.15111v1](http://arxiv.org/abs/2306.15111v1)|null|
-|**2023-06-26**|**FunQA: Towards Surprising Video Comprehension**|Binzhu Xie et.al.|[2306.14899v1](http://arxiv.org/abs/2306.14899v1)|[link](https://github.com/jingkang50/funqa)|
-|**2023-06-26**|**PTVD: A Large-Scale Plot-Oriented Multimodal Dataset Based on Television Dramas**|Chen Li et.al.|[2306.14644v1](http://arxiv.org/abs/2306.14644v1)|[link](https://github.com/palchenli/TVD)|
-|**2023-06-26**|**A Badminton Recognition and Tracking System Based on Context Multi-feature Fusion**|Xinyu Wang et.al.|[2306.14492v1](http://arxiv.org/abs/2306.14492v1)|null|
-|**2023-06-26**|**Subjective assessment of the impact of a content adaptive optimiser for compressing 4K HDR content with AV1**|Vibhoothi et.al.|[2306.14432v1](http://arxiv.org/abs/2306.14432v1)|[link](https://gitlab.com/mindfreeze/icip2023)|
-|**2023-06-26**|**TCEIP: Text Condition Embedded Regression Network for Dental Implant Position Prediction**|Xinquan Yang et.al.|[2306.14406v2](http://arxiv.org/abs/2306.14406v2)|null|
-|**2023-06-25**|**Addressing Cold Start Problem for End-to-end Automatic Speech Scoring**|Jungbae Park et.al.|[2306.14310v1](http://arxiv.org/abs/2306.14310v1)|null|
-|**2023-06-24**|**Utilizing Segment Anything Model For Assessing Localization of GRAD-CAM in Medical Imaging**|Evan Kellener et.al.|[2306.15692v1](http://arxiv.org/abs/2306.15692v1)|null|
-|**2023-06-24**|**Real-World Video for Zoom Enhancement based on Spatio-Temporal Coupling**|Zhiling Guo et.al.|[2306.13875v1](http://arxiv.org/abs/2306.13875v1)|null|
-|**2023-06-24**|**Learning-to-Rank Meets Language: Boosting Language-Driven Ordering Alignment for Ordinal Classification**|Rui Wang et.al.|[2306.13856v1](http://arxiv.org/abs/2306.13856v1)|null|
-|**2023-06-23**|**OpenMask3D: Open-Vocabulary 3D Instance Segmentation**|Ayça Takmaz et.al.|[2306.13631v1](http://arxiv.org/abs/2306.13631v1)|null|
-|**2023-06-23**|**Augmenting Sports Videos with VisCommentator**|Zhutian Chen et.al.|[2306.13491v1](http://arxiv.org/abs/2306.13491v1)|null|
-|**2023-06-23**|**Multimodal Search on Iconclass using Vision-Language Pre-Trained Models**|Cristian Santini et.al.|[2306.16529v1](http://arxiv.org/abs/2306.16529v1)|null|
-|**2023-06-22**|**Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing**|Yelysei Bondarenko et.al.|[2306.12929v1](http://arxiv.org/abs/2306.12929v1)|null|
-
 ### Multi-modal
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -309,6 +275,40 @@
 |**2023-07-03**|**Dual formulation for constraint solutions of the multi-state Choquard equation**|Gershon Wolansky et.al.|[2307.00948v1](http://arxiv.org/abs/2307.00948v1)|null|
 |**2023-07-03**|**Semi-supervised multi-view concept decomposition**|Qi Jiang et.al.|[2307.00924v1](http://arxiv.org/abs/2307.00924v1)|null|
 |**2023-07-03**|**Contextual Prompt Learning for Vision-Language Understanding**|Koustava Goswami et.al.|[2307.00910v1](http://arxiv.org/abs/2307.00910v1)|null|
+
+### CLIP
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-07-03**|**UniFine: A Unified and Fine-grained Approach for Zero-shot Vision-Language Understanding**|Rui Sun et.al.|[2307.00862v1](http://arxiv.org/abs/2307.00862v1)|null|
+|**2023-07-02**|**ClipSitu: Effectively Leveraging CLIP for Conditional Predictions in Situation Recognition**|Debaditya Roy et.al.|[2307.00586v1](http://arxiv.org/abs/2307.00586v1)|null|
+|**2023-07-01**|**ProbVLM: Probabilistic Adapter for Frozen Vison-Language Models**|Uddeshya Upadhyay et.al.|[2307.00398v1](http://arxiv.org/abs/2307.00398v1)|null|
+|**2023-07-01**|**Fedward: Flexible Federated Backdoor Defense Framework with Non-IID Data**|Zekai Chen et.al.|[2307.00356v1](http://arxiv.org/abs/2307.00356v1)|null|
+|**2023-06-30**|**Prompting classes: Exploring the Power of Prompt Class Learning in Weakly Supervised Semantic Segmentation**|Balamurali Murugesan et.al.|[2307.00097v1](http://arxiv.org/abs/2307.00097v1)|null|
+|**2023-06-30**|**Clipping noise cancellation receiver for the downlink of massive MIMO OFDM system**|Marcin Wachowiak et.al.|[2306.17455v1](http://arxiv.org/abs/2306.17455v1)|null|
+|**2023-06-29**|**DreamDiffusion: Generating High-Quality Images from Brain EEG Signals**|Yunpeng Bai et.al.|[2306.16934v2](http://arxiv.org/abs/2306.16934v2)|[link](https://github.com/bbaaii/DreamDiffusion)|
+|**2023-06-29**|**CLIPAG: Towards Generator-Free Text-to-Image Generation**|Roy Ganz et.al.|[2306.16805v1](http://arxiv.org/abs/2306.16805v1)|null|
+|**2023-06-29**|**Foundation Model for Endoscopy Video Analysis via Large-scale Self-supervised Pre-train**|Zhao Wang et.al.|[2306.16741v1](http://arxiv.org/abs/2306.16741v1)|[link](https://github.com/med-air/endo-fm)|
+|**2023-06-28**|**ICSVR: Investigating Compositional and Semantic Understanding in Video Retrieval Models**|Avinash Madasu et.al.|[2306.16533v1](http://arxiv.org/abs/2306.16533v1)|null|
+|**2023-06-28**|**Challenges of Zero-Shot Recognition with Vision-Language Models: Granularity and Correctness**|Zhenlin Xu et.al.|[2306.16048v1](http://arxiv.org/abs/2306.16048v1)|null|
+|**2023-06-28**|**Pseudo-Labeling Enhanced by Privileged Information and Its Application to In Situ Sequencing Images**|Marzieh Haghighi et.al.|[2306.15898v1](http://arxiv.org/abs/2306.15898v1)|null|
+|**2023-06-28**|**SpotEM: Efficient Video Search for Episodic Memory**|Santhosh Kumar Ramakrishnan et.al.|[2306.15850v1](http://arxiv.org/abs/2306.15850v1)|null|
+|**2023-06-27**|**Differentially Private Video Activity Recognition**|Zelun Luo et.al.|[2306.15742v1](http://arxiv.org/abs/2306.15742v1)|null|
+|**2023-06-27**|**CLIPA-v2: Scaling CLIP Training with 81.1% Zero-shot ImageNet Accuracy within a \$10,000 Budget; An Extra \$4,000 Unlocks 81.8% Accuracy**|Xianhang Li et.al.|[2306.15658v1](http://arxiv.org/abs/2306.15658v1)|[link](https://github.com/ucsc-vlaa/clipa)|
+|**2023-06-27**|**Approximated Prompt Tuning for Vision-Language Pre-trained Models**|Qiong Wu et.al.|[2306.15706v1](http://arxiv.org/abs/2306.15706v1)|null|
+|**2023-06-26**|**Semi-Supervised Image Captioning with CLIP**|Chuanyang Jin et.al.|[2306.15111v1](http://arxiv.org/abs/2306.15111v1)|null|
+|**2023-06-26**|**FunQA: Towards Surprising Video Comprehension**|Binzhu Xie et.al.|[2306.14899v1](http://arxiv.org/abs/2306.14899v1)|[link](https://github.com/jingkang50/funqa)|
+|**2023-06-26**|**PTVD: A Large-Scale Plot-Oriented Multimodal Dataset Based on Television Dramas**|Chen Li et.al.|[2306.14644v1](http://arxiv.org/abs/2306.14644v1)|[link](https://github.com/palchenli/TVD)|
+|**2023-06-26**|**A Badminton Recognition and Tracking System Based on Context Multi-feature Fusion**|Xinyu Wang et.al.|[2306.14492v1](http://arxiv.org/abs/2306.14492v1)|null|
+|**2023-06-26**|**Subjective assessment of the impact of a content adaptive optimiser for compressing 4K HDR content with AV1**|Vibhoothi et.al.|[2306.14432v1](http://arxiv.org/abs/2306.14432v1)|[link](https://gitlab.com/mindfreeze/icip2023)|
+|**2023-06-26**|**TCEIP: Text Condition Embedded Regression Network for Dental Implant Position Prediction**|Xinquan Yang et.al.|[2306.14406v2](http://arxiv.org/abs/2306.14406v2)|null|
+|**2023-06-25**|**Addressing Cold Start Problem for End-to-end Automatic Speech Scoring**|Jungbae Park et.al.|[2306.14310v1](http://arxiv.org/abs/2306.14310v1)|null|
+|**2023-06-24**|**Utilizing Segment Anything Model For Assessing Localization of GRAD-CAM in Medical Imaging**|Evan Kellener et.al.|[2306.15692v1](http://arxiv.org/abs/2306.15692v1)|null|
+|**2023-06-24**|**Real-World Video for Zoom Enhancement based on Spatio-Temporal Coupling**|Zhiling Guo et.al.|[2306.13875v1](http://arxiv.org/abs/2306.13875v1)|null|
+|**2023-06-24**|**Learning-to-Rank Meets Language: Boosting Language-Driven Ordering Alignment for Ordinal Classification**|Rui Wang et.al.|[2306.13856v1](http://arxiv.org/abs/2306.13856v1)|null|
+|**2023-06-23**|**OpenMask3D: Open-Vocabulary 3D Instance Segmentation**|Ayça Takmaz et.al.|[2306.13631v1](http://arxiv.org/abs/2306.13631v1)|null|
+|**2023-06-23**|**Augmenting Sports Videos with VisCommentator**|Zhutian Chen et.al.|[2306.13491v1](http://arxiv.org/abs/2306.13491v1)|null|
+|**2023-06-23**|**Multimodal Search on Iconclass using Vision-Language Pre-Trained Models**|Cristian Santini et.al.|[2306.16529v1](http://arxiv.org/abs/2306.16529v1)|null|
+|**2023-06-22**|**Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing**|Yelysei Bondarenko et.al.|[2306.12929v1](http://arxiv.org/abs/2306.12929v1)|null|
 
 ## Transformer
 
