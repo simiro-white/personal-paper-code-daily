@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-08-12 21:00:24 Asia/Shanghai
+ Automated deployment @ 2023-08-13 09:10:28 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -68,40 +68,6 @@
 |**2023-08-09**|**DiVa: An Iterative Framework to Harvest More Diverse and Valid Labels from User Comments for Music**|Hongru Liang et.al.|[2308.04805v1](http://arxiv.org/abs/2308.04805v1)|[link](https://github.com/jingyaolliu/diva)|
 |**2023-08-09**|**ADMUS: A Progressive Question Answering Framework Adaptable to Multiple Knowledge Sources**|Yirui Zhan et.al.|[2308.04800v1](http://arxiv.org/abs/2308.04800v1)|null|
 
-### General
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-08-10**|**Multi-domain Recommendation with Embedding Disentangling and Domain Alignment**|Wentao Ning et.al.|[2308.05508v1](http://arxiv.org/abs/2308.05508v1)|[link](https://github.com/Stevenn9981/EDDA)|
-|**2023-08-09**|**Cross-view Semantic Alignment for Livestreaming Product Recognition**|Wenjie Yang et.al.|[2308.04912v1](http://arxiv.org/abs/2308.04912v1)|[link](https://github.com/adxcreative/rice)|
-|**2023-08-09**|**TRTM: Template-based Reconstruction and Target-oriented Manipulation of Crumpled Cloths**|Wenbo Wang et.al.|[2308.04670v1](http://arxiv.org/abs/2308.04670v1)|null|
-|**2023-08-08**|**Domain Adaptive Person Search via GAN-based Scene Synthesis for Cross-scene Videos**|Huibing Wang et.al.|[2308.04322v1](http://arxiv.org/abs/2308.04322v1)|[link](https://github.com/crsm424/da-gss)|
-|**2023-08-08**|**Cloth2Tex: A Customized Cloth Texture Generation Pipeline for 3D Virtual Try-On**|Daiheng Gao et.al.|[2308.04288v1](http://arxiv.org/abs/2308.04288v1)|null|
-|**2023-08-08**|**An Ethereum-based Product Identification System for Anti-counterfeits**|Shashank Gupta et.al.|[2308.04006v1](http://arxiv.org/abs/2308.04006v1)|null|
-|**2023-08-05**|**SwinGar: Spectrum-Inspired Neural Dynamic Deformation for Free-Swinging Garments**|Tianxing Li et.al.|[2308.02827v1](http://arxiv.org/abs/2308.02827v1)|null|
-|**2023-08-02**|**Using The Polynomial Particle-In-Cell Method For Liquid-Fabric Interaction**|Robert Dennison et.al.|[2308.01060v1](http://arxiv.org/abs/2308.01060v1)|[link](https://github.com/robden820/libwetcloth)|
-|**2023-07-25**|**Weakly-supervised 3D Pose Transfer with Keypoints**|Jinnan Chen et.al.|[2307.13459v1](http://arxiv.org/abs/2307.13459v1)|null|
-|**2023-07-25**|**High-Resolution Volumetric Reconstruction for Clothed Humans**|Sicong Tang et.al.|[2307.13282v1](http://arxiv.org/abs/2307.13282v1)|null|
-|**2023-07-23**|**Scalable solution to crossed random effects model with random slopes**|Disha Ghandwani et.al.|[2307.12378v2](http://arxiv.org/abs/2307.12378v2)|null|
-|**2023-07-19**|**DNA-Rendering: A Diverse Neural Actor Repository for High-Fidelity Human-centric Rendering**|Wei Cheng et.al.|[2307.10173v1](http://arxiv.org/abs/2307.10173v1)|[link](https://github.com/DNA-Rendering/DNA-Rendering)|
-|**2023-07-13**|**AvatarFusion: Zero-shot Generation of Clothing-Decoupled 3D Avatars Using 2D Diffusion**|Shuo Huang et.al.|[2307.06526v1](http://arxiv.org/abs/2307.06526v1)|null|
-|**2023-07-04**|**Physically Realizable Natural-Looking Clothing Textures Evade Person Detectors via 3D Modeling**|Zhanhao Hu et.al.|[2307.01778v1](http://arxiv.org/abs/2307.01778v1)|[link](https://github.com/WhoTHU/Adversarial_camou)|
-|**2023-07-03**|**VINECS: Video-based Neural Character Skinning**|Zhouyingcheng Liao et.al.|[2307.00842v1](http://arxiv.org/abs/2307.00842v1)|null|
-|**2023-06-29**|**BEDLAM: A Synthetic Dataset of Bodies Exhibiting Detailed Lifelike Animated Motion**|Michael J. Black et.al.|[2306.16940v1](http://arxiv.org/abs/2306.16940v1)|[link](https://github.com/PerceivingSystems/bedlam_render)|
-|**2023-06-26**|**Deep Learning for Cancer Prognosis Prediction Using Portrait Photos by StyleGAN Embedding**|Amr Hagag et.al.|[2306.14596v2](http://arxiv.org/abs/2306.14596v2)|null|
-|**2023-06-26**|**Learning to Grasp Clothing Structural Regions for Garment Manipulation Tasks**|Wei Chen et.al.|[2306.14553v1](http://arxiv.org/abs/2306.14553v1)|null|
-|**2023-06-24**|**ClothFit: Cloth-Human-Attribute Guided Virtual Try-On Network Using 3D Simulated Dataset**|Yunmin Cho et.al.|[2306.13908v1](http://arxiv.org/abs/2306.13908v1)|null|
-|**2023-06-21**|**One Policy to Dress Them All: Learning to Dress People with Diverse Poses and Garments**|Yufei Wang et.al.|[2306.12372v1](http://arxiv.org/abs/2306.12372v1)|null|
-|**2023-06-16**|**AvatarBooth: High-Quality and Customizable 3D Human Avatar Generation**|Yifei Zeng et.al.|[2306.09864v1](http://arxiv.org/abs/2306.09864v1)|null|
-|**2023-06-16**|**Cross-corpus Readability Compatibility Assessment for English Texts**|Zhenzhen Li et.al.|[2306.09704v1](http://arxiv.org/abs/2306.09704v1)|[link](https://github.com/zimzsh/cross-corpus-readability-compatibility-assessment-for-english-texts)|
-|**2023-06-15**|**DreamHuman: Animatable 3D Avatars from Text**|Nikos Kolotouros et.al.|[2306.09329v1](http://arxiv.org/abs/2306.09329v1)|null|
-|**2023-06-15**|**A surface finite element method for the Navier-Stokes equations on evolving surfaces**|Veit Krause et.al.|[2306.08917v1](http://arxiv.org/abs/2306.08917v1)|null|
-|**2023-06-13**|**Retrieve Anyone: A General-purpose Person Re-identification Task with Instructions**|Weizhen He et.al.|[2306.07520v3](http://arxiv.org/abs/2306.07520v3)|null|
-|**2023-06-11**|**Local Deformation for Interactive Shape Editing**|Honglin Chen et.al.|[2306.06550v1](http://arxiv.org/abs/2306.06550v1)|null|
-|**2023-06-09**|**Augmenting Off-the-Shelf Grippers with Tactile Sensing**|Remko Proesmans et.al.|[2306.05902v1](http://arxiv.org/abs/2306.05902v1)|[link](https://github.com/RemkoPr/icra-2023-workshop-tactile-fingertips)|
-|**2023-06-06**|**GaitMPL: Gait Recognition with Memory-Augmented Progressive Learning**|Huanzhang Dou et.al.|[2306.04650v1](http://arxiv.org/abs/2306.04650v1)|null|
-|**2023-06-03**|**Towards Complex Real-World Safety Factory Inspection: A High-Quality Dataset for Safety Clothing and Helmet Detection**|Fusheng Yu et.al.|[2306.02098v1](http://arxiv.org/abs/2306.02098v1)|null|
-|**2023-06-02**|**Acoustic meta-stethoscope for cardiac auscultation**|Zheng-Ji Chen et.al.|[2306.01374v1](http://arxiv.org/abs/2306.01374v1)|null|
-
 ### Compatibility
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -169,6 +135,40 @@
 |**2023-08-09**|**Sci-CoT: Leveraging Large Language Models for Enhanced Knowledge Distillation in Small Models for Scientific QA**|Yuhan Ma et.al.|[2308.04679v1](http://arxiv.org/abs/2308.04679v1)|null|
 |**2023-08-09**|**Drop size characteristics of sprays emanating from circular and non-circular orifices in the atomization regime**|K. R. Rajesh et.al.|[2308.04652v1](http://arxiv.org/abs/2308.04652v1)|null|
 |**2023-08-09**|**Deep Metric Learning for the Hemodynamics Inference with Electrocardiogram Signals**|Hyewon Jeong et.al.|[2308.04650v1](http://arxiv.org/abs/2308.04650v1)|null|
+
+### General
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-08-10**|**Multi-domain Recommendation with Embedding Disentangling and Domain Alignment**|Wentao Ning et.al.|[2308.05508v1](http://arxiv.org/abs/2308.05508v1)|[link](https://github.com/Stevenn9981/EDDA)|
+|**2023-08-09**|**Cross-view Semantic Alignment for Livestreaming Product Recognition**|Wenjie Yang et.al.|[2308.04912v1](http://arxiv.org/abs/2308.04912v1)|[link](https://github.com/adxcreative/rice)|
+|**2023-08-09**|**TRTM: Template-based Reconstruction and Target-oriented Manipulation of Crumpled Cloths**|Wenbo Wang et.al.|[2308.04670v1](http://arxiv.org/abs/2308.04670v1)|null|
+|**2023-08-08**|**Domain Adaptive Person Search via GAN-based Scene Synthesis for Cross-scene Videos**|Huibing Wang et.al.|[2308.04322v1](http://arxiv.org/abs/2308.04322v1)|[link](https://github.com/crsm424/da-gss)|
+|**2023-08-08**|**Cloth2Tex: A Customized Cloth Texture Generation Pipeline for 3D Virtual Try-On**|Daiheng Gao et.al.|[2308.04288v1](http://arxiv.org/abs/2308.04288v1)|null|
+|**2023-08-08**|**An Ethereum-based Product Identification System for Anti-counterfeits**|Shashank Gupta et.al.|[2308.04006v1](http://arxiv.org/abs/2308.04006v1)|null|
+|**2023-08-05**|**SwinGar: Spectrum-Inspired Neural Dynamic Deformation for Free-Swinging Garments**|Tianxing Li et.al.|[2308.02827v1](http://arxiv.org/abs/2308.02827v1)|null|
+|**2023-08-02**|**Using The Polynomial Particle-In-Cell Method For Liquid-Fabric Interaction**|Robert Dennison et.al.|[2308.01060v1](http://arxiv.org/abs/2308.01060v1)|[link](https://github.com/robden820/libwetcloth)|
+|**2023-07-25**|**Weakly-supervised 3D Pose Transfer with Keypoints**|Jinnan Chen et.al.|[2307.13459v1](http://arxiv.org/abs/2307.13459v1)|null|
+|**2023-07-25**|**High-Resolution Volumetric Reconstruction for Clothed Humans**|Sicong Tang et.al.|[2307.13282v1](http://arxiv.org/abs/2307.13282v1)|null|
+|**2023-07-23**|**Scalable solution to crossed random effects model with random slopes**|Disha Ghandwani et.al.|[2307.12378v2](http://arxiv.org/abs/2307.12378v2)|null|
+|**2023-07-19**|**DNA-Rendering: A Diverse Neural Actor Repository for High-Fidelity Human-centric Rendering**|Wei Cheng et.al.|[2307.10173v1](http://arxiv.org/abs/2307.10173v1)|[link](https://github.com/DNA-Rendering/DNA-Rendering)|
+|**2023-07-13**|**AvatarFusion: Zero-shot Generation of Clothing-Decoupled 3D Avatars Using 2D Diffusion**|Shuo Huang et.al.|[2307.06526v1](http://arxiv.org/abs/2307.06526v1)|null|
+|**2023-07-04**|**Physically Realizable Natural-Looking Clothing Textures Evade Person Detectors via 3D Modeling**|Zhanhao Hu et.al.|[2307.01778v1](http://arxiv.org/abs/2307.01778v1)|[link](https://github.com/WhoTHU/Adversarial_camou)|
+|**2023-07-03**|**VINECS: Video-based Neural Character Skinning**|Zhouyingcheng Liao et.al.|[2307.00842v1](http://arxiv.org/abs/2307.00842v1)|null|
+|**2023-06-29**|**BEDLAM: A Synthetic Dataset of Bodies Exhibiting Detailed Lifelike Animated Motion**|Michael J. Black et.al.|[2306.16940v1](http://arxiv.org/abs/2306.16940v1)|[link](https://github.com/PerceivingSystems/bedlam_render)|
+|**2023-06-26**|**Deep Learning for Cancer Prognosis Prediction Using Portrait Photos by StyleGAN Embedding**|Amr Hagag et.al.|[2306.14596v2](http://arxiv.org/abs/2306.14596v2)|null|
+|**2023-06-26**|**Learning to Grasp Clothing Structural Regions for Garment Manipulation Tasks**|Wei Chen et.al.|[2306.14553v1](http://arxiv.org/abs/2306.14553v1)|null|
+|**2023-06-24**|**ClothFit: Cloth-Human-Attribute Guided Virtual Try-On Network Using 3D Simulated Dataset**|Yunmin Cho et.al.|[2306.13908v1](http://arxiv.org/abs/2306.13908v1)|null|
+|**2023-06-21**|**One Policy to Dress Them All: Learning to Dress People with Diverse Poses and Garments**|Yufei Wang et.al.|[2306.12372v1](http://arxiv.org/abs/2306.12372v1)|null|
+|**2023-06-16**|**AvatarBooth: High-Quality and Customizable 3D Human Avatar Generation**|Yifei Zeng et.al.|[2306.09864v1](http://arxiv.org/abs/2306.09864v1)|null|
+|**2023-06-16**|**Cross-corpus Readability Compatibility Assessment for English Texts**|Zhenzhen Li et.al.|[2306.09704v1](http://arxiv.org/abs/2306.09704v1)|[link](https://github.com/zimzsh/cross-corpus-readability-compatibility-assessment-for-english-texts)|
+|**2023-06-15**|**DreamHuman: Animatable 3D Avatars from Text**|Nikos Kolotouros et.al.|[2306.09329v1](http://arxiv.org/abs/2306.09329v1)|null|
+|**2023-06-15**|**A surface finite element method for the Navier-Stokes equations on evolving surfaces**|Veit Krause et.al.|[2306.08917v1](http://arxiv.org/abs/2306.08917v1)|null|
+|**2023-06-13**|**Retrieve Anyone: A General-purpose Person Re-identification Task with Instructions**|Weizhen He et.al.|[2306.07520v3](http://arxiv.org/abs/2306.07520v3)|null|
+|**2023-06-11**|**Local Deformation for Interactive Shape Editing**|Honglin Chen et.al.|[2306.06550v1](http://arxiv.org/abs/2306.06550v1)|null|
+|**2023-06-09**|**Augmenting Off-the-Shelf Grippers with Tactile Sensing**|Remko Proesmans et.al.|[2306.05902v1](http://arxiv.org/abs/2306.05902v1)|[link](https://github.com/RemkoPr/icra-2023-workshop-tactile-fingertips)|
+|**2023-06-06**|**GaitMPL: Gait Recognition with Memory-Augmented Progressive Learning**|Huanzhang Dou et.al.|[2306.04650v1](http://arxiv.org/abs/2306.04650v1)|null|
+|**2023-06-03**|**Towards Complex Real-World Safety Factory Inspection: A High-Quality Dataset for Safety Clothing and Helmet Detection**|Fusheng Yu et.al.|[2306.02098v1](http://arxiv.org/abs/2306.02098v1)|null|
+|**2023-06-02**|**Acoustic meta-stethoscope for cardiac auscultation**|Zheng-Ji Chen et.al.|[2306.01374v1](http://arxiv.org/abs/2306.01374v1)|null|
 
 ### Recommendation
 |Publish Date|Title|Authors|PDF|Code|
@@ -276,40 +276,6 @@
 
 ## Multi-modal
 
-### CLIP
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-08-10**|**AD-CLIP: Adapting Domains in Prompt Space Using CLIP**|Mainak Singha et.al.|[2308.05659v1](http://arxiv.org/abs/2308.05659v1)|null|
-|**2023-08-10**|**Deep Richardson-Lucy Deconvolution for Low-Light Image Deblurring**|Liang Chen et.al.|[2308.05543v1](http://arxiv.org/abs/2308.05543v1)|null|
-|**2023-08-10**|**Liquid Metal Molecular Scissors**|Liangfei Duan et.al.|[2308.05383v1](http://arxiv.org/abs/2308.05383v1)|null|
-|**2023-08-10**|**TCSloT: Text Guided 3D Context and Slope Aware Triple Network for Dental Implant Position Prediction**|Xinquan Yang et.al.|[2308.05355v1](http://arxiv.org/abs/2308.05355v1)|null|
-|**2023-08-09**|**Seeing in Flowing: Adapting CLIP for Action Recognition with Motion Prompts Learning**|Qiang Wang et.al.|[2308.04828v1](http://arxiv.org/abs/2308.04828v1)|null|
-|**2023-08-08**|**Improved Activation Clipping for Universal Backdoor Mitigation and Test-Time Detection**|Hang Wang et.al.|[2308.04617v1](http://arxiv.org/abs/2308.04617v1)|[link](https://github.com/wanghangpsu/mmac)|
-|**2023-08-08**|**Generating Modern Persian Carpet Map by Style-transfer**|Dorsa Rahmatian et.al.|[2308.04529v1](http://arxiv.org/abs/2308.04529v1)|null|
-|**2023-08-08**|**MindDiffuser: Controlled Image Reconstruction from Human Brain Activity with Semantic and Structural Diffusion**|Yizhuo Lu et.al.|[2308.04249v1](http://arxiv.org/abs/2308.04249v1)|[link](https://github.com/reedonepeck/minddiffuser)|
-|**2023-08-08**|**Multimodal Color Recommendation in Vector Graphic Documents**|Qianru Qiu et.al.|[2308.04118v1](http://arxiv.org/abs/2308.04118v1)|null|
-|**2023-08-08**|**The Five-Dollar Model: Generating Game Maps and Sprites from Sentence Embeddings**|Timothy Merino et.al.|[2308.04052v1](http://arxiv.org/abs/2308.04052v1)|null|
-|**2023-08-07**|**Storyfier: Exploring Vocabulary Learning Support with Text Generation Models**|Zhenhui Peng et.al.|[2308.03864v1](http://arxiv.org/abs/2308.03864v1)|null|
-|**2023-08-07**|**Distributionally Robust Classification on a Data Budget**|Benjamin Feuer et.al.|[2308.03821v1](http://arxiv.org/abs/2308.03821v1)|[link](https://github.com/penfever/vlhub)|
-|**2023-08-07**|**Deepfake Detection: A Comparative Analysis**|Sohail Ahmed Khan et.al.|[2308.03471v1](http://arxiv.org/abs/2308.03471v1)|null|
-|**2023-08-06**|**Photorealistic and Identity-Preserving Image-Based Emotion Manipulation with Latent Diffusion Models**|Ioannis Pikoulis et.al.|[2308.03183v1](http://arxiv.org/abs/2308.03183v1)|null|
-|**2023-08-06**|**E-CLIP: Towards Label-efficient Event-based Open-world Understanding by CLIP**|Jiazhou Zhou et.al.|[2308.03135v1](http://arxiv.org/abs/2308.03135v1)|null|
-|**2023-08-05**|**Improving Generalization of Image Captioning with Unsupervised Prompt Learning**|Hongchen Wei et.al.|[2308.02862v1](http://arxiv.org/abs/2308.02862v1)|null|
-|**2023-08-04**|**ReCLIP: Refine Contrastive Language Image Pre-Training with Source Free Domain Adaptation**|Xuefeng Hu et.al.|[2308.03793v1](http://arxiv.org/abs/2308.03793v1)|null|
-|**2023-08-04**|**Convolutions Die Hard: Open-Vocabulary Segmentation with Single Frozen Convolutional CLIP**|Qihang Yu et.al.|[2308.02487v1](http://arxiv.org/abs/2308.02487v1)|[link](https://github.com/bytedance/fc-clip)|
-|**2023-08-03**|**DiffColor: Toward High Fidelity Text-Guided Image Colorization with Diffusion Models**|Jianxin Lin et.al.|[2308.01655v1](http://arxiv.org/abs/2308.01655v1)|null|
-|**2023-08-03**|**A Survey on Deep Learning-based Spatio-temporal Action Detection**|Peng Wang et.al.|[2308.01618v1](http://arxiv.org/abs/2308.01618v1)|null|
-|**2023-08-03**|**Multimodal Adaptation of CLIP for Few-Shot Action Recognition**|Jiazheng Xing et.al.|[2308.01532v1](http://arxiv.org/abs/2308.01532v1)|null|
-|**2023-08-02**|**More Context, Less Distraction: Visual Classification by Inferring and Conditioning on Contextual Attributes**|Bang An et.al.|[2308.01313v1](http://arxiv.org/abs/2308.01313v1)|[link](https://github.com/umd-huang-lab/perceptionclip)|
-|**2023-08-02**|**TeachCLIP: Multi-Grained Teaching for Efficient Text-to-Video Retrieval**|Kaibin Tian et.al.|[2308.01217v1](http://arxiv.org/abs/2308.01217v1)|null|
-|**2023-08-02**|**Rethinking Similarity Search: Embracing Smarter Mechanisms over Smarter Data**|Renzhi Wu et.al.|[2308.00909v1](http://arxiv.org/abs/2308.00909v1)|null|
-|**2023-08-01**|**Detecting Cloud Presence in Satellite Images Using the RGB-based CLIP Vision-Language Model**|Mikolaj Czerkawski et.al.|[2308.00541v1](http://arxiv.org/abs/2308.00541v1)|null|
-|**2023-08-01**|**Context-Aware Talking-Head Video Editing**|Songlin Yang et.al.|[2308.00462v1](http://arxiv.org/abs/2308.00462v1)|null|
-|**2023-07-31**|**UniVTG: Towards Unified Video-Language Temporal Grounding**|Kevin Qinghong Lin et.al.|[2307.16715v1](http://arxiv.org/abs/2307.16715v1)|[link](https://github.com/showlab/univtg)|
-|**2023-07-31**|**Guiding Image Captioning Models Toward More Specific Captions**|Simon Kornblith et.al.|[2307.16686v1](http://arxiv.org/abs/2307.16686v1)|null|
-|**2023-07-31**|**CDUL: CLIP-Driven Unsupervised Learning for Multi-Label Image Classification**|Rabab Abdelfattah et.al.|[2307.16634v1](http://arxiv.org/abs/2307.16634v1)|null|
-|**2023-07-31**|**Towards Unbalanced Motion: Part-Decoupling Network for Video Portrait Segmentation**|Tianshu Yu et.al.|[2307.16565v1](http://arxiv.org/abs/2307.16565v1)|null|
-
 ### Multi-modal
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -343,6 +309,40 @@
 |**2023-08-10**|**Fast quantum state transfer and entanglement preparation in strongly coupled bosonic systems**|Yilun Xu et.al.|[2308.05511v1](http://arxiv.org/abs/2308.05511v1)|null|
 |**2023-08-10**|**Advancing Space-Based Gravitational Wave Astronomy: Rapid Detection and Parameter Estimation Using Normalizing Flows**|Minghui Du et.al.|[2308.05510v1](http://arxiv.org/abs/2308.05510v1)|null|
 |**2023-08-10**|**Multi-domain Recommendation with Embedding Disentangling and Domain Alignment**|Wentao Ning et.al.|[2308.05508v1](http://arxiv.org/abs/2308.05508v1)|[link](https://github.com/Stevenn9981/EDDA)|
+
+### CLIP
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-08-10**|**AD-CLIP: Adapting Domains in Prompt Space Using CLIP**|Mainak Singha et.al.|[2308.05659v1](http://arxiv.org/abs/2308.05659v1)|null|
+|**2023-08-10**|**Deep Richardson-Lucy Deconvolution for Low-Light Image Deblurring**|Liang Chen et.al.|[2308.05543v1](http://arxiv.org/abs/2308.05543v1)|null|
+|**2023-08-10**|**Liquid Metal Molecular Scissors**|Liangfei Duan et.al.|[2308.05383v1](http://arxiv.org/abs/2308.05383v1)|null|
+|**2023-08-10**|**TCSloT: Text Guided 3D Context and Slope Aware Triple Network for Dental Implant Position Prediction**|Xinquan Yang et.al.|[2308.05355v1](http://arxiv.org/abs/2308.05355v1)|null|
+|**2023-08-09**|**Seeing in Flowing: Adapting CLIP for Action Recognition with Motion Prompts Learning**|Qiang Wang et.al.|[2308.04828v1](http://arxiv.org/abs/2308.04828v1)|null|
+|**2023-08-08**|**Improved Activation Clipping for Universal Backdoor Mitigation and Test-Time Detection**|Hang Wang et.al.|[2308.04617v1](http://arxiv.org/abs/2308.04617v1)|[link](https://github.com/wanghangpsu/mmac)|
+|**2023-08-08**|**Generating Modern Persian Carpet Map by Style-transfer**|Dorsa Rahmatian et.al.|[2308.04529v1](http://arxiv.org/abs/2308.04529v1)|null|
+|**2023-08-08**|**MindDiffuser: Controlled Image Reconstruction from Human Brain Activity with Semantic and Structural Diffusion**|Yizhuo Lu et.al.|[2308.04249v1](http://arxiv.org/abs/2308.04249v1)|[link](https://github.com/reedonepeck/minddiffuser)|
+|**2023-08-08**|**Multimodal Color Recommendation in Vector Graphic Documents**|Qianru Qiu et.al.|[2308.04118v1](http://arxiv.org/abs/2308.04118v1)|null|
+|**2023-08-08**|**The Five-Dollar Model: Generating Game Maps and Sprites from Sentence Embeddings**|Timothy Merino et.al.|[2308.04052v1](http://arxiv.org/abs/2308.04052v1)|null|
+|**2023-08-07**|**Storyfier: Exploring Vocabulary Learning Support with Text Generation Models**|Zhenhui Peng et.al.|[2308.03864v1](http://arxiv.org/abs/2308.03864v1)|null|
+|**2023-08-07**|**Distributionally Robust Classification on a Data Budget**|Benjamin Feuer et.al.|[2308.03821v1](http://arxiv.org/abs/2308.03821v1)|[link](https://github.com/penfever/vlhub)|
+|**2023-08-07**|**Deepfake Detection: A Comparative Analysis**|Sohail Ahmed Khan et.al.|[2308.03471v1](http://arxiv.org/abs/2308.03471v1)|null|
+|**2023-08-06**|**Photorealistic and Identity-Preserving Image-Based Emotion Manipulation with Latent Diffusion Models**|Ioannis Pikoulis et.al.|[2308.03183v1](http://arxiv.org/abs/2308.03183v1)|null|
+|**2023-08-06**|**E-CLIP: Towards Label-efficient Event-based Open-world Understanding by CLIP**|Jiazhou Zhou et.al.|[2308.03135v1](http://arxiv.org/abs/2308.03135v1)|null|
+|**2023-08-05**|**Improving Generalization of Image Captioning with Unsupervised Prompt Learning**|Hongchen Wei et.al.|[2308.02862v1](http://arxiv.org/abs/2308.02862v1)|null|
+|**2023-08-04**|**ReCLIP: Refine Contrastive Language Image Pre-Training with Source Free Domain Adaptation**|Xuefeng Hu et.al.|[2308.03793v1](http://arxiv.org/abs/2308.03793v1)|null|
+|**2023-08-04**|**Convolutions Die Hard: Open-Vocabulary Segmentation with Single Frozen Convolutional CLIP**|Qihang Yu et.al.|[2308.02487v1](http://arxiv.org/abs/2308.02487v1)|[link](https://github.com/bytedance/fc-clip)|
+|**2023-08-03**|**DiffColor: Toward High Fidelity Text-Guided Image Colorization with Diffusion Models**|Jianxin Lin et.al.|[2308.01655v1](http://arxiv.org/abs/2308.01655v1)|null|
+|**2023-08-03**|**A Survey on Deep Learning-based Spatio-temporal Action Detection**|Peng Wang et.al.|[2308.01618v1](http://arxiv.org/abs/2308.01618v1)|null|
+|**2023-08-03**|**Multimodal Adaptation of CLIP for Few-Shot Action Recognition**|Jiazheng Xing et.al.|[2308.01532v1](http://arxiv.org/abs/2308.01532v1)|null|
+|**2023-08-02**|**More Context, Less Distraction: Visual Classification by Inferring and Conditioning on Contextual Attributes**|Bang An et.al.|[2308.01313v1](http://arxiv.org/abs/2308.01313v1)|[link](https://github.com/umd-huang-lab/perceptionclip)|
+|**2023-08-02**|**TeachCLIP: Multi-Grained Teaching for Efficient Text-to-Video Retrieval**|Kaibin Tian et.al.|[2308.01217v1](http://arxiv.org/abs/2308.01217v1)|null|
+|**2023-08-02**|**Rethinking Similarity Search: Embracing Smarter Mechanisms over Smarter Data**|Renzhi Wu et.al.|[2308.00909v1](http://arxiv.org/abs/2308.00909v1)|null|
+|**2023-08-01**|**Detecting Cloud Presence in Satellite Images Using the RGB-based CLIP Vision-Language Model**|Mikolaj Czerkawski et.al.|[2308.00541v1](http://arxiv.org/abs/2308.00541v1)|null|
+|**2023-08-01**|**Context-Aware Talking-Head Video Editing**|Songlin Yang et.al.|[2308.00462v1](http://arxiv.org/abs/2308.00462v1)|null|
+|**2023-07-31**|**UniVTG: Towards Unified Video-Language Temporal Grounding**|Kevin Qinghong Lin et.al.|[2307.16715v1](http://arxiv.org/abs/2307.16715v1)|[link](https://github.com/showlab/univtg)|
+|**2023-07-31**|**Guiding Image Captioning Models Toward More Specific Captions**|Simon Kornblith et.al.|[2307.16686v1](http://arxiv.org/abs/2307.16686v1)|null|
+|**2023-07-31**|**CDUL: CLIP-Driven Unsupervised Learning for Multi-Label Image Classification**|Rabab Abdelfattah et.al.|[2307.16634v1](http://arxiv.org/abs/2307.16634v1)|null|
+|**2023-07-31**|**Towards Unbalanced Motion: Part-Decoupling Network for Video Portrait Segmentation**|Tianshu Yu et.al.|[2307.16565v1](http://arxiv.org/abs/2307.16565v1)|null|
 
 ## Graph Neural Network
 
