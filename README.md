@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-08-24 20:54:20 Asia/Shanghai
+ Automated deployment @ 2023-08-24 21:16:00 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -35,39 +35,39 @@
 |**2002-11-19**|**2D analytical modeling of distortion and sky background in multi-fiber spectrographs: the case of the Norris spectrograph at Palomar Mountain**|Maurice Viton et.al.|[astro-ph/0211423v1](http://arxiv.org/abs/astro-ph/0211423v1)|null|
 |**1998-09-30**|**Discovery of a z=0.808 damped Lyman-alpha system candidate in a UV selected quasar spectrum**|V. Le Brun et.al.|[astro-ph/9809402v1](http://arxiv.org/abs/astro-ph/9809402v1)|null|
 
-### Recommendation
+### Retrieval
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-23**|**Prompt2Model: Generating Deployable Models from Natural Language Instructions**|Vijay Viswanathan et.al.|[2308.12261v1](http://arxiv.org/abs/2308.12261v1)|[link](https://github.com/neulab/prompt2model)|
 |**2023-08-23**|**Learning from Negative User Feedback and Measuring Responsiveness for Sequential Recommenders**|Yueqi Wang et.al.|[2308.12256v1](http://arxiv.org/abs/2308.12256v1)|null|
 |**2023-08-23**|**LLMRec: Benchmarking Large Language Models on Recommendation Task**|Junling Liu et.al.|[2308.12241v1](http://arxiv.org/abs/2308.12241v1)|[link](https://github.com/williamliujl/llmrec)|
 |**2023-08-23**|**CIParsing: Unifying Causality Properties into Multiple Human Parsing**|Xiaojia Chen et.al.|[2308.12218v1](http://arxiv.org/abs/2308.12218v1)|null|
-|**2023-08-23**|**The Challenges of Machine Learning for Trust and Safety: A Case Study on Misinformation Detection**|Madelyne Xiao et.al.|[2308.12215v1](http://arxiv.org/abs/2308.12215v1)|null|
 |**2023-08-23**|**Robustness Analysis of Continuous-Depth Models with Lagrangian Techniques**|Sophie A. Neubauer et.al.|[2308.12192v1](http://arxiv.org/abs/2308.12192v1)|null|
+|**2023-08-23**|**Theory vs. Practice in Modeling Edge Storage Systems**|Oleg Kolosov et.al.|[2308.12115v1](http://arxiv.org/abs/2308.12115v1)|null|
 |**2023-08-23**|**On Using Information Retrieval to Recommend Machine Learning Good Practices for Software Engineers**|Laura Cabra-Acela et.al.|[2308.12095v1](http://arxiv.org/abs/2308.12095v1)|null|
 |**2023-08-23**|**Counterfactual Graph Augmentation for Consumer Unfairness Mitigation in Recommender Systems**|Ludovico Boratto et.al.|[2308.12083v1](http://arxiv.org/abs/2308.12083v1)|null|
-|**2023-08-23**|**Unleashing IoT Security: Assessing the Effectiveness of Best Practices in Protecting Against Threats**|Philipp Pütz et.al.|[2308.12072v1](http://arxiv.org/abs/2308.12072v1)|null|
+|**2023-08-23**|**Hybrid Retrieval and Multi-stage Text Ranking Solution at TREC 2022 Deep Learning Track**|Guangwei Xu et.al.|[2308.12039v1](http://arxiv.org/abs/2308.12039v1)|null|
 |**2023-08-23**|**LKPNR: LLM and KG for Personalized News Recommendation Framework**|Chen hao et.al.|[2308.12028v1](http://arxiv.org/abs/2308.12028v1)|[link](https://github.com/xuan-zw/lkpnr)|
+|**2023-08-23**|**Reranking Passages with Coarse-to-Fine Neural Retriever using List-Context Information**|Hongyin Zhu et.al.|[2308.12022v1](http://arxiv.org/abs/2308.12022v1)|null|
 |**2023-08-23**|**Economic Recommender Systems -- A Systematic Review**|Alvise De Biasio et.al.|[2308.11998v1](http://arxiv.org/abs/2308.11998v1)|null|
+|**2023-08-23**|**Progressive Feature Mining and External Knowledge-Assisted Text-Pedestrian Image Retrieval**|Huafeng Li et.al.|[2308.11994v1](http://arxiv.org/abs/2308.11994v1)|null|
+|**2023-08-23**|**EVE: Efficient Vision-Language Pre-training with Masked Prediction and Modality-Aware MoE**|Junyi Chen et.al.|[2308.11971v1](http://arxiv.org/abs/2308.11971v1)|null|
 |**2023-08-23**|**When MiniBatch SGD Meets SplitFed Learning:Convergence Analysis and Performance Evaluation**|Chao Huang et.al.|[2308.11953v1](http://arxiv.org/abs/2308.11953v1)|null|
-|**2023-08-23**|**Particle Radiation Environment in the Heliosphere: Status, limitations and recommendations**|Jingnan Guo et.al.|[2308.11926v1](http://arxiv.org/abs/2308.11926v1)|null|
+|**2023-08-23**|**HashReID: Dynamic Network with Binary Codes for Efficient Person Re-identification**|Kshitij Nikhal et.al.|[2308.11900v1](http://arxiv.org/abs/2308.11900v1)|null|
+|**2023-08-23**|**Integrating the Wikidata Taxonomy into YAGO**|Fabian Suchanek et.al.|[2308.11884v1](http://arxiv.org/abs/2308.11884v1)|null|
+|**2023-08-22**|**CLIP Multi-modal Hashing: A new baseline CLIPMH**|Jian Zhu et.al.|[2308.11797v1](http://arxiv.org/abs/2308.11797v1)|null|
+|**2023-08-22**|**Vector Field Dynamics: Field Equations and Energy Tensor**|Roberto Dale et.al.|[2308.11795v1](http://arxiv.org/abs/2308.11795v1)|null|
+|**2023-08-22**|**OSIRIS-REx Sample Analysis Plan -- Revision 3.0**|Dante S. Lauretta et.al.|[2308.11794v1](http://arxiv.org/abs/2308.11794v1)|null|
 |**2023-08-22**|**HypBO: Expert-Guided Chemist-in-the-Loop Bayesian Search for New Materials**|Abdoulatif Cisse et.al.|[2308.11787v1](http://arxiv.org/abs/2308.11787v1)|null|
 |**2023-08-22**|**Towards Safe Automated Refactoring of Imperative Deep Learning Programs to Graph Execution**|Raffi Khatchadourian et.al.|[2308.11785v1](http://arxiv.org/abs/2308.11785v1)|null|
-|**2023-08-22**|**Patient Clustering via Integrated Profiling of Clinical and Digital Data**|Dongjin Choi et.al.|[2308.11748v1](http://arxiv.org/abs/2308.11748v1)|null|
-|**2023-08-22**|**A multi-case study of agile requirements engineering and the use of test cases as requirements**|Elizabeth Bjarnason et.al.|[2308.11747v1](http://arxiv.org/abs/2308.11747v1)|null|
+|**2023-08-22**|**Large-scale information retrieval in software engineering -- an experience report from industrial application**|Michael Unterkalmsteiner et.al.|[2308.11750v1](http://arxiv.org/abs/2308.11750v1)|null|
+|**2023-08-22**|**Knowledge Graph Prompting for Multi-Document Question Answering**|Yu Wang et.al.|[2308.11730v1](http://arxiv.org/abs/2308.11730v1)|null|
 |**2023-08-22**|**Invariant representation learning for sequential recommendation**|Xiaofan Zhou et.al.|[2308.11728v1](http://arxiv.org/abs/2308.11728v1)|null|
-|**2023-08-22**|**When Are Two Lists Better than One?: Benefits and Harms in Joint Decision-making**|Kate Donahue et.al.|[2308.11721v1](http://arxiv.org/abs/2308.11721v1)|[link](https://github.com/kpdonahue/benefits_harms_joint_decision_making)|
-|**2023-08-22**|**Efficient Benchmarking (of Language Models)**|Yotam Perlitz et.al.|[2308.11696v1](http://arxiv.org/abs/2308.11696v1)|null|
 |**2023-08-22**|**Semantic Multi-Resolution Communications**|Matin Mortaheb et.al.|[2308.11604v1](http://arxiv.org/abs/2308.11604v1)|null|
-|**2023-08-22**|**Large Language Models Sensitivity to The Order of Options in Multiple-Choice Questions**|Pouya Pezeshkpour et.al.|[2308.11483v1](http://arxiv.org/abs/2308.11483v1)|null|
-|**2023-08-22**|**An Analysis of Initial Training Strategies for Exemplar-Free Class-Incremental Learning**|Grégoire Petit et.al.|[2308.11677v1](http://arxiv.org/abs/2308.11677v1)|null|
-|**2023-08-22**|**Recommending Analogical APIs via Knowledge Graph Embedding**|Mingwei Liu et.al.|[2308.11422v1](http://arxiv.org/abs/2308.11422v1)|null|
-|**2023-08-22**|**ProAgent: Building Proactive Cooperative AI with Large Language Models**|Ceyao Zhang et.al.|[2308.11339v1](http://arxiv.org/abs/2308.11339v1)|null|
-|**2023-08-22**|**On the Opportunities and Challenges of Offline Reinforcement Learning for Recommender Systems**|Xiaocong Chen et.al.|[2308.11336v1](http://arxiv.org/abs/2308.11336v1)|null|
-|**2023-08-22**|**Test Time Embedding Normalization for Popularity Bias Mitigation**|Dain Kim et.al.|[2308.11288v1](http://arxiv.org/abs/2308.11288v1)|[link](https://github.com/ml-postech/tten)|
-|**2023-08-22**|**Perforated red blood cells enable compressible and injectable hydrogels as therapeutic vehicles**|Oncay Yasa et.al.|[2308.11264v1](http://arxiv.org/abs/2308.11264v1)|null|
-|**2023-08-22**|**HMD-NeMo: Online 3D Avatar Motion Generation From Sparse Observations**|Sadegh Aliakbarian et.al.|[2308.11261v1](http://arxiv.org/abs/2308.11261v1)|null|
-|**2023-08-22**|**DiffCloth: Diffusion Based Garment Synthesis and Manipulation via Structural Cross-modal Semantic Alignment**|Xujie Zhang et.al.|[2308.11206v1](http://arxiv.org/abs/2308.11206v1)|null|
-|**2023-08-22**|**MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation**|Jinpeng Wang et.al.|[2308.11175v1](http://arxiv.org/abs/2308.11175v1)|null|
+|**2023-08-22**|**Multi-event Video-Text Retrieval**|Gengyuan Zhang et.al.|[2308.11551v1](http://arxiv.org/abs/2308.11551v1)|[link](https://github.com/gengyuanmax/mevtr)|
+|**2023-08-22**|**Empowering Refugee Claimants and their Lawyers: Using Machine Learning to Examine Decision-Making in Refugee Law**|Claire Barale et.al.|[2308.11531v1](http://arxiv.org/abs/2308.11531v1)|null|
+|**2023-08-22**|**L^2R: Lifelong Learning for First-stage Retrieval with Backward-Compatible Representations**|Yinqiong Cai et.al.|[2308.11512v1](http://arxiv.org/abs/2308.11512v1)|null|
+|**2023-08-22**|**Evaluating the accuracy of Gaussian approximations in VSWIR imaging spectroscopy retrievals**|Kelvin M. Leung et.al.|[2308.11495v1](http://arxiv.org/abs/2308.11495v1)|null|
 
 ### Attribute
 |Publish Date|Title|Authors|PDF|Code|
@@ -103,39 +103,39 @@
 |**2023-08-22**|**M3PS: End-to-End Multi-Grained Multi-Modal Attribute-Aware Product Summarization in E-commerce**|Tao Chen et.al.|[2308.11351v1](http://arxiv.org/abs/2308.11351v1)|null|
 |**2023-08-22**|**ProAgent: Building Proactive Cooperative AI with Large Language Models**|Ceyao Zhang et.al.|[2308.11339v1](http://arxiv.org/abs/2308.11339v1)|null|
 
-### Retrieval
+### Recommendation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-08-23**|**Prompt2Model: Generating Deployable Models from Natural Language Instructions**|Vijay Viswanathan et.al.|[2308.12261v1](http://arxiv.org/abs/2308.12261v1)|[link](https://github.com/neulab/prompt2model)|
 |**2023-08-23**|**Learning from Negative User Feedback and Measuring Responsiveness for Sequential Recommenders**|Yueqi Wang et.al.|[2308.12256v1](http://arxiv.org/abs/2308.12256v1)|null|
 |**2023-08-23**|**LLMRec: Benchmarking Large Language Models on Recommendation Task**|Junling Liu et.al.|[2308.12241v1](http://arxiv.org/abs/2308.12241v1)|[link](https://github.com/williamliujl/llmrec)|
 |**2023-08-23**|**CIParsing: Unifying Causality Properties into Multiple Human Parsing**|Xiaojia Chen et.al.|[2308.12218v1](http://arxiv.org/abs/2308.12218v1)|null|
+|**2023-08-23**|**The Challenges of Machine Learning for Trust and Safety: A Case Study on Misinformation Detection**|Madelyne Xiao et.al.|[2308.12215v1](http://arxiv.org/abs/2308.12215v1)|null|
 |**2023-08-23**|**Robustness Analysis of Continuous-Depth Models with Lagrangian Techniques**|Sophie A. Neubauer et.al.|[2308.12192v1](http://arxiv.org/abs/2308.12192v1)|null|
-|**2023-08-23**|**Theory vs. Practice in Modeling Edge Storage Systems**|Oleg Kolosov et.al.|[2308.12115v1](http://arxiv.org/abs/2308.12115v1)|null|
 |**2023-08-23**|**On Using Information Retrieval to Recommend Machine Learning Good Practices for Software Engineers**|Laura Cabra-Acela et.al.|[2308.12095v1](http://arxiv.org/abs/2308.12095v1)|null|
 |**2023-08-23**|**Counterfactual Graph Augmentation for Consumer Unfairness Mitigation in Recommender Systems**|Ludovico Boratto et.al.|[2308.12083v1](http://arxiv.org/abs/2308.12083v1)|null|
-|**2023-08-23**|**Hybrid Retrieval and Multi-stage Text Ranking Solution at TREC 2022 Deep Learning Track**|Guangwei Xu et.al.|[2308.12039v1](http://arxiv.org/abs/2308.12039v1)|null|
+|**2023-08-23**|**Unleashing IoT Security: Assessing the Effectiveness of Best Practices in Protecting Against Threats**|Philipp Pütz et.al.|[2308.12072v1](http://arxiv.org/abs/2308.12072v1)|null|
 |**2023-08-23**|**LKPNR: LLM and KG for Personalized News Recommendation Framework**|Chen hao et.al.|[2308.12028v1](http://arxiv.org/abs/2308.12028v1)|[link](https://github.com/xuan-zw/lkpnr)|
-|**2023-08-23**|**Reranking Passages with Coarse-to-Fine Neural Retriever using List-Context Information**|Hongyin Zhu et.al.|[2308.12022v1](http://arxiv.org/abs/2308.12022v1)|null|
 |**2023-08-23**|**Economic Recommender Systems -- A Systematic Review**|Alvise De Biasio et.al.|[2308.11998v1](http://arxiv.org/abs/2308.11998v1)|null|
-|**2023-08-23**|**Progressive Feature Mining and External Knowledge-Assisted Text-Pedestrian Image Retrieval**|Huafeng Li et.al.|[2308.11994v1](http://arxiv.org/abs/2308.11994v1)|null|
-|**2023-08-23**|**EVE: Efficient Vision-Language Pre-training with Masked Prediction and Modality-Aware MoE**|Junyi Chen et.al.|[2308.11971v1](http://arxiv.org/abs/2308.11971v1)|null|
 |**2023-08-23**|**When MiniBatch SGD Meets SplitFed Learning:Convergence Analysis and Performance Evaluation**|Chao Huang et.al.|[2308.11953v1](http://arxiv.org/abs/2308.11953v1)|null|
-|**2023-08-23**|**HashReID: Dynamic Network with Binary Codes for Efficient Person Re-identification**|Kshitij Nikhal et.al.|[2308.11900v1](http://arxiv.org/abs/2308.11900v1)|null|
-|**2023-08-23**|**Integrating the Wikidata Taxonomy into YAGO**|Fabian Suchanek et.al.|[2308.11884v1](http://arxiv.org/abs/2308.11884v1)|null|
-|**2023-08-22**|**CLIP Multi-modal Hashing: A new baseline CLIPMH**|Jian Zhu et.al.|[2308.11797v1](http://arxiv.org/abs/2308.11797v1)|null|
-|**2023-08-22**|**Vector Field Dynamics: Field Equations and Energy Tensor**|Roberto Dale et.al.|[2308.11795v1](http://arxiv.org/abs/2308.11795v1)|null|
-|**2023-08-22**|**OSIRIS-REx Sample Analysis Plan -- Revision 3.0**|Dante S. Lauretta et.al.|[2308.11794v1](http://arxiv.org/abs/2308.11794v1)|null|
+|**2023-08-23**|**Particle Radiation Environment in the Heliosphere: Status, limitations and recommendations**|Jingnan Guo et.al.|[2308.11926v1](http://arxiv.org/abs/2308.11926v1)|null|
 |**2023-08-22**|**HypBO: Expert-Guided Chemist-in-the-Loop Bayesian Search for New Materials**|Abdoulatif Cisse et.al.|[2308.11787v1](http://arxiv.org/abs/2308.11787v1)|null|
 |**2023-08-22**|**Towards Safe Automated Refactoring of Imperative Deep Learning Programs to Graph Execution**|Raffi Khatchadourian et.al.|[2308.11785v1](http://arxiv.org/abs/2308.11785v1)|null|
-|**2023-08-22**|**Large-scale information retrieval in software engineering -- an experience report from industrial application**|Michael Unterkalmsteiner et.al.|[2308.11750v1](http://arxiv.org/abs/2308.11750v1)|null|
-|**2023-08-22**|**Knowledge Graph Prompting for Multi-Document Question Answering**|Yu Wang et.al.|[2308.11730v1](http://arxiv.org/abs/2308.11730v1)|null|
+|**2023-08-22**|**Patient Clustering via Integrated Profiling of Clinical and Digital Data**|Dongjin Choi et.al.|[2308.11748v1](http://arxiv.org/abs/2308.11748v1)|null|
+|**2023-08-22**|**A multi-case study of agile requirements engineering and the use of test cases as requirements**|Elizabeth Bjarnason et.al.|[2308.11747v1](http://arxiv.org/abs/2308.11747v1)|null|
 |**2023-08-22**|**Invariant representation learning for sequential recommendation**|Xiaofan Zhou et.al.|[2308.11728v1](http://arxiv.org/abs/2308.11728v1)|null|
+|**2023-08-22**|**When Are Two Lists Better than One?: Benefits and Harms in Joint Decision-making**|Kate Donahue et.al.|[2308.11721v1](http://arxiv.org/abs/2308.11721v1)|[link](https://github.com/kpdonahue/benefits_harms_joint_decision_making)|
+|**2023-08-22**|**Efficient Benchmarking (of Language Models)**|Yotam Perlitz et.al.|[2308.11696v1](http://arxiv.org/abs/2308.11696v1)|null|
 |**2023-08-22**|**Semantic Multi-Resolution Communications**|Matin Mortaheb et.al.|[2308.11604v1](http://arxiv.org/abs/2308.11604v1)|null|
-|**2023-08-22**|**Multi-event Video-Text Retrieval**|Gengyuan Zhang et.al.|[2308.11551v1](http://arxiv.org/abs/2308.11551v1)|[link](https://github.com/gengyuanmax/mevtr)|
-|**2023-08-22**|**Empowering Refugee Claimants and their Lawyers: Using Machine Learning to Examine Decision-Making in Refugee Law**|Claire Barale et.al.|[2308.11531v1](http://arxiv.org/abs/2308.11531v1)|null|
-|**2023-08-22**|**L^2R: Lifelong Learning for First-stage Retrieval with Backward-Compatible Representations**|Yinqiong Cai et.al.|[2308.11512v1](http://arxiv.org/abs/2308.11512v1)|null|
-|**2023-08-22**|**Evaluating the accuracy of Gaussian approximations in VSWIR imaging spectroscopy retrievals**|Kelvin M. Leung et.al.|[2308.11495v1](http://arxiv.org/abs/2308.11495v1)|null|
+|**2023-08-22**|**Large Language Models Sensitivity to The Order of Options in Multiple-Choice Questions**|Pouya Pezeshkpour et.al.|[2308.11483v1](http://arxiv.org/abs/2308.11483v1)|null|
+|**2023-08-22**|**An Analysis of Initial Training Strategies for Exemplar-Free Class-Incremental Learning**|Grégoire Petit et.al.|[2308.11677v1](http://arxiv.org/abs/2308.11677v1)|null|
+|**2023-08-22**|**Recommending Analogical APIs via Knowledge Graph Embedding**|Mingwei Liu et.al.|[2308.11422v1](http://arxiv.org/abs/2308.11422v1)|null|
+|**2023-08-22**|**ProAgent: Building Proactive Cooperative AI with Large Language Models**|Ceyao Zhang et.al.|[2308.11339v1](http://arxiv.org/abs/2308.11339v1)|null|
+|**2023-08-22**|**On the Opportunities and Challenges of Offline Reinforcement Learning for Recommender Systems**|Xiaocong Chen et.al.|[2308.11336v1](http://arxiv.org/abs/2308.11336v1)|null|
+|**2023-08-22**|**Test Time Embedding Normalization for Popularity Bias Mitigation**|Dain Kim et.al.|[2308.11288v1](http://arxiv.org/abs/2308.11288v1)|[link](https://github.com/ml-postech/tten)|
+|**2023-08-22**|**Perforated red blood cells enable compressible and injectable hydrogels as therapeutic vehicles**|Oncay Yasa et.al.|[2308.11264v1](http://arxiv.org/abs/2308.11264v1)|null|
+|**2023-08-22**|**HMD-NeMo: Online 3D Avatar Motion Generation From Sparse Observations**|Sadegh Aliakbarian et.al.|[2308.11261v1](http://arxiv.org/abs/2308.11261v1)|null|
+|**2023-08-22**|**DiffCloth: Diffusion Based Garment Synthesis and Manipulation via Structural Cross-modal Semantic Alignment**|Xujie Zhang et.al.|[2308.11206v1](http://arxiv.org/abs/2308.11206v1)|null|
+|**2023-08-22**|**MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation**|Jinpeng Wang et.al.|[2308.11175v1](http://arxiv.org/abs/2308.11175v1)|null|
 
 ### Compatibility
 |Publish Date|Title|Authors|PDF|Code|
