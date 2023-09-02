@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-09-02 20:48:47 Asia/Shanghai
+ Automated deployment @ 2023-09-02 21:01:09 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -69,39 +69,39 @@
 |**2023-08-30**|**DRGame: Diversified Recommendation for Multi-category Video Games with Balanced Implicit Preferences**|Kangzhe Liu et.al.|[2308.15823v1](http://arxiv.org/abs/2308.15823v1)|null|
 |**2023-08-30**|**Knowledge-grounded Natural Language Recommendation Explanation**|Anthony Colas et.al.|[2308.15813v1](http://arxiv.org/abs/2308.15813v1)|null|
 
-### Recommendation
+### General
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-08-31**|**StratMed: Relevance Stratification for Low-resource Medication Recommendation**|Xiang Li et.al.|[2308.16781v1](http://arxiv.org/abs/2308.16781v1)|null|
-|**2023-08-31**|**Toward Automatically Completing GitHub Workflows**|Antonio Mastropaolo et.al.|[2308.16774v1](http://arxiv.org/abs/2308.16774v1)|null|
-|**2023-08-31**|**Co-evolving Vector Quantization for ID-based Recommendation**|Qijiong Liu et.al.|[2308.16761v1](http://arxiv.org/abs/2308.16761v1)|[link](https://github.com/jyonn/cove)|
-|**2023-08-31**|**Concentrating on the Impact: Consequence-based Explanations in Recommender Systems**|Sebastian Lubos et.al.|[2308.16708v1](http://arxiv.org/abs/2308.16708v1)|null|
-|**2023-08-31**|**Spatio-temporal boundary dissipation measurement in Taylor-Couette flow using Diffusing-Wave Spectroscopy**|Enzo Francisco et.al.|[2308.16693v1](http://arxiv.org/abs/2308.16693v1)|null|
-|**2023-08-31**|**Context based learning: a survey of contextual indicators for personalized and adaptive learning recommendations. A pedagogical and technical perspective**|Hasan Abu-Rasheed et.al.|[2308.16661v1](http://arxiv.org/abs/2308.16661v1)|null|
-|**2023-08-31**|**Optimal confidence interval for the difference of proportions**|Almog Peer et.al.|[2308.16650v1](http://arxiv.org/abs/2308.16650v1)|null|
-|**2023-08-31**|**Neural Gradient Regularizer**|Shuang Xu et.al.|[2308.16612v1](http://arxiv.org/abs/2308.16612v1)|[link](https://github.com/yyfz/neural-gradient-regularizer)|
-|**2023-08-31**|**The AI Revolution: Opportunities and Challenges for the Finance Sector**|Carsten Maple et.al.|[2308.16538v1](http://arxiv.org/abs/2308.16538v1)|null|
-|**2023-08-31**|**Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations**|Xu Huang et.al.|[2308.16505v1](http://arxiv.org/abs/2308.16505v1)|null|
-|**2023-08-31**|**AntM$^{2}$C: A Large Scale Dataset For Multi-Scenario Multi-Modal CTR Prediction**|Zhaoxin Huan et.al.|[2308.16437v1](http://arxiv.org/abs/2308.16437v1)|null|
-|**2023-08-31**|**Improving Robustness and Accuracy of Ponzi Scheme Detection on Ethereum Using Time-Dependent Features**|Phuong Duy Huynh et.al.|[2308.16391v1](http://arxiv.org/abs/2308.16391v1)|null|
-|**2023-08-30**|**Strengthening the EU AI Act: Defining Key Terms on AI Manipulation**|Matija Franklin et.al.|[2308.16364v1](http://arxiv.org/abs/2308.16364v1)|null|
-|**2023-08-30**|**Catalog Phrase Grounding (CPG): Grounding of Product Textual Attributes in Product Images for e-commerce Vision-Language Applications**|Wenyi Wu et.al.|[2308.16354v1](http://arxiv.org/abs/2308.16354v1)|null|
-|**2023-08-30**|**Distilling the essential elements of nuclear binding via neural-network quantum states**|A. Gnech et.al.|[2308.16266v1](http://arxiv.org/abs/2308.16266v1)|null|
-|**2023-08-30**|**CorrEmbed: Evaluating Pre-trained Model Image Similarity Efficacy with a Novel Metric**|Karl Audun Kagnes Borgersen et.al.|[2308.16126v1](http://arxiv.org/abs/2308.16126v1)|null|
-|**2023-08-30**|**OldVisOnline: Curating a Dataset of Historical Visualizations**|Yu Zhang et.al.|[2308.16053v1](http://arxiv.org/abs/2308.16053v1)|[link](https://github.com/oldvis/gallery)|
-|**2023-08-30**|**Influence of adversarial training on super-resolution turbulence models**|Ludovico Nista et.al.|[2308.16015v2](http://arxiv.org/abs/2308.16015v2)|null|
-|**2023-08-30**|**Dual-path Transformer Based Neural Beamformer for Target Speech Extraction**|Aoqi Guo et.al.|[2308.15990v1](http://arxiv.org/abs/2308.15990v1)|null|
-|**2023-08-30**|**Adaptive Multi-Modalities Fusion in Sequential Recommendation Systems**|Hengchang Hu et.al.|[2308.15980v1](http://arxiv.org/abs/2308.15980v1)|[link](https://github.com/holdenhu/mmsr)|
-|**2023-08-30**|**Review of Parameter Tuning Methods for Nature-Inspired Algorithms**|Geethu Joy et.al.|[2308.15965v1](http://arxiv.org/abs/2308.15965v1)|null|
-|**2023-08-30**|**IDVT: Interest-aware Denoising and View-guided Tuning for Social Recommendation**|Dezhao Yang et.al.|[2308.15926v1](http://arxiv.org/abs/2308.15926v1)|null|
-|**2023-08-30**|**Pandemic Pedagogy: Evaluating Remote Education Strategies during COVID-19**|Daniel Russo et.al.|[2308.15847v1](http://arxiv.org/abs/2308.15847v1)|null|
-|**2023-08-30**|**DRGame: Diversified Recommendation for Multi-category Video Games with Balanced Implicit Preferences**|Kangzhe Liu et.al.|[2308.15823v1](http://arxiv.org/abs/2308.15823v1)|null|
-|**2023-08-30**|**Knowledge-grounded Natural Language Recommendation Explanation**|Anthony Colas et.al.|[2308.15813v1](http://arxiv.org/abs/2308.15813v1)|null|
-|**2023-08-30**|**Fragment and Integrate Network (FIN): A Novel Spatial-Temporal Modeling Based on Long Sequential Behavior for Online Food Ordering Click-Through Rate Prediction**|Jun Li et.al.|[2308.15703v1](http://arxiv.org/abs/2308.15703v1)|null|
-|**2023-08-30**|**A Survey on Multi-Behavior Sequential Recommendation**|Xiaoqing Chen et.al.|[2308.15701v1](http://arxiv.org/abs/2308.15701v1)|null|
-|**2023-08-29**|**Ensuring User-side Fairness in Dynamic Recommender Systems**|Hyunsik Yoo et.al.|[2308.15651v1](http://arxiv.org/abs/2308.15651v1)|null|
-|**2023-08-29**|**Everything Perturbed All at Once: Enabling Differentiable Graph Attacks**|Haoran Liu et.al.|[2308.15614v1](http://arxiv.org/abs/2308.15614v1)|null|
-|**2023-08-29**|**Over-Squashing in Graph Neural Networks: A Comprehensive survey**|Singh Akansha et.al.|[2308.15568v1](http://arxiv.org/abs/2308.15568v1)|null|
+|**2023-08-29**|**Color Aesthetics: Fuzzy based User-driven Method for Harmony and Preference Prediction**|Pakizar Shamoi et.al.|[2308.15397v1](http://arxiv.org/abs/2308.15397v1)|null|
+|**2023-08-28**|**NSF: Neural Surface Fields for Human Modeling from Monocular Depth**|Yuxuan Xue et.al.|[2308.14847v2](http://arxiv.org/abs/2308.14847v2)|null|
+|**2023-08-28**|**The Effect of Stereotypes on Perceived Competence of Indigenous Software Practitioners: A Professional Photo**|Mary Sánchez-Gordón et.al.|[2308.14695v1](http://arxiv.org/abs/2308.14695v1)|null|
+|**2023-08-28**|**PointHPS: Cascaded 3D Human Pose and Shape Estimation from Point Clouds**|Zhongang Cai et.al.|[2308.14492v1](http://arxiv.org/abs/2308.14492v1)|null|
+|**2023-08-27**|**Semantic-aware Consistency Network for Cloth-changing Person Re-Identification**|Peini Guo et.al.|[2308.14113v1](http://arxiv.org/abs/2308.14113v1)|[link](https://github.com/gpn-star/scnet)|
+|**2023-08-25**|**Textureless Deformable Surface Reconstruction with Invisible Markers**|Xinyuan Li et.al.|[2308.13678v1](http://arxiv.org/abs/2308.13678v1)|null|
+|**2023-08-25**|**TriGait: Aligning and Fusing Skeleton and Silhouette Gait Data via a Tri-Branch Network**|Yan Sun et.al.|[2308.13340v1](http://arxiv.org/abs/2308.13340v1)|[link](https://github.com/feng-xueling/trigait)|
+|**2023-08-24**|**NeuralClothSim: Neural Deformation Fields Meet the Kirchhoff-Love Thin Shell Theory**|Navami Kairanda et.al.|[2308.12970v1](http://arxiv.org/abs/2308.12970v1)|null|
+|**2023-08-23**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951v2](http://arxiv.org/abs/2308.11951v2)|null|
+|**2023-08-21**|**Exploring Fine-Grained Representation and Recomposition for Cloth-Changing Person Re-Identification**|Qizao Wang et.al.|[2308.10692v1](http://arxiv.org/abs/2308.10692v1)|null|
+|**2023-08-21**|**Learning Clothing and Pose Invariant 3D Shape Representation for Long-Term Person Re-Identification**|Feng Liu et.al.|[2308.10658v2](http://arxiv.org/abs/2308.10658v2)|null|
+|**2023-08-21**|**SCULPT: Shape-Conditioned Unpaired Learning of Pose-dependent Clothed and Textured Human Meshes**|Soubhik Sanyal et.al.|[2308.10638v1](http://arxiv.org/abs/2308.10638v1)|null|
+|**2023-08-21**|**Model-Free Large-Scale Cloth Spreading With Mobile Manipulation: Initial Feasibility Study**|Xiangyu Chu+ et.al.|[2308.10401v1](http://arxiv.org/abs/2308.10401v1)|null|
+|**2023-08-19**|**ClothesNet: An Information-Rich 3D Garment Model Repository with Simulated Clothes Environment**|Bingyang Zhou et.al.|[2308.09987v1](http://arxiv.org/abs/2308.09987v1)|null|
+|**2023-08-18**|**HumanLiff: Layer-wise 3D Human Generation with Diffusion Model**|Shoukang Hu et.al.|[2308.09712v1](http://arxiv.org/abs/2308.09712v1)|null|
+|**2023-08-17**|**D-IF: Uncertainty-aware Human Digitization via Implicit Distribution Field**|Xueting Yang et.al.|[2308.08857v1](http://arxiv.org/abs/2308.08857v1)|[link](https://github.com/psyai-net/d-if_release)|
+|**2023-08-16**|**TeCH: Text-guided Reconstruction of Lifelike Clothed Humans**|Yangyi Huang et.al.|[2308.08545v2](http://arxiv.org/abs/2308.08545v2)|[link](https://github.com/huangyangyi/tech)|
+|**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749v1](http://arxiv.org/abs/2308.07749v1)|null|
+|**2023-08-15**|**AttMOT: Improving Multiple-Object Tracking by Introducing Auxiliary Pedestrian Attributes**|Yunhao Li et.al.|[2308.07537v1](http://arxiv.org/abs/2308.07537v1)|null|
+|**2023-08-14**|**Reducing Training Demands for 3D Gait Recognition with Deep Koopman Operator Constraints**|Cole Hill et.al.|[2308.07468v1](http://arxiv.org/abs/2308.07468v1)|null|
+|**2023-08-11**|**Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**|Junhong Gou et.al.|[2308.06101v1](http://arxiv.org/abs/2308.06101v1)|[link](https://github.com/bcmi/DCI-VTON-Virtual-Try-On)|
+|**2023-08-11**|**CaPhy: Capturing Physical Properties for Animatable Human Avatars**|Zhaoqi Su et.al.|[2308.05925v1](http://arxiv.org/abs/2308.05925v1)|null|
+|**2023-08-10**|**Multi-domain Recommendation with Embedding Disentangling and Domain Alignment**|Wentao Ning et.al.|[2308.05508v2](http://arxiv.org/abs/2308.05508v2)|[link](https://github.com/Stevenn9981/EDDA)|
+|**2023-08-09**|**Cross-view Semantic Alignment for Livestreaming Product Recognition**|Wenjie Yang et.al.|[2308.04912v2](http://arxiv.org/abs/2308.04912v2)|[link](https://github.com/adxcreative/rice)|
+|**2023-08-09**|**TRTM: Template-based Reconstruction and Target-oriented Manipulation of Crumpled Cloths**|Wenbo Wang et.al.|[2308.04670v1](http://arxiv.org/abs/2308.04670v1)|null|
+|**2023-08-08**|**Domain Adaptive Person Search via GAN-based Scene Synthesis for Cross-scene Videos**|Huibing Wang et.al.|[2308.04322v1](http://arxiv.org/abs/2308.04322v1)|[link](https://github.com/crsm424/da-gss)|
+|**2023-08-08**|**Cloth2Tex: A Customized Cloth Texture Generation Pipeline for 3D Virtual Try-On**|Daiheng Gao et.al.|[2308.04288v1](http://arxiv.org/abs/2308.04288v1)|null|
+|**2023-08-08**|**An Ethereum-based Product Identification System for Anti-counterfeits**|Shashank Gupta et.al.|[2308.04006v1](http://arxiv.org/abs/2308.04006v1)|null|
+|**2023-08-05**|**SwinGar: Spectrum-Inspired Neural Dynamic Deformation for Free-Swinging Garments**|Tianxing Li et.al.|[2308.02827v1](http://arxiv.org/abs/2308.02827v1)|null|
+|**2023-08-02**|**Using The Polynomial Particle-In-Cell Method For Liquid-Fabric Interaction**|Robert Dennison et.al.|[2308.01060v1](http://arxiv.org/abs/2308.01060v1)|[link](https://github.com/robden820/libwetcloth)|
 
 ### Attribute
 |Publish Date|Title|Authors|PDF|Code|
@@ -171,39 +171,39 @@
 |**2023-08-29**|**Geometry and unitarity of scalar fields coupled to gravity**|Minxi He et.al.|[2308.15420v1](http://arxiv.org/abs/2308.15420v1)|null|
 |**2023-08-29**|**Electronic structure of GaSb/AlGaSb quantum dots formed by filling droplet-etched nanoholes**|Lucie Leguay et.al.|[2308.15418v1](http://arxiv.org/abs/2308.15418v1)|null|
 
-### General
+### Recommendation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-08-29**|**Color Aesthetics: Fuzzy based User-driven Method for Harmony and Preference Prediction**|Pakizar Shamoi et.al.|[2308.15397v1](http://arxiv.org/abs/2308.15397v1)|null|
-|**2023-08-28**|**NSF: Neural Surface Fields for Human Modeling from Monocular Depth**|Yuxuan Xue et.al.|[2308.14847v2](http://arxiv.org/abs/2308.14847v2)|null|
-|**2023-08-28**|**The Effect of Stereotypes on Perceived Competence of Indigenous Software Practitioners: A Professional Photo**|Mary Sánchez-Gordón et.al.|[2308.14695v1](http://arxiv.org/abs/2308.14695v1)|null|
-|**2023-08-28**|**PointHPS: Cascaded 3D Human Pose and Shape Estimation from Point Clouds**|Zhongang Cai et.al.|[2308.14492v1](http://arxiv.org/abs/2308.14492v1)|null|
-|**2023-08-27**|**Semantic-aware Consistency Network for Cloth-changing Person Re-Identification**|Peini Guo et.al.|[2308.14113v1](http://arxiv.org/abs/2308.14113v1)|[link](https://github.com/gpn-star/scnet)|
-|**2023-08-25**|**Textureless Deformable Surface Reconstruction with Invisible Markers**|Xinyuan Li et.al.|[2308.13678v1](http://arxiv.org/abs/2308.13678v1)|null|
-|**2023-08-25**|**TriGait: Aligning and Fusing Skeleton and Silhouette Gait Data via a Tri-Branch Network**|Yan Sun et.al.|[2308.13340v1](http://arxiv.org/abs/2308.13340v1)|[link](https://github.com/feng-xueling/trigait)|
-|**2023-08-24**|**NeuralClothSim: Neural Deformation Fields Meet the Kirchhoff-Love Thin Shell Theory**|Navami Kairanda et.al.|[2308.12970v1](http://arxiv.org/abs/2308.12970v1)|null|
-|**2023-08-23**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951v2](http://arxiv.org/abs/2308.11951v2)|null|
-|**2023-08-21**|**Exploring Fine-Grained Representation and Recomposition for Cloth-Changing Person Re-Identification**|Qizao Wang et.al.|[2308.10692v1](http://arxiv.org/abs/2308.10692v1)|null|
-|**2023-08-21**|**Learning Clothing and Pose Invariant 3D Shape Representation for Long-Term Person Re-Identification**|Feng Liu et.al.|[2308.10658v2](http://arxiv.org/abs/2308.10658v2)|null|
-|**2023-08-21**|**SCULPT: Shape-Conditioned Unpaired Learning of Pose-dependent Clothed and Textured Human Meshes**|Soubhik Sanyal et.al.|[2308.10638v1](http://arxiv.org/abs/2308.10638v1)|null|
-|**2023-08-21**|**Model-Free Large-Scale Cloth Spreading With Mobile Manipulation: Initial Feasibility Study**|Xiangyu Chu+ et.al.|[2308.10401v1](http://arxiv.org/abs/2308.10401v1)|null|
-|**2023-08-19**|**ClothesNet: An Information-Rich 3D Garment Model Repository with Simulated Clothes Environment**|Bingyang Zhou et.al.|[2308.09987v1](http://arxiv.org/abs/2308.09987v1)|null|
-|**2023-08-18**|**HumanLiff: Layer-wise 3D Human Generation with Diffusion Model**|Shoukang Hu et.al.|[2308.09712v1](http://arxiv.org/abs/2308.09712v1)|null|
-|**2023-08-17**|**D-IF: Uncertainty-aware Human Digitization via Implicit Distribution Field**|Xueting Yang et.al.|[2308.08857v1](http://arxiv.org/abs/2308.08857v1)|[link](https://github.com/psyai-net/d-if_release)|
-|**2023-08-16**|**TeCH: Text-guided Reconstruction of Lifelike Clothed Humans**|Yangyi Huang et.al.|[2308.08545v2](http://arxiv.org/abs/2308.08545v2)|[link](https://github.com/huangyangyi/tech)|
-|**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749v1](http://arxiv.org/abs/2308.07749v1)|null|
-|**2023-08-15**|**AttMOT: Improving Multiple-Object Tracking by Introducing Auxiliary Pedestrian Attributes**|Yunhao Li et.al.|[2308.07537v1](http://arxiv.org/abs/2308.07537v1)|null|
-|**2023-08-14**|**Reducing Training Demands for 3D Gait Recognition with Deep Koopman Operator Constraints**|Cole Hill et.al.|[2308.07468v1](http://arxiv.org/abs/2308.07468v1)|null|
-|**2023-08-11**|**Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**|Junhong Gou et.al.|[2308.06101v1](http://arxiv.org/abs/2308.06101v1)|[link](https://github.com/bcmi/DCI-VTON-Virtual-Try-On)|
-|**2023-08-11**|**CaPhy: Capturing Physical Properties for Animatable Human Avatars**|Zhaoqi Su et.al.|[2308.05925v1](http://arxiv.org/abs/2308.05925v1)|null|
-|**2023-08-10**|**Multi-domain Recommendation with Embedding Disentangling and Domain Alignment**|Wentao Ning et.al.|[2308.05508v2](http://arxiv.org/abs/2308.05508v2)|[link](https://github.com/Stevenn9981/EDDA)|
-|**2023-08-09**|**Cross-view Semantic Alignment for Livestreaming Product Recognition**|Wenjie Yang et.al.|[2308.04912v2](http://arxiv.org/abs/2308.04912v2)|[link](https://github.com/adxcreative/rice)|
-|**2023-08-09**|**TRTM: Template-based Reconstruction and Target-oriented Manipulation of Crumpled Cloths**|Wenbo Wang et.al.|[2308.04670v1](http://arxiv.org/abs/2308.04670v1)|null|
-|**2023-08-08**|**Domain Adaptive Person Search via GAN-based Scene Synthesis for Cross-scene Videos**|Huibing Wang et.al.|[2308.04322v1](http://arxiv.org/abs/2308.04322v1)|[link](https://github.com/crsm424/da-gss)|
-|**2023-08-08**|**Cloth2Tex: A Customized Cloth Texture Generation Pipeline for 3D Virtual Try-On**|Daiheng Gao et.al.|[2308.04288v1](http://arxiv.org/abs/2308.04288v1)|null|
-|**2023-08-08**|**An Ethereum-based Product Identification System for Anti-counterfeits**|Shashank Gupta et.al.|[2308.04006v1](http://arxiv.org/abs/2308.04006v1)|null|
-|**2023-08-05**|**SwinGar: Spectrum-Inspired Neural Dynamic Deformation for Free-Swinging Garments**|Tianxing Li et.al.|[2308.02827v1](http://arxiv.org/abs/2308.02827v1)|null|
-|**2023-08-02**|**Using The Polynomial Particle-In-Cell Method For Liquid-Fabric Interaction**|Robert Dennison et.al.|[2308.01060v1](http://arxiv.org/abs/2308.01060v1)|[link](https://github.com/robden820/libwetcloth)|
+|**2023-08-31**|**StratMed: Relevance Stratification for Low-resource Medication Recommendation**|Xiang Li et.al.|[2308.16781v1](http://arxiv.org/abs/2308.16781v1)|null|
+|**2023-08-31**|**Toward Automatically Completing GitHub Workflows**|Antonio Mastropaolo et.al.|[2308.16774v1](http://arxiv.org/abs/2308.16774v1)|null|
+|**2023-08-31**|**Co-evolving Vector Quantization for ID-based Recommendation**|Qijiong Liu et.al.|[2308.16761v1](http://arxiv.org/abs/2308.16761v1)|[link](https://github.com/jyonn/cove)|
+|**2023-08-31**|**Concentrating on the Impact: Consequence-based Explanations in Recommender Systems**|Sebastian Lubos et.al.|[2308.16708v1](http://arxiv.org/abs/2308.16708v1)|null|
+|**2023-08-31**|**Spatio-temporal boundary dissipation measurement in Taylor-Couette flow using Diffusing-Wave Spectroscopy**|Enzo Francisco et.al.|[2308.16693v1](http://arxiv.org/abs/2308.16693v1)|null|
+|**2023-08-31**|**Context based learning: a survey of contextual indicators for personalized and adaptive learning recommendations. A pedagogical and technical perspective**|Hasan Abu-Rasheed et.al.|[2308.16661v1](http://arxiv.org/abs/2308.16661v1)|null|
+|**2023-08-31**|**Optimal confidence interval for the difference of proportions**|Almog Peer et.al.|[2308.16650v1](http://arxiv.org/abs/2308.16650v1)|null|
+|**2023-08-31**|**Neural Gradient Regularizer**|Shuang Xu et.al.|[2308.16612v1](http://arxiv.org/abs/2308.16612v1)|[link](https://github.com/yyfz/neural-gradient-regularizer)|
+|**2023-08-31**|**The AI Revolution: Opportunities and Challenges for the Finance Sector**|Carsten Maple et.al.|[2308.16538v1](http://arxiv.org/abs/2308.16538v1)|null|
+|**2023-08-31**|**Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations**|Xu Huang et.al.|[2308.16505v1](http://arxiv.org/abs/2308.16505v1)|null|
+|**2023-08-31**|**AntM$^{2}$C: A Large Scale Dataset For Multi-Scenario Multi-Modal CTR Prediction**|Zhaoxin Huan et.al.|[2308.16437v1](http://arxiv.org/abs/2308.16437v1)|null|
+|**2023-08-31**|**Improving Robustness and Accuracy of Ponzi Scheme Detection on Ethereum Using Time-Dependent Features**|Phuong Duy Huynh et.al.|[2308.16391v1](http://arxiv.org/abs/2308.16391v1)|null|
+|**2023-08-30**|**Strengthening the EU AI Act: Defining Key Terms on AI Manipulation**|Matija Franklin et.al.|[2308.16364v1](http://arxiv.org/abs/2308.16364v1)|null|
+|**2023-08-30**|**Catalog Phrase Grounding (CPG): Grounding of Product Textual Attributes in Product Images for e-commerce Vision-Language Applications**|Wenyi Wu et.al.|[2308.16354v1](http://arxiv.org/abs/2308.16354v1)|null|
+|**2023-08-30**|**Distilling the essential elements of nuclear binding via neural-network quantum states**|A. Gnech et.al.|[2308.16266v1](http://arxiv.org/abs/2308.16266v1)|null|
+|**2023-08-30**|**CorrEmbed: Evaluating Pre-trained Model Image Similarity Efficacy with a Novel Metric**|Karl Audun Kagnes Borgersen et.al.|[2308.16126v1](http://arxiv.org/abs/2308.16126v1)|null|
+|**2023-08-30**|**OldVisOnline: Curating a Dataset of Historical Visualizations**|Yu Zhang et.al.|[2308.16053v1](http://arxiv.org/abs/2308.16053v1)|[link](https://github.com/oldvis/gallery)|
+|**2023-08-30**|**Influence of adversarial training on super-resolution turbulence models**|Ludovico Nista et.al.|[2308.16015v2](http://arxiv.org/abs/2308.16015v2)|null|
+|**2023-08-30**|**Dual-path Transformer Based Neural Beamformer for Target Speech Extraction**|Aoqi Guo et.al.|[2308.15990v1](http://arxiv.org/abs/2308.15990v1)|null|
+|**2023-08-30**|**Adaptive Multi-Modalities Fusion in Sequential Recommendation Systems**|Hengchang Hu et.al.|[2308.15980v1](http://arxiv.org/abs/2308.15980v1)|[link](https://github.com/holdenhu/mmsr)|
+|**2023-08-30**|**Review of Parameter Tuning Methods for Nature-Inspired Algorithms**|Geethu Joy et.al.|[2308.15965v1](http://arxiv.org/abs/2308.15965v1)|null|
+|**2023-08-30**|**IDVT: Interest-aware Denoising and View-guided Tuning for Social Recommendation**|Dezhao Yang et.al.|[2308.15926v1](http://arxiv.org/abs/2308.15926v1)|null|
+|**2023-08-30**|**Pandemic Pedagogy: Evaluating Remote Education Strategies during COVID-19**|Daniel Russo et.al.|[2308.15847v1](http://arxiv.org/abs/2308.15847v1)|null|
+|**2023-08-30**|**DRGame: Diversified Recommendation for Multi-category Video Games with Balanced Implicit Preferences**|Kangzhe Liu et.al.|[2308.15823v1](http://arxiv.org/abs/2308.15823v1)|null|
+|**2023-08-30**|**Knowledge-grounded Natural Language Recommendation Explanation**|Anthony Colas et.al.|[2308.15813v1](http://arxiv.org/abs/2308.15813v1)|null|
+|**2023-08-30**|**Fragment and Integrate Network (FIN): A Novel Spatial-Temporal Modeling Based on Long Sequential Behavior for Online Food Ordering Click-Through Rate Prediction**|Jun Li et.al.|[2308.15703v1](http://arxiv.org/abs/2308.15703v1)|null|
+|**2023-08-30**|**A Survey on Multi-Behavior Sequential Recommendation**|Xiaoqing Chen et.al.|[2308.15701v1](http://arxiv.org/abs/2308.15701v1)|null|
+|**2023-08-29**|**Ensuring User-side Fairness in Dynamic Recommender Systems**|Hyunsik Yoo et.al.|[2308.15651v1](http://arxiv.org/abs/2308.15651v1)|null|
+|**2023-08-29**|**Everything Perturbed All at Once: Enabling Differentiable Graph Attacks**|Haoran Liu et.al.|[2308.15614v1](http://arxiv.org/abs/2308.15614v1)|null|
+|**2023-08-29**|**Over-Squashing in Graph Neural Networks: A Comprehensive survey**|Singh Akansha et.al.|[2308.15568v1](http://arxiv.org/abs/2308.15568v1)|null|
 
 ## Multi-modal
 
