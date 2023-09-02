@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-09-02 09:06:30 Asia/Shanghai
+ Automated deployment @ 2023-09-02 20:27:53 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -69,40 +69,6 @@
 |**2023-08-05**|**SwinGar: Spectrum-Inspired Neural Dynamic Deformation for Free-Swinging Garments**|Tianxing Li et.al.|[2308.02827v1](http://arxiv.org/abs/2308.02827v1)|null|
 |**2023-08-02**|**Using The Polynomial Particle-In-Cell Method For Liquid-Fabric Interaction**|Robert Dennison et.al.|[2308.01060v1](http://arxiv.org/abs/2308.01060v1)|[link](https://github.com/robden820/libwetcloth)|
 
-### Compatibility
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-08-31**|**Eclectic flavor group $Δ(27)\rtimes S_3$ and lepton model building**|Cai-Chang Li et.al.|[2308.16901v1](http://arxiv.org/abs/2308.16901v1)|null|
-|**2023-08-31**|**A unified approach to exotic cluster structures on simple Lie groups**|Misha Gekhtman et.al.|[2308.16701v1](http://arxiv.org/abs/2308.16701v1)|null|
-|**2023-08-31**|**Spatio-temporal boundary dissipation measurement in Taylor-Couette flow using Diffusing-Wave Spectroscopy**|Enzo Francisco et.al.|[2308.16693v1](http://arxiv.org/abs/2308.16693v1)|null|
-|**2023-08-31**|**Scalable Substrate Development for Aqueous Biological Samples for Atom Probe Tomography**|Eric V. Woods et.al.|[2308.16672v1](http://arxiv.org/abs/2308.16672v1)|null|
-|**2023-08-31**|**Thermodynamic Properties of Regular Phantom Black Hole**|M. Haditale et.al.|[2308.16627v1](http://arxiv.org/abs/2308.16627v1)|null|
-|**2023-08-31**|**Neural Gradient Regularizer**|Shuang Xu et.al.|[2308.16612v1](http://arxiv.org/abs/2308.16612v1)|[link](https://github.com/yyfz/neural-gradient-regularizer)|
-|**2023-08-31**|**Measurements of the $ν_μ$ and $\barν_μ$-induced Coherent Charged Pion Production Cross Sections on $^{12}C$ by the T2K experiment**|K. Abe et.al.|[2308.16606v1](http://arxiv.org/abs/2308.16606v1)|null|
-|**2023-08-31**|**Transformer Compression via Subspace Projection**|Yuxuan Hu et.al.|[2308.16475v1](http://arxiv.org/abs/2308.16475v1)|null|
-|**2023-08-31**|**Fast neutron star cooling in light of the PREX-2 experiment**|Trisha Sarkar et.al.|[2308.16449v1](http://arxiv.org/abs/2308.16449v1)|null|
-|**2023-08-31**|**Njobvu-AI: An open-source tool for collaborative image labeling and implementation of computer vision models**|Jonathan S. Koning et.al.|[2308.16435v1](http://arxiv.org/abs/2308.16435v1)|[link](https://github.com/sullichrosu/njobvu-ai)|
-|**2023-08-31**|**Improving Robustness and Accuracy of Ponzi Scheme Detection on Ethereum Using Time-Dependent Features**|Phuong Duy Huynh et.al.|[2308.16391v1](http://arxiv.org/abs/2308.16391v1)|null|
-|**2023-08-30**|**Investigation of W-SiC compositionally graded films as a divertor material**|Zihan Lin et.al.|[2308.16358v1](http://arxiv.org/abs/2308.16358v1)|null|
-|**2023-08-30**|**Catalog Phrase Grounding (CPG): Grounding of Product Textual Attributes in Product Images for e-commerce Vision-Language Applications**|Wenyi Wu et.al.|[2308.16354v1](http://arxiv.org/abs/2308.16354v1)|null|
-|**2023-08-30**|**Neural network-based multiscale modeling of finite strain magneto-elasticity with relaxed convexity criteria**|Karl A. Kalina et.al.|[2308.16311v1](http://arxiv.org/abs/2308.16311v1)|null|
-|**2023-08-30**|**Quantum groups and edge contractions**|Yiqiang Li et.al.|[2308.16306v1](http://arxiv.org/abs/2308.16306v1)|null|
-|**2023-08-30**|**Schwinger displacement of the quark-gluon vertex**|A. C. Aguilar et.al.|[2308.16297v1](http://arxiv.org/abs/2308.16297v1)|null|
-|**2023-08-30**|**Distilling the essential elements of nuclear binding via neural-network quantum states**|A. Gnech et.al.|[2308.16266v1](http://arxiv.org/abs/2308.16266v1)|null|
-|**2023-08-30**|**Forbidden conformal dark matter at a GeV**|Steven Ferrante et.al.|[2308.16219v1](http://arxiv.org/abs/2308.16219v1)|null|
-|**2023-08-30**|**GREC: Generalized Referring Expression Comprehension**|Shuting He et.al.|[2308.16182v1](http://arxiv.org/abs/2308.16182v1)|[link](https://github.com/henghuiding/grefcoco)|
-|**2023-08-30**|**Rigorous noise reduction with quantum autoencoders**|Wai-Keong Mok et.al.|[2308.16153v1](http://arxiv.org/abs/2308.16153v1)|null|
-|**2023-08-30**|**CorrEmbed: Evaluating Pre-trained Model Image Similarity Efficacy with a Novel Metric**|Karl Audun Kagnes Borgersen et.al.|[2308.16126v1](http://arxiv.org/abs/2308.16126v1)|null|
-|**2023-08-30**|**Probing the Chiral Magnetic Wave with charge-dependent flow measurements in Pb-Pb collisions at the LHC**|ALICE Collaboration et.al.|[2308.16123v1](http://arxiv.org/abs/2308.16123v1)|null|
-|**2023-08-30**|**On the impossibility of isothermal heat transfer and its implications for thermal physics**|A. Paglietti et.al.|[2308.16213v1](http://arxiv.org/abs/2308.16213v1)|null|
-|**2023-08-30**|**Dual-path Transformer Based Neural Beamformer for Target Speech Extraction**|Aoqi Guo et.al.|[2308.15990v1](http://arxiv.org/abs/2308.15990v1)|null|
-|**2023-08-29**|**Two-scale modelling of two-phase flows based on the Stationary Action Principle and a Geometric Method Of Moments**|Arthur Loison et.al.|[2308.15641v1](http://arxiv.org/abs/2308.15641v1)|null|
-|**2023-08-29**|**Prototype Fission: Closing Set for Robust Open-set Semi-supervised Learning**|Xuwei Tan et.al.|[2308.15575v1](http://arxiv.org/abs/2308.15575v1)|null|
-|**2023-08-29**|**3D Adversarial Augmentations for Robust Out-of-Domain Predictions**|Alexander Lehner et.al.|[2308.15479v1](http://arxiv.org/abs/2308.15479v1)|null|
-|**2023-08-29**|**Learning Modulated Transformation in GANs**|Ceyuan Yang et.al.|[2308.15472v1](http://arxiv.org/abs/2308.15472v1)|[link](https://github.com/limbo0000/mtm)|
-|**2023-08-29**|**Geometry and unitarity of scalar fields coupled to gravity**|Minxi He et.al.|[2308.15420v1](http://arxiv.org/abs/2308.15420v1)|null|
-|**2023-08-29**|**Electronic structure of GaSb/AlGaSb quantum dots formed by filling droplet-etched nanoholes**|Lucie Leguay et.al.|[2308.15418v1](http://arxiv.org/abs/2308.15418v1)|null|
-
 ### Retrieval
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -170,6 +136,40 @@
 |**2023-08-29**|**Ensuring User-side Fairness in Dynamic Recommender Systems**|Hyunsik Yoo et.al.|[2308.15651v1](http://arxiv.org/abs/2308.15651v1)|null|
 |**2023-08-29**|**Everything Perturbed All at Once: Enabling Differentiable Graph Attacks**|Haoran Liu et.al.|[2308.15614v1](http://arxiv.org/abs/2308.15614v1)|null|
 |**2023-08-29**|**Over-Squashing in Graph Neural Networks: A Comprehensive survey**|Singh Akansha et.al.|[2308.15568v1](http://arxiv.org/abs/2308.15568v1)|null|
+
+### Compatibility
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-08-31**|**Eclectic flavor group $Δ(27)\rtimes S_3$ and lepton model building**|Cai-Chang Li et.al.|[2308.16901v1](http://arxiv.org/abs/2308.16901v1)|null|
+|**2023-08-31**|**A unified approach to exotic cluster structures on simple Lie groups**|Misha Gekhtman et.al.|[2308.16701v1](http://arxiv.org/abs/2308.16701v1)|null|
+|**2023-08-31**|**Spatio-temporal boundary dissipation measurement in Taylor-Couette flow using Diffusing-Wave Spectroscopy**|Enzo Francisco et.al.|[2308.16693v1](http://arxiv.org/abs/2308.16693v1)|null|
+|**2023-08-31**|**Scalable Substrate Development for Aqueous Biological Samples for Atom Probe Tomography**|Eric V. Woods et.al.|[2308.16672v1](http://arxiv.org/abs/2308.16672v1)|null|
+|**2023-08-31**|**Thermodynamic Properties of Regular Phantom Black Hole**|M. Haditale et.al.|[2308.16627v1](http://arxiv.org/abs/2308.16627v1)|null|
+|**2023-08-31**|**Neural Gradient Regularizer**|Shuang Xu et.al.|[2308.16612v1](http://arxiv.org/abs/2308.16612v1)|[link](https://github.com/yyfz/neural-gradient-regularizer)|
+|**2023-08-31**|**Measurements of the $ν_μ$ and $\barν_μ$-induced Coherent Charged Pion Production Cross Sections on $^{12}C$ by the T2K experiment**|K. Abe et.al.|[2308.16606v1](http://arxiv.org/abs/2308.16606v1)|null|
+|**2023-08-31**|**Transformer Compression via Subspace Projection**|Yuxuan Hu et.al.|[2308.16475v1](http://arxiv.org/abs/2308.16475v1)|null|
+|**2023-08-31**|**Fast neutron star cooling in light of the PREX-2 experiment**|Trisha Sarkar et.al.|[2308.16449v1](http://arxiv.org/abs/2308.16449v1)|null|
+|**2023-08-31**|**Njobvu-AI: An open-source tool for collaborative image labeling and implementation of computer vision models**|Jonathan S. Koning et.al.|[2308.16435v1](http://arxiv.org/abs/2308.16435v1)|[link](https://github.com/sullichrosu/njobvu-ai)|
+|**2023-08-31**|**Improving Robustness and Accuracy of Ponzi Scheme Detection on Ethereum Using Time-Dependent Features**|Phuong Duy Huynh et.al.|[2308.16391v1](http://arxiv.org/abs/2308.16391v1)|null|
+|**2023-08-30**|**Investigation of W-SiC compositionally graded films as a divertor material**|Zihan Lin et.al.|[2308.16358v1](http://arxiv.org/abs/2308.16358v1)|null|
+|**2023-08-30**|**Catalog Phrase Grounding (CPG): Grounding of Product Textual Attributes in Product Images for e-commerce Vision-Language Applications**|Wenyi Wu et.al.|[2308.16354v1](http://arxiv.org/abs/2308.16354v1)|null|
+|**2023-08-30**|**Neural network-based multiscale modeling of finite strain magneto-elasticity with relaxed convexity criteria**|Karl A. Kalina et.al.|[2308.16311v1](http://arxiv.org/abs/2308.16311v1)|null|
+|**2023-08-30**|**Quantum groups and edge contractions**|Yiqiang Li et.al.|[2308.16306v1](http://arxiv.org/abs/2308.16306v1)|null|
+|**2023-08-30**|**Schwinger displacement of the quark-gluon vertex**|A. C. Aguilar et.al.|[2308.16297v1](http://arxiv.org/abs/2308.16297v1)|null|
+|**2023-08-30**|**Distilling the essential elements of nuclear binding via neural-network quantum states**|A. Gnech et.al.|[2308.16266v1](http://arxiv.org/abs/2308.16266v1)|null|
+|**2023-08-30**|**Forbidden conformal dark matter at a GeV**|Steven Ferrante et.al.|[2308.16219v1](http://arxiv.org/abs/2308.16219v1)|null|
+|**2023-08-30**|**GREC: Generalized Referring Expression Comprehension**|Shuting He et.al.|[2308.16182v1](http://arxiv.org/abs/2308.16182v1)|[link](https://github.com/henghuiding/grefcoco)|
+|**2023-08-30**|**Rigorous noise reduction with quantum autoencoders**|Wai-Keong Mok et.al.|[2308.16153v1](http://arxiv.org/abs/2308.16153v1)|null|
+|**2023-08-30**|**CorrEmbed: Evaluating Pre-trained Model Image Similarity Efficacy with a Novel Metric**|Karl Audun Kagnes Borgersen et.al.|[2308.16126v1](http://arxiv.org/abs/2308.16126v1)|null|
+|**2023-08-30**|**Probing the Chiral Magnetic Wave with charge-dependent flow measurements in Pb-Pb collisions at the LHC**|ALICE Collaboration et.al.|[2308.16123v1](http://arxiv.org/abs/2308.16123v1)|null|
+|**2023-08-30**|**On the impossibility of isothermal heat transfer and its implications for thermal physics**|A. Paglietti et.al.|[2308.16213v1](http://arxiv.org/abs/2308.16213v1)|null|
+|**2023-08-30**|**Dual-path Transformer Based Neural Beamformer for Target Speech Extraction**|Aoqi Guo et.al.|[2308.15990v1](http://arxiv.org/abs/2308.15990v1)|null|
+|**2023-08-29**|**Two-scale modelling of two-phase flows based on the Stationary Action Principle and a Geometric Method Of Moments**|Arthur Loison et.al.|[2308.15641v1](http://arxiv.org/abs/2308.15641v1)|null|
+|**2023-08-29**|**Prototype Fission: Closing Set for Robust Open-set Semi-supervised Learning**|Xuwei Tan et.al.|[2308.15575v1](http://arxiv.org/abs/2308.15575v1)|null|
+|**2023-08-29**|**3D Adversarial Augmentations for Robust Out-of-Domain Predictions**|Alexander Lehner et.al.|[2308.15479v1](http://arxiv.org/abs/2308.15479v1)|null|
+|**2023-08-29**|**Learning Modulated Transformation in GANs**|Ceyuan Yang et.al.|[2308.15472v1](http://arxiv.org/abs/2308.15472v1)|[link](https://github.com/limbo0000/mtm)|
+|**2023-08-29**|**Geometry and unitarity of scalar fields coupled to gravity**|Minxi He et.al.|[2308.15420v1](http://arxiv.org/abs/2308.15420v1)|null|
+|**2023-08-29**|**Electronic structure of GaSb/AlGaSb quantum dots formed by filling droplet-etched nanoholes**|Lucie Leguay et.al.|[2308.15418v1](http://arxiv.org/abs/2308.15418v1)|null|
 
 ### Attribute
 |Publish Date|Title|Authors|PDF|Code|
