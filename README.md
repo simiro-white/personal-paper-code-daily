@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-09-27 20:33:06 Asia/Shanghai
+ Automated deployment @ 2023-09-27 20:56:20 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -275,42 +275,6 @@
 |**2023-09-26**|**Interaction-Aware Sampling-Based MPC with Learned Local Goal Predictions**|Walter Jansma et.al.|[2309.14931v1](http://arxiv.org/abs/2309.14931v1)|null|
 |**2023-09-26**|**Multi-Messenger Measurements of the Static Structure of Shock-Compressed Liquid Silicon at 100 GPa**|H. Poole et.al.|[2309.14905v1](http://arxiv.org/abs/2309.14905v1)|null|
 
-## Graph Neural Network
-
-### Graph Neural Network
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-09-26**|**Stable Bosonic Topological Edge Modes in the Presence of Many-Body Interactions**|Niclas Heinsdorf et.al.|[2309.15113v1](http://arxiv.org/abs/2309.15113v1)|null|
-|**2023-09-26**|**SGD Finds then Tunes Features in Two-Layer Neural Networks with near-Optimal Sample Complexity: A Case Study in the XOR problem**|Margalit Glasgow et.al.|[2309.15111v1](http://arxiv.org/abs/2309.15111v1)|null|
-|**2023-09-26**|**Local Positional Encoding for Multi-Layer Perceptrons**|Shin Fujieda et.al.|[2309.15101v1](http://arxiv.org/abs/2309.15101v1)|null|
-|**2023-09-26**|**Fixing the NTK: From Neural Network Linearizations to Exact Convex Programs**|Rajat Vadiraj Dwaraknath et.al.|[2309.15096v1](http://arxiv.org/abs/2309.15096v1)|null|
-|**2023-09-26**|**Single Biological Neurons as Temporally Precise Spatio-Temporal Pattern Recognizers**|David Beniaguev et.al.|[2309.15090v1](http://arxiv.org/abs/2309.15090v1)|null|
-|**2023-09-26**|**Privacy-preserving and Privacy-attacking Approaches for Speech and Audio -- A Survey**|Yuchen Liu et.al.|[2309.15087v1](http://arxiv.org/abs/2309.15087v1)|null|
-|**2023-09-26**|**On Excess Risk Convergence Rates of Neural Network Classifiers**|Hyunouk Ko et.al.|[2309.15075v1](http://arxiv.org/abs/2309.15075v1)|null|
-|**2023-09-26**|**Temporal criticality**|José Moran et.al.|[2309.15070v1](http://arxiv.org/abs/2309.15070v1)|null|
-|**2023-09-26**|**Language-EXtended Indoor SLAM (LEXIS): A Versatile System for Real-time Visual Scene Understanding**|Christina Kassab et.al.|[2309.15065v1](http://arxiv.org/abs/2309.15065v1)|null|
-|**2023-09-26**|**Simultaneously Learning Speaker's Direction and Head Orientation from Binaural Recordings**|Harshvardhan Takawale et.al.|[2309.15064v1](http://arxiv.org/abs/2309.15064v1)|null|
-|**2023-09-26**|**Learning-Based Latency-Constrained Fronthaul Compression Optimization in C-RAN**|Axel Grönland et.al.|[2309.15060v1](http://arxiv.org/abs/2309.15060v1)|null|
-|**2023-09-26**|**Class Incremental Learning via Likelihood Ratio Based Task Prediction**|Haowei Lin et.al.|[2309.15048v1](http://arxiv.org/abs/2309.15048v1)|[link](https://github.com/linhaowei1/tplr)|
-|**2023-09-26**|**Zero-Energy-Device for 6G: First Real-Time Backscatter Communication thanks to the Detection of Pilots from an Ambient Commercial Cellular Network**|Papis Ndiaye et.al.|[2309.15040v1](http://arxiv.org/abs/2309.15040v1)|null|
-|**2023-09-26**|**Combining Survival Analysis and Machine Learning for Mass Cancer Risk Prediction using EHR data**|Petr Philonenko et.al.|[2309.15039v1](http://arxiv.org/abs/2309.15039v1)|null|
-|**2023-09-26**|**STAR-RIS Assisted Full-Duplex Communication Networks**|Abdelhamid Salem et.al.|[2309.15037v1](http://arxiv.org/abs/2309.15037v1)|null|
-|**2023-09-26**|**Unveiling the Phase Diagram and Reaction Paths of the Active Model B with the Deep Minimum Action Method**|Ruben Zakine et.al.|[2309.15033v1](http://arxiv.org/abs/2309.15033v1)|null|
-|**2023-09-26**|**SOFARI: High-Dimensional Manifold-Based Inference**|Zemin Zheng et.al.|[2309.15032v1](http://arxiv.org/abs/2309.15032v1)|null|
-|**2023-09-26**|**Making PPO even better: Value-Guided Monte-Carlo Tree Search decoding**|Jiacheng Liu et.al.|[2309.15028v1](http://arxiv.org/abs/2309.15028v1)|null|
-|**2023-09-26**|**Instance complexity of Boolean functions**|Alison Hsiang-Hsuan Liu et.al.|[2309.15026v1](http://arxiv.org/abs/2309.15026v1)|null|
-|**2023-09-26**|**Unidirectional brain-computer interface: Artificial neural network encoding natural images to fMRI response in the visual cortex**|Ruixing Liang et.al.|[2309.15018v1](http://arxiv.org/abs/2309.15018v1)|[link](https://github.com/rxliang/vision)|
-|**2023-09-26**|**Scalar field Restricted Boltzmann Machine as an ultraviolet regulator**|Gert Aarts et.al.|[2309.15002v1](http://arxiv.org/abs/2309.15002v1)|null|
-|**2023-09-26**|**Convergence guarantees for forward gradient descent in the linear regression model**|Thijs Bos et.al.|[2309.15001v1](http://arxiv.org/abs/2309.15001v1)|null|
-|**2023-09-26**|**IAIFNet: An Illumination-Aware Infrared and Visible Image Fusion Network**|Qiao Yang et.al.|[2309.14997v1](http://arxiv.org/abs/2309.14997v1)|null|
-|**2023-09-26**|**Tempo Adaption in Non-stationary Reinforcement Learning**|Hyunin Lee et.al.|[2309.14989v1](http://arxiv.org/abs/2309.14989v1)|null|
-|**2023-09-26**|**The Role of Document Embedding in Research Paper Recommender Systems: To Breakdown or to Bolster Disciplinary Borders?**|Eoghan Cunningham et.al.|[2309.14984v1](http://arxiv.org/abs/2309.14984v1)|null|
-|**2023-09-26**|**Statistical Analysis of Quantum State Learning Process in Quantum Neural Networks**|Hao-kai Zhang et.al.|[2309.14980v1](http://arxiv.org/abs/2309.14980v1)|[link](https://github.com/chenghongz/lim_learning_state)|
-|**2023-09-26**|**Linking Network and Neuron-level Correlations by Renormalized Field Theory**|Michael Dick et.al.|[2309.14973v1](http://arxiv.org/abs/2309.14973v1)|null|
-|**2023-09-26**|**Improving Unsupervised Visual Program Inference with Code Rewriting Families**|Aditya Ganeshan et.al.|[2309.14972v1](http://arxiv.org/abs/2309.14972v1)|null|
-|**2023-09-26**|**Minimizing Energy Consumption for 5G NR Beam Management for RedCap Devices**|Manishika Rawat et.al.|[2309.14971v1](http://arxiv.org/abs/2309.14971v1)|null|
-|**2023-09-26**|**Recurrent Hypernetworks are Surprisingly Strong in Meta-RL**|Jacob Beck et.al.|[2309.14970v1](http://arxiv.org/abs/2309.14970v1)|null|
-
 ## Transformer
 
 ### Vision Transformer
@@ -380,3 +344,39 @@
 |**2023-09-26**|**Peak Effects Induced by Particle Irradiations in 2H-NbSe2**|Wenjie Li et.al.|[2309.14665v1](http://arxiv.org/abs/2309.14665v1)|null|
 |**2023-09-26**|**Tranformer-based classification of user queries for medical consultancy with respect to expert specialisation**|Dmitry Lyutkin et.al.|[2309.14662v1](http://arxiv.org/abs/2309.14662v1)|null|
 |**2023-09-26**|**CoFiI2P: Coarse-to-Fine Correspondences for Image-to-Point Cloud Registration**|Shuhao Kang et.al.|[2309.14660v1](http://arxiv.org/abs/2309.14660v1)|null|
+
+## Graph Neural Network
+
+### Graph Neural Network
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-09-26**|**Stable Bosonic Topological Edge Modes in the Presence of Many-Body Interactions**|Niclas Heinsdorf et.al.|[2309.15113v1](http://arxiv.org/abs/2309.15113v1)|null|
+|**2023-09-26**|**SGD Finds then Tunes Features in Two-Layer Neural Networks with near-Optimal Sample Complexity: A Case Study in the XOR problem**|Margalit Glasgow et.al.|[2309.15111v1](http://arxiv.org/abs/2309.15111v1)|null|
+|**2023-09-26**|**Local Positional Encoding for Multi-Layer Perceptrons**|Shin Fujieda et.al.|[2309.15101v1](http://arxiv.org/abs/2309.15101v1)|null|
+|**2023-09-26**|**Fixing the NTK: From Neural Network Linearizations to Exact Convex Programs**|Rajat Vadiraj Dwaraknath et.al.|[2309.15096v1](http://arxiv.org/abs/2309.15096v1)|null|
+|**2023-09-26**|**Single Biological Neurons as Temporally Precise Spatio-Temporal Pattern Recognizers**|David Beniaguev et.al.|[2309.15090v1](http://arxiv.org/abs/2309.15090v1)|null|
+|**2023-09-26**|**Privacy-preserving and Privacy-attacking Approaches for Speech and Audio -- A Survey**|Yuchen Liu et.al.|[2309.15087v1](http://arxiv.org/abs/2309.15087v1)|null|
+|**2023-09-26**|**On Excess Risk Convergence Rates of Neural Network Classifiers**|Hyunouk Ko et.al.|[2309.15075v1](http://arxiv.org/abs/2309.15075v1)|null|
+|**2023-09-26**|**Temporal criticality**|José Moran et.al.|[2309.15070v1](http://arxiv.org/abs/2309.15070v1)|null|
+|**2023-09-26**|**Language-EXtended Indoor SLAM (LEXIS): A Versatile System for Real-time Visual Scene Understanding**|Christina Kassab et.al.|[2309.15065v1](http://arxiv.org/abs/2309.15065v1)|null|
+|**2023-09-26**|**Simultaneously Learning Speaker's Direction and Head Orientation from Binaural Recordings**|Harshvardhan Takawale et.al.|[2309.15064v1](http://arxiv.org/abs/2309.15064v1)|null|
+|**2023-09-26**|**Learning-Based Latency-Constrained Fronthaul Compression Optimization in C-RAN**|Axel Grönland et.al.|[2309.15060v1](http://arxiv.org/abs/2309.15060v1)|null|
+|**2023-09-26**|**Class Incremental Learning via Likelihood Ratio Based Task Prediction**|Haowei Lin et.al.|[2309.15048v1](http://arxiv.org/abs/2309.15048v1)|[link](https://github.com/linhaowei1/tplr)|
+|**2023-09-26**|**Zero-Energy-Device for 6G: First Real-Time Backscatter Communication thanks to the Detection of Pilots from an Ambient Commercial Cellular Network**|Papis Ndiaye et.al.|[2309.15040v1](http://arxiv.org/abs/2309.15040v1)|null|
+|**2023-09-26**|**Combining Survival Analysis and Machine Learning for Mass Cancer Risk Prediction using EHR data**|Petr Philonenko et.al.|[2309.15039v1](http://arxiv.org/abs/2309.15039v1)|null|
+|**2023-09-26**|**STAR-RIS Assisted Full-Duplex Communication Networks**|Abdelhamid Salem et.al.|[2309.15037v1](http://arxiv.org/abs/2309.15037v1)|null|
+|**2023-09-26**|**Unveiling the Phase Diagram and Reaction Paths of the Active Model B with the Deep Minimum Action Method**|Ruben Zakine et.al.|[2309.15033v1](http://arxiv.org/abs/2309.15033v1)|null|
+|**2023-09-26**|**SOFARI: High-Dimensional Manifold-Based Inference**|Zemin Zheng et.al.|[2309.15032v1](http://arxiv.org/abs/2309.15032v1)|null|
+|**2023-09-26**|**Making PPO even better: Value-Guided Monte-Carlo Tree Search decoding**|Jiacheng Liu et.al.|[2309.15028v1](http://arxiv.org/abs/2309.15028v1)|null|
+|**2023-09-26**|**Instance complexity of Boolean functions**|Alison Hsiang-Hsuan Liu et.al.|[2309.15026v1](http://arxiv.org/abs/2309.15026v1)|null|
+|**2023-09-26**|**Unidirectional brain-computer interface: Artificial neural network encoding natural images to fMRI response in the visual cortex**|Ruixing Liang et.al.|[2309.15018v1](http://arxiv.org/abs/2309.15018v1)|[link](https://github.com/rxliang/vision)|
+|**2023-09-26**|**Scalar field Restricted Boltzmann Machine as an ultraviolet regulator**|Gert Aarts et.al.|[2309.15002v1](http://arxiv.org/abs/2309.15002v1)|null|
+|**2023-09-26**|**Convergence guarantees for forward gradient descent in the linear regression model**|Thijs Bos et.al.|[2309.15001v1](http://arxiv.org/abs/2309.15001v1)|null|
+|**2023-09-26**|**IAIFNet: An Illumination-Aware Infrared and Visible Image Fusion Network**|Qiao Yang et.al.|[2309.14997v1](http://arxiv.org/abs/2309.14997v1)|null|
+|**2023-09-26**|**Tempo Adaption in Non-stationary Reinforcement Learning**|Hyunin Lee et.al.|[2309.14989v1](http://arxiv.org/abs/2309.14989v1)|null|
+|**2023-09-26**|**The Role of Document Embedding in Research Paper Recommender Systems: To Breakdown or to Bolster Disciplinary Borders?**|Eoghan Cunningham et.al.|[2309.14984v1](http://arxiv.org/abs/2309.14984v1)|null|
+|**2023-09-26**|**Statistical Analysis of Quantum State Learning Process in Quantum Neural Networks**|Hao-kai Zhang et.al.|[2309.14980v1](http://arxiv.org/abs/2309.14980v1)|[link](https://github.com/chenghongz/lim_learning_state)|
+|**2023-09-26**|**Linking Network and Neuron-level Correlations by Renormalized Field Theory**|Michael Dick et.al.|[2309.14973v1](http://arxiv.org/abs/2309.14973v1)|null|
+|**2023-09-26**|**Improving Unsupervised Visual Program Inference with Code Rewriting Families**|Aditya Ganeshan et.al.|[2309.14972v1](http://arxiv.org/abs/2309.14972v1)|null|
+|**2023-09-26**|**Minimizing Energy Consumption for 5G NR Beam Management for RedCap Devices**|Manishika Rawat et.al.|[2309.14971v1](http://arxiv.org/abs/2309.14971v1)|null|
+|**2023-09-26**|**Recurrent Hypernetworks are Surprisingly Strong in Meta-RL**|Jacob Beck et.al.|[2309.14970v1](http://arxiv.org/abs/2309.14970v1)|null|
