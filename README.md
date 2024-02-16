@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-02-15 21:03:45 Asia/Shanghai
+ Automated deployment @ 2024-02-16 09:09:20 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -39,40 +39,6 @@
 |**2004-11-10**|**Large-Amplitude Ultraviolet Variations in the RR Lyrae Star ROTSE-I J143753.84+345924.8**|J. M. Wheatley et.al.|[astro-ph/0411251v1](http://arxiv.org/abs/astro-ph/0411251v1)|null|
 |**2003-07-18**|**KH15D: a star eclipsed by a large scale dusty vortex?**|P. Barge et.al.|[astro-ph/0307341v1](http://arxiv.org/abs/astro-ph/0307341v1)|null|
 
-### Recommendation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-02-14**|**GraSSRep: Graph-Based Self-Supervised Learning for Repeat Detection in Metagenomic Assembly**|Ali Azizpour et.al.|[2402.09381v1](http://arxiv.org/abs/2402.09381v1)|[link](https://github.com/aliaaz99/grassrep)|
-|**2024-02-14**|**Personalized Large Language Models**|Stanisław Woźniak et.al.|[2402.09269v1](http://arxiv.org/abs/2402.09269v1)|null|
-|**2024-02-14**|**Large Language Model Interaction Simulator for Cold-Start Item Recommendation**|Feiran Huang et.al.|[2402.09176v1](http://arxiv.org/abs/2402.09176v1)|null|
-|**2024-02-14**|**Automated Unit Test Improvement using Large Language Models at Meta**|Nadia Alshahwan et.al.|[2402.09171v1](http://arxiv.org/abs/2402.09171v1)|null|
-|**2024-02-14**|**Recommendation Algorithm Based on Recommendation Sessions**|Michał Malinowski et.al.|[2402.09130v1](http://arxiv.org/abs/2402.09130v1)|null|
-|**2024-02-14**|**A Digital Twin prototype for traffic sign recognition of a learning-enabled autonomous vehicle**|Mohamed AbdElSalam et.al.|[2402.09097v1](http://arxiv.org/abs/2402.09097v1)|null|
-|**2024-02-14**|**Review-Incorporated Model-Agnostic Profile Injection Attacks on Recommender Systems**|Shiyi Yang et.al.|[2402.09023v1](http://arxiv.org/abs/2402.09023v1)|null|
-|**2024-02-14**|**Confidence-aware Fine-tuning of Sequential Recommendation Systems via Conformal Prediction**|Chen Wang et.al.|[2402.08976v1](http://arxiv.org/abs/2402.08976v1)|null|
-|**2024-02-14**|**An Evaluative Comparison of Performance Portability across GPU Programming Models**|Joshua H. Davis et.al.|[2402.08950v1](http://arxiv.org/abs/2402.08950v1)|null|
-|**2024-02-14**|**Enhancing ID and Text Fusion via Alternative Training in Session-based Recommendation**|Juanhui Li et.al.|[2402.08921v1](http://arxiv.org/abs/2402.08921v1)|[link](https://github.com/juanhui28/alterrec)|
-|**2024-02-14**|**Quantifying and Characterizing Clones of Self-Admitted Technical Debt in Build Systems**|Tao Xiao et.al.|[2402.08920v1](http://arxiv.org/abs/2402.08920v1)|null|
-|**2024-02-14**|**Large Language Model with Graph Convolution for Recommendation**|Yingpeng Du et.al.|[2402.08859v1](http://arxiv.org/abs/2402.08859v1)|null|
-|**2024-02-13**|**GhostWriter: Augmenting Collaborative Human-AI Writing Experiences Through Personalization and Agency**|Catherine Yeh et.al.|[2402.08855v1](http://arxiv.org/abs/2402.08855v1)|null|
-|**2024-02-13**|**Fusing Individualized Treatment Rules Using Secondary Outcomes**|Daiqi Gao et.al.|[2402.08828v1](http://arxiv.org/abs/2402.08828v1)|null|
-|**2024-02-13**|**Low-loss multilevel operation using lossy PCM-integrated silicon photonics**|Rui Chen et.al.|[2402.08803v1](http://arxiv.org/abs/2402.08803v1)|null|
-|**2024-02-13**|**Multi-Label Zero-Shot Product Attribute-Value Extraction**|Jiaying Gong et.al.|[2402.08802v1](http://arxiv.org/abs/2402.08802v1)|null|
-|**2024-02-13**|**Branes wrapped on quadrilaterals**|Federico Faedo et.al.|[2402.08724v1](http://arxiv.org/abs/2402.08724v1)|null|
-|**2024-02-13**|**Rec-GPT4V: Multimodal Recommendation with Large Vision-Language Models**|Yuqing Liu et.al.|[2402.08670v1](http://arxiv.org/abs/2402.08670v1)|null|
-|**2024-02-13**|**SAGMAN: Stability Analysis of Graph Neural Networks on the Manifolds**|Wuxinlin Cheng et.al.|[2402.08653v1](http://arxiv.org/abs/2402.08653v1)|null|
-|**2024-02-13**|**Grounding LLMs For Robot Task Planning Using Closed-loop State Feedback**|Vineet Bhat et.al.|[2402.08546v1](http://arxiv.org/abs/2402.08546v1)|null|
-|**2024-02-13**|**Toward Mass-Production of Transition Metal Dichalcogenide Solar Cells: Scalable Growth of Photovoltaic-Grade Multilayer WSe2 by Tungsten Selenization**|Kathryn M. Neilson et.al.|[2402.08534v1](http://arxiv.org/abs/2402.08534v1)|null|
-|**2024-02-13**|**Captions Are Worth a Thousand Words: Enhancing Product Retrieval with Pretrained Image-to-Text Models**|Jason Tang et.al.|[2402.08532v1](http://arxiv.org/abs/2402.08532v1)|null|
-|**2024-02-13**|**Frequency-aware Graph Signal Processing for Collaborative Filtering**|Jiafeng Xia et.al.|[2402.08426v1](http://arxiv.org/abs/2402.08426v1)|null|
-|**2024-02-13**|**Insights Towards Better Case Study Reporting in Software Engineering**|Sergio Rico et.al.|[2402.08411v1](http://arxiv.org/abs/2402.08411v1)|null|
-|**2024-02-13**|**Helping university students to choose elective courses by using a hybrid multi-criteria recommendation system with genetic optimization**|A. Esteban et.al.|[2402.08371v1](http://arxiv.org/abs/2402.08371v1)|null|
-|**2024-02-13**|**NeuRes: Learning Proofs of Propositional Satisfiability**|Mohamed Ghanem et.al.|[2402.08365v1](http://arxiv.org/abs/2402.08365v1)|null|
-|**2024-02-13**|**An Order-Complexity Aesthetic Assessment Model for Aesthetic-aware Music Recommendation**|Xin Jin et.al.|[2402.08300v1](http://arxiv.org/abs/2402.08300v1)|null|
-|**2024-02-13**|**A revisit of the Mass-Metallicity Trends in Transiting Exoplanets**|Qinghui Sun et.al.|[2402.08292v1](http://arxiv.org/abs/2402.08292v1)|null|
-|**2024-02-13**|**Pix2Code: Learning to Compose Neural Visual Concepts as Programs**|Antonia Wüst et.al.|[2402.08280v1](http://arxiv.org/abs/2402.08280v1)|[link](https://github.com/ml-research/pix2code)|
-|**2024-02-13**|**Implementation of Recommendation Algorithm based on Recommendation Sessions in E-commerce IT System**|Michał Malinowski et.al.|[2402.08275v1](http://arxiv.org/abs/2402.08275v1)|null|
-
 ### Retrieval
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -102,10 +68,44 @@
 |**2024-02-13**|**Frequency-aware Graph Signal Processing for Collaborative Filtering**|Jiafeng Xia et.al.|[2402.08426v1](http://arxiv.org/abs/2402.08426v1)|null|
 |**2024-02-13**|**Pandora: Jailbreak GPTs by Retrieval Augmented Generation Poisoning**|Gelei Deng et.al.|[2402.08416v1](http://arxiv.org/abs/2402.08416v1)|null|
 |**2024-02-13**|**NeuRes: Learning Proofs of Propositional Satisfiability**|Mohamed Ghanem et.al.|[2402.08365v1](http://arxiv.org/abs/2402.08365v1)|null|
-|**2024-02-13**|**PreFLMR: Scaling Up Fine-Grained Late-Interaction Multi-modal Retrievers**|Weizhe Lin et.al.|[2402.08327v1](http://arxiv.org/abs/2402.08327v1)|null|
+|**2024-02-13**|**PreFLMR: Scaling Up Fine-Grained Late-Interaction Multi-modal Retrievers**|Weizhe Lin et.al.|[2402.08327v1](http://arxiv.org/abs/2402.08327v1)|[link](https://github.com/linweizhedragon/retrieval-augmented-visual-question-answering)|
 |**2024-02-13**|**Pix2Code: Learning to Compose Neural Visual Concepts as Programs**|Antonia Wüst et.al.|[2402.08280v1](http://arxiv.org/abs/2402.08280v1)|[link](https://github.com/ml-research/pix2code)|
 |**2024-02-13**|**Implementation of Recommendation Algorithm based on Recommendation Sessions in E-commerce IT System**|Michał Malinowski et.al.|[2402.08275v1](http://arxiv.org/abs/2402.08275v1)|null|
 |**2024-02-13**|**World Model on Million-Length Video And Language With RingAttention**|Hao Liu et.al.|[2402.08268v1](http://arxiv.org/abs/2402.08268v1)|[link](https://github.com/LargeWorldModel/LWM)|
+
+### Attribute
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-02-14**|**GraSSRep: Graph-Based Self-Supervised Learning for Repeat Detection in Metagenomic Assembly**|Ali Azizpour et.al.|[2402.09381v1](http://arxiv.org/abs/2402.09381v1)|[link](https://github.com/aliaaz99/grassrep)|
+|**2024-02-14**|**Synthesizing Knowledge-enhanced Features for Real-world Zero-shot Food Detection**|Pengfei Zhou et.al.|[2402.09242v1](http://arxiv.org/abs/2402.09242v1)|[link](https://github.com/lancezpf/kefs)|
+|**2024-02-14**|**Switch EMA: A Free Lunch for Better Flatness and Sharpness**|Siyuan Li et.al.|[2402.09240v1](http://arxiv.org/abs/2402.09240v1)|null|
+|**2024-02-14**|**Investigating Premature Convergence in Co-optimization of Morphology and Control in Evolved Virtual Soft Robots**|Alican Mertan et.al.|[2402.09231v1](http://arxiv.org/abs/2402.09231v1)|null|
+|**2024-02-14**|**Textural properties of dense granular pastes produced by kneading**|Mathilde Auxois et.al.|[2402.09220v1](http://arxiv.org/abs/2402.09220v1)|null|
+|**2024-02-14**|**Identification of cohesive subgroups in a university hall of residence during the COVID-19 pandemic using a social network analysis approach**|Pilar Marqués-Sánchez et.al.|[2402.09213v1](http://arxiv.org/abs/2402.09213v1)|null|
+|**2024-02-14**|**Less is More: Fewer Interpretable Region via Submodular Subset Selection**|Ruoyu Chen et.al.|[2402.09164v1](http://arxiv.org/abs/2402.09164v1)|[link](https://github.com/ruoyuchen10/smdl-attribution)|
+|**2024-02-14**|**Finding Densest Subgraphs with Edge-Color Constraints**|Lutz Oettershagen et.al.|[2402.09124v1](http://arxiv.org/abs/2402.09124v1)|null|
+|**2024-02-14**|**Web 3.0 and Quantum Security: Long-Distance Free-Space QSDC for Global Web 3.0 Networks**|Yew Kee Wong et.al.|[2402.09108v1](http://arxiv.org/abs/2402.09108v1)|null|
+|**2024-02-14**|**The invisible black widow PSR J1720-0534: implications for the electron density towards the North Polar Spur**|Karri I. I. Koljonen et.al.|[2402.09010v1](http://arxiv.org/abs/2402.09010v1)|null|
+|**2024-02-14**|**Exploring Federated Deep Learning for Standardising Naming Conventions in Radiotherapy Data**|Ali Haidar et.al.|[2402.08999v1](http://arxiv.org/abs/2402.08999v1)|null|
+|**2024-02-14**|**Structure and magnetic properties of a La$_{0.75}$Sr$_{0.25}$Cr$_{0.90}$O$_{3-δ}$ single crystal**|Kaitong Sun et.al.|[2402.08940v1](http://arxiv.org/abs/2402.08940v1)|null|
+|**2024-02-14**|**Listening to Multi-talker Conversations: Modular and End-to-end Perspectives**|Desh Raj et.al.|[2402.08932v1](http://arxiv.org/abs/2402.08932v1)|null|
+|**2024-02-14**|**The Mirrored Influence Hypothesis: Efficient Data Influence Estimation by Harnessing Forward Passes**|Myeongseob Ko et.al.|[2402.08922v1](http://arxiv.org/abs/2402.08922v1)|null|
+|**2024-02-13**|**Coexistence and interplay of two ferroelectric mechanisms in Zn1-xMgxO**|Jonghee Yang et.al.|[2402.08852v1](http://arxiv.org/abs/2402.08852v1)|null|
+|**2024-02-13**|**Feature Attribution with Necessity and Sufficiency via Dual-stage Perturbation Test for Causal Explanation**|Xuexin Chen et.al.|[2402.08845v1](http://arxiv.org/abs/2402.08845v1)|null|
+|**2024-02-13**|**Low-loss multilevel operation using lossy PCM-integrated silicon photonics**|Rui Chen et.al.|[2402.08803v1](http://arxiv.org/abs/2402.08803v1)|null|
+|**2024-02-13**|**Multi-Label Zero-Shot Product Attribute-Value Extraction**|Jiaying Gong et.al.|[2402.08802v1](http://arxiv.org/abs/2402.08802v1)|null|
+|**2024-02-13**|**Interpretation of local false discovery rates under the zero assumption**|Daniel Xiang et.al.|[2402.08792v1](http://arxiv.org/abs/2402.08792v1)|null|
+|**2024-02-13**|**Branes wrapped on quadrilaterals**|Federico Faedo et.al.|[2402.08724v1](http://arxiv.org/abs/2402.08724v1)|null|
+|**2024-02-13**|**COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability**|Xingang Guo et.al.|[2402.08679v1](http://arxiv.org/abs/2402.08679v1)|[link](https://github.com/yu-fangxu/cold-attack)|
+|**2024-02-13**|**Learning Continuous 3D Words for Text-to-Image Generation**|Ta-Ying Cheng et.al.|[2402.08654v1](http://arxiv.org/abs/2402.08654v1)|null|
+|**2024-02-13**|**NeRF Analogies: Example-Based Visual Attribute Transfer for NeRFs**|Michael Fischer et.al.|[2402.08622v1](http://arxiv.org/abs/2402.08622v1)|null|
+|**2024-02-13**|**Grounding LLMs For Robot Task Planning Using Closed-loop State Feedback**|Vineet Bhat et.al.|[2402.08546v1](http://arxiv.org/abs/2402.08546v1)|null|
+|**2024-02-13**|**Chemical tuning of photo- and persistent luminescence of Cr3+-activated beta-Ga2O3 by alloying with Al2O3 and In2O3**|Vasyl Stasiv et.al.|[2402.08542v1](http://arxiv.org/abs/2402.08542v1)|null|
+|**2024-02-13**|**Toward Mass-Production of Transition Metal Dichalcogenide Solar Cells: Scalable Growth of Photovoltaic-Grade Multilayer WSe2 by Tungsten Selenization**|Kathryn M. Neilson et.al.|[2402.08534v1](http://arxiv.org/abs/2402.08534v1)|null|
+|**2024-02-13**|**Auditing Counterfire: Evaluating Advanced Counterargument Generation with Evidence and Style**|Preetika Verma et.al.|[2402.08498v1](http://arxiv.org/abs/2402.08498v1)|null|
+|**2024-02-13**|**Computationally Predicted Electronic Properties and Energetics of Native Defects in Cubic Boron Nitride**|Ngoc Linh Nguyen et.al.|[2402.08464v1](http://arxiv.org/abs/2402.08464v1)|null|
+|**2024-02-13**|**Punctuation Restoration Improves Structure Understanding without Supervision**|Junghyun Min et.al.|[2402.08382v1](http://arxiv.org/abs/2402.08382v1)|null|
+|**2024-02-13**|**Breakup of liquid jets: Thermodynamic perspectives**|Fei Wang et.al.|[2402.08370v1](http://arxiv.org/abs/2402.08370v1)|null|
 
 ### General
 |Publish Date|Title|Authors|PDF|Code|
@@ -175,39 +175,39 @@
 |**2024-02-12**|**On the Stability of Undesirable Equilibria in the Quadratic Program Framework for Safety-Critical Control**|Matheus F. Reis et.al.|[2402.08027v1](http://arxiv.org/abs/2402.08027v1)|null|
 |**2024-02-12**|**Logarithmic negative tangency and root stacks**|Luca Battistella et.al.|[2402.08014v1](http://arxiv.org/abs/2402.08014v1)|null|
 
-### Attribute
+### Recommendation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-02-14**|**GraSSRep: Graph-Based Self-Supervised Learning for Repeat Detection in Metagenomic Assembly**|Ali Azizpour et.al.|[2402.09381v1](http://arxiv.org/abs/2402.09381v1)|[link](https://github.com/aliaaz99/grassrep)|
-|**2024-02-14**|**Synthesizing Knowledge-enhanced Features for Real-world Zero-shot Food Detection**|Pengfei Zhou et.al.|[2402.09242v1](http://arxiv.org/abs/2402.09242v1)|[link](https://github.com/lancezpf/kefs)|
-|**2024-02-14**|**Switch EMA: A Free Lunch for Better Flatness and Sharpness**|Siyuan Li et.al.|[2402.09240v1](http://arxiv.org/abs/2402.09240v1)|null|
-|**2024-02-14**|**Investigating Premature Convergence in Co-optimization of Morphology and Control in Evolved Virtual Soft Robots**|Alican Mertan et.al.|[2402.09231v1](http://arxiv.org/abs/2402.09231v1)|null|
-|**2024-02-14**|**Textural properties of dense granular pastes produced by kneading**|Mathilde Auxois et.al.|[2402.09220v1](http://arxiv.org/abs/2402.09220v1)|null|
-|**2024-02-14**|**Identification of cohesive subgroups in a university hall of residence during the COVID-19 pandemic using a social network analysis approach**|Pilar Marqués-Sánchez et.al.|[2402.09213v1](http://arxiv.org/abs/2402.09213v1)|null|
-|**2024-02-14**|**Less is More: Fewer Interpretable Region via Submodular Subset Selection**|Ruoyu Chen et.al.|[2402.09164v1](http://arxiv.org/abs/2402.09164v1)|[link](https://github.com/ruoyuchen10/smdl-attribution)|
-|**2024-02-14**|**Finding Densest Subgraphs with Edge-Color Constraints**|Lutz Oettershagen et.al.|[2402.09124v1](http://arxiv.org/abs/2402.09124v1)|null|
-|**2024-02-14**|**Web 3.0 and Quantum Security: Long-Distance Free-Space QSDC for Global Web 3.0 Networks**|Yew Kee Wong et.al.|[2402.09108v1](http://arxiv.org/abs/2402.09108v1)|null|
-|**2024-02-14**|**The invisible black widow PSR J1720-0534: implications for the electron density towards the North Polar Spur**|Karri I. I. Koljonen et.al.|[2402.09010v1](http://arxiv.org/abs/2402.09010v1)|null|
-|**2024-02-14**|**Exploring Federated Deep Learning for Standardising Naming Conventions in Radiotherapy Data**|Ali Haidar et.al.|[2402.08999v1](http://arxiv.org/abs/2402.08999v1)|null|
-|**2024-02-14**|**Structure and magnetic properties of a La$_{0.75}$Sr$_{0.25}$Cr$_{0.90}$O$_{3-δ}$ single crystal**|Kaitong Sun et.al.|[2402.08940v1](http://arxiv.org/abs/2402.08940v1)|null|
-|**2024-02-14**|**Listening to Multi-talker Conversations: Modular and End-to-end Perspectives**|Desh Raj et.al.|[2402.08932v1](http://arxiv.org/abs/2402.08932v1)|null|
-|**2024-02-14**|**The Mirrored Influence Hypothesis: Efficient Data Influence Estimation by Harnessing Forward Passes**|Myeongseob Ko et.al.|[2402.08922v1](http://arxiv.org/abs/2402.08922v1)|null|
-|**2024-02-13**|**Coexistence and interplay of two ferroelectric mechanisms in Zn1-xMgxO**|Jonghee Yang et.al.|[2402.08852v1](http://arxiv.org/abs/2402.08852v1)|null|
-|**2024-02-13**|**Feature Attribution with Necessity and Sufficiency via Dual-stage Perturbation Test for Causal Explanation**|Xuexin Chen et.al.|[2402.08845v1](http://arxiv.org/abs/2402.08845v1)|null|
+|**2024-02-14**|**Personalized Large Language Models**|Stanisław Woźniak et.al.|[2402.09269v1](http://arxiv.org/abs/2402.09269v1)|null|
+|**2024-02-14**|**Large Language Model Interaction Simulator for Cold-Start Item Recommendation**|Feiran Huang et.al.|[2402.09176v1](http://arxiv.org/abs/2402.09176v1)|null|
+|**2024-02-14**|**Automated Unit Test Improvement using Large Language Models at Meta**|Nadia Alshahwan et.al.|[2402.09171v1](http://arxiv.org/abs/2402.09171v1)|null|
+|**2024-02-14**|**Recommendation Algorithm Based on Recommendation Sessions**|Michał Malinowski et.al.|[2402.09130v1](http://arxiv.org/abs/2402.09130v1)|null|
+|**2024-02-14**|**A Digital Twin prototype for traffic sign recognition of a learning-enabled autonomous vehicle**|Mohamed AbdElSalam et.al.|[2402.09097v1](http://arxiv.org/abs/2402.09097v1)|null|
+|**2024-02-14**|**Review-Incorporated Model-Agnostic Profile Injection Attacks on Recommender Systems**|Shiyi Yang et.al.|[2402.09023v1](http://arxiv.org/abs/2402.09023v1)|null|
+|**2024-02-14**|**Confidence-aware Fine-tuning of Sequential Recommendation Systems via Conformal Prediction**|Chen Wang et.al.|[2402.08976v1](http://arxiv.org/abs/2402.08976v1)|null|
+|**2024-02-14**|**An Evaluative Comparison of Performance Portability across GPU Programming Models**|Joshua H. Davis et.al.|[2402.08950v1](http://arxiv.org/abs/2402.08950v1)|null|
+|**2024-02-14**|**Enhancing ID and Text Fusion via Alternative Training in Session-based Recommendation**|Juanhui Li et.al.|[2402.08921v1](http://arxiv.org/abs/2402.08921v1)|[link](https://github.com/juanhui28/alterrec)|
+|**2024-02-14**|**Quantifying and Characterizing Clones of Self-Admitted Technical Debt in Build Systems**|Tao Xiao et.al.|[2402.08920v1](http://arxiv.org/abs/2402.08920v1)|null|
+|**2024-02-14**|**Large Language Model with Graph Convolution for Recommendation**|Yingpeng Du et.al.|[2402.08859v1](http://arxiv.org/abs/2402.08859v1)|null|
+|**2024-02-13**|**GhostWriter: Augmenting Collaborative Human-AI Writing Experiences Through Personalization and Agency**|Catherine Yeh et.al.|[2402.08855v1](http://arxiv.org/abs/2402.08855v1)|null|
+|**2024-02-13**|**Fusing Individualized Treatment Rules Using Secondary Outcomes**|Daiqi Gao et.al.|[2402.08828v1](http://arxiv.org/abs/2402.08828v1)|null|
 |**2024-02-13**|**Low-loss multilevel operation using lossy PCM-integrated silicon photonics**|Rui Chen et.al.|[2402.08803v1](http://arxiv.org/abs/2402.08803v1)|null|
 |**2024-02-13**|**Multi-Label Zero-Shot Product Attribute-Value Extraction**|Jiaying Gong et.al.|[2402.08802v1](http://arxiv.org/abs/2402.08802v1)|null|
-|**2024-02-13**|**Interpretation of local false discovery rates under the zero assumption**|Daniel Xiang et.al.|[2402.08792v1](http://arxiv.org/abs/2402.08792v1)|null|
 |**2024-02-13**|**Branes wrapped on quadrilaterals**|Federico Faedo et.al.|[2402.08724v1](http://arxiv.org/abs/2402.08724v1)|null|
-|**2024-02-13**|**COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability**|Xingang Guo et.al.|[2402.08679v1](http://arxiv.org/abs/2402.08679v1)|[link](https://github.com/yu-fangxu/cold-attack)|
-|**2024-02-13**|**Learning Continuous 3D Words for Text-to-Image Generation**|Ta-Ying Cheng et.al.|[2402.08654v1](http://arxiv.org/abs/2402.08654v1)|null|
-|**2024-02-13**|**NeRF Analogies: Example-Based Visual Attribute Transfer for NeRFs**|Michael Fischer et.al.|[2402.08622v1](http://arxiv.org/abs/2402.08622v1)|null|
+|**2024-02-13**|**Rec-GPT4V: Multimodal Recommendation with Large Vision-Language Models**|Yuqing Liu et.al.|[2402.08670v1](http://arxiv.org/abs/2402.08670v1)|null|
+|**2024-02-13**|**SAGMAN: Stability Analysis of Graph Neural Networks on the Manifolds**|Wuxinlin Cheng et.al.|[2402.08653v1](http://arxiv.org/abs/2402.08653v1)|null|
 |**2024-02-13**|**Grounding LLMs For Robot Task Planning Using Closed-loop State Feedback**|Vineet Bhat et.al.|[2402.08546v1](http://arxiv.org/abs/2402.08546v1)|null|
-|**2024-02-13**|**Chemical tuning of photo- and persistent luminescence of Cr3+-activated beta-Ga2O3 by alloying with Al2O3 and In2O3**|Vasyl Stasiv et.al.|[2402.08542v1](http://arxiv.org/abs/2402.08542v1)|null|
 |**2024-02-13**|**Toward Mass-Production of Transition Metal Dichalcogenide Solar Cells: Scalable Growth of Photovoltaic-Grade Multilayer WSe2 by Tungsten Selenization**|Kathryn M. Neilson et.al.|[2402.08534v1](http://arxiv.org/abs/2402.08534v1)|null|
-|**2024-02-13**|**Auditing Counterfire: Evaluating Advanced Counterargument Generation with Evidence and Style**|Preetika Verma et.al.|[2402.08498v1](http://arxiv.org/abs/2402.08498v1)|null|
-|**2024-02-13**|**Computationally Predicted Electronic Properties and Energetics of Native Defects in Cubic Boron Nitride**|Ngoc Linh Nguyen et.al.|[2402.08464v1](http://arxiv.org/abs/2402.08464v1)|null|
-|**2024-02-13**|**Punctuation Restoration Improves Structure Understanding without Supervision**|Junghyun Min et.al.|[2402.08382v1](http://arxiv.org/abs/2402.08382v1)|null|
-|**2024-02-13**|**Breakup of liquid jets: Thermodynamic perspectives**|Fei Wang et.al.|[2402.08370v1](http://arxiv.org/abs/2402.08370v1)|null|
+|**2024-02-13**|**Captions Are Worth a Thousand Words: Enhancing Product Retrieval with Pretrained Image-to-Text Models**|Jason Tang et.al.|[2402.08532v1](http://arxiv.org/abs/2402.08532v1)|null|
+|**2024-02-13**|**Frequency-aware Graph Signal Processing for Collaborative Filtering**|Jiafeng Xia et.al.|[2402.08426v1](http://arxiv.org/abs/2402.08426v1)|null|
+|**2024-02-13**|**Insights Towards Better Case Study Reporting in Software Engineering**|Sergio Rico et.al.|[2402.08411v1](http://arxiv.org/abs/2402.08411v1)|null|
+|**2024-02-13**|**Helping university students to choose elective courses by using a hybrid multi-criteria recommendation system with genetic optimization**|A. Esteban et.al.|[2402.08371v1](http://arxiv.org/abs/2402.08371v1)|null|
+|**2024-02-13**|**NeuRes: Learning Proofs of Propositional Satisfiability**|Mohamed Ghanem et.al.|[2402.08365v1](http://arxiv.org/abs/2402.08365v1)|null|
+|**2024-02-13**|**An Order-Complexity Aesthetic Assessment Model for Aesthetic-aware Music Recommendation**|Xin Jin et.al.|[2402.08300v1](http://arxiv.org/abs/2402.08300v1)|null|
+|**2024-02-13**|**A revisit of the Mass-Metallicity Trends in Transiting Exoplanets**|Qinghui Sun et.al.|[2402.08292v2](http://arxiv.org/abs/2402.08292v2)|null|
+|**2024-02-13**|**Pix2Code: Learning to Compose Neural Visual Concepts as Programs**|Antonia Wüst et.al.|[2402.08280v1](http://arxiv.org/abs/2402.08280v1)|[link](https://github.com/ml-research/pix2code)|
+|**2024-02-13**|**Implementation of Recommendation Algorithm based on Recommendation Sessions in E-commerce IT System**|Michał Malinowski et.al.|[2402.08275v1](http://arxiv.org/abs/2402.08275v1)|null|
 
 ## Multi-modal
 
