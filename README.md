@@ -1,43 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2024-02-19 20:51:10 Asia/Shanghai
+ Automated deployment @ 2024-02-19 21:09:14 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
 ## Fashion
-
-### Recommendation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-02-16**|**Multi-modal preference alignment remedies regression of visual instruction tuning on language model**|Shengzhi Li et.al.|[2402.10884v1](http://arxiv.org/abs/2402.10884v1)|null|
-|**2024-02-16**|**Goal-Conditioned Offline Reinforcement Learning via Metric Learning**|Alfredo Reichlin et.al.|[2402.10820v1](http://arxiv.org/abs/2402.10820v1)|null|
-|**2024-02-16**|**TimeSeriesBench: An Industrial-Grade Benchmark for Time Series Anomaly Detection Models**|Haotian Si et.al.|[2402.10802v1](http://arxiv.org/abs/2402.10802v1)|null|
-|**2024-02-16**|**Towards 6G Evolution: Three Enhancements, Three Innovations, and Three Major Challenges**|Rohit Singh et.al.|[2402.10781v1](http://arxiv.org/abs/2402.10781v1)|null|
-|**2024-02-16**|**Autonomous Emergency Braking With Driver-In-The-Loop: Torque Vectoring for Active Learning**|Benjamin Sullivan et.al.|[2402.10761v1](http://arxiv.org/abs/2402.10761v1)|null|
-|**2024-02-16**|**FairSync: Ensuring Amortized Group Exposure in Distributed Recommendation Retrieval**|Chen Xu et.al.|[2402.10628v1](http://arxiv.org/abs/2402.10628v1)|[link](https://github.com/xuchen0427/fairsync)|
-|**2024-02-16**|**Are ID Embeddings Necessary? Whitening Pre-trained Text Embeddings for Effective Sequential Recommendation**|Lingzi Zhang et.al.|[2402.10602v1](http://arxiv.org/abs/2402.10602v1)|null|
-|**2024-02-16**|**LinkNER: Linking Local Named Entity Recognition Models to Large Language Models using Uncertainty**|Zhen Zhang et.al.|[2402.10573v1](http://arxiv.org/abs/2402.10573v1)|null|
-|**2024-02-16**|**SPAR: Personalized Content-Based Recommendation via Long Engagement Attention**|Chiyu Zhang et.al.|[2402.10555v1](http://arxiv.org/abs/2402.10555v1)|null|
-|**2024-02-16**|**Personalised Drug Identifier for Cancer Treatment with Transformers using Auxiliary Information**|Aishwarya Jayagopal et.al.|[2402.10551v1](http://arxiv.org/abs/2402.10551v1)|[link](https://github.com/cdal-soc/predict-ai)|
-|**2024-02-16**|**UMAIR-FPS: User-aware Multi-modal Animation Illustration Recommendation Fusion with Painting Style**|Yan Kang et.al.|[2402.10381v1](http://arxiv.org/abs/2402.10381v1)|null|
-|**2024-02-15**|**HI-GAN: Hierarchical Inpainting GAN with Auxiliary Inputs for Combined RGB and Depth Inpainting**|Ankan Dash et.al.|[2402.10334v1](http://arxiv.org/abs/2402.10334v1)|null|
-|**2024-02-15**|**Ising on the Graph: Task-specific Graph Subsampling via the Ising Model**|Maria Bånkestad et.al.|[2402.10206v1](http://arxiv.org/abs/2402.10206v1)|null|
-|**2024-02-15**|**Uncertainty Decomposition and Quantification for In-Context Learning of Large Language Models**|Chen Ling et.al.|[2402.10189v1](http://arxiv.org/abs/2402.10189v1)|[link](https://github.com/lingchen0331/uq_icl)|
-|**2024-02-15**|**DeepSRGM -- Sequence Classification and Ranking in Indian Classical Music with Deep Learning**|Sathwik Tejaswi Madhusudhan et.al.|[2402.10168v1](http://arxiv.org/abs/2402.10168v1)|null|
-|**2024-02-15**|**NYCTALE: Neuro-Evidence Transformer for Adaptive and Personalized Lung Nodule Invasiveness Prediction**|Sadaf Khademi et.al.|[2402.10066v1](http://arxiv.org/abs/2402.10066v1)|null|
-|**2024-02-15**|**Investigation of Federated Learning Algorithms for Retinal Optical Coherence Tomography Image Classification with Statistical Heterogeneity**|Sanskar Amgain et.al.|[2402.10035v1](http://arxiv.org/abs/2402.10035v1)|null|
-|**2024-02-15**|**Self-Augmented In-Context Learning for Unsupervised Word Translation**|Yaoyiran Li et.al.|[2402.10024v1](http://arxiv.org/abs/2402.10024v1)|null|
-|**2024-02-15**|**LLM-based Federated Recommendation**|Jujia Zhao et.al.|[2402.09959v1](http://arxiv.org/abs/2402.09959v1)|null|
-|**2024-02-15**|**Ad interim recommendations for the Higgs boson production cross sections at $\sqrt{s} = 13.6$ TeV**|Alexander Karlberg et.al.|[2402.09955v1](http://arxiv.org/abs/2402.09955v1)|null|
-|**2024-02-15**|**When Can We Use Two-Way Fixed-Effects (TWFE): A Comparison of TWFE and Novel Dynamic Difference-in-Differences Estimators**|Tobias Rüttenauer et.al.|[2402.09928v1](http://arxiv.org/abs/2402.09928v1)|null|
-|**2024-02-15**|**Zastosowanie grafów i sieci w systemach rekomendacji**|Michał Malinowski et.al.|[2402.10250v1](http://arxiv.org/abs/2402.10250v1)|null|
-|**2024-02-15**|**A Data-Driven Supervised Machine Learning Approach to Estimating Global Ambient Air Pollution Concentrations With Associated Prediction Intervals**|Liam J Berrisford et.al.|[2402.10248v1](http://arxiv.org/abs/2402.10248v1)|null|
-|**2024-02-15**|**Recommendations for Baselines and Benchmarking Approximate Gaussian Processes**|Sebastian W. Ober et.al.|[2402.09849v1](http://arxiv.org/abs/2402.09849v1)|null|
-|**2024-02-15**|**System-level Impact of Non-Ideal Program-Time of Charge Trap Flash (CTF) on Deep Neural Network**|S. Shrivastava et.al.|[2402.09792v1](http://arxiv.org/abs/2402.09792v1)|null|
-|**2024-02-15**|**Sequential Recommendation on Temporal Proximities with Contrastive Learning and Self-Attention**|Hansol Jung et.al.|[2402.09784v1](http://arxiv.org/abs/2402.09784v1)|null|
-|**2024-02-15**|**TinyCL: An Efficient Hardware Architecture for Continual Learning on Autonomous Systems**|Eugenio Ressa et.al.|[2402.09780v1](http://arxiv.org/abs/2402.09780v1)|null|
-|**2024-02-15**|**Representation Learning Using a Single Forward Pass**|Aditya Somasundaram et.al.|[2402.09769v1](http://arxiv.org/abs/2402.09769v1)|null|
-|**2024-02-15**|**From Variability to Stability: Advancing RecSys Benchmarking Practices**|Valeriy Shevchenko et.al.|[2402.09766v1](http://arxiv.org/abs/2402.09766v1)|null|
-|**2024-02-15**|**Quickest Detection of False Data Injection Attack in Distributed Process Tracking**|Saqib Abbas Baba et.al.|[2402.09743v1](http://arxiv.org/abs/2402.09743v1)|null|
 
 ### Retrieval
 |Publish Date|Title|Authors|PDF|Code|
@@ -107,6 +73,74 @@
 |**2024-01-03**|**Learning Keypoints for Robotic Cloth Manipulation using Synthetic Data**|Thomas Lips et.al.|[2401.01734v1](http://arxiv.org/abs/2401.01734v1)|[link](https://github.com/tlpss/synthetic-cloth-data)|
 |**2024-01-03**|**Tale of Tilted Washboards of Potential Energy**|Celso L. Ladera et.al.|[2402.08684v1](http://arxiv.org/abs/2402.08684v1)|null|
 
+### Recommendation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-02-16**|**Multi-modal preference alignment remedies regression of visual instruction tuning on language model**|Shengzhi Li et.al.|[2402.10884v1](http://arxiv.org/abs/2402.10884v1)|null|
+|**2024-02-16**|**Goal-Conditioned Offline Reinforcement Learning via Metric Learning**|Alfredo Reichlin et.al.|[2402.10820v1](http://arxiv.org/abs/2402.10820v1)|null|
+|**2024-02-16**|**TimeSeriesBench: An Industrial-Grade Benchmark for Time Series Anomaly Detection Models**|Haotian Si et.al.|[2402.10802v1](http://arxiv.org/abs/2402.10802v1)|null|
+|**2024-02-16**|**Towards 6G Evolution: Three Enhancements, Three Innovations, and Three Major Challenges**|Rohit Singh et.al.|[2402.10781v1](http://arxiv.org/abs/2402.10781v1)|null|
+|**2024-02-16**|**Autonomous Emergency Braking With Driver-In-The-Loop: Torque Vectoring for Active Learning**|Benjamin Sullivan et.al.|[2402.10761v1](http://arxiv.org/abs/2402.10761v1)|null|
+|**2024-02-16**|**FairSync: Ensuring Amortized Group Exposure in Distributed Recommendation Retrieval**|Chen Xu et.al.|[2402.10628v1](http://arxiv.org/abs/2402.10628v1)|[link](https://github.com/xuchen0427/fairsync)|
+|**2024-02-16**|**Are ID Embeddings Necessary? Whitening Pre-trained Text Embeddings for Effective Sequential Recommendation**|Lingzi Zhang et.al.|[2402.10602v1](http://arxiv.org/abs/2402.10602v1)|null|
+|**2024-02-16**|**LinkNER: Linking Local Named Entity Recognition Models to Large Language Models using Uncertainty**|Zhen Zhang et.al.|[2402.10573v1](http://arxiv.org/abs/2402.10573v1)|null|
+|**2024-02-16**|**SPAR: Personalized Content-Based Recommendation via Long Engagement Attention**|Chiyu Zhang et.al.|[2402.10555v1](http://arxiv.org/abs/2402.10555v1)|null|
+|**2024-02-16**|**Personalised Drug Identifier for Cancer Treatment with Transformers using Auxiliary Information**|Aishwarya Jayagopal et.al.|[2402.10551v1](http://arxiv.org/abs/2402.10551v1)|[link](https://github.com/cdal-soc/predict-ai)|
+|**2024-02-16**|**UMAIR-FPS: User-aware Multi-modal Animation Illustration Recommendation Fusion with Painting Style**|Yan Kang et.al.|[2402.10381v1](http://arxiv.org/abs/2402.10381v1)|null|
+|**2024-02-15**|**HI-GAN: Hierarchical Inpainting GAN with Auxiliary Inputs for Combined RGB and Depth Inpainting**|Ankan Dash et.al.|[2402.10334v1](http://arxiv.org/abs/2402.10334v1)|null|
+|**2024-02-15**|**Ising on the Graph: Task-specific Graph Subsampling via the Ising Model**|Maria Bånkestad et.al.|[2402.10206v1](http://arxiv.org/abs/2402.10206v1)|null|
+|**2024-02-15**|**Uncertainty Decomposition and Quantification for In-Context Learning of Large Language Models**|Chen Ling et.al.|[2402.10189v1](http://arxiv.org/abs/2402.10189v1)|[link](https://github.com/lingchen0331/uq_icl)|
+|**2024-02-15**|**DeepSRGM -- Sequence Classification and Ranking in Indian Classical Music with Deep Learning**|Sathwik Tejaswi Madhusudhan et.al.|[2402.10168v1](http://arxiv.org/abs/2402.10168v1)|null|
+|**2024-02-15**|**NYCTALE: Neuro-Evidence Transformer for Adaptive and Personalized Lung Nodule Invasiveness Prediction**|Sadaf Khademi et.al.|[2402.10066v1](http://arxiv.org/abs/2402.10066v1)|null|
+|**2024-02-15**|**Investigation of Federated Learning Algorithms for Retinal Optical Coherence Tomography Image Classification with Statistical Heterogeneity**|Sanskar Amgain et.al.|[2402.10035v1](http://arxiv.org/abs/2402.10035v1)|null|
+|**2024-02-15**|**Self-Augmented In-Context Learning for Unsupervised Word Translation**|Yaoyiran Li et.al.|[2402.10024v1](http://arxiv.org/abs/2402.10024v1)|null|
+|**2024-02-15**|**LLM-based Federated Recommendation**|Jujia Zhao et.al.|[2402.09959v1](http://arxiv.org/abs/2402.09959v1)|null|
+|**2024-02-15**|**Ad interim recommendations for the Higgs boson production cross sections at $\sqrt{s} = 13.6$ TeV**|Alexander Karlberg et.al.|[2402.09955v1](http://arxiv.org/abs/2402.09955v1)|null|
+|**2024-02-15**|**When Can We Use Two-Way Fixed-Effects (TWFE): A Comparison of TWFE and Novel Dynamic Difference-in-Differences Estimators**|Tobias Rüttenauer et.al.|[2402.09928v1](http://arxiv.org/abs/2402.09928v1)|null|
+|**2024-02-15**|**Zastosowanie grafów i sieci w systemach rekomendacji**|Michał Malinowski et.al.|[2402.10250v1](http://arxiv.org/abs/2402.10250v1)|null|
+|**2024-02-15**|**A Data-Driven Supervised Machine Learning Approach to Estimating Global Ambient Air Pollution Concentrations With Associated Prediction Intervals**|Liam J Berrisford et.al.|[2402.10248v1](http://arxiv.org/abs/2402.10248v1)|null|
+|**2024-02-15**|**Recommendations for Baselines and Benchmarking Approximate Gaussian Processes**|Sebastian W. Ober et.al.|[2402.09849v1](http://arxiv.org/abs/2402.09849v1)|null|
+|**2024-02-15**|**System-level Impact of Non-Ideal Program-Time of Charge Trap Flash (CTF) on Deep Neural Network**|S. Shrivastava et.al.|[2402.09792v1](http://arxiv.org/abs/2402.09792v1)|null|
+|**2024-02-15**|**Sequential Recommendation on Temporal Proximities with Contrastive Learning and Self-Attention**|Hansol Jung et.al.|[2402.09784v1](http://arxiv.org/abs/2402.09784v1)|null|
+|**2024-02-15**|**TinyCL: An Efficient Hardware Architecture for Continual Learning on Autonomous Systems**|Eugenio Ressa et.al.|[2402.09780v1](http://arxiv.org/abs/2402.09780v1)|null|
+|**2024-02-15**|**Representation Learning Using a Single Forward Pass**|Aditya Somasundaram et.al.|[2402.09769v1](http://arxiv.org/abs/2402.09769v1)|null|
+|**2024-02-15**|**From Variability to Stability: Advancing RecSys Benchmarking Practices**|Valeriy Shevchenko et.al.|[2402.09766v1](http://arxiv.org/abs/2402.09766v1)|null|
+|**2024-02-15**|**Quickest Detection of False Data Injection Attack in Distributed Process Tracking**|Saqib Abbas Baba et.al.|[2402.09743v1](http://arxiv.org/abs/2402.09743v1)|null|
+
+### Compatibility
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-02-16**|**Multi-modal preference alignment remedies regression of visual instruction tuning on language model**|Shengzhi Li et.al.|[2402.10884v1](http://arxiv.org/abs/2402.10884v1)|null|
+|**2024-02-16**|**Goal-Conditioned Offline Reinforcement Learning via Metric Learning**|Alfredo Reichlin et.al.|[2402.10820v1](http://arxiv.org/abs/2402.10820v1)|null|
+|**2024-02-16**|**Autonomous Emergency Braking With Driver-In-The-Loop: Torque Vectoring for Active Learning**|Benjamin Sullivan et.al.|[2402.10761v1](http://arxiv.org/abs/2402.10761v1)|null|
+|**2024-02-16**|**On the importance of parallel magnetic-field fluctuations for electromagnetic instabilities in STEP**|D. Kennedy et.al.|[2402.10583v1](http://arxiv.org/abs/2402.10583v1)|null|
+|**2024-02-16**|**Pressure-Induced Split of the Density Wave Transitions in La$_3$Ni$_2$O$_{7-δ}$**|Rustem Khasanov et.al.|[2402.10485v1](http://arxiv.org/abs/2402.10485v1)|null|
+|**2024-02-16**|**Continuous-variable quantum key distribution over 28.6 km fiber with an integrated silicon photonic receiver chip**|Yiming Bian et.al.|[2402.10411v1](http://arxiv.org/abs/2402.10411v1)|null|
+|**2024-02-15**|**Classifying topology in photonic crystal slabs with radiative environments**|Stephan Wong et.al.|[2402.10347v1](http://arxiv.org/abs/2402.10347v1)|null|
+|**2024-02-15**|**HI-GAN: Hierarchical Inpainting GAN with Auxiliary Inputs for Combined RGB and Depth Inpainting**|Ankan Dash et.al.|[2402.10334v1](http://arxiv.org/abs/2402.10334v1)|null|
+|**2024-02-15**|**A New Radio to Overcome Critical Link Budgets**|Ralf R. Müller et.al.|[2402.10307v1](http://arxiv.org/abs/2402.10307v1)|null|
+|**2024-02-15**|**Quantum effects in gravity beyond the Newton potential from a delocalised quantum source**|Lin-Qing Chen et.al.|[2402.10288v1](http://arxiv.org/abs/2402.10288v1)|null|
+|**2024-02-15**|**Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling**|Raunaq Bhirangi et.al.|[2402.10211v1](http://arxiv.org/abs/2402.10211v1)|null|
+|**2024-02-15**|**Ising on the Graph: Task-specific Graph Subsampling via the Ising Model**|Maria Bånkestad et.al.|[2402.10206v1](http://arxiv.org/abs/2402.10206v1)|null|
+|**2024-02-15**|**Uncertainty Decomposition and Quantification for In-Context Learning of Large Language Models**|Chen Ling et.al.|[2402.10189v1](http://arxiv.org/abs/2402.10189v1)|[link](https://github.com/lingchen0331/uq_icl)|
+|**2024-02-15**|**A coupled VOF/embedded boundary method to model two-phase flows on arbitrary solid surfaces**|Mathilde Tavares et.al.|[2402.10185v1](http://arxiv.org/abs/2402.10185v1)|null|
+|**2024-02-15**|**Selective Reflection-Tuning: Student-Selected Data Recycling for LLM Instruction-Tuning**|Ming Li et.al.|[2402.10110v1](http://arxiv.org/abs/2402.10110v1)|[link](https://github.com/tianyi-lab/reflection_tuning)|
+|**2024-02-15**|**NYCTALE: Neuro-Evidence Transformer for Adaptive and Personalized Lung Nodule Invasiveness Prediction**|Sadaf Khademi et.al.|[2402.10066v1](http://arxiv.org/abs/2402.10066v1)|null|
+|**2024-02-15**|**Investigation of Federated Learning Algorithms for Retinal Optical Coherence Tomography Image Classification with Statistical Heterogeneity**|Sanskar Amgain et.al.|[2402.10035v1](http://arxiv.org/abs/2402.10035v1)|null|
+|**2024-02-15**|**Self-Augmented In-Context Learning for Unsupervised Word Translation**|Yaoyiran Li et.al.|[2402.10024v1](http://arxiv.org/abs/2402.10024v1)|null|
+|**2024-02-15**|**DreamMatcher: Appearance Matching Self-Attention for Semantically-Consistent Text-to-Image Personalization**|Jisu Nam et.al.|[2402.09812v1](http://arxiv.org/abs/2402.09812v1)|[link](https://github.com/KU-CVLAB/DreamMatcher)|
+|**2024-02-15**|**Enabling Edge processing on LoRaWAN architecture**|Stefano Milani et.al.|[2402.09805v2](http://arxiv.org/abs/2402.09805v2)|null|
+|**2024-02-15**|**System-level Impact of Non-Ideal Program-Time of Charge Trap Flash (CTF) on Deep Neural Network**|S. Shrivastava et.al.|[2402.09792v1](http://arxiv.org/abs/2402.09792v1)|null|
+|**2024-02-15**|**TinyCL: An Efficient Hardware Architecture for Continual Learning on Autonomous Systems**|Eugenio Ressa et.al.|[2402.09780v1](http://arxiv.org/abs/2402.09780v1)|null|
+|**2024-02-15**|**Representation Learning Using a Single Forward Pass**|Aditya Somasundaram et.al.|[2402.09769v1](http://arxiv.org/abs/2402.09769v1)|null|
+|**2024-02-15**|**Quickest Detection of False Data Injection Attack in Distributed Process Tracking**|Saqib Abbas Baba et.al.|[2402.09743v1](http://arxiv.org/abs/2402.09743v1)|null|
+|**2024-02-15**|**Demonstration of nuclear gamma-ray polarimetry based on a multi-layer CdTe Compton Camera**|S. Go et.al.|[2402.09652v1](http://arxiv.org/abs/2402.09652v1)|null|
+|**2024-02-14**|**A game theoretic approach to lowering incentives to violate speed limits in Finland**|Mika Sutela et.al.|[2402.09556v1](http://arxiv.org/abs/2402.09556v1)|null|
+|**2024-02-14**|**GraSSRep: Graph-Based Self-Supervised Learning for Repeat Detection in Metagenomic Assembly**|Ali Azizpour et.al.|[2402.09381v1](http://arxiv.org/abs/2402.09381v1)|[link](https://github.com/aliaaz99/grassrep)|
+|**2024-02-14**|**Mechanism Design for Automated Market Makers**|T-H. Hubert Chan et.al.|[2402.09357v1](http://arxiv.org/abs/2402.09357v1)|null|
+|**2024-02-14**|**Single-Reset Divide & Conquer Imitation Learning**|Alexandre Chenu et.al.|[2402.09355v1](http://arxiv.org/abs/2402.09355v1)|null|
+|**2024-02-14**|**Collusion-Resilience in Transaction Fee Mechanism Design**|Hao Chung et.al.|[2402.09321v1](http://arxiv.org/abs/2402.09321v1)|null|
+
 ### Virtual Try-On
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -174,40 +208,6 @@
 |**2024-02-15**|**TSTEM: A Cognitive Platform for Collecting Cyber Threat Intelligence in the Wild**|Prasasthy Balasubramanian et.al.|[2402.09973v1](http://arxiv.org/abs/2402.09973v1)|null|
 |**2024-02-15**|**What can we learn from nonequilibrium response of a strange metal?**|B. A. Polyak et.al.|[2402.09946v1](http://arxiv.org/abs/2402.09946v1)|null|
 |**2024-02-15**|**A Deep Learning Approach to Radar-based QPE**|Ting-Shuo Yo et.al.|[2402.09846v1](http://arxiv.org/abs/2402.09846v1)|null|
-
-### Compatibility
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-02-16**|**Multi-modal preference alignment remedies regression of visual instruction tuning on language model**|Shengzhi Li et.al.|[2402.10884v1](http://arxiv.org/abs/2402.10884v1)|null|
-|**2024-02-16**|**Goal-Conditioned Offline Reinforcement Learning via Metric Learning**|Alfredo Reichlin et.al.|[2402.10820v1](http://arxiv.org/abs/2402.10820v1)|null|
-|**2024-02-16**|**Autonomous Emergency Braking With Driver-In-The-Loop: Torque Vectoring for Active Learning**|Benjamin Sullivan et.al.|[2402.10761v1](http://arxiv.org/abs/2402.10761v1)|null|
-|**2024-02-16**|**On the importance of parallel magnetic-field fluctuations for electromagnetic instabilities in STEP**|D. Kennedy et.al.|[2402.10583v1](http://arxiv.org/abs/2402.10583v1)|null|
-|**2024-02-16**|**Pressure-Induced Split of the Density Wave Transitions in La$_3$Ni$_2$O$_{7-δ}$**|Rustem Khasanov et.al.|[2402.10485v1](http://arxiv.org/abs/2402.10485v1)|null|
-|**2024-02-16**|**Continuous-variable quantum key distribution over 28.6 km fiber with an integrated silicon photonic receiver chip**|Yiming Bian et.al.|[2402.10411v1](http://arxiv.org/abs/2402.10411v1)|null|
-|**2024-02-15**|**Classifying topology in photonic crystal slabs with radiative environments**|Stephan Wong et.al.|[2402.10347v1](http://arxiv.org/abs/2402.10347v1)|null|
-|**2024-02-15**|**HI-GAN: Hierarchical Inpainting GAN with Auxiliary Inputs for Combined RGB and Depth Inpainting**|Ankan Dash et.al.|[2402.10334v1](http://arxiv.org/abs/2402.10334v1)|null|
-|**2024-02-15**|**A New Radio to Overcome Critical Link Budgets**|Ralf R. Müller et.al.|[2402.10307v1](http://arxiv.org/abs/2402.10307v1)|null|
-|**2024-02-15**|**Quantum effects in gravity beyond the Newton potential from a delocalised quantum source**|Lin-Qing Chen et.al.|[2402.10288v1](http://arxiv.org/abs/2402.10288v1)|null|
-|**2024-02-15**|**Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling**|Raunaq Bhirangi et.al.|[2402.10211v1](http://arxiv.org/abs/2402.10211v1)|null|
-|**2024-02-15**|**Ising on the Graph: Task-specific Graph Subsampling via the Ising Model**|Maria Bånkestad et.al.|[2402.10206v1](http://arxiv.org/abs/2402.10206v1)|null|
-|**2024-02-15**|**Uncertainty Decomposition and Quantification for In-Context Learning of Large Language Models**|Chen Ling et.al.|[2402.10189v1](http://arxiv.org/abs/2402.10189v1)|[link](https://github.com/lingchen0331/uq_icl)|
-|**2024-02-15**|**A coupled VOF/embedded boundary method to model two-phase flows on arbitrary solid surfaces**|Mathilde Tavares et.al.|[2402.10185v1](http://arxiv.org/abs/2402.10185v1)|null|
-|**2024-02-15**|**Selective Reflection-Tuning: Student-Selected Data Recycling for LLM Instruction-Tuning**|Ming Li et.al.|[2402.10110v1](http://arxiv.org/abs/2402.10110v1)|[link](https://github.com/tianyi-lab/reflection_tuning)|
-|**2024-02-15**|**NYCTALE: Neuro-Evidence Transformer for Adaptive and Personalized Lung Nodule Invasiveness Prediction**|Sadaf Khademi et.al.|[2402.10066v1](http://arxiv.org/abs/2402.10066v1)|null|
-|**2024-02-15**|**Investigation of Federated Learning Algorithms for Retinal Optical Coherence Tomography Image Classification with Statistical Heterogeneity**|Sanskar Amgain et.al.|[2402.10035v1](http://arxiv.org/abs/2402.10035v1)|null|
-|**2024-02-15**|**Self-Augmented In-Context Learning for Unsupervised Word Translation**|Yaoyiran Li et.al.|[2402.10024v1](http://arxiv.org/abs/2402.10024v1)|null|
-|**2024-02-15**|**DreamMatcher: Appearance Matching Self-Attention for Semantically-Consistent Text-to-Image Personalization**|Jisu Nam et.al.|[2402.09812v1](http://arxiv.org/abs/2402.09812v1)|[link](https://github.com/KU-CVLAB/DreamMatcher)|
-|**2024-02-15**|**Enabling Edge processing on LoRaWAN architecture**|Stefano Milani et.al.|[2402.09805v2](http://arxiv.org/abs/2402.09805v2)|null|
-|**2024-02-15**|**System-level Impact of Non-Ideal Program-Time of Charge Trap Flash (CTF) on Deep Neural Network**|S. Shrivastava et.al.|[2402.09792v1](http://arxiv.org/abs/2402.09792v1)|null|
-|**2024-02-15**|**TinyCL: An Efficient Hardware Architecture for Continual Learning on Autonomous Systems**|Eugenio Ressa et.al.|[2402.09780v1](http://arxiv.org/abs/2402.09780v1)|null|
-|**2024-02-15**|**Representation Learning Using a Single Forward Pass**|Aditya Somasundaram et.al.|[2402.09769v1](http://arxiv.org/abs/2402.09769v1)|null|
-|**2024-02-15**|**Quickest Detection of False Data Injection Attack in Distributed Process Tracking**|Saqib Abbas Baba et.al.|[2402.09743v1](http://arxiv.org/abs/2402.09743v1)|null|
-|**2024-02-15**|**Demonstration of nuclear gamma-ray polarimetry based on a multi-layer CdTe Compton Camera**|S. Go et.al.|[2402.09652v1](http://arxiv.org/abs/2402.09652v1)|null|
-|**2024-02-14**|**A game theoretic approach to lowering incentives to violate speed limits in Finland**|Mika Sutela et.al.|[2402.09556v1](http://arxiv.org/abs/2402.09556v1)|null|
-|**2024-02-14**|**GraSSRep: Graph-Based Self-Supervised Learning for Repeat Detection in Metagenomic Assembly**|Ali Azizpour et.al.|[2402.09381v1](http://arxiv.org/abs/2402.09381v1)|[link](https://github.com/aliaaz99/grassrep)|
-|**2024-02-14**|**Mechanism Design for Automated Market Makers**|T-H. Hubert Chan et.al.|[2402.09357v1](http://arxiv.org/abs/2402.09357v1)|null|
-|**2024-02-14**|**Single-Reset Divide & Conquer Imitation Learning**|Alexandre Chenu et.al.|[2402.09355v1](http://arxiv.org/abs/2402.09355v1)|null|
-|**2024-02-14**|**Collusion-Resilience in Transaction Fee Mechanism Design**|Hao Chung et.al.|[2402.09321v1](http://arxiv.org/abs/2402.09321v1)|null|
 
 ## Transformer
 
