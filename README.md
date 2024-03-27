@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-03-27 20:30:57 Asia/Shanghai
+ Automated deployment @ 2024-03-27 20:51:42 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -39,39 +39,39 @@
 |**2007-10-18**|**Clustering Properties of restframe UV selected galaxies I: the correlation length derived from GALEX data in the local Universe**|Bruno Milliard et.al.|[0710.3530v1](http://arxiv.org/abs/0710.3530v1)|null|
 |**2006-11-30**|**Statistical Properties of the GALEX/SDSS matched source catalogs, and classification of the UV sources**|Luciana Bianchi et.al.|[astro-ph/0611926v1](http://arxiv.org/abs/astro-ph/0611926v1)|null|
 
-### Recommendation
+### Retrieval
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-03-26**|**Optimizing Vaccine Site Locations While Considering Travel Inconvenience and Public Health Outcomes**|Suyanpeng Zhang et.al.|[2403.17923v1](http://arxiv.org/abs/2403.17923v1)|null|
+|**2024-03-26**|**Search and Society: Reimagining Information Access for Radical Futures**|Bhaskar Mitra et.al.|[2403.17901v1](http://arxiv.org/abs/2403.17901v1)|null|
 |**2024-03-26**|**MIND Your Language: A Multilingual Dataset for Cross-lingual News Recommendation**|Andreea Iana et.al.|[2403.17876v1](http://arxiv.org/abs/2403.17876v1)|[link](https://github.com/andreeaiana/xmind)|
-|**2024-03-26**|**Learning the Optimal Power Flow: Environment Design Matters**|Thomas Wolgast et.al.|[2403.17831v1](http://arxiv.org/abs/2403.17831v1)|[link](https://github.com/digitalized-energy-systems/rl-opf-env-design)|
-|**2024-03-26**|**Leave No Patient Behind: Enhancing Medication Recommendation for Rare Disease Patients**|Zihao Zhao et.al.|[2403.17745v1](http://arxiv.org/abs/2403.17745v1)|null|
+|**2024-03-26**|**ArabicaQA: A Comprehensive Dataset for Arabic Question Answering**|Abdelrahman Abdallah et.al.|[2403.17848v1](http://arxiv.org/abs/2403.17848v1)|[link](https://github.com/datascienceuibk/arabicaqa)|
+|**2024-03-26**|**A foundation model utilizing chest CT volumes and radiology reports for supervised-level zero-shot detection of abnormalities**|Ibrahim Ethem Hamamci et.al.|[2403.17834v1](http://arxiv.org/abs/2403.17834v1)|[link](https://github.com/ibrahimethemhamamci/ct-clip)|
+|**2024-03-26**|**CaseLink: Inductive Graph Learning for Legal Case Retrieval**|Yanran Tang et.al.|[2403.17780v1](http://arxiv.org/abs/2403.17780v1)|null|
+|**2024-03-26**|**TWOLAR: a TWO-step LLM-Augmented distillation method for passage Reranking**|Davide Baldelli et.al.|[2403.17759v1](http://arxiv.org/abs/2403.17759v1)|[link](https://github.com/dundalia/twolar)|
 |**2024-03-26**|**All-in-One: Heterogeneous Interaction Modeling for Cold-Start Rating Prediction**|Shuheng Fang et.al.|[2403.17740v1](http://arxiv.org/abs/2403.17740v1)|null|
+|**2024-03-26**|**EulerFormer: Sequential User Behavior Modeling with Complex Vector Attention**|Zhen Tian et.al.|[2403.17729v1](http://arxiv.org/abs/2403.17729v1)|[link](https://github.com/rucaibox/eulerformer)|
+|**2024-03-26**|**The Solution for the CVPR 2023 1st foundation model challenge-Track2**|Haonan Xu et.al.|[2403.17702v1](http://arxiv.org/abs/2403.17702v1)|null|
 |**2024-03-26**|**Large Language Models Enhanced Collaborative Filtering**|Zhongxiang Sun et.al.|[2403.17688v1](http://arxiv.org/abs/2403.17688v1)|null|
+|**2024-03-26**|**DANCER: Entity Description Augmented Named Entity Corrector for Automatic Speech Recognition**|Yi-Cheng Wang et.al.|[2403.17645v1](http://arxiv.org/abs/2403.17645v1)|null|
+|**2024-03-26**|**S+t-SNE - Bringing dimensionality reduction to data streams**|Pedro C. Vieira et.al.|[2403.17643v1](http://arxiv.org/abs/2403.17643v1)|[link](https://github.com/pedrv/s--t-sne)|
 |**2024-03-26**|**Retentive Decision Transformer with Adaptive Masking for Reinforcement Learning based Recommendation Systems**|Siyu Wang et.al.|[2403.17634v1](http://arxiv.org/abs/2403.17634v1)|null|
+|**2024-03-26**|**Denoising Table-Text Retrieval for Open-Domain Question Answering**|Deokhyung Kang et.al.|[2403.17611v1](http://arxiv.org/abs/2403.17611v1)|[link](https://github.com/deokhk/dotter)|
 |**2024-03-26**|**END4Rec: Efficient Noise-Decoupling for Multi-Behavior Sequential Recommendation**|Yongqiang Han et.al.|[2403.17603v1](http://arxiv.org/abs/2403.17603v1)|null|
 |**2024-03-26**|**Aerial Robots Carrying Flexible Cables: Dynamic Shape Optimal Control via Spectral Method Model**|Yaolei Shen et.al.|[2403.17565v1](http://arxiv.org/abs/2403.17565v1)|null|
 |**2024-03-26**|**Robust Stability for Multiagent Systems with Spatio-Temporally Correlated Packet Loss**|Christian Hespe et.al.|[2403.17554v1](http://arxiv.org/abs/2403.17554v1)|null|
+|**2024-03-26**|**Document Set Expansion with Positive-Unlabelled Learning Using Intractable Density Estimation**|Haiyang Zhang et.al.|[2403.17473v1](http://arxiv.org/abs/2403.17473v1)|null|
 |**2024-03-26**|**Touch the Core: Exploring Task Dependence Among Hybrid Targets for Recommendation**|Xing Tang et.al.|[2403.17442v1](http://arxiv.org/abs/2403.17442v1)|null|
 |**2024-03-26**|**Numerical analysis of a FE/SAV scheme for a Caginalp phase field model with mechanical effects in stereolithography**|Xingguang Jin et.al.|[2403.17434v1](http://arxiv.org/abs/2403.17434v1)|null|
-|**2024-03-26**|**Knowledge-Powered Recommendation for an Improved Diet Water Footprint**|Saurav Joshi et.al.|[2403.17426v1](http://arxiv.org/abs/2403.17426v1)|null|
+|**2024-03-26**|**Masked Multi-Domain Network: Multi-Type and Multi-Scenario Conversion Rate Prediction with a Single Model**|Wentao Ouyang et.al.|[2403.17425v1](http://arxiv.org/abs/2403.17425v1)|null|
+|**2024-03-26**|**MA4DIV: Multi-Agent Reinforcement Learning for Search Result Diversification**|Yiqun Chen et.al.|[2403.17421v1](http://arxiv.org/abs/2403.17421v1)|null|
 |**2024-03-26**|**AFDGCF: Adaptive Feature De-correlation Graph Collaborative Filtering for Recommendations**|Wei Wu et.al.|[2403.17416v1](http://arxiv.org/abs/2403.17416v1)|null|
-|**2024-03-26**|**The recessionary pressures of generative AI: A threat to wellbeing**|Jo-An Occhipinti et.al.|[2403.17405v1](http://arxiv.org/abs/2403.17405v1)|null|
 |**2024-03-26**|**Multi-Domain Recommendation to Attract Users via Domain Preference Modeling**|Hyuunjun Ju et.al.|[2403.17374v1](http://arxiv.org/abs/2403.17374v1)|null|
 |**2024-03-26**|**An Empirical Study of Training ID-Agnostic Multi-modal Sequential Recommenders**|Youhua Li et.al.|[2403.17372v1](http://arxiv.org/abs/2403.17372v1)|[link](https://github.com/mmsr23/mmsr)|
+|**2024-03-26**|**Chain-of-Action: Faithful and Multimodal Question Answering through Large Language Models**|Zhenyu Pan et.al.|[2403.17359v1](http://arxiv.org/abs/2403.17359v1)|null|
 |**2024-03-26**|**Unified Path and Gait Planning for Safe Bipedal Robot Navigation**|Chengyang Peng et.al.|[2403.17347v1](http://arxiv.org/abs/2403.17347v1)|null|
-|**2024-03-26**|**Automate Knowledge Concept Tagging on Math Questions with LLMs**|Hang Li et.al.|[2403.17281v1](http://arxiv.org/abs/2403.17281v1)|null|
-|**2024-03-25**|**Diffusion-based Negative Sampling on Graphs for Link Prediction**|Trung-Kien Nguyen et.al.|[2403.17259v1](http://arxiv.org/abs/2403.17259v1)|[link](https://github.com/ntkien1904/dmns)|
-|**2024-03-25**|**Methodological Problems in Every Black-Box Study of Forensic Firearm Comparisons**|Maria Cuellar et.al.|[2403.17248v1](http://arxiv.org/abs/2403.17248v1)|null|
-|**2024-03-25**|**Reinforcement Learning-based Recommender Systems with Large Language Models for State Reward and Action Modeling**|Jie Wang et.al.|[2403.16948v1](http://arxiv.org/abs/2403.16948v1)|null|
-|**2024-03-25**|**The Costs of Competition in Distributing Scarce Research Funds**|Gerald Schweiger et.al.|[2403.16934v1](http://arxiv.org/abs/2403.16934v1)|null|
-|**2024-03-25**|**Multi-Agent Optimization for Safety Analysis of Cyber-Physical Systems: Position Paper**|Önder Gürcan et.al.|[2403.16904v1](http://arxiv.org/abs/2403.16904v1)|null|
-|**2024-03-25**|**Towards Secure and Trusted-by-Design Smart Contracts**|Zaynah Dargaye et.al.|[2403.16903v1](http://arxiv.org/abs/2403.16903v1)|null|
-|**2024-03-25**|**"It is there, and you need it, so why do you not use it?" Achieving better adoption of AI systems by domain experts, in the case study of natural science research**|Auste Simkute et.al.|[2403.16895v1](http://arxiv.org/abs/2403.16895v1)|null|
-|**2024-03-25**|**Seeking Enlightenment: Incorporating Evidence-Based Practice Techniques in a Research Software Engineering Team**|Reed Milewicz et.al.|[2403.16827v1](http://arxiv.org/abs/2403.16827v1)|null|
-|**2024-03-25**|**A Generalized Logrank-type Test for Comparison of Treatment Regimes in Sequential Multiple Assignment Randomized Trials**|Anastasios A. Tsiatis et.al.|[2403.16813v1](http://arxiv.org/abs/2403.16813v1)|null|
-|**2024-03-25**|**Graph Augmentation for Recommendation**|Qianru Zhang et.al.|[2403.16656v1](http://arxiv.org/abs/2403.16656v1)|[link](https://github.com/hkuds/graphaug)|
-|**2024-03-25**|**Re2LLM: Reflective Reinforcement Large Language Model for Session-based Recommendation**|Ziyan Wang et.al.|[2403.16427v2](http://arxiv.org/abs/2403.16427v2)|null|
+|**2024-03-26**|**Cognitively Biased Users Interacting with Algorithmically Biased Results in Whole-Session Search on Controversial Topics**|Ben Wang et.al.|[2403.17286v1](http://arxiv.org/abs/2403.17286v1)|null|
+|**2024-03-25**|**Teaming-up radio and submm-FIR observations to probe dusty star-forming galaxies**|Meriem Behiri et.al.|[2403.17276v1](http://arxiv.org/abs/2403.17276v1)|null|
+|**2024-03-25**|**EXPLORA: A teacher-apprentice methodology for eliciting natural child-computer interactions**|Vanessa Figueiredo et.al.|[2403.17264v1](http://arxiv.org/abs/2403.17264v1)|null|
 
 ### Compatibility
 |Publish Date|Title|Authors|PDF|Code|
@@ -107,6 +107,40 @@
 |**2024-03-24**|**From Clicks to Conversions: Analysis of Traffic Sources in E-Commerce**|Amrutha Muralidhar et.al.|[2403.16115v1](http://arxiv.org/abs/2403.16115v1)|null|
 |**2024-03-24**|**A General and Efficient Federated Split Learning with Pre-trained Image Transformers for Heterogeneous Data**|Yifan Shi et.al.|[2403.16050v1](http://arxiv.org/abs/2403.16050v1)|null|
 
+### Recommendation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-03-26**|**Optimizing Vaccine Site Locations While Considering Travel Inconvenience and Public Health Outcomes**|Suyanpeng Zhang et.al.|[2403.17923v1](http://arxiv.org/abs/2403.17923v1)|null|
+|**2024-03-26**|**MIND Your Language: A Multilingual Dataset for Cross-lingual News Recommendation**|Andreea Iana et.al.|[2403.17876v1](http://arxiv.org/abs/2403.17876v1)|[link](https://github.com/andreeaiana/xmind)|
+|**2024-03-26**|**Learning the Optimal Power Flow: Environment Design Matters**|Thomas Wolgast et.al.|[2403.17831v1](http://arxiv.org/abs/2403.17831v1)|[link](https://github.com/digitalized-energy-systems/rl-opf-env-design)|
+|**2024-03-26**|**Leave No Patient Behind: Enhancing Medication Recommendation for Rare Disease Patients**|Zihao Zhao et.al.|[2403.17745v1](http://arxiv.org/abs/2403.17745v1)|null|
+|**2024-03-26**|**All-in-One: Heterogeneous Interaction Modeling for Cold-Start Rating Prediction**|Shuheng Fang et.al.|[2403.17740v1](http://arxiv.org/abs/2403.17740v1)|null|
+|**2024-03-26**|**Large Language Models Enhanced Collaborative Filtering**|Zhongxiang Sun et.al.|[2403.17688v1](http://arxiv.org/abs/2403.17688v1)|null|
+|**2024-03-26**|**Retentive Decision Transformer with Adaptive Masking for Reinforcement Learning based Recommendation Systems**|Siyu Wang et.al.|[2403.17634v1](http://arxiv.org/abs/2403.17634v1)|null|
+|**2024-03-26**|**END4Rec: Efficient Noise-Decoupling for Multi-Behavior Sequential Recommendation**|Yongqiang Han et.al.|[2403.17603v1](http://arxiv.org/abs/2403.17603v1)|null|
+|**2024-03-26**|**Aerial Robots Carrying Flexible Cables: Dynamic Shape Optimal Control via Spectral Method Model**|Yaolei Shen et.al.|[2403.17565v1](http://arxiv.org/abs/2403.17565v1)|null|
+|**2024-03-26**|**Robust Stability for Multiagent Systems with Spatio-Temporally Correlated Packet Loss**|Christian Hespe et.al.|[2403.17554v1](http://arxiv.org/abs/2403.17554v1)|null|
+|**2024-03-26**|**Touch the Core: Exploring Task Dependence Among Hybrid Targets for Recommendation**|Xing Tang et.al.|[2403.17442v1](http://arxiv.org/abs/2403.17442v1)|null|
+|**2024-03-26**|**Numerical analysis of a FE/SAV scheme for a Caginalp phase field model with mechanical effects in stereolithography**|Xingguang Jin et.al.|[2403.17434v1](http://arxiv.org/abs/2403.17434v1)|null|
+|**2024-03-26**|**Knowledge-Powered Recommendation for an Improved Diet Water Footprint**|Saurav Joshi et.al.|[2403.17426v1](http://arxiv.org/abs/2403.17426v1)|null|
+|**2024-03-26**|**AFDGCF: Adaptive Feature De-correlation Graph Collaborative Filtering for Recommendations**|Wei Wu et.al.|[2403.17416v1](http://arxiv.org/abs/2403.17416v1)|null|
+|**2024-03-26**|**The recessionary pressures of generative AI: A threat to wellbeing**|Jo-An Occhipinti et.al.|[2403.17405v1](http://arxiv.org/abs/2403.17405v1)|null|
+|**2024-03-26**|**Multi-Domain Recommendation to Attract Users via Domain Preference Modeling**|Hyuunjun Ju et.al.|[2403.17374v1](http://arxiv.org/abs/2403.17374v1)|null|
+|**2024-03-26**|**An Empirical Study of Training ID-Agnostic Multi-modal Sequential Recommenders**|Youhua Li et.al.|[2403.17372v1](http://arxiv.org/abs/2403.17372v1)|[link](https://github.com/mmsr23/mmsr)|
+|**2024-03-26**|**Unified Path and Gait Planning for Safe Bipedal Robot Navigation**|Chengyang Peng et.al.|[2403.17347v1](http://arxiv.org/abs/2403.17347v1)|null|
+|**2024-03-26**|**Automate Knowledge Concept Tagging on Math Questions with LLMs**|Hang Li et.al.|[2403.17281v1](http://arxiv.org/abs/2403.17281v1)|null|
+|**2024-03-25**|**Diffusion-based Negative Sampling on Graphs for Link Prediction**|Trung-Kien Nguyen et.al.|[2403.17259v1](http://arxiv.org/abs/2403.17259v1)|[link](https://github.com/ntkien1904/dmns)|
+|**2024-03-25**|**Methodological Problems in Every Black-Box Study of Forensic Firearm Comparisons**|Maria Cuellar et.al.|[2403.17248v1](http://arxiv.org/abs/2403.17248v1)|null|
+|**2024-03-25**|**Reinforcement Learning-based Recommender Systems with Large Language Models for State Reward and Action Modeling**|Jie Wang et.al.|[2403.16948v1](http://arxiv.org/abs/2403.16948v1)|null|
+|**2024-03-25**|**The Costs of Competition in Distributing Scarce Research Funds**|Gerald Schweiger et.al.|[2403.16934v1](http://arxiv.org/abs/2403.16934v1)|null|
+|**2024-03-25**|**Multi-Agent Optimization for Safety Analysis of Cyber-Physical Systems: Position Paper**|Önder Gürcan et.al.|[2403.16904v1](http://arxiv.org/abs/2403.16904v1)|null|
+|**2024-03-25**|**Towards Secure and Trusted-by-Design Smart Contracts**|Zaynah Dargaye et.al.|[2403.16903v1](http://arxiv.org/abs/2403.16903v1)|null|
+|**2024-03-25**|**"It is there, and you need it, so why do you not use it?" Achieving better adoption of AI systems by domain experts, in the case study of natural science research**|Auste Simkute et.al.|[2403.16895v1](http://arxiv.org/abs/2403.16895v1)|null|
+|**2024-03-25**|**Seeking Enlightenment: Incorporating Evidence-Based Practice Techniques in a Research Software Engineering Team**|Reed Milewicz et.al.|[2403.16827v1](http://arxiv.org/abs/2403.16827v1)|null|
+|**2024-03-25**|**A Generalized Logrank-type Test for Comparison of Treatment Regimes in Sequential Multiple Assignment Randomized Trials**|Anastasios A. Tsiatis et.al.|[2403.16813v1](http://arxiv.org/abs/2403.16813v1)|null|
+|**2024-03-25**|**Graph Augmentation for Recommendation**|Qianru Zhang et.al.|[2403.16656v1](http://arxiv.org/abs/2403.16656v1)|[link](https://github.com/hkuds/graphaug)|
+|**2024-03-25**|**Re2LLM: Reflective Reinforcement Large Language Model for Session-based Recommendation**|Ziyan Wang et.al.|[2403.16427v2](http://arxiv.org/abs/2403.16427v2)|null|
+
 ### Attribute
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -140,40 +174,6 @@
 |**2024-03-25**|**Benchmarking Video Frame Interpolation**|Simon Kiefhaber et.al.|[2403.17128v1](http://arxiv.org/abs/2403.17128v1)|null|
 |**2024-03-25**|**Behind the Counter: Exploring the Motivations and Barriers of Online Counterspeech Writing**|Kaike Ping et.al.|[2403.17116v1](http://arxiv.org/abs/2403.17116v1)|null|
 |**2024-03-25**|**Attribute First, then Generate: Locally-attributable Grounded Text Generation**|Aviv Slobodkin et.al.|[2403.17104v1](http://arxiv.org/abs/2403.17104v1)|null|
-
-### Retrieval
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-03-26**|**Search and Society: Reimagining Information Access for Radical Futures**|Bhaskar Mitra et.al.|[2403.17901v1](http://arxiv.org/abs/2403.17901v1)|null|
-|**2024-03-26**|**MIND Your Language: A Multilingual Dataset for Cross-lingual News Recommendation**|Andreea Iana et.al.|[2403.17876v1](http://arxiv.org/abs/2403.17876v1)|[link](https://github.com/andreeaiana/xmind)|
-|**2024-03-26**|**ArabicaQA: A Comprehensive Dataset for Arabic Question Answering**|Abdelrahman Abdallah et.al.|[2403.17848v1](http://arxiv.org/abs/2403.17848v1)|[link](https://github.com/datascienceuibk/arabicaqa)|
-|**2024-03-26**|**A foundation model utilizing chest CT volumes and radiology reports for supervised-level zero-shot detection of abnormalities**|Ibrahim Ethem Hamamci et.al.|[2403.17834v1](http://arxiv.org/abs/2403.17834v1)|[link](https://github.com/ibrahimethemhamamci/ct-clip)|
-|**2024-03-26**|**CaseLink: Inductive Graph Learning for Legal Case Retrieval**|Yanran Tang et.al.|[2403.17780v1](http://arxiv.org/abs/2403.17780v1)|null|
-|**2024-03-26**|**TWOLAR: a TWO-step LLM-Augmented distillation method for passage Reranking**|Davide Baldelli et.al.|[2403.17759v1](http://arxiv.org/abs/2403.17759v1)|[link](https://github.com/dundalia/twolar)|
-|**2024-03-26**|**All-in-One: Heterogeneous Interaction Modeling for Cold-Start Rating Prediction**|Shuheng Fang et.al.|[2403.17740v1](http://arxiv.org/abs/2403.17740v1)|null|
-|**2024-03-26**|**EulerFormer: Sequential User Behavior Modeling with Complex Vector Attention**|Zhen Tian et.al.|[2403.17729v1](http://arxiv.org/abs/2403.17729v1)|[link](https://github.com/rucaibox/eulerformer)|
-|**2024-03-26**|**The Solution for the CVPR 2023 1st foundation model challenge-Track2**|Haonan Xu et.al.|[2403.17702v1](http://arxiv.org/abs/2403.17702v1)|null|
-|**2024-03-26**|**Large Language Models Enhanced Collaborative Filtering**|Zhongxiang Sun et.al.|[2403.17688v1](http://arxiv.org/abs/2403.17688v1)|null|
-|**2024-03-26**|**DANCER: Entity Description Augmented Named Entity Corrector for Automatic Speech Recognition**|Yi-Cheng Wang et.al.|[2403.17645v1](http://arxiv.org/abs/2403.17645v1)|null|
-|**2024-03-26**|**S+t-SNE - Bringing dimensionality reduction to data streams**|Pedro C. Vieira et.al.|[2403.17643v1](http://arxiv.org/abs/2403.17643v1)|[link](https://github.com/pedrv/s--t-sne)|
-|**2024-03-26**|**Retentive Decision Transformer with Adaptive Masking for Reinforcement Learning based Recommendation Systems**|Siyu Wang et.al.|[2403.17634v1](http://arxiv.org/abs/2403.17634v1)|null|
-|**2024-03-26**|**Denoising Table-Text Retrieval for Open-Domain Question Answering**|Deokhyung Kang et.al.|[2403.17611v1](http://arxiv.org/abs/2403.17611v1)|[link](https://github.com/deokhk/dotter)|
-|**2024-03-26**|**END4Rec: Efficient Noise-Decoupling for Multi-Behavior Sequential Recommendation**|Yongqiang Han et.al.|[2403.17603v1](http://arxiv.org/abs/2403.17603v1)|null|
-|**2024-03-26**|**Aerial Robots Carrying Flexible Cables: Dynamic Shape Optimal Control via Spectral Method Model**|Yaolei Shen et.al.|[2403.17565v1](http://arxiv.org/abs/2403.17565v1)|null|
-|**2024-03-26**|**Robust Stability for Multiagent Systems with Spatio-Temporally Correlated Packet Loss**|Christian Hespe et.al.|[2403.17554v1](http://arxiv.org/abs/2403.17554v1)|null|
-|**2024-03-26**|**Document Set Expansion with Positive-Unlabelled Learning Using Intractable Density Estimation**|Haiyang Zhang et.al.|[2403.17473v1](http://arxiv.org/abs/2403.17473v1)|null|
-|**2024-03-26**|**Touch the Core: Exploring Task Dependence Among Hybrid Targets for Recommendation**|Xing Tang et.al.|[2403.17442v1](http://arxiv.org/abs/2403.17442v1)|null|
-|**2024-03-26**|**Numerical analysis of a FE/SAV scheme for a Caginalp phase field model with mechanical effects in stereolithography**|Xingguang Jin et.al.|[2403.17434v1](http://arxiv.org/abs/2403.17434v1)|null|
-|**2024-03-26**|**Masked Multi-Domain Network: Multi-Type and Multi-Scenario Conversion Rate Prediction with a Single Model**|Wentao Ouyang et.al.|[2403.17425v1](http://arxiv.org/abs/2403.17425v1)|null|
-|**2024-03-26**|**MA4DIV: Multi-Agent Reinforcement Learning for Search Result Diversification**|Yiqun Chen et.al.|[2403.17421v1](http://arxiv.org/abs/2403.17421v1)|null|
-|**2024-03-26**|**AFDGCF: Adaptive Feature De-correlation Graph Collaborative Filtering for Recommendations**|Wei Wu et.al.|[2403.17416v1](http://arxiv.org/abs/2403.17416v1)|null|
-|**2024-03-26**|**Multi-Domain Recommendation to Attract Users via Domain Preference Modeling**|Hyuunjun Ju et.al.|[2403.17374v1](http://arxiv.org/abs/2403.17374v1)|null|
-|**2024-03-26**|**An Empirical Study of Training ID-Agnostic Multi-modal Sequential Recommenders**|Youhua Li et.al.|[2403.17372v1](http://arxiv.org/abs/2403.17372v1)|[link](https://github.com/mmsr23/mmsr)|
-|**2024-03-26**|**Chain-of-Action: Faithful and Multimodal Question Answering through Large Language Models**|Zhenyu Pan et.al.|[2403.17359v1](http://arxiv.org/abs/2403.17359v1)|null|
-|**2024-03-26**|**Unified Path and Gait Planning for Safe Bipedal Robot Navigation**|Chengyang Peng et.al.|[2403.17347v1](http://arxiv.org/abs/2403.17347v1)|null|
-|**2024-03-26**|**Cognitively Biased Users Interacting with Algorithmically Biased Results in Whole-Session Search on Controversial Topics**|Ben Wang et.al.|[2403.17286v1](http://arxiv.org/abs/2403.17286v1)|null|
-|**2024-03-25**|**Teaming-up radio and submm-FIR observations to probe dusty star-forming galaxies**|Meriem Behiri et.al.|[2403.17276v1](http://arxiv.org/abs/2403.17276v1)|null|
-|**2024-03-25**|**EXPLORA: A teacher-apprentice methodology for eliciting natural child-computer interactions**|Vanessa Figueiredo et.al.|[2403.17264v1](http://arxiv.org/abs/2403.17264v1)|null|
 
 ### General
 |Publish Date|Title|Authors|PDF|Code|
@@ -211,40 +211,6 @@
 
 ## Multi-modal
 
-### Multi-modal
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-03-26**|**ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis**|Muhammad Hamza Mughal et.al.|[2403.17936v1](http://arxiv.org/abs/2403.17936v1)|null|
-|**2024-03-26**|**AiOS: All-in-One-Stage Expressive Human Pose and Shape Estimation**|Qingping Sun et.al.|[2403.17934v1](http://arxiv.org/abs/2403.17934v1)|null|
-|**2024-03-26**|**MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution**|Wei Tao et.al.|[2403.17927v1](http://arxiv.org/abs/2403.17927v1)|null|
-|**2024-03-26**|**FastCAR: Fast Classification And Regression Multi-Task Learning via Task Consolidation for Modelling a Continuous Property Variable of Object Classes**|Anoop Kini et.al.|[2403.17926v1](http://arxiv.org/abs/2403.17926v1)|null|
-|**2024-03-26**|**Optimizing Vaccine Site Locations While Considering Travel Inconvenience and Public Health Outcomes**|Suyanpeng Zhang et.al.|[2403.17923v1](http://arxiv.org/abs/2403.17923v1)|null|
-|**2024-03-26**|**AgentStudio: A Toolkit for Building General Virtual Agents**|Longtao Zheng et.al.|[2403.17918v1](http://arxiv.org/abs/2403.17918v1)|null|
-|**2024-03-26**|**Multi-Agent Clarity-Aware Dynamic Coverage with Gaussian Processes**|Devansh R. Agrawal et.al.|[2403.17917v1](http://arxiv.org/abs/2403.17917v1)|null|
-|**2024-03-26**|**CMP: Cooperative Motion Prediction with Multi-Agent Communication**|Zhuoyuan Wu et.al.|[2403.17916v1](http://arxiv.org/abs/2403.17916v1)|null|
-|**2024-03-26**|**Hierarchical Multi-label Classification for Fine-level Event Extraction from Aviation Accident Reports**|Xinyu Zhao et.al.|[2403.17914v1](http://arxiv.org/abs/2403.17914v1)|null|
-|**2024-03-26**|**Multi-Agent Resilient Consensus under Intermittent Faulty and Malicious Transmissions (Extended Version)**|Sarper Aydın et.al.|[2403.17907v1](http://arxiv.org/abs/2403.17907v1)|null|
-|**2024-03-26**|**Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models**|Mohammad Shahab Sepehri et.al.|[2403.17902v1](http://arxiv.org/abs/2403.17902v1)|null|
-|**2024-03-26**|**Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians**|Kerui Ren et.al.|[2403.17898v1](http://arxiv.org/abs/2403.17898v1)|null|
-|**2024-03-26**|**Global asymptotics for $β$-Krawtchouk corners processes via multi-level loop equations**|Evgeni Dimitrov et.al.|[2403.17895v1](http://arxiv.org/abs/2403.17895v1)|null|
-|**2024-03-26**|**2D Gaussian Splatting for Geometrically Accurate Radiance Fields**|Binbin Huang et.al.|[2403.17888v1](http://arxiv.org/abs/2403.17888v1)|null|
-|**2024-03-26**|**Compressed Multi-task embeddings for Data-Efficient Downstream training and inference in Earth Observation**|Carlos Gomes et.al.|[2403.17886v1](http://arxiv.org/abs/2403.17886v1)|null|
-|**2024-03-26**|**Sen2Fire: A Challenging Benchmark Dataset for Wildfire Detection using Sentinel Data**|Yonghao Xu et.al.|[2403.17884v1](http://arxiv.org/abs/2403.17884v1)|null|
-|**2024-03-26**|**Low-Latency Neural Stereo Streaming**|Qiqi Hou et.al.|[2403.17879v1](http://arxiv.org/abs/2403.17879v1)|null|
-|**2024-03-26**|**Empowering Data Mesh with Federated Learning**|Haoyuan Li et.al.|[2403.17878v1](http://arxiv.org/abs/2403.17878v1)|[link](https://github.com/haoyuan-l/fed_datamesh)|
-|**2024-03-26**|**A Floquet analysis perspective of driven light-matter interaction models**|Jonas Larson et.al.|[2403.17866v1](http://arxiv.org/abs/2403.17866v1)|null|
-|**2024-03-26**|**An AI-Native Runtime for Multi-Wearable Environments**|Chulhong Min et.al.|[2403.17863v1](http://arxiv.org/abs/2403.17863v1)|null|
-|**2024-03-26**|**Multi Agent Pathfinding for Noise Restricted Hybrid Fuel Unmanned Aerial Vehicles**|Drew Scott et.al.|[2403.17849v1](http://arxiv.org/abs/2403.17849v1)|null|
-|**2024-03-26**|**Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation**|Abdelrhman Werby et.al.|[2403.17846v1](http://arxiv.org/abs/2403.17846v1)|null|
-|**2024-03-26**|**Experimental Realization of Discrete Time Quasi-Crystals**|Guanghui He et.al.|[2403.17842v1](http://arxiv.org/abs/2403.17842v1)|null|
-|**2024-03-26**|**ReMamber: Referring Image Segmentation with Mamba Twister**|Yuhuan Yang et.al.|[2403.17839v1](http://arxiv.org/abs/2403.17839v1)|null|
-|**2024-03-26**|**Implementing photometric stereo for scanning helium microscopy (SHeM) to reconstruct true-to-size 3D surfaces**|Aleksandar Radic et.al.|[2403.17835v1](http://arxiv.org/abs/2403.17835v1)|null|
-|**2024-03-26**|**A foundation model utilizing chest CT volumes and radiology reports for supervised-level zero-shot detection of abnormalities**|Ibrahim Ethem Hamamci et.al.|[2403.17834v1](http://arxiv.org/abs/2403.17834v1)|[link](https://github.com/ibrahimethemhamamci/ct-clip)|
-|**2024-03-26**|**Assessment of Multimodal Large Language Models in Alignment with Human Values**|Zhelun Shi et.al.|[2403.17830v1](http://arxiv.org/abs/2403.17830v1)|null|
-|**2024-03-26**|**D-PAD: Deep-Shallow Multi-Frequency Patterns Disentangling for Time Series Forecasting**|Xiaobing Yuan et.al.|[2403.17814v1](http://arxiv.org/abs/2403.17814v1)|null|
-|**2024-03-26**|**Environment Reconstruction based on Multi-User Selection and Multi-Modal Fusion in ISAC**|Bo Lin et.al.|[2403.17810v1](http://arxiv.org/abs/2403.17810v1)|null|
-|**2024-03-26**|**Scenario-Based Curriculum Generation for Multi-Agent Autonomous Driving**|Axel Brunnbauer et.al.|[2403.17805v1](http://arxiv.org/abs/2403.17805v1)|[link](https://github.com/autonomousdrivingexaminer/mats-gym)|
-
 ### CLIP
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -278,6 +244,40 @@
 |**2024-03-21**|**Unified Static and Dynamic Network: Efficient Temporal Filtering for Video Grounding**|Jingjing Hu et.al.|[2403.14174v1](http://arxiv.org/abs/2403.14174v1)|[link](https://github.com/xian-sh/unisdnet)|
 |**2024-03-21**|**C-TPT: Calibrated Test-Time Prompt Tuning for Vision-Language Models via Text Feature Dispersion**|Hee Suk Yoon et.al.|[2403.14119v2](http://arxiv.org/abs/2403.14119v2)|null|
 |**2024-03-20**|**RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition**|Ziyu Liu et.al.|[2403.13805v1](http://arxiv.org/abs/2403.13805v1)|[link](https://github.com/liuziyu77/rar)|
+
+### Multi-modal
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-03-26**|**ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis**|Muhammad Hamza Mughal et.al.|[2403.17936v1](http://arxiv.org/abs/2403.17936v1)|null|
+|**2024-03-26**|**AiOS: All-in-One-Stage Expressive Human Pose and Shape Estimation**|Qingping Sun et.al.|[2403.17934v1](http://arxiv.org/abs/2403.17934v1)|null|
+|**2024-03-26**|**MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution**|Wei Tao et.al.|[2403.17927v1](http://arxiv.org/abs/2403.17927v1)|null|
+|**2024-03-26**|**FastCAR: Fast Classification And Regression Multi-Task Learning via Task Consolidation for Modelling a Continuous Property Variable of Object Classes**|Anoop Kini et.al.|[2403.17926v1](http://arxiv.org/abs/2403.17926v1)|null|
+|**2024-03-26**|**Optimizing Vaccine Site Locations While Considering Travel Inconvenience and Public Health Outcomes**|Suyanpeng Zhang et.al.|[2403.17923v1](http://arxiv.org/abs/2403.17923v1)|null|
+|**2024-03-26**|**AgentStudio: A Toolkit for Building General Virtual Agents**|Longtao Zheng et.al.|[2403.17918v1](http://arxiv.org/abs/2403.17918v1)|null|
+|**2024-03-26**|**Multi-Agent Clarity-Aware Dynamic Coverage with Gaussian Processes**|Devansh R. Agrawal et.al.|[2403.17917v1](http://arxiv.org/abs/2403.17917v1)|null|
+|**2024-03-26**|**CMP: Cooperative Motion Prediction with Multi-Agent Communication**|Zhuoyuan Wu et.al.|[2403.17916v1](http://arxiv.org/abs/2403.17916v1)|null|
+|**2024-03-26**|**Hierarchical Multi-label Classification for Fine-level Event Extraction from Aviation Accident Reports**|Xinyu Zhao et.al.|[2403.17914v1](http://arxiv.org/abs/2403.17914v1)|null|
+|**2024-03-26**|**Multi-Agent Resilient Consensus under Intermittent Faulty and Malicious Transmissions (Extended Version)**|Sarper Aydın et.al.|[2403.17907v1](http://arxiv.org/abs/2403.17907v1)|null|
+|**2024-03-26**|**Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models**|Mohammad Shahab Sepehri et.al.|[2403.17902v1](http://arxiv.org/abs/2403.17902v1)|null|
+|**2024-03-26**|**Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians**|Kerui Ren et.al.|[2403.17898v1](http://arxiv.org/abs/2403.17898v1)|null|
+|**2024-03-26**|**Global asymptotics for $β$-Krawtchouk corners processes via multi-level loop equations**|Evgeni Dimitrov et.al.|[2403.17895v1](http://arxiv.org/abs/2403.17895v1)|null|
+|**2024-03-26**|**2D Gaussian Splatting for Geometrically Accurate Radiance Fields**|Binbin Huang et.al.|[2403.17888v1](http://arxiv.org/abs/2403.17888v1)|null|
+|**2024-03-26**|**Compressed Multi-task embeddings for Data-Efficient Downstream training and inference in Earth Observation**|Carlos Gomes et.al.|[2403.17886v1](http://arxiv.org/abs/2403.17886v1)|null|
+|**2024-03-26**|**Sen2Fire: A Challenging Benchmark Dataset for Wildfire Detection using Sentinel Data**|Yonghao Xu et.al.|[2403.17884v1](http://arxiv.org/abs/2403.17884v1)|null|
+|**2024-03-26**|**Low-Latency Neural Stereo Streaming**|Qiqi Hou et.al.|[2403.17879v1](http://arxiv.org/abs/2403.17879v1)|null|
+|**2024-03-26**|**Empowering Data Mesh with Federated Learning**|Haoyuan Li et.al.|[2403.17878v1](http://arxiv.org/abs/2403.17878v1)|[link](https://github.com/haoyuan-l/fed_datamesh)|
+|**2024-03-26**|**A Floquet analysis perspective of driven light-matter interaction models**|Jonas Larson et.al.|[2403.17866v1](http://arxiv.org/abs/2403.17866v1)|null|
+|**2024-03-26**|**An AI-Native Runtime for Multi-Wearable Environments**|Chulhong Min et.al.|[2403.17863v1](http://arxiv.org/abs/2403.17863v1)|null|
+|**2024-03-26**|**Multi Agent Pathfinding for Noise Restricted Hybrid Fuel Unmanned Aerial Vehicles**|Drew Scott et.al.|[2403.17849v1](http://arxiv.org/abs/2403.17849v1)|null|
+|**2024-03-26**|**Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation**|Abdelrhman Werby et.al.|[2403.17846v1](http://arxiv.org/abs/2403.17846v1)|null|
+|**2024-03-26**|**Experimental Realization of Discrete Time Quasi-Crystals**|Guanghui He et.al.|[2403.17842v1](http://arxiv.org/abs/2403.17842v1)|null|
+|**2024-03-26**|**ReMamber: Referring Image Segmentation with Mamba Twister**|Yuhuan Yang et.al.|[2403.17839v1](http://arxiv.org/abs/2403.17839v1)|null|
+|**2024-03-26**|**Implementing photometric stereo for scanning helium microscopy (SHeM) to reconstruct true-to-size 3D surfaces**|Aleksandar Radic et.al.|[2403.17835v1](http://arxiv.org/abs/2403.17835v1)|null|
+|**2024-03-26**|**A foundation model utilizing chest CT volumes and radiology reports for supervised-level zero-shot detection of abnormalities**|Ibrahim Ethem Hamamci et.al.|[2403.17834v1](http://arxiv.org/abs/2403.17834v1)|[link](https://github.com/ibrahimethemhamamci/ct-clip)|
+|**2024-03-26**|**Assessment of Multimodal Large Language Models in Alignment with Human Values**|Zhelun Shi et.al.|[2403.17830v1](http://arxiv.org/abs/2403.17830v1)|null|
+|**2024-03-26**|**D-PAD: Deep-Shallow Multi-Frequency Patterns Disentangling for Time Series Forecasting**|Xiaobing Yuan et.al.|[2403.17814v1](http://arxiv.org/abs/2403.17814v1)|null|
+|**2024-03-26**|**Environment Reconstruction based on Multi-User Selection and Multi-Modal Fusion in ISAC**|Bo Lin et.al.|[2403.17810v1](http://arxiv.org/abs/2403.17810v1)|null|
+|**2024-03-26**|**Scenario-Based Curriculum Generation for Multi-Agent Autonomous Driving**|Axel Brunnbauer et.al.|[2403.17805v1](http://arxiv.org/abs/2403.17805v1)|[link](https://github.com/autonomousdrivingexaminer/mats-gym)|
 
 ## Transformer
 
