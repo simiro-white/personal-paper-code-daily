@@ -1,113 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2024-03-31 20:48:15 Asia/Shanghai
+ Automated deployment @ 2024-03-31 21:00:07 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
-
-## Transformer
-
-### Transformer
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-03-28**|**RSMamba: Remote Sensing Image Classification with State Space Model**|Keyan Chen et.al.|[2403.19654v1](http://arxiv.org/abs/2403.19654v1)|[link](https://github.com/KyanChen/RSMamba)|
-|**2024-03-28**|**Siamese Vision Transformers are Scalable Audio-visual Learners**|Yan-Bo Lin et.al.|[2403.19638v1](http://arxiv.org/abs/2403.19638v1)|null|
-|**2024-03-28**|**Genetic Quantization-Aware Approximation for Non-Linear Operations in Transformers**|Pingcheng Dong et.al.|[2403.19591v1](http://arxiv.org/abs/2403.19591v1)|[link](https://github.com/pingchengdong/gqa-lut)|
-|**2024-03-28**|**DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs**|Donghyun Kim et.al.|[2403.19588v1](http://arxiv.org/abs/2403.19588v1)|[link](https://github.com/naver-ai/rdnet)|
-|**2024-03-28**|**The Bad Batches: Enhancing Self-Supervised Learning in Image Classification Through Representative Batch Curation**|Ozgu Goksu et.al.|[2403.19579v1](http://arxiv.org/abs/2403.19579v1)|null|
-|**2024-03-28**|**Keypoint Action Tokens Enable In-Context Imitation Learning in Robotics**|Norman Di Palo et.al.|[2403.19578v1](http://arxiv.org/abs/2403.19578v1)|null|
-|**2024-03-28**|**Probing the dark Universe with gravitational waves**|Antonio Enea Romano et.al.|[2403.19552v1](http://arxiv.org/abs/2403.19552v1)|null|
-|**2024-03-28**|**Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models**|Ang Lv et.al.|[2403.19521v1](http://arxiv.org/abs/2403.19521v1)|null|
-|**2024-03-28**|**Quantum Realization of the Finite Element Method**|Matthias Deiml et.al.|[2403.19512v1](http://arxiv.org/abs/2403.19512v1)|[link](https://github.com/mdeiml/quantum-bpx)|
-|**2024-03-28**|**Segmentation tool for images of cracks**|Andrii Kompanets et.al.|[2403.19492v1](http://arxiv.org/abs/2403.19492v1)|[link](https://github.com/akomp22/crack-segmentation-tool)|
-|**2024-03-28**|**Adaptive resolution of fine scales in modes of microstructured optical fibers**|Jay Gopalakrishnan et.al.|[2403.19485v1](http://arxiv.org/abs/2403.19485v1)|null|
-|**2024-03-28**|**SG-PGM: Partial Graph Matching Network with Semantic Geometric Fusion for 3D Scene Graph Alignment and Its Downstream Tasks**|Yaxu Xie et.al.|[2403.19474v1](http://arxiv.org/abs/2403.19474v1)|[link](https://github.com/dfki-av/sg-pgm)|
-|**2024-03-28**|**Beyond Talking -- Generating Holistic 3D Human Dyadic Motion for Communication**|Mingze Sun et.al.|[2403.19467v1](http://arxiv.org/abs/2403.19467v1)|null|
-|**2024-03-28**|**RiEMann: Near Real-Time SE(3)-Equivariant Robot Manipulation without Point Cloud Segmentation**|Chongkai Gao et.al.|[2403.19460v1](http://arxiv.org/abs/2403.19460v1)|null|
-|**2024-03-28**|**EDA-Driven Preprocessing for SAT Solving**|Zhengyuan Shi et.al.|[2403.19446v1](http://arxiv.org/abs/2403.19446v1)|null|
-|**2024-03-28**|**A Novel Stochastic Transformer-based Approach for Post-Traumatic Stress Disorder Detection using Audio Recording of Clinical Interviews**|Mamadou Dia et.al.|[2403.19441v1](http://arxiv.org/abs/2403.19441v1)|null|
-|**2024-03-28**|**BAMM: Bidirectional Autoregressive Motion Model**|Ekkasit Pinyoanuntapong et.al.|[2403.19435v1](http://arxiv.org/abs/2403.19435v1)|null|
-|**2024-03-28**|**Tabular Learning: Encoding for Entity and Context Embeddings**|Fredy Reusser et.al.|[2403.19405v1](http://arxiv.org/abs/2403.19405v1)|null|
-|**2024-03-28**|**Holography of a single free matrix**|Robert de Mello Koch et.al.|[2403.19391v1](http://arxiv.org/abs/2403.19391v1)|null|
-|**2024-03-28**|**EthioMT: Parallel Corpus for Low-resource Ethiopian Languages**|Atnafu Lambebo Tonja et.al.|[2403.19365v1](http://arxiv.org/abs/2403.19365v1)|null|
-|**2024-03-28**|**Gain-Only Neural Operator Approximators of PDE Backstepping Controllers**|Rafael Vazquez et.al.|[2403.19344v1](http://arxiv.org/abs/2403.19344v1)|null|
-|**2024-03-28**|**Dataverse: Open-Source ETL (Extract, Transform, Load) Pipeline for Large Language Models**|Hyunbyung Park et.al.|[2403.19340v1](http://arxiv.org/abs/2403.19340v1)|[link](https://github.com/upstageai/dataverse)|
-|**2024-03-28**|**IVLMap: Instance-Aware Visual Language Grounding for Consumer Robot Navigation**|Jiacui Huang et.al.|[2403.19336v1](http://arxiv.org/abs/2403.19336v1)|null|
-|**2024-03-28**|**Complex generalized Gauss-Radau quadrature rules for Hankel transforms of integer order**|Haiyong Wang et.al.|[2403.19328v1](http://arxiv.org/abs/2403.19328v1)|null|
-|**2024-03-28**|**Sine Activated Low-Rank Matrices for Parameter Efficient Learning**|Yiping Ji et.al.|[2403.19243v1](http://arxiv.org/abs/2403.19243v1)|null|
-|**2024-03-28**|**Single-Shared Network with Prior-Inspired Loss for Parameter-Efficient Multi-Modal Imaging Skin Lesion Classification**|Peng Tang et.al.|[2403.19203v1](http://arxiv.org/abs/2403.19203v1)|null|
-|**2024-03-28**|**Hamiltonian mechanics of "magnetic'' solitons in two-component Bose-Einstein condensates**|A. M. Kamchatnov et.al.|[2403.19199v1](http://arxiv.org/abs/2403.19199v1)|null|
-|**2024-03-28**|**Improving the Bit Complexity of Communication for Distributed Convex Optimization**|Mehrdad Ghadiri et.al.|[2403.19146v1](http://arxiv.org/abs/2403.19146v1)|null|
-|**2024-03-28**|**Compressing Large Language Models by Streamlining the Unimportant Layer**|Xiaodong Chen et.al.|[2403.19135v1](http://arxiv.org/abs/2403.19135v1)|null|
-|**2024-03-28**|**PoCo: A Self-Supervised Approach via Polar Transformation Based Progressive Contrastive Learning for Ophthalmic Disease Diagnosis**|Jinhong Wang et.al.|[2403.19124v1](http://arxiv.org/abs/2403.19124v1)|null|
-
-### Vision Transformer
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-03-28**|**GaussianCube: Structuring Gaussian Splatting using Optimal Transport for 3D Generative Modeling**|Bowen Zhang et.al.|[2403.19655v1](http://arxiv.org/abs/2403.19655v1)|null|
-|**2024-03-28**|**RSMamba: Remote Sensing Image Classification with State Space Model**|Keyan Chen et.al.|[2403.19654v1](http://arxiv.org/abs/2403.19654v1)|[link](https://github.com/KyanChen/RSMamba)|
-|**2024-03-28**|**Detecting Image Attribution for Text-to-Image Diffusion Models in RGB and Beyond**|Katherine Xu et.al.|[2403.19653v1](http://arxiv.org/abs/2403.19653v1)|[link](https://github.com/k8xu/imageattribution)|
-|**2024-03-28**|**InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction**|Sirui Xu et.al.|[2403.19652v1](http://arxiv.org/abs/2403.19652v1)|null|
-|**2024-03-28**|**MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions**|Kai Zhang et.al.|[2403.19651v1](http://arxiv.org/abs/2403.19651v1)|null|
-|**2024-03-28**|**GraspXL: Generating Grasping Motions for Diverse Objects at Scale**|Hui Zhang et.al.|[2403.19649v1](http://arxiv.org/abs/2403.19649v1)|null|
-|**2024-03-28**|**Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models**|Samuel Marks et.al.|[2403.19647v1](http://arxiv.org/abs/2403.19647v1)|[link](https://github.com/saprmarks/feature-circuits)|
-|**2024-03-28**|**Change-Agent: Towards Interactive Comprehensive Change Interpretation and Analysis from Change Detection and Change Captioning**|Chenyang Liu et.al.|[2403.19646v1](http://arxiv.org/abs/2403.19646v1)|[link](https://github.com/chen-yang-liu/change-agent)|
-|**2024-03-28**|**GANTASTIC: GAN-based Transfer of Interpretable Directions for Disentangled Image Editing in Text-to-Image Diffusion Models**|Yusuf Dalva et.al.|[2403.19645v1](http://arxiv.org/abs/2403.19645v1)|null|
-|**2024-03-28**|**Linear Programming in Isabelle/HOL**|Julian Parsert et.al.|[2403.19639v1](http://arxiv.org/abs/2403.19639v1)|null|
-|**2024-03-28**|**Siamese Vision Transformers are Scalable Audio-visual Learners**|Yan-Bo Lin et.al.|[2403.19638v1](http://arxiv.org/abs/2403.19638v1)|null|
-|**2024-03-28**|**In the driver's mind: modeling the dynamics of human overtaking decisions in interactions with oncoming automated vehicles**|Samir H. A. Mohammad et.al.|[2403.19637v1](http://arxiv.org/abs/2403.19637v1)|null|
-|**2024-03-28**|**Asymmetric and trial-dependent modeling: the contribution of LIA to SdSV Challenge Task 2**|Pierre-Michel Bousquet et.al.|[2403.19634v1](http://arxiv.org/abs/2403.19634v1)|null|
-|**2024-03-28**|**GauStudio: A Modular Framework for 3D Gaussian Splatting and Beyond**|Chongjie Ye et.al.|[2403.19632v1](http://arxiv.org/abs/2403.19632v1)|[link](https://github.com/gap-lab-cuhk-sz/gaustudio)|
-|**2024-03-28**|**Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models**|Yucheng Shi et.al.|[2403.19631v1](http://arxiv.org/abs/2403.19631v1)|null|
-|**2024-03-28**|**RH20T-P: A Primitive-Level Robotic Dataset Towards Composable Generalization Agents**|Zeren Chen et.al.|[2403.19622v1](http://arxiv.org/abs/2403.19622v1)|null|
-|**2024-03-28**|**Collaborative Interactive Evolution of Art in the Latent Space of Deep Generative Models**|Ole Hall et.al.|[2403.19620v1](http://arxiv.org/abs/2403.19620v1)|null|
-|**2024-03-28**|**Feedback Optimization of Incentives for Distribution Grid Services**|Guido Cavraro et.al.|[2403.19616v1](http://arxiv.org/abs/2403.19616v1)|null|
-|**2024-03-28**|**SA-GS: Scale-Adaptive Gaussian Splatting for Training-Free Anti-Aliasing**|Xiaowei Song et.al.|[2403.19615v1](http://arxiv.org/abs/2403.19615v1)|[link](https://github.com/zsy1987/sa-gs)|
-|**2024-03-28**|**ILPO-NET: Network for the invariant recognition of arbitrary volumetric patterns in 3D**|Dmitrii Zhemchuzhnikov et.al.|[2403.19612v1](http://arxiv.org/abs/2403.19612v1)|null|
-|**2024-03-28**|**Nearest Neighbor Classication for Classical Image Upsampling**|Evan Matthews et.al.|[2403.19611v1](http://arxiv.org/abs/2403.19611v1)|null|
-|**2024-03-28**|**Magic-induced computational separation in entanglement theory**|Andi Gu et.al.|[2403.19610v1](http://arxiv.org/abs/2403.19610v1)|null|
-|**2024-03-28**|**SAID-NeRF: Segmentation-AIDed NeRF for Depth Completion of Transparent Objects**|Avinash Ummadisingu et.al.|[2403.19607v1](http://arxiv.org/abs/2403.19607v1)|null|
-|**2024-03-28**|**Data-Adaptive Tradeoffs among Multiple Risks in Distribution-Free Prediction**|Drew T. Nguyen et.al.|[2403.19605v1](http://arxiv.org/abs/2403.19605v1)|null|
-|**2024-03-28**|**Semantic Map-based Generation of Navigation Instructions**|Chengzu Li et.al.|[2403.19603v1](http://arxiv.org/abs/2403.19603v1)|[link](https://github.com/chengzu-li/vlgen)|
-|**2024-03-28**|**Enhance Image Classification via Inter-Class Image Mixup with Diffusion Model**|Zhicai Wang et.al.|[2403.19600v1](http://arxiv.org/abs/2403.19600v1)|[link](https://github.com/zhicaiwww/diff-mix)|
-|**2024-03-28**|**Reference Energies for Double Excitations: Improvement and Extension**|Fábris Kossoski et.al.|[2403.19597v1](http://arxiv.org/abs/2403.19597v1)|null|
-|**2024-03-28**|**LocCa: Visual Pretraining with Location-aware Captioners**|Bo Wan et.al.|[2403.19596v1](http://arxiv.org/abs/2403.19596v1)|null|
-|**2024-03-28**|**Situation Awareness for Driver-Centric Driving Style Adaptation**|Johann Haselberger et.al.|[2403.19595v1](http://arxiv.org/abs/2403.19595v1)|[link](https://github.com/jhaselberger/sadc-situation-awareness-for-driver-centric-driving-style-adaptation)|
-|**2024-03-28**|**Frame by Familiar Frame: Understanding Replication in Video Diffusion Models**|Aimon Rahman et.al.|[2403.19593v1](http://arxiv.org/abs/2403.19593v1)|null|
-
-## Graph Neural Network
-
-### Graph Neural Network
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-03-28**|**GaussianCube: Structuring Gaussian Splatting using Optimal Transport for 3D Generative Modeling**|Bowen Zhang et.al.|[2403.19655v1](http://arxiv.org/abs/2403.19655v1)|null|
-|**2024-03-28**|**RSMamba: Remote Sensing Image Classification with State Space Model**|Keyan Chen et.al.|[2403.19654v1](http://arxiv.org/abs/2403.19654v1)|[link](https://github.com/KyanChen/RSMamba)|
-|**2024-03-28**|**Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models**|Samuel Marks et.al.|[2403.19647v1](http://arxiv.org/abs/2403.19647v1)|[link](https://github.com/saprmarks/feature-circuits)|
-|**2024-03-28**|**GANTASTIC: GAN-based Transfer of Interpretable Directions for Disentangled Image Editing in Text-to-Image Diffusion Models**|Yusuf Dalva et.al.|[2403.19645v1](http://arxiv.org/abs/2403.19645v1)|null|
-|**2024-03-28**|**Siamese Vision Transformers are Scalable Audio-visual Learners**|Yan-Bo Lin et.al.|[2403.19638v1](http://arxiv.org/abs/2403.19638v1)|null|
-|**2024-03-28**|**Lane-Change in Dense Traffic with Model Predictive Control and Neural Networks**|Sangjae Bae et.al.|[2403.19633v1](http://arxiv.org/abs/2403.19633v1)|[link](https://github.com/bsj1216/NNMPC)|
-|**2024-03-28**|**Collaborative Interactive Evolution of Art in the Latent Space of Deep Generative Models**|Ole Hall et.al.|[2403.19620v1](http://arxiv.org/abs/2403.19620v1)|null|
-|**2024-03-28**|**Feedback Optimization of Incentives for Distribution Grid Services**|Guido Cavraro et.al.|[2403.19616v1](http://arxiv.org/abs/2403.19616v1)|null|
-|**2024-03-28**|**ILPO-NET: Network for the invariant recognition of arbitrary volumetric patterns in 3D**|Dmitrii Zhemchuzhnikov et.al.|[2403.19612v1](http://arxiv.org/abs/2403.19612v1)|null|
-|**2024-03-28**|**SAID-NeRF: Segmentation-AIDed NeRF for Depth Completion of Transparent Objects**|Avinash Ummadisingu et.al.|[2403.19607v1](http://arxiv.org/abs/2403.19607v1)|null|
-|**2024-03-28**|**Genetic Quantization-Aware Approximation for Non-Linear Operations in Transformers**|Pingcheng Dong et.al.|[2403.19591v1](http://arxiv.org/abs/2403.19591v1)|[link](https://github.com/pingchengdong/gqa-lut)|
-|**2024-03-28**|**TOD3Cap: Towards 3D Dense Captioning in Outdoor Scenes**|Bu Jin et.al.|[2403.19589v1](http://arxiv.org/abs/2403.19589v1)|[link](https://github.com/jxbbb/tod3cap)|
-|**2024-03-28**|**DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs**|Donghyun Kim et.al.|[2403.19588v1](http://arxiv.org/abs/2403.19588v1)|[link](https://github.com/naver-ai/rdnet)|
-|**2024-03-28**|**Refining tree-decompositions so that they display the k-blocks**|Sandra Albrechtsen et.al.|[2403.19585v1](http://arxiv.org/abs/2403.19585v1)|null|
-|**2024-03-28**|**Keypoint Action Tokens Enable In-Context Imitation Learning in Robotics**|Norman Di Palo et.al.|[2403.19578v1](http://arxiv.org/abs/2403.19578v1)|null|
-|**2024-03-28**|**$q$-Chromatic polynomials**|Esme Bajo et.al.|[2403.19573v1](http://arxiv.org/abs/2403.19573v1)|null|
-|**2024-03-28**|**Swarm Characteristics Classification Using Neural Networks**|Donald W. Peltier III et.al.|[2403.19572v1](http://arxiv.org/abs/2403.19572v1)|[link](https://github.com/dwpeltier3/swarm-nn-tsc)|
-|**2024-03-28**|**GrINd: Grid Interpolation Network for Scattered Observations**|Andrzej Dulny et.al.|[2403.19570v1](http://arxiv.org/abs/2403.19570v1)|null|
-|**2024-03-28**|**On reduced unicellular hypermonopoles**|Robert Cori et.al.|[2403.19569v1](http://arxiv.org/abs/2403.19569v1)|null|
-|**2024-03-28**|**Self-Improved Learning for Scalable Neural Combinatorial Optimization**|Fu Luo et.al.|[2403.19561v1](http://arxiv.org/abs/2403.19561v1)|null|
-|**2024-03-28**|**Experimental determination of effective light transport properties in fully anisotropic media**|Ernesto Pini et.al.|[2403.19558v1](http://arxiv.org/abs/2403.19558v1)|null|
-|**2024-03-28**|**Expectation Maximization Aided Modified Weighted Sequential Energy Detector for Distributed Cooperative Spectrum Sensing**|Mohammed Rashid et.al.|[2403.19556v1](http://arxiv.org/abs/2403.19556v1)|null|
-|**2024-03-28**|**GlORIE-SLAM: Globally Optimized RGB-only Implicit Encoding Point Cloud SLAM**|Ganlin Zhang et.al.|[2403.19549v1](http://arxiv.org/abs/2403.19549v1)|null|
-|**2024-03-28**|**De-confounded Data-free Knowledge Distillation for Handling Distribution Shifts**|Yuzheng Wang et.al.|[2403.19539v1](http://arxiv.org/abs/2403.19539v1)|null|
-|**2024-03-28**|**SecGraph: Towards SGX-based Efficient and Confidentiality-Preserving Graph Search**|Qiuhao Wang et.al.|[2403.19531v1](http://arxiv.org/abs/2403.19531v1)|null|
-|**2024-03-28**|**Disentangling degree and tie strength heterogeneity in egocentric social networks**|Sara Heydari et.al.|[2403.19529v1](http://arxiv.org/abs/2403.19529v1)|null|
-|**2024-03-28**|**XScale-NVS: Cross-Scale Novel View Synthesis with Hash Featurized Manifold**|Guangyu Wang et.al.|[2403.19517v1](http://arxiv.org/abs/2403.19517v1)|null|
-|**2024-03-28**|**Maximum Likelihood Estimation on Stochastic Blockmodels for Directed Graph Clustering**|Mihai Cucuringu et.al.|[2403.19516v1](http://arxiv.org/abs/2403.19516v1)|[link](https://github.com/ningz97/mle-dsbm)|
-|**2024-03-28**|**CDIMC-net: Cognitive Deep Incomplete Multi-view Clustering Network**|Jie Wen et.al.|[2403.19514v1](http://arxiv.org/abs/2403.19514v1)|null|
-|**2024-03-28**|**The profit-oriented hub line location problem with elastic demand**|Brenda Cobeña et.al.|[2403.19513v1](http://arxiv.org/abs/2403.19513v1)|null|
 
 ## Fashion
 
@@ -145,39 +39,39 @@
 |**2024-03-27**|**Improving Content Recommendation: Knowledge Graph-Based Semantic Contrastive Learning for Diversity and Cold-Start Users**|Yejin Kim et.al.|[2403.18667v1](http://arxiv.org/abs/2403.18667v1)|null|
 |**2024-03-27**|**To Recommend or Not: Recommendability Identification in Conversations with Pre-trained Language Models**|Zhefan Wang et.al.|[2403.18628v1](http://arxiv.org/abs/2403.18628v1)|null|
 
-### Compatibility
+### Virtual Try-On
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-03-28**|**Human-compatible driving partners through data-regularized self-play reinforcement learning**|Daphne Cornelisse et.al.|[2403.19648v1](http://arxiv.org/abs/2403.19648v1)|[link](https://github.com/emerge-lab/nocturne_lab)|
-|**2024-03-28**|**Reproducibility Made Easy: A Tool for Methodological Transparency and Efficient Standardized Reporting based on the proposed MRSinMRS Consensus**|Antonia Susnjar et.al.|[2403.19594v1](http://arxiv.org/abs/2403.19594v1)|null|
-|**2024-03-28**|**Moduli stacks of Galois representations and the $p$-adic local Langlands correspondence for $\mathrm{GL}_2(\mathbb{Q}_p)$**|Christian Johansson et.al.|[2403.19565v1](http://arxiv.org/abs/2403.19565v1)|null|
-|**2024-03-28**|**pyMSER -- An open-source library for automatic equilibration detection in molecular simulations**|Felipe Lopes Oliveira et.al.|[2403.19387v1](http://arxiv.org/abs/2403.19387v1)|[link](https://github.com/ibm/pymser)|
-|**2024-03-28**|**Radio imaging of gravitationally lensed radio-quiet quasars**|Neal Jackson et.al.|[2403.19357v1](http://arxiv.org/abs/2403.19357v1)|null|
-|**2024-03-28**|**A unified SHTC multiphase model of continuum mechanics**|Davide Ferrari et.al.|[2403.19298v1](http://arxiv.org/abs/2403.19298v1)|null|
-|**2024-03-28**|**Measurement of absolute branching fractions of $D_s^+$ hadronic decays**|BESIII Collaboration et.al.|[2403.19256v1](http://arxiv.org/abs/2403.19256v1)|null|
-|**2024-03-28**|**CogniDot: Vasoactivity-based Cognitive Load Monitoring with a Miniature On-skin Sensor**|Hongbo Lan et.al.|[2403.19206v1](http://arxiv.org/abs/2403.19206v1)|null|
-|**2024-03-28**|**Remarks on $J$-tame inflation**|Pranav Chakravarthy et.al.|[2403.19110v1](http://arxiv.org/abs/2403.19110v1)|null|
-|**2024-03-27**|**Probabilistic Model Checking of Stochastic Reinforcement Learning Policies**|Dennis Gross et.al.|[2403.18725v1](http://arxiv.org/abs/2403.18725v1)|null|
-|**2024-03-27**|**An exactly curl-free finite-volume scheme for a hyperbolic compressible barotropic two-phase model**|Laura Río-Martín et.al.|[2403.18724v1](http://arxiv.org/abs/2403.18724v1)|null|
-|**2024-03-27**|**Designing Simple Mechanisms**|Shengwu Li et.al.|[2403.18694v1](http://arxiv.org/abs/2403.18694v1)|null|
-|**2024-03-27**|**Qubit teleportation between a memory-compatible photonic time-bin qubit and a solid-state quantum network node**|Mariagrazia Iuliano et.al.|[2403.18581v1](http://arxiv.org/abs/2403.18581v1)|null|
-|**2024-03-27**|**Attention Calibration for Disentangled Text-to-Image Personalization**|Yanbing Zhang et.al.|[2403.18551v1](http://arxiv.org/abs/2403.18551v1)|[link](https://github.com/monalissaa/disendiff)|
-|**2024-03-27**|**Faster Convergence for Transformer Fine-tuning with Line Search Methods**|Philip Kenneweg et.al.|[2403.18506v1](http://arxiv.org/abs/2403.18506v1)|[link](https://github.com/themody/faster-convergence-for-transformer-fine-tuning-with-line-search-methods)|
-|**2024-03-27**|**Impact of Employing Weather Forecast Data as Input to the Estimation of Evapotranspiration by Deep Neural Network Models**|Pedro J. Vaz et.al.|[2403.18489v1](http://arxiv.org/abs/2403.18489v1)|null|
-|**2024-03-27**|**UVL Sentinel: a tool for parsing and syntactic correction of UVL datasets**|David Romero-Organvidez et.al.|[2403.18482v1](http://arxiv.org/abs/2403.18482v1)|null|
-|**2024-03-27**|**Connections between metric differentiability and rectifiability**|Iván Caamaño et.al.|[2403.18440v1](http://arxiv.org/abs/2403.18440v1)|null|
-|**2024-03-27**|**Exploring language relations through syntactic distances and geographic proximity**|Juan De Gregorio et.al.|[2403.18430v1](http://arxiv.org/abs/2403.18430v1)|null|
-|**2024-03-27**|**Stragglers-Aware Low-Latency Synchronous Federated Learning via Layer-Wise Model Updates**|Natalie Lang et.al.|[2403.18375v1](http://arxiv.org/abs/2403.18375v1)|null|
-|**2024-03-27**|**Damage Mechanics Challenge: Predictions based on the phase field fracture model**|Y. Navidtehrani et.al.|[2403.18369v1](http://arxiv.org/abs/2403.18369v1)|null|
-|**2024-03-27**|**Road Obstacle Detection based on Unknown Objectness Scores**|Chihiro Noguchi et.al.|[2403.18207v1](http://arxiv.org/abs/2403.18207v1)|null|
-|**2024-03-27**|**Incentive-Compatible Vertiport Reservation in Advanced Air Mobility: An Auction-Based Approach**|Pan-Yang Su et.al.|[2403.18166v1](http://arxiv.org/abs/2403.18166v1)|null|
-|**2024-03-26**|**Revisiting Elastic String Models of Forward Interest Rates**|Victor Le Coz et.al.|[2403.18126v1](http://arxiv.org/abs/2403.18126v1)|null|
-|**2024-03-26**|**Implementing photometric stereo for scanning helium microscopy (SHeM) to reconstruct true-to-size 3D surfaces**|Aleksandar Radic et.al.|[2403.17835v1](http://arxiv.org/abs/2403.17835v1)|null|
-|**2024-03-26**|**Grad-CAMO: Learning Interpretable Single-Cell Morphological Profiles from 3D Cell Painting Images**|Vivek Gopalakrishnan et.al.|[2403.17615v1](http://arxiv.org/abs/2403.17615v1)|[link](https://github.com/eigenvivek/grad-camo)|
-|**2024-03-26**|**New Physics Pathways from B Processes**|Alessandra D'Alise et.al.|[2403.17614v1](http://arxiv.org/abs/2403.17614v1)|null|
-|**2024-03-26**|**Aerial Robots Carrying Flexible Cables: Dynamic Shape Optimal Control via Spectral Method Model**|Yaolei Shen et.al.|[2403.17565v1](http://arxiv.org/abs/2403.17565v1)|null|
-|**2024-03-26**|**Robust Stability for Multiagent Systems with Spatio-Temporally Correlated Packet Loss**|Christian Hespe et.al.|[2403.17554v1](http://arxiv.org/abs/2403.17554v1)|null|
-|**2024-03-26**|**Determination of nuclear matter radii by means of microscopic optical potentials: the case of $^{78}$Kr**|Matteo Vorabbi et.al.|[2403.17543v1](http://arxiv.org/abs/2403.17543v1)|null|
+|**2024-03-21**|**Multimodal-Conditioned Latent Diffusion Models for Fashion Image Editing**|Alberto Baldrati et.al.|[2403.14828v2](http://arxiv.org/abs/2403.14828v2)|[link](https://github.com/aimagelab/ti-mgd)|
+|**2024-03-12**|**Time-Efficient and Identity-Consistent Virtual Try-On Using A Variant of Altered Diffusion Models**|Phuong Dam et.al.|[2403.07371v2](http://arxiv.org/abs/2403.07371v2)|null|
+|**2024-03-04**|**OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**|Yuhao Xu et.al.|[2403.01779v2](http://arxiv.org/abs/2403.01779v2)|[link](https://github.com/levihsu/ootdiffusion)|
+|**2024-01-20**|**Product-Level Try-on: Characteristics-preserving Try-on with Realistic Clothes Shading and Wrinkles**|Yanlong Zang et.al.|[2401.11239v1](http://arxiv.org/abs/2401.11239v1)|null|
+|**2023-12-26**|**Towards Squeezing-Averse Virtual Try-On via Sequential Deformation**|Sang-Heon Shim et.al.|[2312.15861v1](http://arxiv.org/abs/2312.15861v1)|[link](https://github.com/shshim0513/sd-viton)|
+|**2023-12-24**|**A Two-stage Personalized Virtual Try-on Framework with Shape Control and Texture Guidance**|Shufang Zhang et.al.|[2312.15480v1](http://arxiv.org/abs/2312.15480v1)|null|
+|**2023-12-06**|**WarpDiffusion: Efficient Diffusion Model for High-Fidelity Virtual Try-on**|xujie zhang et.al.|[2312.03667v1](http://arxiv.org/abs/2312.03667v1)|null|
+|**2023-11-08**|**Image-Based Virtual Try-On: A Survey**|Dan Song et.al.|[2311.04811v2](http://arxiv.org/abs/2311.04811v2)|[link](https://github.com/little-misfit/survey-of-virtual-try-on)|
+|**2023-10-08**|**Single Stage Warped Cloth Learning and Semantic-Contextual Attention Feature Fusion for Virtual TryOn**|Sanhita Pathak et.al.|[2310.05024v1](http://arxiv.org/abs/2310.05024v1)|null|
+|**2023-08-11**|**Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**|Junhong Gou et.al.|[2308.06101v1](http://arxiv.org/abs/2308.06101v1)|[link](https://github.com/bcmi/DCI-VTON-Virtual-Try-On)|
+|**2023-05-22**|**LaDI-VTON: Latent Diffusion Textual-Inversion Enhanced Virtual Try-On**|Davide Morelli et.al.|[2305.13501v3](http://arxiv.org/abs/2305.13501v3)|[link](https://github.com/miccunifi/ladi-vton)|
+|**2023-04-04**|**Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing**|Alberto Baldrati et.al.|[2304.02051v2](http://arxiv.org/abs/2304.02051v2)|[link](https://github.com/aimagelab/multimodal-garment-designer)|
+|**2023-01-05**|**FICE: Text-Conditioned Fashion Image Editing With Guided GAN Inversion**|Martin Pernuš et.al.|[2301.02110v1](http://arxiv.org/abs/2301.02110v1)|[link](https://github.com/martinpernus/fice)|
+|**2022-12-08**|**C-VTON: Context-Driven Image-Based Virtual Try-On Network**|Benjamin Fele et.al.|[2212.04437v1](http://arxiv.org/abs/2212.04437v1)|[link](https://github.com/benquick123/c-vton)|
+|**2022-10-03**|**Fill in Fabrics: Body-Aware Self-Supervised Inpainting for Image-Based Virtual Try-On**|H. Zunair et.al.|[2210.00918v2](http://arxiv.org/abs/2210.00918v2)|[link](https://github.com/hasibzunair/fifa-tryon)|
+|**2022-06-28**|**High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions**|Sangyun Lee et.al.|[2206.14180v2](http://arxiv.org/abs/2206.14180v2)|[link](https://github.com/sangyun884/hr-viton)|
+|**2022-05-10**|**WG-VITON: Wearing-Guide Virtual Try-On for Top and Bottom Clothes**|Soonchan Park et.al.|[2205.04759v1](http://arxiv.org/abs/2205.04759v1)|null|
+|**2021-11-16**|**Data Augmentation using Random Image Cropping for High-resolution Virtual Try-On (VITON-CROP)**|Taewon Kang et.al.|[2111.08270v1](http://arxiv.org/abs/2111.08270v1)|null|
+|**2021-03-31**|**VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization**|Seunghwan Choi et.al.|[2103.16874v2](http://arxiv.org/abs/2103.16874v2)|[link](https://github.com/shadow2496/VITON-HD)|
+|**2019-11-12**|**VITON-GAN: Virtual Try-on Image Generator Trained with Adversarial Loss**|Shion Honda et.al.|[1911.07926v1](http://arxiv.org/abs/1911.07926v1)|[link](https://github.com/shionhonda/viton-gan)|
+|**2019-06-05**|**Nail Polish Try-On: Realtime Semantic Segmentation of Small Objects for Native and Browser Smartphone AR Applications**|Brendan Duke et.al.|[1906.02222v2](http://arxiv.org/abs/1906.02222v2)|null|
+|**2019-04-15**|**Superconductivity in single-crystalline, aluminum- and gallium-hyperdoped germanium**|Slawomir Prucnal et.al.|[1904.06865v1](http://arxiv.org/abs/1904.06865v1)|null|
+|**2018-12-05**|**An Unpaired Shape Transforming Method for Image Translation and Cross-Domain Retrieval**|Kaili Wang et.al.|[1812.02134v3](http://arxiv.org/abs/1812.02134v3)|null|
+|**2018-11-03**|**Support-Area Dependence of Vibration-Insensitive Optical Cavities**|Won-Kyu Lee et.al.|[1811.02686v2](http://arxiv.org/abs/1811.02686v2)|null|
+|**2018-04-17**|**Low-cost vacuum compatible liquid cell for hard X-ray absorption spectroscopy**|C. Marini et.al.|[1804.06167v1](http://arxiv.org/abs/1804.06167v1)|null|
+|**2017-11-22**|**VITON: An Image-based Virtual Try-on Network**|Xintong Han et.al.|[1711.08447v4](http://arxiv.org/abs/1711.08447v4)|[link](https://github.com/xthan/VITON)|
+|**2017-05-22**|**Interaction between magnetic moments and itinerant carriers in d0 ferromagnetic SiC**|Yu Liu et.al.|[1705.07793v1](http://arxiv.org/abs/1705.07793v1)|null|
+|**2009-08-02**|**Spin-dependent transport in nanocomposite C:Co films**|Shengqiang Zhou et.al.|[0908.0127v1](http://arxiv.org/abs/0908.0127v1)|null|
+|**2007-10-18**|**Clustering Properties of restframe UV selected galaxies I: the correlation length derived from GALEX data in the local Universe**|Bruno Milliard et.al.|[0710.3530v1](http://arxiv.org/abs/0710.3530v1)|null|
+|**2006-11-30**|**Statistical Properties of the GALEX/SDSS matched source catalogs, and classification of the UV sources**|Luciana Bianchi et.al.|[astro-ph/0611926v1](http://arxiv.org/abs/astro-ph/0611926v1)|null|
 
 ### Attribute
 |Publish Date|Title|Authors|PDF|Code|
@@ -247,40 +141,6 @@
 |**2024-02-28**|**Human Shape and Clothing Estimation**|Aayush Gupta et.al.|[2402.18032v1](http://arxiv.org/abs/2402.18032v1)|null|
 |**2024-02-27**|**Bayesian Differentiable Physics for Cloth Digitalization**|Deshan Gong et.al.|[2402.17664v4](http://arxiv.org/abs/2402.17664v4)|[link](https://github.com/realcrane/bayesian-differentiable-physics-for-cloth-digitalization)|
 
-### Virtual Try-On
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-03-21**|**Multimodal-Conditioned Latent Diffusion Models for Fashion Image Editing**|Alberto Baldrati et.al.|[2403.14828v2](http://arxiv.org/abs/2403.14828v2)|[link](https://github.com/aimagelab/ti-mgd)|
-|**2024-03-12**|**Time-Efficient and Identity-Consistent Virtual Try-On Using A Variant of Altered Diffusion Models**|Phuong Dam et.al.|[2403.07371v2](http://arxiv.org/abs/2403.07371v2)|null|
-|**2024-03-04**|**OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**|Yuhao Xu et.al.|[2403.01779v2](http://arxiv.org/abs/2403.01779v2)|[link](https://github.com/levihsu/ootdiffusion)|
-|**2024-01-20**|**Product-Level Try-on: Characteristics-preserving Try-on with Realistic Clothes Shading and Wrinkles**|Yanlong Zang et.al.|[2401.11239v1](http://arxiv.org/abs/2401.11239v1)|null|
-|**2023-12-26**|**Towards Squeezing-Averse Virtual Try-On via Sequential Deformation**|Sang-Heon Shim et.al.|[2312.15861v1](http://arxiv.org/abs/2312.15861v1)|[link](https://github.com/shshim0513/sd-viton)|
-|**2023-12-24**|**A Two-stage Personalized Virtual Try-on Framework with Shape Control and Texture Guidance**|Shufang Zhang et.al.|[2312.15480v1](http://arxiv.org/abs/2312.15480v1)|null|
-|**2023-12-06**|**WarpDiffusion: Efficient Diffusion Model for High-Fidelity Virtual Try-on**|xujie zhang et.al.|[2312.03667v1](http://arxiv.org/abs/2312.03667v1)|null|
-|**2023-11-08**|**Image-Based Virtual Try-On: A Survey**|Dan Song et.al.|[2311.04811v2](http://arxiv.org/abs/2311.04811v2)|[link](https://github.com/little-misfit/survey-of-virtual-try-on)|
-|**2023-10-08**|**Single Stage Warped Cloth Learning and Semantic-Contextual Attention Feature Fusion for Virtual TryOn**|Sanhita Pathak et.al.|[2310.05024v1](http://arxiv.org/abs/2310.05024v1)|null|
-|**2023-08-11**|**Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**|Junhong Gou et.al.|[2308.06101v1](http://arxiv.org/abs/2308.06101v1)|[link](https://github.com/bcmi/DCI-VTON-Virtual-Try-On)|
-|**2023-05-22**|**LaDI-VTON: Latent Diffusion Textual-Inversion Enhanced Virtual Try-On**|Davide Morelli et.al.|[2305.13501v3](http://arxiv.org/abs/2305.13501v3)|[link](https://github.com/miccunifi/ladi-vton)|
-|**2023-04-04**|**Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing**|Alberto Baldrati et.al.|[2304.02051v2](http://arxiv.org/abs/2304.02051v2)|[link](https://github.com/aimagelab/multimodal-garment-designer)|
-|**2023-01-05**|**FICE: Text-Conditioned Fashion Image Editing With Guided GAN Inversion**|Martin Pernuš et.al.|[2301.02110v1](http://arxiv.org/abs/2301.02110v1)|[link](https://github.com/martinpernus/fice)|
-|**2022-12-08**|**C-VTON: Context-Driven Image-Based Virtual Try-On Network**|Benjamin Fele et.al.|[2212.04437v1](http://arxiv.org/abs/2212.04437v1)|[link](https://github.com/benquick123/c-vton)|
-|**2022-10-03**|**Fill in Fabrics: Body-Aware Self-Supervised Inpainting for Image-Based Virtual Try-On**|H. Zunair et.al.|[2210.00918v2](http://arxiv.org/abs/2210.00918v2)|[link](https://github.com/hasibzunair/fifa-tryon)|
-|**2022-06-28**|**High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions**|Sangyun Lee et.al.|[2206.14180v2](http://arxiv.org/abs/2206.14180v2)|[link](https://github.com/sangyun884/hr-viton)|
-|**2022-05-10**|**WG-VITON: Wearing-Guide Virtual Try-On for Top and Bottom Clothes**|Soonchan Park et.al.|[2205.04759v1](http://arxiv.org/abs/2205.04759v1)|null|
-|**2021-11-16**|**Data Augmentation using Random Image Cropping for High-resolution Virtual Try-On (VITON-CROP)**|Taewon Kang et.al.|[2111.08270v1](http://arxiv.org/abs/2111.08270v1)|null|
-|**2021-03-31**|**VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization**|Seunghwan Choi et.al.|[2103.16874v2](http://arxiv.org/abs/2103.16874v2)|[link](https://github.com/shadow2496/VITON-HD)|
-|**2019-11-12**|**VITON-GAN: Virtual Try-on Image Generator Trained with Adversarial Loss**|Shion Honda et.al.|[1911.07926v1](http://arxiv.org/abs/1911.07926v1)|[link](https://github.com/shionhonda/viton-gan)|
-|**2019-06-05**|**Nail Polish Try-On: Realtime Semantic Segmentation of Small Objects for Native and Browser Smartphone AR Applications**|Brendan Duke et.al.|[1906.02222v2](http://arxiv.org/abs/1906.02222v2)|null|
-|**2019-04-15**|**Superconductivity in single-crystalline, aluminum- and gallium-hyperdoped germanium**|Slawomir Prucnal et.al.|[1904.06865v1](http://arxiv.org/abs/1904.06865v1)|null|
-|**2018-12-05**|**An Unpaired Shape Transforming Method for Image Translation and Cross-Domain Retrieval**|Kaili Wang et.al.|[1812.02134v3](http://arxiv.org/abs/1812.02134v3)|null|
-|**2018-11-03**|**Support-Area Dependence of Vibration-Insensitive Optical Cavities**|Won-Kyu Lee et.al.|[1811.02686v2](http://arxiv.org/abs/1811.02686v2)|null|
-|**2018-04-17**|**Low-cost vacuum compatible liquid cell for hard X-ray absorption spectroscopy**|C. Marini et.al.|[1804.06167v1](http://arxiv.org/abs/1804.06167v1)|null|
-|**2017-11-22**|**VITON: An Image-based Virtual Try-on Network**|Xintong Han et.al.|[1711.08447v4](http://arxiv.org/abs/1711.08447v4)|[link](https://github.com/xthan/VITON)|
-|**2017-05-22**|**Interaction between magnetic moments and itinerant carriers in d0 ferromagnetic SiC**|Yu Liu et.al.|[1705.07793v1](http://arxiv.org/abs/1705.07793v1)|null|
-|**2009-08-02**|**Spin-dependent transport in nanocomposite C:Co films**|Shengqiang Zhou et.al.|[0908.0127v1](http://arxiv.org/abs/0908.0127v1)|null|
-|**2007-10-18**|**Clustering Properties of restframe UV selected galaxies I: the correlation length derived from GALEX data in the local Universe**|Bruno Milliard et.al.|[0710.3530v1](http://arxiv.org/abs/0710.3530v1)|null|
-|**2006-11-30**|**Statistical Properties of the GALEX/SDSS matched source catalogs, and classification of the UV sources**|Luciana Bianchi et.al.|[astro-ph/0611926v1](http://arxiv.org/abs/astro-ph/0611926v1)|null|
-
 ### Recommendation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -315,7 +175,75 @@
 |**2024-03-26**|**Recommendation of data-free class-incremental learning algorithms by simulating future data**|Eva Feillet et.al.|[2403.18132v1](http://arxiv.org/abs/2403.18132v1)|null|
 |**2024-03-26**|**Revisiting Elastic String Models of Forward Interest Rates**|Victor Le Coz et.al.|[2403.18126v1](http://arxiv.org/abs/2403.18126v1)|null|
 
+### Compatibility
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-03-28**|**Human-compatible driving partners through data-regularized self-play reinforcement learning**|Daphne Cornelisse et.al.|[2403.19648v1](http://arxiv.org/abs/2403.19648v1)|[link](https://github.com/emerge-lab/nocturne_lab)|
+|**2024-03-28**|**Reproducibility Made Easy: A Tool for Methodological Transparency and Efficient Standardized Reporting based on the proposed MRSinMRS Consensus**|Antonia Susnjar et.al.|[2403.19594v1](http://arxiv.org/abs/2403.19594v1)|null|
+|**2024-03-28**|**Moduli stacks of Galois representations and the $p$-adic local Langlands correspondence for $\mathrm{GL}_2(\mathbb{Q}_p)$**|Christian Johansson et.al.|[2403.19565v1](http://arxiv.org/abs/2403.19565v1)|null|
+|**2024-03-28**|**pyMSER -- An open-source library for automatic equilibration detection in molecular simulations**|Felipe Lopes Oliveira et.al.|[2403.19387v1](http://arxiv.org/abs/2403.19387v1)|[link](https://github.com/ibm/pymser)|
+|**2024-03-28**|**Radio imaging of gravitationally lensed radio-quiet quasars**|Neal Jackson et.al.|[2403.19357v1](http://arxiv.org/abs/2403.19357v1)|null|
+|**2024-03-28**|**A unified SHTC multiphase model of continuum mechanics**|Davide Ferrari et.al.|[2403.19298v1](http://arxiv.org/abs/2403.19298v1)|null|
+|**2024-03-28**|**Measurement of absolute branching fractions of $D_s^+$ hadronic decays**|BESIII Collaboration et.al.|[2403.19256v1](http://arxiv.org/abs/2403.19256v1)|null|
+|**2024-03-28**|**CogniDot: Vasoactivity-based Cognitive Load Monitoring with a Miniature On-skin Sensor**|Hongbo Lan et.al.|[2403.19206v1](http://arxiv.org/abs/2403.19206v1)|null|
+|**2024-03-28**|**Remarks on $J$-tame inflation**|Pranav Chakravarthy et.al.|[2403.19110v1](http://arxiv.org/abs/2403.19110v1)|null|
+|**2024-03-27**|**Probabilistic Model Checking of Stochastic Reinforcement Learning Policies**|Dennis Gross et.al.|[2403.18725v1](http://arxiv.org/abs/2403.18725v1)|null|
+|**2024-03-27**|**An exactly curl-free finite-volume scheme for a hyperbolic compressible barotropic two-phase model**|Laura Río-Martín et.al.|[2403.18724v1](http://arxiv.org/abs/2403.18724v1)|null|
+|**2024-03-27**|**Designing Simple Mechanisms**|Shengwu Li et.al.|[2403.18694v1](http://arxiv.org/abs/2403.18694v1)|null|
+|**2024-03-27**|**Qubit teleportation between a memory-compatible photonic time-bin qubit and a solid-state quantum network node**|Mariagrazia Iuliano et.al.|[2403.18581v1](http://arxiv.org/abs/2403.18581v1)|null|
+|**2024-03-27**|**Attention Calibration for Disentangled Text-to-Image Personalization**|Yanbing Zhang et.al.|[2403.18551v1](http://arxiv.org/abs/2403.18551v1)|[link](https://github.com/monalissaa/disendiff)|
+|**2024-03-27**|**Faster Convergence for Transformer Fine-tuning with Line Search Methods**|Philip Kenneweg et.al.|[2403.18506v1](http://arxiv.org/abs/2403.18506v1)|[link](https://github.com/themody/faster-convergence-for-transformer-fine-tuning-with-line-search-methods)|
+|**2024-03-27**|**Impact of Employing Weather Forecast Data as Input to the Estimation of Evapotranspiration by Deep Neural Network Models**|Pedro J. Vaz et.al.|[2403.18489v1](http://arxiv.org/abs/2403.18489v1)|null|
+|**2024-03-27**|**UVL Sentinel: a tool for parsing and syntactic correction of UVL datasets**|David Romero-Organvidez et.al.|[2403.18482v1](http://arxiv.org/abs/2403.18482v1)|null|
+|**2024-03-27**|**Connections between metric differentiability and rectifiability**|Iván Caamaño et.al.|[2403.18440v1](http://arxiv.org/abs/2403.18440v1)|null|
+|**2024-03-27**|**Exploring language relations through syntactic distances and geographic proximity**|Juan De Gregorio et.al.|[2403.18430v1](http://arxiv.org/abs/2403.18430v1)|null|
+|**2024-03-27**|**Stragglers-Aware Low-Latency Synchronous Federated Learning via Layer-Wise Model Updates**|Natalie Lang et.al.|[2403.18375v1](http://arxiv.org/abs/2403.18375v1)|null|
+|**2024-03-27**|**Damage Mechanics Challenge: Predictions based on the phase field fracture model**|Y. Navidtehrani et.al.|[2403.18369v1](http://arxiv.org/abs/2403.18369v1)|null|
+|**2024-03-27**|**Road Obstacle Detection based on Unknown Objectness Scores**|Chihiro Noguchi et.al.|[2403.18207v1](http://arxiv.org/abs/2403.18207v1)|null|
+|**2024-03-27**|**Incentive-Compatible Vertiport Reservation in Advanced Air Mobility: An Auction-Based Approach**|Pan-Yang Su et.al.|[2403.18166v1](http://arxiv.org/abs/2403.18166v1)|null|
+|**2024-03-26**|**Revisiting Elastic String Models of Forward Interest Rates**|Victor Le Coz et.al.|[2403.18126v1](http://arxiv.org/abs/2403.18126v1)|null|
+|**2024-03-26**|**Implementing photometric stereo for scanning helium microscopy (SHeM) to reconstruct true-to-size 3D surfaces**|Aleksandar Radic et.al.|[2403.17835v1](http://arxiv.org/abs/2403.17835v1)|null|
+|**2024-03-26**|**Grad-CAMO: Learning Interpretable Single-Cell Morphological Profiles from 3D Cell Painting Images**|Vivek Gopalakrishnan et.al.|[2403.17615v1](http://arxiv.org/abs/2403.17615v1)|[link](https://github.com/eigenvivek/grad-camo)|
+|**2024-03-26**|**New Physics Pathways from B Processes**|Alessandra D'Alise et.al.|[2403.17614v1](http://arxiv.org/abs/2403.17614v1)|null|
+|**2024-03-26**|**Aerial Robots Carrying Flexible Cables: Dynamic Shape Optimal Control via Spectral Method Model**|Yaolei Shen et.al.|[2403.17565v1](http://arxiv.org/abs/2403.17565v1)|null|
+|**2024-03-26**|**Robust Stability for Multiagent Systems with Spatio-Temporally Correlated Packet Loss**|Christian Hespe et.al.|[2403.17554v1](http://arxiv.org/abs/2403.17554v1)|null|
+|**2024-03-26**|**Determination of nuclear matter radii by means of microscopic optical potentials: the case of $^{78}$Kr**|Matteo Vorabbi et.al.|[2403.17543v1](http://arxiv.org/abs/2403.17543v1)|null|
+
 ## Multi-modal
+
+### CLIP
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-03-28**|**RH20T-P: A Primitive-Level Robotic Dataset Towards Composable Generalization Agents**|Zeren Chen et.al.|[2403.19622v1](http://arxiv.org/abs/2403.19622v1)|null|
+|**2024-03-28**|**Img2Loc: Revisiting Image Geolocalization using Multi-modality Foundation Models and Image-based Retrieval-Augmented Generation**|Zhongliang Zhou et.al.|[2403.19584v1](http://arxiv.org/abs/2403.19584v1)|null|
+|**2024-03-28**|**Model Stock: All we need is just a few fine-tuned models**|Dong-Hwan Jang et.al.|[2403.19522v1](http://arxiv.org/abs/2403.19522v1)|[link](https://github.com/naver-ai/model-stock)|
+|**2024-03-28**|**Neural Fields for 3D Tracking of Anatomy and Surgical Instruments in Monocular Laparoscopic Video Clips**|Beerend G. A. Gerats et.al.|[2403.19265v1](http://arxiv.org/abs/2403.19265v1)|null|
+|**2024-03-28**|**Text Data-Centric Image Captioning with Interactive Prompts**|Yiyu Wang et.al.|[2403.19193v1](http://arxiv.org/abs/2403.19193v1)|null|
+|**2024-03-28**|**CLAP4CLIP: Continual Learning with Probabilistic Finetuning for Vision-Language Models**|Saurav Jha et.al.|[2403.19137v1](http://arxiv.org/abs/2403.19137v1)|[link](https://github.com/srvcodes/clap4clip)|
+|**2024-03-27**|**WALT3D: Generating Realistic Training Data from Time-Lapse Imagery for Reconstructing Dynamic Objects under Occlusion**|Khiem Vuong et.al.|[2403.19022v1](http://arxiv.org/abs/2403.19022v1)|null|
+|**2024-03-27**|**TextCraftor: Your Text Encoder Can be Image Quality Controller**|Yanyu Li et.al.|[2403.18978v1](http://arxiv.org/abs/2403.18978v1)|null|
+|**2024-03-27**|**Lift3D: Zero-Shot Lifting of Any 2D Vision Model to 3D**|Mukund Varma T et.al.|[2403.18922v1](http://arxiv.org/abs/2403.18922v1)|null|
+|**2024-03-27**|**ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation**|Suraj Patni et.al.|[2403.18807v2](http://arxiv.org/abs/2403.18807v2)|[link](https://github.com/aradhye2002/ecodepth)|
+|**2024-03-27**|**ImageNet-D: Benchmarking Neural Network Robustness on Diffusion Synthetic Object**|Chenshuang Zhang et.al.|[2403.18775v1](http://arxiv.org/abs/2403.18775v1)|[link](https://github.com/chenshuang-zhang/imagenet_d)|
+|**2024-03-27**|**Language Plays a Pivotal Role in the Object-Attribute Compositional Generalization of CLIP**|Reza Abbasi et.al.|[2403.18525v1](http://arxiv.org/abs/2403.18525v1)|null|
+|**2024-03-27**|**Beyond Embeddings: The Promise of Visual Table in Multi-Modal Models**|Yiwu Zhong et.al.|[2403.18252v1](http://arxiv.org/abs/2403.18252v1)|[link](https://github.com/lavi-lab/visual-table)|
+|**2024-03-27**|**Online Embedding Multi-Scale CLIP Features into 3D Maps**|Shun Taguchi et.al.|[2403.18178v1](http://arxiv.org/abs/2403.18178v1)|null|
+|**2024-03-26**|**Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval**|Jiamian Wang et.al.|[2403.17998v1](http://arxiv.org/abs/2403.17998v1)|[link](https://github.com/jiamian-wang/t-mass-text-video-retrieval)|
+|**2024-03-26**|**OmniVid: A Generative Framework for Universal Video Understanding**|Junke Wang et.al.|[2403.17935v1](http://arxiv.org/abs/2403.17935v1)|[link](https://github.com/wangjk666/omnivid)|
+|**2024-03-26**|**A foundation model utilizing chest CT volumes and radiology reports for supervised-level zero-shot detection of abnormalities**|Ibrahim Ethem Hamamci et.al.|[2403.17834v1](http://arxiv.org/abs/2403.17834v1)|[link](https://github.com/ibrahimethemhamamci/ct-clip)|
+|**2024-03-26**|**Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models**|Yabin Zhang et.al.|[2403.17589v1](http://arxiv.org/abs/2403.17589v1)|[link](https://github.com/ybzh/dmn)|
+|**2024-03-26**|**WordRobe: Text-Guided Generation of Textured 3D Garments**|Astitva Srivastava et.al.|[2403.17541v1](http://arxiv.org/abs/2403.17541v1)|null|
+|**2024-03-26**|**Not All Federated Learning Algorithms Are Created Equal: A Performance Evaluation Study**|Gustav A. Baumgart et.al.|[2403.17287v1](http://arxiv.org/abs/2403.17287v1)|null|
+|**2024-03-25**|**Task2Box: Box Embeddings for Modeling Asymmetric Task Relationships**|Rangel Daroya et.al.|[2403.17173v1](http://arxiv.org/abs/2403.17173v1)|[link](https://github.com/cvl-umass/task2box)|
+|**2024-03-25**|**Continuous, Subject-Specific Attribute Control in T2I Models by Identifying Semantic Directions**|Stefan Andreas Baumann et.al.|[2403.17064v1](http://arxiv.org/abs/2403.17064v1)|[link](https://github.com/compvis/attribute-control)|
+|**2024-03-25**|**DreamLIP: Language-Image Pre-training with Long Captions**|Kecheng Zheng et.al.|[2403.17007v1](http://arxiv.org/abs/2403.17007v1)|null|
+|**2024-03-25**|**An Intermediate Fusion ViT Enables Efficient Text-Image Alignment in Diffusion Models**|Zizhao Hu et.al.|[2403.16530v1](http://arxiv.org/abs/2403.16530v1)|null|
+|**2024-03-25**|**Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework**|Ziyao Huang et.al.|[2403.16510v1](http://arxiv.org/abs/2403.16510v1)|[link](https://github.com/ictmcg/make-your-anchor)|
+|**2024-03-25**|**If CLIP Could Talk: Understanding Vision-Language Model Representations Through Their Preferred Concept Descriptions**|Reza Esfandiarpoor et.al.|[2403.16442v1](http://arxiv.org/abs/2403.16442v1)|[link](https://github.com/batsresearch/ex2)|
+|**2024-03-24**|**Ultra Low-Cost Two-Stage Multimodal System for Non-Normative Behavior Detection**|Albert Lu et.al.|[2403.16151v1](http://arxiv.org/abs/2403.16151v1)|null|
+|**2024-03-23**|**MatchSeg: Towards Better Segmentation via Reference Image Matching**|Ruiqiang Xiao et.al.|[2403.15901v1](http://arxiv.org/abs/2403.15901v1)|[link](https://github.com/keeplearning-again/matchseg)|
+|**2024-03-23**|**Centered Masking for Language-Image Pre-Training**|Mingliang Liang et.al.|[2403.15837v2](http://arxiv.org/abs/2403.15837v2)|[link](https://github.com/anastasiais-ml/glip)|
+|**2024-03-23**|**Time-series Initialization and Conditioning for Video-agnostic Stabilization of Video Super-Resolution using Recurrent Networks**|Hiroshi Mori et.al.|[2403.15832v1](http://arxiv.org/abs/2403.15832v1)|null|
 
 ### Multi-modal
 |Publish Date|Title|Authors|PDF|Code|
@@ -351,36 +279,108 @@
 |**2024-03-28**|**A multi-step calibration strategy for reliable parameter determination of salt rock mechanics constitutive models**|Hermínio T. Honório et.al.|[2403.19426v1](http://arxiv.org/abs/2403.19426v1)|null|
 |**2024-03-28**|**Scaling up ridge regression for brain encoding in a massive individual fMRI dataset**|Sana Ahmadi et.al.|[2403.19421v1](http://arxiv.org/abs/2403.19421v1)|[link](https://github.com/sana3883/scaling-up-ridge)|
 
-### CLIP
+## Transformer
+
+### Vision Transformer
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-28**|**GaussianCube: Structuring Gaussian Splatting using Optimal Transport for 3D Generative Modeling**|Bowen Zhang et.al.|[2403.19655v1](http://arxiv.org/abs/2403.19655v1)|null|
+|**2024-03-28**|**RSMamba: Remote Sensing Image Classification with State Space Model**|Keyan Chen et.al.|[2403.19654v1](http://arxiv.org/abs/2403.19654v1)|[link](https://github.com/KyanChen/RSMamba)|
+|**2024-03-28**|**Detecting Image Attribution for Text-to-Image Diffusion Models in RGB and Beyond**|Katherine Xu et.al.|[2403.19653v1](http://arxiv.org/abs/2403.19653v1)|[link](https://github.com/k8xu/imageattribution)|
+|**2024-03-28**|**InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction**|Sirui Xu et.al.|[2403.19652v1](http://arxiv.org/abs/2403.19652v1)|null|
+|**2024-03-28**|**MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions**|Kai Zhang et.al.|[2403.19651v1](http://arxiv.org/abs/2403.19651v1)|null|
+|**2024-03-28**|**GraspXL: Generating Grasping Motions for Diverse Objects at Scale**|Hui Zhang et.al.|[2403.19649v1](http://arxiv.org/abs/2403.19649v1)|null|
+|**2024-03-28**|**Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models**|Samuel Marks et.al.|[2403.19647v1](http://arxiv.org/abs/2403.19647v1)|[link](https://github.com/saprmarks/feature-circuits)|
+|**2024-03-28**|**Change-Agent: Towards Interactive Comprehensive Change Interpretation and Analysis from Change Detection and Change Captioning**|Chenyang Liu et.al.|[2403.19646v1](http://arxiv.org/abs/2403.19646v1)|[link](https://github.com/chen-yang-liu/change-agent)|
+|**2024-03-28**|**GANTASTIC: GAN-based Transfer of Interpretable Directions for Disentangled Image Editing in Text-to-Image Diffusion Models**|Yusuf Dalva et.al.|[2403.19645v1](http://arxiv.org/abs/2403.19645v1)|null|
+|**2024-03-28**|**Linear Programming in Isabelle/HOL**|Julian Parsert et.al.|[2403.19639v1](http://arxiv.org/abs/2403.19639v1)|null|
+|**2024-03-28**|**Siamese Vision Transformers are Scalable Audio-visual Learners**|Yan-Bo Lin et.al.|[2403.19638v1](http://arxiv.org/abs/2403.19638v1)|null|
+|**2024-03-28**|**In the driver's mind: modeling the dynamics of human overtaking decisions in interactions with oncoming automated vehicles**|Samir H. A. Mohammad et.al.|[2403.19637v1](http://arxiv.org/abs/2403.19637v1)|null|
+|**2024-03-28**|**Asymmetric and trial-dependent modeling: the contribution of LIA to SdSV Challenge Task 2**|Pierre-Michel Bousquet et.al.|[2403.19634v1](http://arxiv.org/abs/2403.19634v1)|null|
+|**2024-03-28**|**GauStudio: A Modular Framework for 3D Gaussian Splatting and Beyond**|Chongjie Ye et.al.|[2403.19632v1](http://arxiv.org/abs/2403.19632v1)|[link](https://github.com/gap-lab-cuhk-sz/gaustudio)|
+|**2024-03-28**|**Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models**|Yucheng Shi et.al.|[2403.19631v1](http://arxiv.org/abs/2403.19631v1)|null|
 |**2024-03-28**|**RH20T-P: A Primitive-Level Robotic Dataset Towards Composable Generalization Agents**|Zeren Chen et.al.|[2403.19622v1](http://arxiv.org/abs/2403.19622v1)|null|
-|**2024-03-28**|**Img2Loc: Revisiting Image Geolocalization using Multi-modality Foundation Models and Image-based Retrieval-Augmented Generation**|Zhongliang Zhou et.al.|[2403.19584v1](http://arxiv.org/abs/2403.19584v1)|null|
-|**2024-03-28**|**Model Stock: All we need is just a few fine-tuned models**|Dong-Hwan Jang et.al.|[2403.19522v1](http://arxiv.org/abs/2403.19522v1)|[link](https://github.com/naver-ai/model-stock)|
-|**2024-03-28**|**Neural Fields for 3D Tracking of Anatomy and Surgical Instruments in Monocular Laparoscopic Video Clips**|Beerend G. A. Gerats et.al.|[2403.19265v1](http://arxiv.org/abs/2403.19265v1)|null|
-|**2024-03-28**|**Text Data-Centric Image Captioning with Interactive Prompts**|Yiyu Wang et.al.|[2403.19193v1](http://arxiv.org/abs/2403.19193v1)|null|
-|**2024-03-28**|**CLAP4CLIP: Continual Learning with Probabilistic Finetuning for Vision-Language Models**|Saurav Jha et.al.|[2403.19137v1](http://arxiv.org/abs/2403.19137v1)|[link](https://github.com/srvcodes/clap4clip)|
-|**2024-03-27**|**WALT3D: Generating Realistic Training Data from Time-Lapse Imagery for Reconstructing Dynamic Objects under Occlusion**|Khiem Vuong et.al.|[2403.19022v1](http://arxiv.org/abs/2403.19022v1)|null|
-|**2024-03-27**|**TextCraftor: Your Text Encoder Can be Image Quality Controller**|Yanyu Li et.al.|[2403.18978v1](http://arxiv.org/abs/2403.18978v1)|null|
-|**2024-03-27**|**Lift3D: Zero-Shot Lifting of Any 2D Vision Model to 3D**|Mukund Varma T et.al.|[2403.18922v1](http://arxiv.org/abs/2403.18922v1)|null|
-|**2024-03-27**|**ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation**|Suraj Patni et.al.|[2403.18807v2](http://arxiv.org/abs/2403.18807v2)|[link](https://github.com/aradhye2002/ecodepth)|
-|**2024-03-27**|**ImageNet-D: Benchmarking Neural Network Robustness on Diffusion Synthetic Object**|Chenshuang Zhang et.al.|[2403.18775v1](http://arxiv.org/abs/2403.18775v1)|[link](https://github.com/chenshuang-zhang/imagenet_d)|
-|**2024-03-27**|**Language Plays a Pivotal Role in the Object-Attribute Compositional Generalization of CLIP**|Reza Abbasi et.al.|[2403.18525v1](http://arxiv.org/abs/2403.18525v1)|null|
-|**2024-03-27**|**Beyond Embeddings: The Promise of Visual Table in Multi-Modal Models**|Yiwu Zhong et.al.|[2403.18252v1](http://arxiv.org/abs/2403.18252v1)|[link](https://github.com/lavi-lab/visual-table)|
-|**2024-03-27**|**Online Embedding Multi-Scale CLIP Features into 3D Maps**|Shun Taguchi et.al.|[2403.18178v1](http://arxiv.org/abs/2403.18178v1)|null|
-|**2024-03-26**|**Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval**|Jiamian Wang et.al.|[2403.17998v1](http://arxiv.org/abs/2403.17998v1)|[link](https://github.com/jiamian-wang/t-mass-text-video-retrieval)|
-|**2024-03-26**|**OmniVid: A Generative Framework for Universal Video Understanding**|Junke Wang et.al.|[2403.17935v1](http://arxiv.org/abs/2403.17935v1)|[link](https://github.com/wangjk666/omnivid)|
-|**2024-03-26**|**A foundation model utilizing chest CT volumes and radiology reports for supervised-level zero-shot detection of abnormalities**|Ibrahim Ethem Hamamci et.al.|[2403.17834v1](http://arxiv.org/abs/2403.17834v1)|[link](https://github.com/ibrahimethemhamamci/ct-clip)|
-|**2024-03-26**|**Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models**|Yabin Zhang et.al.|[2403.17589v1](http://arxiv.org/abs/2403.17589v1)|[link](https://github.com/ybzh/dmn)|
-|**2024-03-26**|**WordRobe: Text-Guided Generation of Textured 3D Garments**|Astitva Srivastava et.al.|[2403.17541v1](http://arxiv.org/abs/2403.17541v1)|null|
-|**2024-03-26**|**Not All Federated Learning Algorithms Are Created Equal: A Performance Evaluation Study**|Gustav A. Baumgart et.al.|[2403.17287v1](http://arxiv.org/abs/2403.17287v1)|null|
-|**2024-03-25**|**Task2Box: Box Embeddings for Modeling Asymmetric Task Relationships**|Rangel Daroya et.al.|[2403.17173v1](http://arxiv.org/abs/2403.17173v1)|[link](https://github.com/cvl-umass/task2box)|
-|**2024-03-25**|**Continuous, Subject-Specific Attribute Control in T2I Models by Identifying Semantic Directions**|Stefan Andreas Baumann et.al.|[2403.17064v1](http://arxiv.org/abs/2403.17064v1)|[link](https://github.com/compvis/attribute-control)|
-|**2024-03-25**|**DreamLIP: Language-Image Pre-training with Long Captions**|Kecheng Zheng et.al.|[2403.17007v1](http://arxiv.org/abs/2403.17007v1)|null|
-|**2024-03-25**|**An Intermediate Fusion ViT Enables Efficient Text-Image Alignment in Diffusion Models**|Zizhao Hu et.al.|[2403.16530v1](http://arxiv.org/abs/2403.16530v1)|null|
-|**2024-03-25**|**Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework**|Ziyao Huang et.al.|[2403.16510v1](http://arxiv.org/abs/2403.16510v1)|[link](https://github.com/ictmcg/make-your-anchor)|
-|**2024-03-25**|**If CLIP Could Talk: Understanding Vision-Language Model Representations Through Their Preferred Concept Descriptions**|Reza Esfandiarpoor et.al.|[2403.16442v1](http://arxiv.org/abs/2403.16442v1)|[link](https://github.com/batsresearch/ex2)|
-|**2024-03-24**|**Ultra Low-Cost Two-Stage Multimodal System for Non-Normative Behavior Detection**|Albert Lu et.al.|[2403.16151v1](http://arxiv.org/abs/2403.16151v1)|null|
-|**2024-03-23**|**MatchSeg: Towards Better Segmentation via Reference Image Matching**|Ruiqiang Xiao et.al.|[2403.15901v1](http://arxiv.org/abs/2403.15901v1)|[link](https://github.com/keeplearning-again/matchseg)|
-|**2024-03-23**|**Centered Masking for Language-Image Pre-Training**|Mingliang Liang et.al.|[2403.15837v2](http://arxiv.org/abs/2403.15837v2)|[link](https://github.com/anastasiais-ml/glip)|
-|**2024-03-23**|**Time-series Initialization and Conditioning for Video-agnostic Stabilization of Video Super-Resolution using Recurrent Networks**|Hiroshi Mori et.al.|[2403.15832v1](http://arxiv.org/abs/2403.15832v1)|null|
+|**2024-03-28**|**Collaborative Interactive Evolution of Art in the Latent Space of Deep Generative Models**|Ole Hall et.al.|[2403.19620v1](http://arxiv.org/abs/2403.19620v1)|null|
+|**2024-03-28**|**Feedback Optimization of Incentives for Distribution Grid Services**|Guido Cavraro et.al.|[2403.19616v1](http://arxiv.org/abs/2403.19616v1)|null|
+|**2024-03-28**|**SA-GS: Scale-Adaptive Gaussian Splatting for Training-Free Anti-Aliasing**|Xiaowei Song et.al.|[2403.19615v1](http://arxiv.org/abs/2403.19615v1)|[link](https://github.com/zsy1987/sa-gs)|
+|**2024-03-28**|**ILPO-NET: Network for the invariant recognition of arbitrary volumetric patterns in 3D**|Dmitrii Zhemchuzhnikov et.al.|[2403.19612v1](http://arxiv.org/abs/2403.19612v1)|null|
+|**2024-03-28**|**Nearest Neighbor Classication for Classical Image Upsampling**|Evan Matthews et.al.|[2403.19611v1](http://arxiv.org/abs/2403.19611v1)|null|
+|**2024-03-28**|**Magic-induced computational separation in entanglement theory**|Andi Gu et.al.|[2403.19610v1](http://arxiv.org/abs/2403.19610v1)|null|
+|**2024-03-28**|**SAID-NeRF: Segmentation-AIDed NeRF for Depth Completion of Transparent Objects**|Avinash Ummadisingu et.al.|[2403.19607v1](http://arxiv.org/abs/2403.19607v1)|null|
+|**2024-03-28**|**Data-Adaptive Tradeoffs among Multiple Risks in Distribution-Free Prediction**|Drew T. Nguyen et.al.|[2403.19605v1](http://arxiv.org/abs/2403.19605v1)|null|
+|**2024-03-28**|**Semantic Map-based Generation of Navigation Instructions**|Chengzu Li et.al.|[2403.19603v1](http://arxiv.org/abs/2403.19603v1)|[link](https://github.com/chengzu-li/vlgen)|
+|**2024-03-28**|**Enhance Image Classification via Inter-Class Image Mixup with Diffusion Model**|Zhicai Wang et.al.|[2403.19600v1](http://arxiv.org/abs/2403.19600v1)|[link](https://github.com/zhicaiwww/diff-mix)|
+|**2024-03-28**|**Reference Energies for Double Excitations: Improvement and Extension**|Fábris Kossoski et.al.|[2403.19597v1](http://arxiv.org/abs/2403.19597v1)|null|
+|**2024-03-28**|**LocCa: Visual Pretraining with Location-aware Captioners**|Bo Wan et.al.|[2403.19596v1](http://arxiv.org/abs/2403.19596v1)|null|
+|**2024-03-28**|**Situation Awareness for Driver-Centric Driving Style Adaptation**|Johann Haselberger et.al.|[2403.19595v1](http://arxiv.org/abs/2403.19595v1)|[link](https://github.com/jhaselberger/sadc-situation-awareness-for-driver-centric-driving-style-adaptation)|
+|**2024-03-28**|**Frame by Familiar Frame: Understanding Replication in Video Diffusion Models**|Aimon Rahman et.al.|[2403.19593v1](http://arxiv.org/abs/2403.19593v1)|null|
+
+### Transformer
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-03-28**|**RSMamba: Remote Sensing Image Classification with State Space Model**|Keyan Chen et.al.|[2403.19654v1](http://arxiv.org/abs/2403.19654v1)|[link](https://github.com/KyanChen/RSMamba)|
+|**2024-03-28**|**Siamese Vision Transformers are Scalable Audio-visual Learners**|Yan-Bo Lin et.al.|[2403.19638v1](http://arxiv.org/abs/2403.19638v1)|null|
+|**2024-03-28**|**Genetic Quantization-Aware Approximation for Non-Linear Operations in Transformers**|Pingcheng Dong et.al.|[2403.19591v1](http://arxiv.org/abs/2403.19591v1)|[link](https://github.com/pingchengdong/gqa-lut)|
+|**2024-03-28**|**DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs**|Donghyun Kim et.al.|[2403.19588v1](http://arxiv.org/abs/2403.19588v1)|[link](https://github.com/naver-ai/rdnet)|
+|**2024-03-28**|**The Bad Batches: Enhancing Self-Supervised Learning in Image Classification Through Representative Batch Curation**|Ozgu Goksu et.al.|[2403.19579v1](http://arxiv.org/abs/2403.19579v1)|null|
+|**2024-03-28**|**Keypoint Action Tokens Enable In-Context Imitation Learning in Robotics**|Norman Di Palo et.al.|[2403.19578v1](http://arxiv.org/abs/2403.19578v1)|null|
+|**2024-03-28**|**Probing the dark Universe with gravitational waves**|Antonio Enea Romano et.al.|[2403.19552v1](http://arxiv.org/abs/2403.19552v1)|null|
+|**2024-03-28**|**Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models**|Ang Lv et.al.|[2403.19521v1](http://arxiv.org/abs/2403.19521v1)|null|
+|**2024-03-28**|**Quantum Realization of the Finite Element Method**|Matthias Deiml et.al.|[2403.19512v1](http://arxiv.org/abs/2403.19512v1)|[link](https://github.com/mdeiml/quantum-bpx)|
+|**2024-03-28**|**Segmentation tool for images of cracks**|Andrii Kompanets et.al.|[2403.19492v1](http://arxiv.org/abs/2403.19492v1)|[link](https://github.com/akomp22/crack-segmentation-tool)|
+|**2024-03-28**|**Adaptive resolution of fine scales in modes of microstructured optical fibers**|Jay Gopalakrishnan et.al.|[2403.19485v1](http://arxiv.org/abs/2403.19485v1)|null|
+|**2024-03-28**|**SG-PGM: Partial Graph Matching Network with Semantic Geometric Fusion for 3D Scene Graph Alignment and Its Downstream Tasks**|Yaxu Xie et.al.|[2403.19474v1](http://arxiv.org/abs/2403.19474v1)|[link](https://github.com/dfki-av/sg-pgm)|
+|**2024-03-28**|**Beyond Talking -- Generating Holistic 3D Human Dyadic Motion for Communication**|Mingze Sun et.al.|[2403.19467v1](http://arxiv.org/abs/2403.19467v1)|null|
+|**2024-03-28**|**RiEMann: Near Real-Time SE(3)-Equivariant Robot Manipulation without Point Cloud Segmentation**|Chongkai Gao et.al.|[2403.19460v1](http://arxiv.org/abs/2403.19460v1)|null|
+|**2024-03-28**|**EDA-Driven Preprocessing for SAT Solving**|Zhengyuan Shi et.al.|[2403.19446v1](http://arxiv.org/abs/2403.19446v1)|null|
+|**2024-03-28**|**A Novel Stochastic Transformer-based Approach for Post-Traumatic Stress Disorder Detection using Audio Recording of Clinical Interviews**|Mamadou Dia et.al.|[2403.19441v1](http://arxiv.org/abs/2403.19441v1)|null|
+|**2024-03-28**|**BAMM: Bidirectional Autoregressive Motion Model**|Ekkasit Pinyoanuntapong et.al.|[2403.19435v1](http://arxiv.org/abs/2403.19435v1)|null|
+|**2024-03-28**|**Tabular Learning: Encoding for Entity and Context Embeddings**|Fredy Reusser et.al.|[2403.19405v1](http://arxiv.org/abs/2403.19405v1)|null|
+|**2024-03-28**|**Holography of a single free matrix**|Robert de Mello Koch et.al.|[2403.19391v1](http://arxiv.org/abs/2403.19391v1)|null|
+|**2024-03-28**|**EthioMT: Parallel Corpus for Low-resource Ethiopian Languages**|Atnafu Lambebo Tonja et.al.|[2403.19365v1](http://arxiv.org/abs/2403.19365v1)|null|
+|**2024-03-28**|**Gain-Only Neural Operator Approximators of PDE Backstepping Controllers**|Rafael Vazquez et.al.|[2403.19344v1](http://arxiv.org/abs/2403.19344v1)|null|
+|**2024-03-28**|**Dataverse: Open-Source ETL (Extract, Transform, Load) Pipeline for Large Language Models**|Hyunbyung Park et.al.|[2403.19340v1](http://arxiv.org/abs/2403.19340v1)|[link](https://github.com/upstageai/dataverse)|
+|**2024-03-28**|**IVLMap: Instance-Aware Visual Language Grounding for Consumer Robot Navigation**|Jiacui Huang et.al.|[2403.19336v1](http://arxiv.org/abs/2403.19336v1)|null|
+|**2024-03-28**|**Complex generalized Gauss-Radau quadrature rules for Hankel transforms of integer order**|Haiyong Wang et.al.|[2403.19328v1](http://arxiv.org/abs/2403.19328v1)|null|
+|**2024-03-28**|**Sine Activated Low-Rank Matrices for Parameter Efficient Learning**|Yiping Ji et.al.|[2403.19243v1](http://arxiv.org/abs/2403.19243v1)|null|
+|**2024-03-28**|**Single-Shared Network with Prior-Inspired Loss for Parameter-Efficient Multi-Modal Imaging Skin Lesion Classification**|Peng Tang et.al.|[2403.19203v1](http://arxiv.org/abs/2403.19203v1)|null|
+|**2024-03-28**|**Hamiltonian mechanics of "magnetic'' solitons in two-component Bose-Einstein condensates**|A. M. Kamchatnov et.al.|[2403.19199v1](http://arxiv.org/abs/2403.19199v1)|null|
+|**2024-03-28**|**Improving the Bit Complexity of Communication for Distributed Convex Optimization**|Mehrdad Ghadiri et.al.|[2403.19146v1](http://arxiv.org/abs/2403.19146v1)|null|
+|**2024-03-28**|**Compressing Large Language Models by Streamlining the Unimportant Layer**|Xiaodong Chen et.al.|[2403.19135v1](http://arxiv.org/abs/2403.19135v1)|null|
+|**2024-03-28**|**PoCo: A Self-Supervised Approach via Polar Transformation Based Progressive Contrastive Learning for Ophthalmic Disease Diagnosis**|Jinhong Wang et.al.|[2403.19124v1](http://arxiv.org/abs/2403.19124v1)|null|
+
+## Graph Neural Network
+
+### Graph Neural Network
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-03-28**|**GaussianCube: Structuring Gaussian Splatting using Optimal Transport for 3D Generative Modeling**|Bowen Zhang et.al.|[2403.19655v1](http://arxiv.org/abs/2403.19655v1)|null|
+|**2024-03-28**|**RSMamba: Remote Sensing Image Classification with State Space Model**|Keyan Chen et.al.|[2403.19654v1](http://arxiv.org/abs/2403.19654v1)|[link](https://github.com/KyanChen/RSMamba)|
+|**2024-03-28**|**Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models**|Samuel Marks et.al.|[2403.19647v1](http://arxiv.org/abs/2403.19647v1)|[link](https://github.com/saprmarks/feature-circuits)|
+|**2024-03-28**|**GANTASTIC: GAN-based Transfer of Interpretable Directions for Disentangled Image Editing in Text-to-Image Diffusion Models**|Yusuf Dalva et.al.|[2403.19645v1](http://arxiv.org/abs/2403.19645v1)|null|
+|**2024-03-28**|**Siamese Vision Transformers are Scalable Audio-visual Learners**|Yan-Bo Lin et.al.|[2403.19638v1](http://arxiv.org/abs/2403.19638v1)|null|
+|**2024-03-28**|**Lane-Change in Dense Traffic with Model Predictive Control and Neural Networks**|Sangjae Bae et.al.|[2403.19633v1](http://arxiv.org/abs/2403.19633v1)|[link](https://github.com/bsj1216/NNMPC)|
+|**2024-03-28**|**Collaborative Interactive Evolution of Art in the Latent Space of Deep Generative Models**|Ole Hall et.al.|[2403.19620v1](http://arxiv.org/abs/2403.19620v1)|null|
+|**2024-03-28**|**Feedback Optimization of Incentives for Distribution Grid Services**|Guido Cavraro et.al.|[2403.19616v1](http://arxiv.org/abs/2403.19616v1)|null|
+|**2024-03-28**|**ILPO-NET: Network for the invariant recognition of arbitrary volumetric patterns in 3D**|Dmitrii Zhemchuzhnikov et.al.|[2403.19612v1](http://arxiv.org/abs/2403.19612v1)|null|
+|**2024-03-28**|**SAID-NeRF: Segmentation-AIDed NeRF for Depth Completion of Transparent Objects**|Avinash Ummadisingu et.al.|[2403.19607v1](http://arxiv.org/abs/2403.19607v1)|null|
+|**2024-03-28**|**Genetic Quantization-Aware Approximation for Non-Linear Operations in Transformers**|Pingcheng Dong et.al.|[2403.19591v1](http://arxiv.org/abs/2403.19591v1)|[link](https://github.com/pingchengdong/gqa-lut)|
+|**2024-03-28**|**TOD3Cap: Towards 3D Dense Captioning in Outdoor Scenes**|Bu Jin et.al.|[2403.19589v1](http://arxiv.org/abs/2403.19589v1)|[link](https://github.com/jxbbb/tod3cap)|
+|**2024-03-28**|**DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs**|Donghyun Kim et.al.|[2403.19588v1](http://arxiv.org/abs/2403.19588v1)|[link](https://github.com/naver-ai/rdnet)|
+|**2024-03-28**|**Refining tree-decompositions so that they display the k-blocks**|Sandra Albrechtsen et.al.|[2403.19585v1](http://arxiv.org/abs/2403.19585v1)|null|
+|**2024-03-28**|**Keypoint Action Tokens Enable In-Context Imitation Learning in Robotics**|Norman Di Palo et.al.|[2403.19578v1](http://arxiv.org/abs/2403.19578v1)|null|
+|**2024-03-28**|**$q$-Chromatic polynomials**|Esme Bajo et.al.|[2403.19573v1](http://arxiv.org/abs/2403.19573v1)|null|
+|**2024-03-28**|**Swarm Characteristics Classification Using Neural Networks**|Donald W. Peltier III et.al.|[2403.19572v1](http://arxiv.org/abs/2403.19572v1)|[link](https://github.com/dwpeltier3/swarm-nn-tsc)|
+|**2024-03-28**|**GrINd: Grid Interpolation Network for Scattered Observations**|Andrzej Dulny et.al.|[2403.19570v1](http://arxiv.org/abs/2403.19570v1)|null|
+|**2024-03-28**|**On reduced unicellular hypermonopoles**|Robert Cori et.al.|[2403.19569v1](http://arxiv.org/abs/2403.19569v1)|null|
+|**2024-03-28**|**Self-Improved Learning for Scalable Neural Combinatorial Optimization**|Fu Luo et.al.|[2403.19561v1](http://arxiv.org/abs/2403.19561v1)|null|
+|**2024-03-28**|**Experimental determination of effective light transport properties in fully anisotropic media**|Ernesto Pini et.al.|[2403.19558v1](http://arxiv.org/abs/2403.19558v1)|null|
+|**2024-03-28**|**Expectation Maximization Aided Modified Weighted Sequential Energy Detector for Distributed Cooperative Spectrum Sensing**|Mohammed Rashid et.al.|[2403.19556v1](http://arxiv.org/abs/2403.19556v1)|null|
+|**2024-03-28**|**GlORIE-SLAM: Globally Optimized RGB-only Implicit Encoding Point Cloud SLAM**|Ganlin Zhang et.al.|[2403.19549v1](http://arxiv.org/abs/2403.19549v1)|null|
+|**2024-03-28**|**De-confounded Data-free Knowledge Distillation for Handling Distribution Shifts**|Yuzheng Wang et.al.|[2403.19539v1](http://arxiv.org/abs/2403.19539v1)|null|
+|**2024-03-28**|**SecGraph: Towards SGX-based Efficient and Confidentiality-Preserving Graph Search**|Qiuhao Wang et.al.|[2403.19531v1](http://arxiv.org/abs/2403.19531v1)|null|
+|**2024-03-28**|**Disentangling degree and tie strength heterogeneity in egocentric social networks**|Sara Heydari et.al.|[2403.19529v1](http://arxiv.org/abs/2403.19529v1)|null|
+|**2024-03-28**|**XScale-NVS: Cross-Scale Novel View Synthesis with Hash Featurized Manifold**|Guangyu Wang et.al.|[2403.19517v1](http://arxiv.org/abs/2403.19517v1)|null|
+|**2024-03-28**|**Maximum Likelihood Estimation on Stochastic Blockmodels for Directed Graph Clustering**|Mihai Cucuringu et.al.|[2403.19516v1](http://arxiv.org/abs/2403.19516v1)|[link](https://github.com/ningz97/mle-dsbm)|
+|**2024-03-28**|**CDIMC-net: Cognitive Deep Incomplete Multi-view Clustering Network**|Jie Wen et.al.|[2403.19514v1](http://arxiv.org/abs/2403.19514v1)|null|
+|**2024-03-28**|**The profit-oriented hub line location problem with elastic demand**|Brenda Cobeña et.al.|[2403.19513v1](http://arxiv.org/abs/2403.19513v1)|null|
