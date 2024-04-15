@@ -1,43 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2024-04-15 20:29:43 Asia/Shanghai
+ Automated deployment @ 2024-04-15 20:47:09 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
-
-## Graph Neural Network
-
-### Graph Neural Network
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-04-12**|**COCONut: Modernizing COCO Segmentation**|Xueqing Deng et.al.|[2404.08639v1](http://arxiv.org/abs/2404.08639v1)|null|
-|**2024-04-12**|**Optimal Slicing and Scheduling with Service Guarantees in Multi-Hop Wireless Networks**|Nicholas Jones et.al.|[2404.08637v1](http://arxiv.org/abs/2404.08637v1)|null|
-|**2024-04-12**|**Transport properties in non-Fermi liquid phases of nodal-point semimetals**|Ipsita Mandal et.al.|[2404.08635v1](http://arxiv.org/abs/2404.08635v1)|null|
-|**2024-04-12**|**Automated distribution of high-rate, high-fidelity polarization entangled photons using deployed metropolitan fibers**|Alexander N. Craddock et.al.|[2404.08626v1](http://arxiv.org/abs/2404.08626v1)|null|
-|**2024-04-12**|**Regularized Gradient Clipping Provably Trains Wide and Deep Neural Networks**|Matteo Tucat et.al.|[2404.08624v1](http://arxiv.org/abs/2404.08624v1)|null|
-|**2024-04-12**|**Using Information Flow to estimate interference between developers same method contributions**|Roberto Souto Maior de Barros Filho et.al.|[2404.08619v1](http://arxiv.org/abs/2404.08619v1)|null|
-|**2024-04-12**|**Using Explainable AI and Transfer Learning to understand and predict the maintenance of Atlantic blocking with limited observational data**|Huan Zhang et.al.|[2404.08613v1](http://arxiv.org/abs/2404.08613v1)|null|
-|**2024-04-12**|**Automatic Quantification of Serial PET/CT Images for Pediatric Hodgkin Lymphoma Patients Using a Longitudinally-Aware Segmentation Network**|Xin Tie et.al.|[2404.08611v1](http://arxiv.org/abs/2404.08611v1)|[link](https://github.com/xtie97/las-net)|
-|**2024-04-12**|**Hyperbolic Delaunay Geometric Alignment**|Aniss Aiman Medbouhi et.al.|[2404.08608v1](http://arxiv.org/abs/2404.08608v1)|[link](https://github.com/anissmedbouhi/hyperdga)|
-|**2024-04-12**|**Learning-Based Joint Antenna Selection and Precoding Design for Cell-Free MIMO Networks**|Liangzhi Wang et.al.|[2404.08607v1](http://arxiv.org/abs/2404.08607v1)|null|
-|**2024-04-12**|**Sliding down the stairs: how correlated latent variables accelerate learning with neural networks**|Lorenzo Bardone et.al.|[2404.08602v1](http://arxiv.org/abs/2404.08602v1)|null|
-|**2024-04-12**|**Interaction networks in persistent Lotka-Volterra communities**|Lyle Poley et.al.|[2404.08600v1](http://arxiv.org/abs/2404.08600v1)|null|
-|**2024-04-12**|**Destroying Densest Subgraphs is Hard**|Cristina Bazgan et.al.|[2404.08599v1](http://arxiv.org/abs/2404.08599v1)|null|
-|**2024-04-12**|**Enhancing Visual Question Answering through Question-Driven Image Captions as Prompts**|Övgü Özdemir et.al.|[2404.08589v1](http://arxiv.org/abs/2404.08589v1)|[link](https://github.com/ovguyo/captions-in-vqa)|
-|**2024-04-12**|**Efficient Sensors Selection for Traffic Flow Monitoring: An Overview of Model-Based Techniques leveraging Network Observability**|Marco Fabris et.al.|[2404.08588v1](http://arxiv.org/abs/2404.08588v1)|null|
-|**2024-04-12**|**Advanced wood species identification based on multiple anatomical sections and using deep feature transfer and fusion**|Kallil M. Zielinski et.al.|[2404.08585v1](http://arxiv.org/abs/2404.08585v1)|null|
-|**2024-04-12**|**FashionFail: Addressing Failure Cases in Fashion Object Detection and Segmentation**|Riza Velioglu et.al.|[2404.08582v1](http://arxiv.org/abs/2404.08582v1)|null|
-|**2024-04-12**|**Approximating the volume of a truncated relaxation of the independence polytope**|Ferenc Bencs et.al.|[2404.08577v1](http://arxiv.org/abs/2404.08577v1)|null|
-|**2024-04-12**|**IDD-X: A Multi-View Dataset for Ego-relative Important Object Localization and Explanation in Dense and Unstructured Traffic**|Chirag Parikh et.al.|[2404.08561v1](http://arxiv.org/abs/2404.08561v1)|null|
-|**2024-04-12**|**Quantum entropy couples matter with geometry**|Ginestra Bianconi et.al.|[2404.08556v1](http://arxiv.org/abs/2404.08556v1)|null|
-|**2024-04-12**|**The global and local limit of the continuous-time Mallows process**|Radosław Adamczak et.al.|[2404.08554v1](http://arxiv.org/abs/2404.08554v1)|null|
-|**2024-04-12**|**Benchmarking the Cell Image Segmentation Models Robustness under the Microscope Optical Aberrations**|Boyuan Peng et.al.|[2404.08549v1](http://arxiv.org/abs/2404.08549v1)|null|
-|**2024-04-12**|**Functional reducibility of higher-order networks**|Maxime Lucas et.al.|[2404.08547v1](http://arxiv.org/abs/2404.08547v1)|null|
-|**2024-04-12**|**A Data Fusion Model for Meteorological Data using the INLA-SPDE method**|Stephen Jun Villejo et.al.|[2404.08533v1](http://arxiv.org/abs/2404.08533v1)|null|
-|**2024-04-12**|**Advancing Forest Fire Prevention: Deep Reinforcement Learning for Effective Firebreak Placement**|Lucas Murray et.al.|[2404.08523v1](http://arxiv.org/abs/2404.08523v1)|null|
-|**2024-04-12**|**An improved spectral lower bound of treewidth**|Tatsuya Gima et.al.|[2404.08520v1](http://arxiv.org/abs/2404.08520v1)|null|
-|**2024-04-12**|**NIR-Assisted Image Denoising: A Selective Fusion Approach and A Real-World Benchmark Datase**|Rongjian Xu et.al.|[2404.08514v1](http://arxiv.org/abs/2404.08514v1)|null|
-|**2024-04-12**|**A generalizable method for estimating meteor shower false positives**|Patrick M. Shober et.al.|[2404.08507v1](http://arxiv.org/abs/2404.08507v1)|null|
-|**2024-04-12**|**Analyzing and Overcoming Local Optima in Complex Multi-Objective Optimization by Decomposition-Based Evolutionary Algorithms**|Ting Dong et.al.|[2404.08501v1](http://arxiv.org/abs/2404.08501v1)|null|
-|**2024-04-12**|**Prescribing Optimal Health-Aware Operation for Urban Air Mobility with Deep Reinforcement Learning**|Mina Montazeri et.al.|[2404.08497v1](http://arxiv.org/abs/2404.08497v1)|null|
 
 ## Fashion
 
@@ -109,6 +73,40 @@
 |**2024-04-11**|**Flexible Control of Chiral Superconductivity in Optically Driven Nodal Point Superconductors with Antiferromagnetism**|Zhen Ning et.al.|[2404.07506v1](http://arxiv.org/abs/2404.07506v1)|null|
 |**2024-04-11**|**Adaptive Fair Representation Learning for Personalized Fairness in Recommendations via Information Alignment**|XInyu Zhu et.al.|[2404.07494v1](http://arxiv.org/abs/2404.07494v1)|null|
 
+### General
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-04-12**|**Direct May Not Be the Best: An Incremental Evolution View of Pose Generation**|Yuelong Li et.al.|[2404.08419v1](http://arxiv.org/abs/2404.08419v1)|[link](https://github.com/xiaofei-cn/incremental-evolution-pose-generation)|
+|**2024-04-09**|**Learning State-Invariant Representations of Objects from Image Collections with State, Pose, and Viewpoint Changes**|Rohan Sarkar et.al.|[2404.06470v1](http://arxiv.org/abs/2404.06470v1)|null|
+|**2024-04-07**|**HiLo: Detailed and Robust 3D Clothed Human Reconstruction with High-and Low-Frequency Information of Parametric Models**|Yifan Yang et.al.|[2404.04876v1](http://arxiv.org/abs/2404.04876v1)|[link](https://github.com/yifyang993/hilo)|
+|**2024-04-06**|**Neural-ABC: Neural Parametric Models for Articulated Body with Clothes**|Honghu Chen et.al.|[2404.04673v1](http://arxiv.org/abs/2404.04673v1)|null|
+|**2024-04-05**|**PhysAvatar: Learning the Physics of Dressed 3D Avatars from Visual Observations**|Yang Zheng et.al.|[2404.04421v2](http://arxiv.org/abs/2404.04421v2)|null|
+|**2024-04-04**|**DiffBody: Human Body Restoration by Imagining with Generative Diffusion Prior**|Yiming Zhang et.al.|[2404.03642v1](http://arxiv.org/abs/2404.03642v1)|null|
+|**2024-04-03**|**Design2Cloth: 3D Cloth Generation from 2D Masks**|Jiali Zheng et.al.|[2404.02686v1](http://arxiv.org/abs/2404.02686v1)|null|
+|**2024-04-03**|**Exploring Sustainable Clothing Consumption in Middle-Income Countries: A case study of Romanian consumers**|Anastasia Cosma et.al.|[2404.02612v1](http://arxiv.org/abs/2404.02612v1)|null|
+|**2024-04-02**|**GaitSTR: Gait Recognition with Sequential Two-stream Refinement**|Wanrong Zheng et.al.|[2404.02345v1](http://arxiv.org/abs/2404.02345v1)|null|
+|**2024-04-02**|**FashionEngine: Interactive Generation and Editing of 3D Clothed Humans**|Tao Hu et.al.|[2404.01655v2](http://arxiv.org/abs/2404.01655v2)|null|
+|**2024-04-01**|**StructLDM: Structured Latent Diffusion for 3D Human Generation**|Tao Hu et.al.|[2404.01241v2](http://arxiv.org/abs/2404.01241v2)|null|
+|**2024-04-01**|**HAHA: Highly Articulated Gaussian Human Avatars with Textured Mesh Prior**|David Svitov et.al.|[2404.01053v1](http://arxiv.org/abs/2404.01053v1)|[link](https://github.com/david-svitov/haha)|
+|**2024-04-01**|**TryOn-Adapter: Efficient Fine-Grained Clothing Identity Adaptation for High-Fidelity Virtual Try-On**|Jiazheng Xing et.al.|[2404.00878v1](http://arxiv.org/abs/2404.00878v1)|[link](https://github.com/jiazheng-xing/tryon-adapter)|
+|**2024-03-30**|**Designing Robot Identity: The Role of Voice, Clothing, and Task on Robot Gender Perception**|Nathaniel S. Dennler et.al.|[2404.00494v1](http://arxiv.org/abs/2404.00494v1)|null|
+|**2024-03-30**|**Thin-Shell Object Manipulations With Differentiable Physics Simulations**|Yian Wang et.al.|[2404.00451v1](http://arxiv.org/abs/2404.00451v1)|null|
+|**2024-03-28**|**Mil2: Efficient Cloth Simulation Using Non-distance Barriers and Subspace Reuse**|Lei Lan et.al.|[2403.19272v2](http://arxiv.org/abs/2403.19272v2)|null|
+|**2024-03-28**|**Within the Dynamic Context: Inertia-aware 3D Human Modeling with Pose Sequence**|Yutong Chen et.al.|[2403.19160v1](http://arxiv.org/abs/2403.19160v1)|null|
+|**2024-03-27**|**Garment3DGen: 3D Garment Stylization and Texture Generation**|Nikolaos Sarafianos et.al.|[2403.18816v1](http://arxiv.org/abs/2403.18816v1)|null|
+|**2024-03-26**|**DiffFAE: Advancing High-fidelity One-shot Facial Appearance Editing with Space-sensitive Customization and Semantic Preservation**|Qilin Wang et.al.|[2403.17664v1](http://arxiv.org/abs/2403.17664v1)|null|
+|**2024-03-26**|**WordRobe: Text-Guided Generation of Textured 3D Garments**|Astitva Srivastava et.al.|[2403.17541v1](http://arxiv.org/abs/2403.17541v1)|null|
+|**2024-03-26**|**Activity-Biometrics: Person Identification from Daily Activities**|Shehreen Azad et.al.|[2403.17360v1](http://arxiv.org/abs/2403.17360v1)|[link](https://github.com/sacrcv/activity-biometrics)|
+|**2024-03-24**|**Frankenstein: Generating Semantic-Compositional 3D Scenes in One Tri-Plane**|Han Yan et.al.|[2403.16210v1](http://arxiv.org/abs/2403.16210v1)|null|
+|**2024-03-24**|**PKU-DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic Human Modeling**|Xiaoyun Zheng et.al.|[2403.16080v3](http://arxiv.org/abs/2403.16080v3)|[link](https://github.com/zhengxyun/PKU-DyMVHumans)|
+|**2024-03-22**|**An Open-World, Diverse, Cross-Spatial-Temporal Benchmark for Dynamic Wild Person Re-Identification**|Lei Zhang et.al.|[2403.15119v1](http://arxiv.org/abs/2403.15119v1)|[link](https://github.com/fxw13/OWD)|
+|**2024-03-21**|**Multimodal-Conditioned Latent Diffusion Models for Fashion Image Editing**|Alberto Baldrati et.al.|[2403.14828v2](http://arxiv.org/abs/2403.14828v2)|[link](https://github.com/aimagelab/ti-mgd)|
+|**2024-03-20**|**What Matters for Active Texture Recognition With Vision-Based Tactile Sensors**|Alina Böhm et.al.|[2403.13701v1](http://arxiv.org/abs/2403.13701v1)|null|
+|**2024-03-19**|**A Physics-embedded Deep Learning Framework for Cloth Simulation**|Zhiwei Zhao et.al.|[2403.12820v2](http://arxiv.org/abs/2403.12820v2)|[link](https://github.com/furkath/dl_framework-for-pbs-cloth-simulation)|
+|**2024-03-18**|**Improving Generalization via Meta-Learning on Hard Samples**|Nishant Jain et.al.|[2403.12236v2](http://arxiv.org/abs/2403.12236v2)|null|
+|**2024-03-18**|**Hardware Design and Learning-Based Software Architecture of Musculoskeletal Wheeled Robot Musashi-W for Real-World Applications**|Kento Kawaharazuka et.al.|[2403.11729v1](http://arxiv.org/abs/2403.11729v1)|null|
+|**2024-03-17**|**A Versatile Framework for Multi-scene Person Re-identification**|Wei-Shi Zheng et.al.|[2403.11121v1](http://arxiv.org/abs/2403.11121v1)|[link](https://github.com/isee-laboratory/versreid)|
+
 ### Compatibility
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -176,40 +174,6 @@
 |**2024-04-11**|**M-scan: A Multi-Scenario Causal-driven Adaptive Network for Recommendation**|Jiachen Zhu et.al.|[2404.07581v1](http://arxiv.org/abs/2404.07581v1)|null|
 |**2024-04-11**|**Decomposing Label Space, Format and Discrimination: Rethinking How LLMs Respond and Solve Tasks via In-Context Learning**|Quanyu Long et.al.|[2404.07546v1](http://arxiv.org/abs/2404.07546v1)|null|
 |**2024-04-11**|**Stability in Phase Retrieval: Characterizing Condition Numbers and the Optimal Vector Set**|Yu Xia et.al.|[2404.07515v1](http://arxiv.org/abs/2404.07515v1)|null|
-
-### General
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-04-12**|**Direct May Not Be the Best: An Incremental Evolution View of Pose Generation**|Yuelong Li et.al.|[2404.08419v1](http://arxiv.org/abs/2404.08419v1)|[link](https://github.com/xiaofei-cn/incremental-evolution-pose-generation)|
-|**2024-04-09**|**Learning State-Invariant Representations of Objects from Image Collections with State, Pose, and Viewpoint Changes**|Rohan Sarkar et.al.|[2404.06470v1](http://arxiv.org/abs/2404.06470v1)|null|
-|**2024-04-07**|**HiLo: Detailed and Robust 3D Clothed Human Reconstruction with High-and Low-Frequency Information of Parametric Models**|Yifan Yang et.al.|[2404.04876v1](http://arxiv.org/abs/2404.04876v1)|[link](https://github.com/yifyang993/hilo)|
-|**2024-04-06**|**Neural-ABC: Neural Parametric Models for Articulated Body with Clothes**|Honghu Chen et.al.|[2404.04673v1](http://arxiv.org/abs/2404.04673v1)|null|
-|**2024-04-05**|**PhysAvatar: Learning the Physics of Dressed 3D Avatars from Visual Observations**|Yang Zheng et.al.|[2404.04421v2](http://arxiv.org/abs/2404.04421v2)|null|
-|**2024-04-04**|**DiffBody: Human Body Restoration by Imagining with Generative Diffusion Prior**|Yiming Zhang et.al.|[2404.03642v1](http://arxiv.org/abs/2404.03642v1)|null|
-|**2024-04-03**|**Design2Cloth: 3D Cloth Generation from 2D Masks**|Jiali Zheng et.al.|[2404.02686v1](http://arxiv.org/abs/2404.02686v1)|null|
-|**2024-04-03**|**Exploring Sustainable Clothing Consumption in Middle-Income Countries: A case study of Romanian consumers**|Anastasia Cosma et.al.|[2404.02612v1](http://arxiv.org/abs/2404.02612v1)|null|
-|**2024-04-02**|**GaitSTR: Gait Recognition with Sequential Two-stream Refinement**|Wanrong Zheng et.al.|[2404.02345v1](http://arxiv.org/abs/2404.02345v1)|null|
-|**2024-04-02**|**FashionEngine: Interactive Generation and Editing of 3D Clothed Humans**|Tao Hu et.al.|[2404.01655v2](http://arxiv.org/abs/2404.01655v2)|null|
-|**2024-04-01**|**StructLDM: Structured Latent Diffusion for 3D Human Generation**|Tao Hu et.al.|[2404.01241v2](http://arxiv.org/abs/2404.01241v2)|null|
-|**2024-04-01**|**HAHA: Highly Articulated Gaussian Human Avatars with Textured Mesh Prior**|David Svitov et.al.|[2404.01053v1](http://arxiv.org/abs/2404.01053v1)|[link](https://github.com/david-svitov/haha)|
-|**2024-04-01**|**TryOn-Adapter: Efficient Fine-Grained Clothing Identity Adaptation for High-Fidelity Virtual Try-On**|Jiazheng Xing et.al.|[2404.00878v1](http://arxiv.org/abs/2404.00878v1)|[link](https://github.com/jiazheng-xing/tryon-adapter)|
-|**2024-03-30**|**Designing Robot Identity: The Role of Voice, Clothing, and Task on Robot Gender Perception**|Nathaniel S. Dennler et.al.|[2404.00494v1](http://arxiv.org/abs/2404.00494v1)|null|
-|**2024-03-30**|**Thin-Shell Object Manipulations With Differentiable Physics Simulations**|Yian Wang et.al.|[2404.00451v1](http://arxiv.org/abs/2404.00451v1)|null|
-|**2024-03-28**|**Mil2: Efficient Cloth Simulation Using Non-distance Barriers and Subspace Reuse**|Lei Lan et.al.|[2403.19272v2](http://arxiv.org/abs/2403.19272v2)|null|
-|**2024-03-28**|**Within the Dynamic Context: Inertia-aware 3D Human Modeling with Pose Sequence**|Yutong Chen et.al.|[2403.19160v1](http://arxiv.org/abs/2403.19160v1)|null|
-|**2024-03-27**|**Garment3DGen: 3D Garment Stylization and Texture Generation**|Nikolaos Sarafianos et.al.|[2403.18816v1](http://arxiv.org/abs/2403.18816v1)|null|
-|**2024-03-26**|**DiffFAE: Advancing High-fidelity One-shot Facial Appearance Editing with Space-sensitive Customization and Semantic Preservation**|Qilin Wang et.al.|[2403.17664v1](http://arxiv.org/abs/2403.17664v1)|null|
-|**2024-03-26**|**WordRobe: Text-Guided Generation of Textured 3D Garments**|Astitva Srivastava et.al.|[2403.17541v1](http://arxiv.org/abs/2403.17541v1)|null|
-|**2024-03-26**|**Activity-Biometrics: Person Identification from Daily Activities**|Shehreen Azad et.al.|[2403.17360v1](http://arxiv.org/abs/2403.17360v1)|[link](https://github.com/sacrcv/activity-biometrics)|
-|**2024-03-24**|**Frankenstein: Generating Semantic-Compositional 3D Scenes in One Tri-Plane**|Han Yan et.al.|[2403.16210v1](http://arxiv.org/abs/2403.16210v1)|null|
-|**2024-03-24**|**PKU-DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic Human Modeling**|Xiaoyun Zheng et.al.|[2403.16080v3](http://arxiv.org/abs/2403.16080v3)|[link](https://github.com/zhengxyun/PKU-DyMVHumans)|
-|**2024-03-22**|**An Open-World, Diverse, Cross-Spatial-Temporal Benchmark for Dynamic Wild Person Re-Identification**|Lei Zhang et.al.|[2403.15119v1](http://arxiv.org/abs/2403.15119v1)|[link](https://github.com/fxw13/OWD)|
-|**2024-03-21**|**Multimodal-Conditioned Latent Diffusion Models for Fashion Image Editing**|Alberto Baldrati et.al.|[2403.14828v2](http://arxiv.org/abs/2403.14828v2)|[link](https://github.com/aimagelab/ti-mgd)|
-|**2024-03-20**|**What Matters for Active Texture Recognition With Vision-Based Tactile Sensors**|Alina Böhm et.al.|[2403.13701v1](http://arxiv.org/abs/2403.13701v1)|null|
-|**2024-03-19**|**A Physics-embedded Deep Learning Framework for Cloth Simulation**|Zhiwei Zhao et.al.|[2403.12820v2](http://arxiv.org/abs/2403.12820v2)|[link](https://github.com/furkath/dl_framework-for-pbs-cloth-simulation)|
-|**2024-03-18**|**Improving Generalization via Meta-Learning on Hard Samples**|Nishant Jain et.al.|[2403.12236v2](http://arxiv.org/abs/2403.12236v2)|null|
-|**2024-03-18**|**Hardware Design and Learning-Based Software Architecture of Musculoskeletal Wheeled Robot Musashi-W for Real-World Applications**|Kento Kawaharazuka et.al.|[2403.11729v1](http://arxiv.org/abs/2403.11729v1)|null|
-|**2024-03-17**|**A Versatile Framework for Multi-scene Person Re-identification**|Wei-Shi Zheng et.al.|[2403.11121v1](http://arxiv.org/abs/2403.11121v1)|[link](https://github.com/isee-laboratory/versreid)|
 
 ### Recommendation
 |Publish Date|Title|Authors|PDF|Code|
@@ -315,41 +279,43 @@
 |**2024-04-12**|**Multi-Agent eXperimenter (MAX)**|Önder Gürcan et.al.|[2404.08398v1](http://arxiv.org/abs/2404.08398v1)|null|
 |**2024-04-12**|**Let It Flow: Simultaneous Optimization of 3D Flow and Object Clustering**|Patrik Vacek et.al.|[2404.08363v1](http://arxiv.org/abs/2404.08363v1)|null|
 
-## Transformer
+## Graph Neural Network
 
-### Transformer
+### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-04-12**|**Pre-training Small Base LMs with Fewer Tokens**|Sunny Sanyal et.al.|[2404.08634v1](http://arxiv.org/abs/2404.08634v1)|[link](https://github.com/sanyalsunny111/llm-inheritune)|
-|**2024-04-12**|**Is ChatGPT Transforming Academics' Writing Style?**|Mingmeng Geng et.al.|[2404.08627v1](http://arxiv.org/abs/2404.08627v1)|null|
-|**2024-04-12**|**Synthetic Dataset Creation and Fine-Tuning of Transformer Models for Question Answering in Serbian**|Aleksa Cvetanović et.al.|[2404.08617v1](http://arxiv.org/abs/2404.08617v1)|null|
-|**2024-04-12**|**Benchmarking logical three-qubit quantum Fourier transform encoded in the Steane code on a trapped-ion quantum computer**|Karl Mayer et.al.|[2404.08616v1](http://arxiv.org/abs/2404.08616v1)|null|
-|**2024-04-12**|**Generating Synthetic Time Series Data for Cyber-Physical Systems**|Alexander Sommers et.al.|[2404.08601v1](http://arxiv.org/abs/2404.08601v1)|null|
-|**2024-04-12**|**Scalability in Building Component Data Annotation: Enhancing Facade Material Classification with Synthetic Data**|Josie Harrison et.al.|[2404.08557v1](http://arxiv.org/abs/2404.08557v1)|null|
-|**2024-04-12**|**Memory Traces: Are Transformers Tulving Machines?**|Jean-Marie Chauvet et.al.|[2404.08543v1](http://arxiv.org/abs/2404.08543v1)|null|
-|**2024-04-12**|**VertAttack: Taking advantage of Text Classifiers' horizontal vision**|Jonathan Rusert et.al.|[2404.08538v1](http://arxiv.org/abs/2404.08538v1)|null|
-|**2024-04-12**|**Masked Image Modeling as a Framework for Self-Supervised Learning across Eye Movements**|Robin Weiler et.al.|[2404.08526v1](http://arxiv.org/abs/2404.08526v1)|[link](https://github.com/robinweiler/focusmim)|
-|**2024-04-12**|**SpectralMamba: Efficient Mamba for Hyperspectral Image Classification**|Jing Yao et.al.|[2404.08489v1](http://arxiv.org/abs/2404.08489v1)|null|
-|**2024-04-12**|**TSLANet: Rethinking Transformers for Time Series Representation Learning**|Emadeldeen Eldele et.al.|[2404.08472v1](http://arxiv.org/abs/2404.08472v1)|null|
-|**2024-04-12**|**Variations of the $α$-Eulerian polynomials and gamma positivity**|Chao Xu et.al.|[2404.08470v1](http://arxiv.org/abs/2404.08470v1)|null|
-|**2024-04-12**|**Electron-phonon coupling induced topological phase transition in an $α$-$T_{3}$ Haldane-Holstein model**|Mijanur Islam et.al.|[2404.08467v1](http://arxiv.org/abs/2404.08467v1)|null|
-|**2024-04-12**|**MoE-FFD: Mixture of Experts for Generalized and Parameter-Efficient Face Forgery Detection**|Chenqi Kong et.al.|[2404.08452v1](http://arxiv.org/abs/2404.08452v1)|null|
-|**2024-04-12**|**MSSTNet: A Multi-Scale Spatio-Temporal CNN-Transformer Network for Dynamic Facial Expression Recognition**|Linhuang Wang et.al.|[2404.08433v1](http://arxiv.org/abs/2404.08433v1)|null|
-|**2024-04-12**|**Optimized Quantum Autoencoder**|Yibin Huang et.al.|[2404.08429v1](http://arxiv.org/abs/2404.08429v1)|null|
-|**2024-04-12**|**Direct May Not Be the Best: An Incremental Evolution View of Pose Generation**|Yuelong Li et.al.|[2404.08419v1](http://arxiv.org/abs/2404.08419v1)|[link](https://github.com/xiaofei-cn/incremental-evolution-pose-generation)|
-|**2024-04-12**|**MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion**|Zhe Li et.al.|[2404.08406v1](http://arxiv.org/abs/2404.08406v1)|null|
-|**2024-04-12**|**Learning representations of learning representations**|Rita González-Márquez et.al.|[2404.08403v1](http://arxiv.org/abs/2404.08403v1)|[link](https://github.com/berenslab/iclr-dataset)|
-|**2024-04-12**|**Code Generation and Performance Engineering for Matrix-Free Finite Element Methods on Hybrid Tetrahedral Grids**|Fabian Böhm et.al.|[2404.08371v1](http://arxiv.org/abs/2404.08371v1)|null|
-|**2024-04-12**|**Large-Scale Multi-Domain Recommendation: an Automatic Domain Feature Extraction and Personalized Integration Framework**|Dongbo Xi et.al.|[2404.08361v1](http://arxiv.org/abs/2404.08361v1)|[link](https://github.com/xidongbo/dfei)|
-|**2024-04-12**|**Toward a Theory of Tokenization in LLMs**|Nived Rajaraman et.al.|[2404.08335v1](http://arxiv.org/abs/2404.08335v1)|null|
-|**2024-04-12**|**emucxl: an emulation framework for CXL-based disaggregated memory applications**|Raja Gond et.al.|[2404.08311v1](http://arxiv.org/abs/2404.08311v1)|null|
-|**2024-04-12**|**Generic controllability of equivariant systems and applications to particle systems and neural networks**|Andrei Agrachev et.al.|[2404.08289v1](http://arxiv.org/abs/2404.08289v1)|null|
-|**2024-04-12**|**Calibration & Reconstruction: Deep Integrated Language for Referring Image Segmentation**|Yichen Yan et.al.|[2404.08281v1](http://arxiv.org/abs/2404.08281v1)|null|
-|**2024-04-12**|**Transfer Learning Study of Motion Transformer-based Trajectory Predictions**|Lars Ullrich et.al.|[2404.08271v1](http://arxiv.org/abs/2404.08271v1)|null|
-|**2024-04-12**|**Practical Region-level Attack against Segment Anything Models**|Yifan Shen et.al.|[2404.08255v1](http://arxiv.org/abs/2404.08255v1)|null|
-|**2024-04-12**|**IFViT: Interpretable Fixed-Length Representation for Fingerprint Matching via Vision Transformer**|Yuhang Qiu et.al.|[2404.08237v1](http://arxiv.org/abs/2404.08237v1)|null|
-|**2024-04-12**|**GazePointAR: A Context-Aware Multimodal Voice Assistant for Pronoun Disambiguation in Wearable Augmented Reality**|Jaewook Lee et.al.|[2404.08213v1](http://arxiv.org/abs/2404.08213v1)|null|
-|**2024-04-12**|**Mental Stress Detection: Development and Evaluation of a Wearable In-Ear Plethysmography**|Hika Barki et.al.|[2404.08212v1](http://arxiv.org/abs/2404.08212v1)|null|
+|**2024-04-12**|**COCONut: Modernizing COCO Segmentation**|Xueqing Deng et.al.|[2404.08639v1](http://arxiv.org/abs/2404.08639v1)|null|
+|**2024-04-12**|**Optimal Slicing and Scheduling with Service Guarantees in Multi-Hop Wireless Networks**|Nicholas Jones et.al.|[2404.08637v1](http://arxiv.org/abs/2404.08637v1)|null|
+|**2024-04-12**|**Transport properties in non-Fermi liquid phases of nodal-point semimetals**|Ipsita Mandal et.al.|[2404.08635v1](http://arxiv.org/abs/2404.08635v1)|null|
+|**2024-04-12**|**Automated distribution of high-rate, high-fidelity polarization entangled photons using deployed metropolitan fibers**|Alexander N. Craddock et.al.|[2404.08626v1](http://arxiv.org/abs/2404.08626v1)|null|
+|**2024-04-12**|**Regularized Gradient Clipping Provably Trains Wide and Deep Neural Networks**|Matteo Tucat et.al.|[2404.08624v1](http://arxiv.org/abs/2404.08624v1)|null|
+|**2024-04-12**|**Using Information Flow to estimate interference between developers same method contributions**|Roberto Souto Maior de Barros Filho et.al.|[2404.08619v1](http://arxiv.org/abs/2404.08619v1)|null|
+|**2024-04-12**|**Using Explainable AI and Transfer Learning to understand and predict the maintenance of Atlantic blocking with limited observational data**|Huan Zhang et.al.|[2404.08613v1](http://arxiv.org/abs/2404.08613v1)|null|
+|**2024-04-12**|**Automatic Quantification of Serial PET/CT Images for Pediatric Hodgkin Lymphoma Patients Using a Longitudinally-Aware Segmentation Network**|Xin Tie et.al.|[2404.08611v1](http://arxiv.org/abs/2404.08611v1)|[link](https://github.com/xtie97/las-net)|
+|**2024-04-12**|**Hyperbolic Delaunay Geometric Alignment**|Aniss Aiman Medbouhi et.al.|[2404.08608v1](http://arxiv.org/abs/2404.08608v1)|[link](https://github.com/anissmedbouhi/hyperdga)|
+|**2024-04-12**|**Learning-Based Joint Antenna Selection and Precoding Design for Cell-Free MIMO Networks**|Liangzhi Wang et.al.|[2404.08607v1](http://arxiv.org/abs/2404.08607v1)|null|
+|**2024-04-12**|**Sliding down the stairs: how correlated latent variables accelerate learning with neural networks**|Lorenzo Bardone et.al.|[2404.08602v1](http://arxiv.org/abs/2404.08602v1)|null|
+|**2024-04-12**|**Interaction networks in persistent Lotka-Volterra communities**|Lyle Poley et.al.|[2404.08600v1](http://arxiv.org/abs/2404.08600v1)|null|
+|**2024-04-12**|**Destroying Densest Subgraphs is Hard**|Cristina Bazgan et.al.|[2404.08599v1](http://arxiv.org/abs/2404.08599v1)|null|
+|**2024-04-12**|**Enhancing Visual Question Answering through Question-Driven Image Captions as Prompts**|Övgü Özdemir et.al.|[2404.08589v1](http://arxiv.org/abs/2404.08589v1)|[link](https://github.com/ovguyo/captions-in-vqa)|
+|**2024-04-12**|**Efficient Sensors Selection for Traffic Flow Monitoring: An Overview of Model-Based Techniques leveraging Network Observability**|Marco Fabris et.al.|[2404.08588v1](http://arxiv.org/abs/2404.08588v1)|null|
+|**2024-04-12**|**Advanced wood species identification based on multiple anatomical sections and using deep feature transfer and fusion**|Kallil M. Zielinski et.al.|[2404.08585v1](http://arxiv.org/abs/2404.08585v1)|null|
+|**2024-04-12**|**FashionFail: Addressing Failure Cases in Fashion Object Detection and Segmentation**|Riza Velioglu et.al.|[2404.08582v1](http://arxiv.org/abs/2404.08582v1)|null|
+|**2024-04-12**|**Approximating the volume of a truncated relaxation of the independence polytope**|Ferenc Bencs et.al.|[2404.08577v1](http://arxiv.org/abs/2404.08577v1)|null|
+|**2024-04-12**|**IDD-X: A Multi-View Dataset for Ego-relative Important Object Localization and Explanation in Dense and Unstructured Traffic**|Chirag Parikh et.al.|[2404.08561v1](http://arxiv.org/abs/2404.08561v1)|null|
+|**2024-04-12**|**Quantum entropy couples matter with geometry**|Ginestra Bianconi et.al.|[2404.08556v1](http://arxiv.org/abs/2404.08556v1)|null|
+|**2024-04-12**|**The global and local limit of the continuous-time Mallows process**|Radosław Adamczak et.al.|[2404.08554v1](http://arxiv.org/abs/2404.08554v1)|null|
+|**2024-04-12**|**Benchmarking the Cell Image Segmentation Models Robustness under the Microscope Optical Aberrations**|Boyuan Peng et.al.|[2404.08549v1](http://arxiv.org/abs/2404.08549v1)|null|
+|**2024-04-12**|**Functional reducibility of higher-order networks**|Maxime Lucas et.al.|[2404.08547v1](http://arxiv.org/abs/2404.08547v1)|null|
+|**2024-04-12**|**A Data Fusion Model for Meteorological Data using the INLA-SPDE method**|Stephen Jun Villejo et.al.|[2404.08533v1](http://arxiv.org/abs/2404.08533v1)|null|
+|**2024-04-12**|**Advancing Forest Fire Prevention: Deep Reinforcement Learning for Effective Firebreak Placement**|Lucas Murray et.al.|[2404.08523v1](http://arxiv.org/abs/2404.08523v1)|null|
+|**2024-04-12**|**An improved spectral lower bound of treewidth**|Tatsuya Gima et.al.|[2404.08520v1](http://arxiv.org/abs/2404.08520v1)|null|
+|**2024-04-12**|**NIR-Assisted Image Denoising: A Selective Fusion Approach and A Real-World Benchmark Datase**|Rongjian Xu et.al.|[2404.08514v1](http://arxiv.org/abs/2404.08514v1)|null|
+|**2024-04-12**|**A generalizable method for estimating meteor shower false positives**|Patrick M. Shober et.al.|[2404.08507v1](http://arxiv.org/abs/2404.08507v1)|null|
+|**2024-04-12**|**Analyzing and Overcoming Local Optima in Complex Multi-Objective Optimization by Decomposition-Based Evolutionary Algorithms**|Ting Dong et.al.|[2404.08501v1](http://arxiv.org/abs/2404.08501v1)|null|
+|**2024-04-12**|**Prescribing Optimal Health-Aware Operation for Urban Air Mobility with Deep Reinforcement Learning**|Mina Montazeri et.al.|[2404.08497v1](http://arxiv.org/abs/2404.08497v1)|null|
+
+## Transformer
 
 ### Vision Transformer
 |Publish Date|Title|Authors|PDF|Code|
@@ -384,3 +350,37 @@
 |**2024-04-12**|**Small Models Are (Still) Effective Cross-Domain Argument Extractors**|William Gantt et.al.|[2404.08579v1](http://arxiv.org/abs/2404.08579v1)|null|
 |**2024-04-12**|**Approximating the volume of a truncated relaxation of the independence polytope**|Ferenc Bencs et.al.|[2404.08577v1](http://arxiv.org/abs/2404.08577v1)|null|
 |**2024-04-12**|**Fast Waveform Generation for Gravitational Waves using Evolutionary Algorithms**|Quirijn Meijer et.al.|[2404.08576v1](http://arxiv.org/abs/2404.08576v1)|null|
+
+### Transformer
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-04-12**|**Pre-training Small Base LMs with Fewer Tokens**|Sunny Sanyal et.al.|[2404.08634v1](http://arxiv.org/abs/2404.08634v1)|[link](https://github.com/sanyalsunny111/llm-inheritune)|
+|**2024-04-12**|**Is ChatGPT Transforming Academics' Writing Style?**|Mingmeng Geng et.al.|[2404.08627v1](http://arxiv.org/abs/2404.08627v1)|null|
+|**2024-04-12**|**Synthetic Dataset Creation and Fine-Tuning of Transformer Models for Question Answering in Serbian**|Aleksa Cvetanović et.al.|[2404.08617v1](http://arxiv.org/abs/2404.08617v1)|null|
+|**2024-04-12**|**Benchmarking logical three-qubit quantum Fourier transform encoded in the Steane code on a trapped-ion quantum computer**|Karl Mayer et.al.|[2404.08616v1](http://arxiv.org/abs/2404.08616v1)|null|
+|**2024-04-12**|**Generating Synthetic Time Series Data for Cyber-Physical Systems**|Alexander Sommers et.al.|[2404.08601v1](http://arxiv.org/abs/2404.08601v1)|null|
+|**2024-04-12**|**Scalability in Building Component Data Annotation: Enhancing Facade Material Classification with Synthetic Data**|Josie Harrison et.al.|[2404.08557v1](http://arxiv.org/abs/2404.08557v1)|null|
+|**2024-04-12**|**Memory Traces: Are Transformers Tulving Machines?**|Jean-Marie Chauvet et.al.|[2404.08543v1](http://arxiv.org/abs/2404.08543v1)|null|
+|**2024-04-12**|**VertAttack: Taking advantage of Text Classifiers' horizontal vision**|Jonathan Rusert et.al.|[2404.08538v1](http://arxiv.org/abs/2404.08538v1)|null|
+|**2024-04-12**|**Masked Image Modeling as a Framework for Self-Supervised Learning across Eye Movements**|Robin Weiler et.al.|[2404.08526v1](http://arxiv.org/abs/2404.08526v1)|[link](https://github.com/robinweiler/focusmim)|
+|**2024-04-12**|**SpectralMamba: Efficient Mamba for Hyperspectral Image Classification**|Jing Yao et.al.|[2404.08489v1](http://arxiv.org/abs/2404.08489v1)|null|
+|**2024-04-12**|**TSLANet: Rethinking Transformers for Time Series Representation Learning**|Emadeldeen Eldele et.al.|[2404.08472v1](http://arxiv.org/abs/2404.08472v1)|null|
+|**2024-04-12**|**Variations of the $α$-Eulerian polynomials and gamma positivity**|Chao Xu et.al.|[2404.08470v1](http://arxiv.org/abs/2404.08470v1)|null|
+|**2024-04-12**|**Electron-phonon coupling induced topological phase transition in an $α$-$T_{3}$ Haldane-Holstein model**|Mijanur Islam et.al.|[2404.08467v1](http://arxiv.org/abs/2404.08467v1)|null|
+|**2024-04-12**|**MoE-FFD: Mixture of Experts for Generalized and Parameter-Efficient Face Forgery Detection**|Chenqi Kong et.al.|[2404.08452v1](http://arxiv.org/abs/2404.08452v1)|null|
+|**2024-04-12**|**MSSTNet: A Multi-Scale Spatio-Temporal CNN-Transformer Network for Dynamic Facial Expression Recognition**|Linhuang Wang et.al.|[2404.08433v1](http://arxiv.org/abs/2404.08433v1)|null|
+|**2024-04-12**|**Optimized Quantum Autoencoder**|Yibin Huang et.al.|[2404.08429v1](http://arxiv.org/abs/2404.08429v1)|null|
+|**2024-04-12**|**Direct May Not Be the Best: An Incremental Evolution View of Pose Generation**|Yuelong Li et.al.|[2404.08419v1](http://arxiv.org/abs/2404.08419v1)|[link](https://github.com/xiaofei-cn/incremental-evolution-pose-generation)|
+|**2024-04-12**|**MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion**|Zhe Li et.al.|[2404.08406v1](http://arxiv.org/abs/2404.08406v1)|null|
+|**2024-04-12**|**Learning representations of learning representations**|Rita González-Márquez et.al.|[2404.08403v1](http://arxiv.org/abs/2404.08403v1)|[link](https://github.com/berenslab/iclr-dataset)|
+|**2024-04-12**|**Code Generation and Performance Engineering for Matrix-Free Finite Element Methods on Hybrid Tetrahedral Grids**|Fabian Böhm et.al.|[2404.08371v1](http://arxiv.org/abs/2404.08371v1)|null|
+|**2024-04-12**|**Large-Scale Multi-Domain Recommendation: an Automatic Domain Feature Extraction and Personalized Integration Framework**|Dongbo Xi et.al.|[2404.08361v1](http://arxiv.org/abs/2404.08361v1)|[link](https://github.com/xidongbo/dfei)|
+|**2024-04-12**|**Toward a Theory of Tokenization in LLMs**|Nived Rajaraman et.al.|[2404.08335v1](http://arxiv.org/abs/2404.08335v1)|null|
+|**2024-04-12**|**emucxl: an emulation framework for CXL-based disaggregated memory applications**|Raja Gond et.al.|[2404.08311v1](http://arxiv.org/abs/2404.08311v1)|null|
+|**2024-04-12**|**Generic controllability of equivariant systems and applications to particle systems and neural networks**|Andrei Agrachev et.al.|[2404.08289v1](http://arxiv.org/abs/2404.08289v1)|null|
+|**2024-04-12**|**Calibration & Reconstruction: Deep Integrated Language for Referring Image Segmentation**|Yichen Yan et.al.|[2404.08281v1](http://arxiv.org/abs/2404.08281v1)|null|
+|**2024-04-12**|**Transfer Learning Study of Motion Transformer-based Trajectory Predictions**|Lars Ullrich et.al.|[2404.08271v1](http://arxiv.org/abs/2404.08271v1)|null|
+|**2024-04-12**|**Practical Region-level Attack against Segment Anything Models**|Yifan Shen et.al.|[2404.08255v1](http://arxiv.org/abs/2404.08255v1)|null|
+|**2024-04-12**|**IFViT: Interpretable Fixed-Length Representation for Fingerprint Matching via Vision Transformer**|Yuhang Qiu et.al.|[2404.08237v1](http://arxiv.org/abs/2404.08237v1)|null|
+|**2024-04-12**|**GazePointAR: A Context-Aware Multimodal Voice Assistant for Pronoun Disambiguation in Wearable Augmented Reality**|Jaewook Lee et.al.|[2404.08213v1](http://arxiv.org/abs/2404.08213v1)|null|
+|**2024-04-12**|**Mental Stress Detection: Development and Evaluation of a Wearable In-Ear Plethysmography**|Hika Barki et.al.|[2404.08212v1](http://arxiv.org/abs/2404.08212v1)|null|
