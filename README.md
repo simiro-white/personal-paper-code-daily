@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-05-02 20:53:52 Asia/Shanghai
+ Automated deployment @ 2024-05-02 21:14:33 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -111,40 +111,6 @@
 
 ## Fashion
 
-### Attribute
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-01**|**TexSliders: Diffusion-Based Texture Editing in CLIP Space**|Julia Guerrero-Viu et.al.|[2405.00672v1](http://arxiv.org/abs/2405.00672v1)|null|
-|**2024-05-01**|**No Representation, No Trust: Connecting Representation, Collapse, and Trust Issues in PPO**|Skander Moalla et.al.|[2405.00662v1](http://arxiv.org/abs/2405.00662v1)|[link](https://github.com/claire-labo/no-representation-no-trust)|
-|**2024-05-01**|**"I'm Not Sure, But...": Examining the Impact of Large Language Models' Uncertainty Expression on User Reliance and Trust**|Sunnie S. Y. Kim et.al.|[2405.00623v1](http://arxiv.org/abs/2405.00623v1)|null|
-|**2024-05-01**|**Learning Expressive Disentangled Speech Representations with Soft Speech Units and Adversarial Style Augmentation**|Yimin Deng et.al.|[2405.00603v1](http://arxiv.org/abs/2405.00603v1)|null|
-|**2024-05-01**|**Discovering robust biomarkers of neurological disorders from functional MRI using graph neural networks: A Review**|Yi Hao Chan et.al.|[2405.00577v1](http://arxiv.org/abs/2405.00577v1)|null|
-|**2024-05-01**|**Resolution analysis of magnetically arrested disk simulations**|Leon Sosapanta Salas et.al.|[2405.00564v1](http://arxiv.org/abs/2405.00564v1)|null|
-|**2024-05-01**|**Quantifying Price Improvement in Order Flow Auctions**|Brad Bachu et.al.|[2405.00537v1](http://arxiv.org/abs/2405.00537v1)|null|
-|**2024-05-01**|**Contrasting Irradiation Behavior of Dual Phases in Ti-6Al-4V Alloy at Low-Temperature Due to Omega-phase Precursors in Beta-phase Matrix**|Taku Ishida et.al.|[2405.00517v1](http://arxiv.org/abs/2405.00517v1)|null|
-|**2024-05-01**|**The Natural Display Topos of Coalgebras**|Colin Zwanziger et.al.|[2405.00498v1](http://arxiv.org/abs/2405.00498v1)|null|
-|**2024-05-01**|**Recoverable strain from reverse plasticity**|Henry A. Lockwood et.al.|[2405.00487v1](http://arxiv.org/abs/2405.00487v1)|null|
-|**2024-05-01**|**Pricing and delta computation in jump-diffusion models with stochastic intensity by Malliavin calculus**|Ayub Ahmadi et.al.|[2405.00473v1](http://arxiv.org/abs/2405.00473v1)|null|
-|**2024-05-01**|**Exploiting Positional Bias for Query-Agnostic Generative Content in Search**|Andrew Parry et.al.|[2405.00469v1](http://arxiv.org/abs/2405.00469v1)|[link](https://github.com/parry-parry/adversarialcontext)|
-|**2024-05-01**|**MMTryon: Multi-Modal Multi-Reference Control for High-Quality Fashion Generation**|Xujie Zhang et.al.|[2405.00448v1](http://arxiv.org/abs/2405.00448v1)|null|
-|**2024-05-01**|**Reduced-order modeling for second-order computational homogenization with applications to geometrically parameterized elastomeric metamaterials**|T. Guo et.al.|[2405.00437v1](http://arxiv.org/abs/2405.00437v1)|null|
-|**2024-05-01**|**Quantum Monte Carlo study of the phase diagram of the two-dimensional uniform electron liquid**|Sam Azadi et.al.|[2405.00425v1](http://arxiv.org/abs/2405.00425v1)|null|
-|**2024-05-01**|**Low-temperature thermal transport in moiré superlattices**|Lukas P. A. Krisna et.al.|[2405.00406v1](http://arxiv.org/abs/2405.00406v1)|null|
-|**2024-05-01**|**Origin of the Very High Energy γ-rays in the Low-luminosity Active Galactic Nucleus NGC 4278**|Ji-Shun Lian et.al.|[2405.00347v1](http://arxiv.org/abs/2405.00347v1)|null|
-|**2024-05-01**|**Model Quantization and Hardware Acceleration for Vision Transformers: A Comprehensive Survey**|Dayou Du et.al.|[2405.00314v1](http://arxiv.org/abs/2405.00314v1)|[link](https://github.com/dd-duda/awesome-vit-quantization-acceleration)|
-|**2024-05-01**|**Streamlining Image Editing with Layered Diffusion Brushes**|Peyman Gholami et.al.|[2405.00313v1](http://arxiv.org/abs/2405.00313v1)|null|
-|**2024-04-30**|**Synthetic Image Verification in the Era of Generative AI: What Works and What Isn't There Yet**|Diangarti Tariang et.al.|[2405.00196v1](http://arxiv.org/abs/2405.00196v1)|null|
-|**2024-04-30**|**Capabilities**|John Beverley et.al.|[2405.00183v1](http://arxiv.org/abs/2405.00183v1)|null|
-|**2024-04-30**|**The Extremely Metal-Poor SN 2023ufx: A Local Analog to High-Redshift Type II Supernovae**|Michael A. Tucker et.al.|[2405.00113v1](http://arxiv.org/abs/2405.00113v1)|null|
-|**2024-04-30**|**Cosmic Reionization on Computers: The Evolution of Ionizing Background and Mean Free Path**|Jiawen Fan et.al.|[2405.00100v1](http://arxiv.org/abs/2405.00100v1)|null|
-|**2024-04-30**|**Fairness Without Demographics in Human-Centered Federated Learning**|Roy Shaily et.al.|[2404.19725v1](http://arxiv.org/abs/2404.19725v1)|null|
-|**2024-04-30**|**Enduring two-dimensional perturbations with significant non-modal growth**|Sharath Jose et.al.|[2404.19580v1](http://arxiv.org/abs/2404.19580v1)|null|
-|**2024-04-30**|**Phase transition and polar cluster behavior above Curie temperature in ferroelectric BaTi$_{0.8}$Zr$_{0.2}$O$_3$**|Oktay Aktas et.al.|[2404.19558v1](http://arxiv.org/abs/2404.19558v1)|null|
-|**2024-04-30**|**Extending Llama-3's Context Ten-Fold Overnight**|Peitian Zhang et.al.|[2404.19553v1](http://arxiv.org/abs/2404.19553v1)|[link](https://github.com/flagopen/flagembedding)|
-|**2024-04-30**|**Exploring the potential of synthesizing unknown superheavy isotopes via cold-fusion reactions based on the dinuclear system model**|Hao Wu et.al.|[2404.19446v1](http://arxiv.org/abs/2404.19446v1)|null|
-|**2024-04-30**|**On Correcting SHAP Scores**|Olivier Letoffe et.al.|[2405.00076v1](http://arxiv.org/abs/2405.00076v1)|null|
-|**2024-04-30**|**Exploring the role of mean-field potentials and short-range wave function behavior in the adiabatic connection**|Anthony Scemama et.al.|[2404.19405v1](http://arxiv.org/abs/2404.19405v1)|null|
-
 ### Retrieval
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -212,6 +178,40 @@
 |**2019-04-15**|**Superconductivity in single-crystalline, aluminum- and gallium-hyperdoped germanium**|Slawomir Prucnal et.al.|[1904.06865v1](http://arxiv.org/abs/1904.06865v1)|null|
 |**2018-12-05**|**An Unpaired Shape Transforming Method for Image Translation and Cross-Domain Retrieval**|Kaili Wang et.al.|[1812.02134v3](http://arxiv.org/abs/1812.02134v3)|null|
 |**2018-11-03**|**Support-Area Dependence of Vibration-Insensitive Optical Cavities**|Won-Kyu Lee et.al.|[1811.02686v2](http://arxiv.org/abs/1811.02686v2)|null|
+
+### Attribute
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-05-01**|**TexSliders: Diffusion-Based Texture Editing in CLIP Space**|Julia Guerrero-Viu et.al.|[2405.00672v1](http://arxiv.org/abs/2405.00672v1)|null|
+|**2024-05-01**|**No Representation, No Trust: Connecting Representation, Collapse, and Trust Issues in PPO**|Skander Moalla et.al.|[2405.00662v1](http://arxiv.org/abs/2405.00662v1)|[link](https://github.com/claire-labo/no-representation-no-trust)|
+|**2024-05-01**|**"I'm Not Sure, But...": Examining the Impact of Large Language Models' Uncertainty Expression on User Reliance and Trust**|Sunnie S. Y. Kim et.al.|[2405.00623v1](http://arxiv.org/abs/2405.00623v1)|null|
+|**2024-05-01**|**Learning Expressive Disentangled Speech Representations with Soft Speech Units and Adversarial Style Augmentation**|Yimin Deng et.al.|[2405.00603v1](http://arxiv.org/abs/2405.00603v1)|null|
+|**2024-05-01**|**Discovering robust biomarkers of neurological disorders from functional MRI using graph neural networks: A Review**|Yi Hao Chan et.al.|[2405.00577v1](http://arxiv.org/abs/2405.00577v1)|null|
+|**2024-05-01**|**Resolution analysis of magnetically arrested disk simulations**|Leon Sosapanta Salas et.al.|[2405.00564v1](http://arxiv.org/abs/2405.00564v1)|null|
+|**2024-05-01**|**Quantifying Price Improvement in Order Flow Auctions**|Brad Bachu et.al.|[2405.00537v1](http://arxiv.org/abs/2405.00537v1)|null|
+|**2024-05-01**|**Contrasting Irradiation Behavior of Dual Phases in Ti-6Al-4V Alloy at Low-Temperature Due to Omega-phase Precursors in Beta-phase Matrix**|Taku Ishida et.al.|[2405.00517v1](http://arxiv.org/abs/2405.00517v1)|null|
+|**2024-05-01**|**The Natural Display Topos of Coalgebras**|Colin Zwanziger et.al.|[2405.00498v1](http://arxiv.org/abs/2405.00498v1)|null|
+|**2024-05-01**|**Recoverable strain from reverse plasticity**|Henry A. Lockwood et.al.|[2405.00487v1](http://arxiv.org/abs/2405.00487v1)|null|
+|**2024-05-01**|**Pricing and delta computation in jump-diffusion models with stochastic intensity by Malliavin calculus**|Ayub Ahmadi et.al.|[2405.00473v1](http://arxiv.org/abs/2405.00473v1)|null|
+|**2024-05-01**|**Exploiting Positional Bias for Query-Agnostic Generative Content in Search**|Andrew Parry et.al.|[2405.00469v1](http://arxiv.org/abs/2405.00469v1)|[link](https://github.com/parry-parry/adversarialcontext)|
+|**2024-05-01**|**MMTryon: Multi-Modal Multi-Reference Control for High-Quality Fashion Generation**|Xujie Zhang et.al.|[2405.00448v1](http://arxiv.org/abs/2405.00448v1)|null|
+|**2024-05-01**|**Reduced-order modeling for second-order computational homogenization with applications to geometrically parameterized elastomeric metamaterials**|T. Guo et.al.|[2405.00437v1](http://arxiv.org/abs/2405.00437v1)|null|
+|**2024-05-01**|**Quantum Monte Carlo study of the phase diagram of the two-dimensional uniform electron liquid**|Sam Azadi et.al.|[2405.00425v1](http://arxiv.org/abs/2405.00425v1)|null|
+|**2024-05-01**|**Low-temperature thermal transport in moiré superlattices**|Lukas P. A. Krisna et.al.|[2405.00406v1](http://arxiv.org/abs/2405.00406v1)|null|
+|**2024-05-01**|**Origin of the Very High Energy γ-rays in the Low-luminosity Active Galactic Nucleus NGC 4278**|Ji-Shun Lian et.al.|[2405.00347v1](http://arxiv.org/abs/2405.00347v1)|null|
+|**2024-05-01**|**Model Quantization and Hardware Acceleration for Vision Transformers: A Comprehensive Survey**|Dayou Du et.al.|[2405.00314v1](http://arxiv.org/abs/2405.00314v1)|[link](https://github.com/dd-duda/awesome-vit-quantization-acceleration)|
+|**2024-05-01**|**Streamlining Image Editing with Layered Diffusion Brushes**|Peyman Gholami et.al.|[2405.00313v1](http://arxiv.org/abs/2405.00313v1)|null|
+|**2024-04-30**|**Synthetic Image Verification in the Era of Generative AI: What Works and What Isn't There Yet**|Diangarti Tariang et.al.|[2405.00196v1](http://arxiv.org/abs/2405.00196v1)|null|
+|**2024-04-30**|**Capabilities**|John Beverley et.al.|[2405.00183v1](http://arxiv.org/abs/2405.00183v1)|null|
+|**2024-04-30**|**The Extremely Metal-Poor SN 2023ufx: A Local Analog to High-Redshift Type II Supernovae**|Michael A. Tucker et.al.|[2405.00113v1](http://arxiv.org/abs/2405.00113v1)|null|
+|**2024-04-30**|**Cosmic Reionization on Computers: The Evolution of Ionizing Background and Mean Free Path**|Jiawen Fan et.al.|[2405.00100v1](http://arxiv.org/abs/2405.00100v1)|null|
+|**2024-04-30**|**Fairness Without Demographics in Human-Centered Federated Learning**|Roy Shaily et.al.|[2404.19725v1](http://arxiv.org/abs/2404.19725v1)|null|
+|**2024-04-30**|**Enduring two-dimensional perturbations with significant non-modal growth**|Sharath Jose et.al.|[2404.19580v1](http://arxiv.org/abs/2404.19580v1)|null|
+|**2024-04-30**|**Phase transition and polar cluster behavior above Curie temperature in ferroelectric BaTi$_{0.8}$Zr$_{0.2}$O$_3$**|Oktay Aktas et.al.|[2404.19558v1](http://arxiv.org/abs/2404.19558v1)|null|
+|**2024-04-30**|**Extending Llama-3's Context Ten-Fold Overnight**|Peitian Zhang et.al.|[2404.19553v1](http://arxiv.org/abs/2404.19553v1)|[link](https://github.com/flagopen/flagembedding)|
+|**2024-04-30**|**Exploring the potential of synthesizing unknown superheavy isotopes via cold-fusion reactions based on the dinuclear system model**|Hao Wu et.al.|[2404.19446v1](http://arxiv.org/abs/2404.19446v1)|null|
+|**2024-04-30**|**On Correcting SHAP Scores**|Olivier Letoffe et.al.|[2405.00076v1](http://arxiv.org/abs/2405.00076v1)|null|
+|**2024-04-30**|**Exploring the role of mean-field potentials and short-range wave function behavior in the adiabatic connection**|Anthony Scemama et.al.|[2404.19405v1](http://arxiv.org/abs/2404.19405v1)|null|
 
 ### Compatibility
 |Publish Date|Title|Authors|PDF|Code|
