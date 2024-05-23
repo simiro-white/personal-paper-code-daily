@@ -1,77 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2024-05-22 21:20:30 Asia/Shanghai
+ Automated deployment @ 2024-05-23 09:15:01 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
 ## Fashion
-
-### Virtual Try-On
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-01**|**MMTryon: Multi-Modal Multi-Reference Control for High-Quality Fashion Generation**|Xujie Zhang et.al.|[2405.00448v1](http://arxiv.org/abs/2405.00448v1)|null|
-|**2024-04-26**|**Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos**|Zhengze Xu et.al.|[2404.17571v1](http://arxiv.org/abs/2404.17571v1)|null|
-|**2024-04-26**|**FashionSD-X: Multimodal Fashion Garment Synthesis using Latent Diffusion**|Abhishek Kumar Singh et.al.|[2404.18591v1](http://arxiv.org/abs/2404.18591v1)|null|
-|**2024-04-26**|**MV-VTON: Multi-View Virtual Try-On with Diffusion Models**|Haoyu Wang et.al.|[2404.17364v2](http://arxiv.org/abs/2404.17364v2)|[link](https://github.com/hywang2002/mv-vton)|
-|**2024-04-22**|**FLDM-VTON: Faithful Latent Diffusion Model for Virtual Try-on**|Chenhui Wang et.al.|[2404.14162v3](http://arxiv.org/abs/2404.14162v3)|null|
-|**2024-04-01**|**Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On**|Xu Yang et.al.|[2404.01089v1](http://arxiv.org/abs/2404.01089v1)|[link](https://github.com/gal4way/tpd)|
-|**2024-03-21**|**Multimodal-Conditioned Latent Diffusion Models for Fashion Image Editing**|Alberto Baldrati et.al.|[2403.14828v2](http://arxiv.org/abs/2403.14828v2)|[link](https://github.com/aimagelab/ti-mgd)|
-|**2024-03-12**|**Time-Efficient and Identity-Consistent Virtual Try-On Using A Variant of Altered Diffusion Models**|Phuong Dam et.al.|[2403.07371v2](http://arxiv.org/abs/2403.07371v2)|null|
-|**2024-03-04**|**OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**|Yuhao Xu et.al.|[2403.01779v2](http://arxiv.org/abs/2403.01779v2)|[link](https://github.com/levihsu/ootdiffusion)|
-|**2024-01-20**|**Product-Level Try-on: Characteristics-preserving Try-on with Realistic Clothes Shading and Wrinkles**|Yanlong Zang et.al.|[2401.11239v1](http://arxiv.org/abs/2401.11239v1)|null|
-|**2023-12-26**|**Towards Squeezing-Averse Virtual Try-On via Sequential Deformation**|Sang-Heon Shim et.al.|[2312.15861v1](http://arxiv.org/abs/2312.15861v1)|[link](https://github.com/shshim0513/sd-viton)|
-|**2023-12-24**|**A Two-stage Personalized Virtual Try-on Framework with Shape Control and Texture Guidance**|Shufang Zhang et.al.|[2312.15480v1](http://arxiv.org/abs/2312.15480v1)|null|
-|**2023-12-06**|**WarpDiffusion: Efficient Diffusion Model for High-Fidelity Virtual Try-on**|xujie zhang et.al.|[2312.03667v1](http://arxiv.org/abs/2312.03667v1)|null|
-|**2023-11-08**|**Image-Based Virtual Try-On: A Survey**|Dan Song et.al.|[2311.04811v3](http://arxiv.org/abs/2311.04811v3)|[link](https://github.com/little-misfit/survey-of-virtual-try-on)|
-|**2023-10-08**|**Single Stage Warped Cloth Learning and Semantic-Contextual Attention Feature Fusion for Virtual TryOn**|Sanhita Pathak et.al.|[2310.05024v1](http://arxiv.org/abs/2310.05024v1)|null|
-|**2023-08-11**|**Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**|Junhong Gou et.al.|[2308.06101v1](http://arxiv.org/abs/2308.06101v1)|[link](https://github.com/bcmi/DCI-VTON-Virtual-Try-On)|
-|**2023-05-22**|**LaDI-VTON: Latent Diffusion Textual-Inversion Enhanced Virtual Try-On**|Davide Morelli et.al.|[2305.13501v3](http://arxiv.org/abs/2305.13501v3)|[link](https://github.com/miccunifi/ladi-vton)|
-|**2023-04-04**|**Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing**|Alberto Baldrati et.al.|[2304.02051v2](http://arxiv.org/abs/2304.02051v2)|[link](https://github.com/aimagelab/multimodal-garment-designer)|
-|**2023-01-05**|**FICE: Text-Conditioned Fashion Image Editing With Guided GAN Inversion**|Martin Pernuš et.al.|[2301.02110v1](http://arxiv.org/abs/2301.02110v1)|[link](https://github.com/martinpernus/fice)|
-|**2022-12-08**|**C-VTON: Context-Driven Image-Based Virtual Try-On Network**|Benjamin Fele et.al.|[2212.04437v1](http://arxiv.org/abs/2212.04437v1)|[link](https://github.com/benquick123/c-vton)|
-|**2022-10-03**|**Fill in Fabrics: Body-Aware Self-Supervised Inpainting for Image-Based Virtual Try-On**|H. Zunair et.al.|[2210.00918v2](http://arxiv.org/abs/2210.00918v2)|[link](https://github.com/hasibzunair/fifa-tryon)|
-|**2022-06-28**|**High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions**|Sangyun Lee et.al.|[2206.14180v2](http://arxiv.org/abs/2206.14180v2)|[link](https://github.com/sangyun884/hr-viton)|
-|**2022-05-10**|**WG-VITON: Wearing-Guide Virtual Try-On for Top and Bottom Clothes**|Soonchan Park et.al.|[2205.04759v1](http://arxiv.org/abs/2205.04759v1)|null|
-|**2021-11-16**|**Data Augmentation using Random Image Cropping for High-resolution Virtual Try-On (VITON-CROP)**|Taewon Kang et.al.|[2111.08270v1](http://arxiv.org/abs/2111.08270v1)|null|
-|**2021-03-31**|**VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization**|Seunghwan Choi et.al.|[2103.16874v2](http://arxiv.org/abs/2103.16874v2)|[link](https://github.com/shadow2496/VITON-HD)|
-|**2019-11-12**|**VITON-GAN: Virtual Try-on Image Generator Trained with Adversarial Loss**|Shion Honda et.al.|[1911.07926v1](http://arxiv.org/abs/1911.07926v1)|[link](https://github.com/shionhonda/viton-gan)|
-|**2019-06-05**|**Nail Polish Try-On: Realtime Semantic Segmentation of Small Objects for Native and Browser Smartphone AR Applications**|Brendan Duke et.al.|[1906.02222v2](http://arxiv.org/abs/1906.02222v2)|null|
-|**2019-04-15**|**Superconductivity in single-crystalline, aluminum- and gallium-hyperdoped germanium**|Slawomir Prucnal et.al.|[1904.06865v1](http://arxiv.org/abs/1904.06865v1)|null|
-|**2018-12-05**|**An Unpaired Shape Transforming Method for Image Translation and Cross-Domain Retrieval**|Kaili Wang et.al.|[1812.02134v3](http://arxiv.org/abs/1812.02134v3)|null|
-|**2018-11-03**|**Support-Area Dependence of Vibration-Insensitive Optical Cavities**|Won-Kyu Lee et.al.|[1811.02686v2](http://arxiv.org/abs/1811.02686v2)|null|
-
-### Retrieval
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-21**|**Address-Specific Sustainable Accommodation Choice Through Real-World Data Integration**|Peter J. Bentley et.al.|[2405.12934v1](http://arxiv.org/abs/2405.12934v1)|null|
-|**2024-05-21**|**Panmodal Information Interaction**|Chirag Shah et.al.|[2405.12923v1](http://arxiv.org/abs/2405.12923v1)|null|
-|**2024-05-21**|**Retrievable Domain-Sensitive Feature Memory for Multi-Domain Recommendation**|Yuang Zhao et.al.|[2405.12892v1](http://arxiv.org/abs/2405.12892v1)|null|
-|**2024-05-21**|**Diffusion-RSCC: Diffusion Probabilistic Model for Change Captioning in Remote Sensing Images**|Xiaofei Yu et.al.|[2405.12875v1](http://arxiv.org/abs/2405.12875v1)|[link](https://github.com/fay-y/diffusion-rscc)|
-|**2024-05-21**|**Transparency Distortion Robustness for SOTA Image Segmentation Tasks**|Volker Knauthe et.al.|[2405.12864v1](http://arxiv.org/abs/2405.12864v1)|null|
-|**2024-05-21**|**Robust portfolio optimization model for electronic coupon allocation**|Yuki Uehara et.al.|[2405.12865v1](http://arxiv.org/abs/2405.12865v1)|null|
-|**2024-05-21**|**A Dataset and Baselines for Measuring and Predicting the Music Piece Memorability**|Li-Yang Tseng et.al.|[2405.12847v1](http://arxiv.org/abs/2405.12847v1)|null|
-|**2024-05-21**|**Unveiling the Power of Intermediate Representations for Static Analysis: A Survey**|Bowen Zhang et.al.|[2405.12841v1](http://arxiv.org/abs/2405.12841v1)|null|
-|**2024-05-21**|**GotFunding: A grant recommendation system based on scientific articles**|Tong Zeng et.al.|[2405.12840v1](http://arxiv.org/abs/2405.12840v1)|null|
-|**2024-05-21**|**Comparing Neighbors Together Makes it Easy: Jointly Comparing Multiple Candidates for Efficient and Effective Retrieval**|Jonghyun Song et.al.|[2405.12801v1](http://arxiv.org/abs/2405.12801v1)|[link](https://github.com/yc-song/cmc)|
-|**2024-05-21**|**Epanechnikov Variational Autoencoder**|Tian Qin et.al.|[2405.12783v1](http://arxiv.org/abs/2405.12783v1)|null|
-|**2024-05-21**|**Generative AI and Large Language Models for Cyber Security: All Insights You Need**|Mohamed Amine Ferrag et.al.|[2405.12750v1](http://arxiv.org/abs/2405.12750v1)|null|
-|**2024-05-21**|**Feasibility study on retrieving exoplanetary cloud cover distributions using polarimetry**|S. Winning et.al.|[2405.12727v1](http://arxiv.org/abs/2405.12727v1)|null|
-|**2024-05-21**|**RecGPT: Generative Pre-training for Text-based Recommendation**|Hoang Ngo et.al.|[2405.12715v1](http://arxiv.org/abs/2405.12715v1)|null|
-|**2024-05-21**|**Text-Video Retrieval with Global-Local Semantic Consistent Learning**|Haonan Zhang et.al.|[2405.12710v1](http://arxiv.org/abs/2405.12710v1)|[link](https://github.com/zchoi/glscl)|
-|**2024-05-21**|**Disentangled Representation with Cross Experts Covariance Loss for Multi-Domain Recommendation**|Zhutian Lin et.al.|[2405.12706v1](http://arxiv.org/abs/2405.12706v1)|null|
-|**2024-05-21**|**Retrieval-Augmented Language Model for Extreme Multi-Label Knowledge Graph Link Prediction**|Yu-Hsiang Lin et.al.|[2405.12656v1](http://arxiv.org/abs/2405.12656v1)|[link](https://github.com/exiled1143/retrieval-augmented-language-model-for-multi-label-knowledge-graph-link-prediction)|
-|**2024-05-21**|**ProtT3: Protein-to-Text Generation for Text-based Protein Understanding**|Zhiyuan Liu et.al.|[2405.12564v1](http://arxiv.org/abs/2405.12564v1)|[link](https://github.com/acharkq/prott3)|
-|**2024-05-21**|**Context-Enhanced Video Moment Retrieval with Large Language Models**|Weijia Liu et.al.|[2405.12540v1](http://arxiv.org/abs/2405.12540v1)|null|
-|**2024-05-21**|**Method of Kinetic Energy Reconstruction from Time-of-Flight Mass Spectra**|Aaron Ngai et.al.|[2405.12536v1](http://arxiv.org/abs/2405.12536v1)|null|
-|**2024-05-21**|**Dataset and Benchmark for Urdu Natural Scenes Text Detection, Recognition and Visual Question Answering**|Hiba Maryam et.al.|[2405.12533v1](http://arxiv.org/abs/2405.12533v1)|null|
-|**2024-05-21**|**Entropic associative memory for real world images**|Noé Hernández et.al.|[2405.12500v1](http://arxiv.org/abs/2405.12500v1)|null|
-|**2024-05-21**|**RaBitQ: Quantizing High-Dimensional Vectors with a Theoretical Error Bound for Approximate Nearest Neighbor Search**|Jianyang Gao et.al.|[2405.12497v1](http://arxiv.org/abs/2405.12497v1)|null|
-|**2024-05-21**|**Time Matters: Enhancing Pre-trained News Recommendation Models with Robust User Dwell Time Injection**|Hao Jiang et.al.|[2405.12486v1](http://arxiv.org/abs/2405.12486v1)|null|
-|**2024-05-21**|**Towards Detecting and Mitigating Cognitive Bias in Spoken Conversational Search**|Kaixin Ji et.al.|[2405.12480v1](http://arxiv.org/abs/2405.12480v1)|null|
-|**2024-05-21**|**Learning Partially Aligned Item Representation for Cross-Domain Sequential Recommendation**|Mingjia Yin et.al.|[2405.12473v1](http://arxiv.org/abs/2405.12473v1)|null|
-|**2024-05-21**|**Dynamical Geometry of the Haldane Model under a Quantum Quench**|Liwei Qiu et.al.|[2405.12470v1](http://arxiv.org/abs/2405.12470v1)|null|
-|**2024-05-21**|**Learning Structure and Knowledge Aware Representation with Large Language Models for Concept Recommendation**|Qingyao Li et.al.|[2405.12442v1](http://arxiv.org/abs/2405.12442v1)|null|
-|**2024-05-20**|**Question-Based Retrieval using Atomic Units for Enterprise RAG**|Vatsal Raina et.al.|[2405.12363v1](http://arxiv.org/abs/2405.12363v1)|null|
-|**2024-05-20**|**Diversifying by Intent in Recommender Systems**|Yuyan Wang et.al.|[2405.12327v1](http://arxiv.org/abs/2405.12327v1)|null|
 
 ### Recommendation
 |Publish Date|Title|Authors|PDF|Code|
@@ -141,6 +73,74 @@
 |**2024-05-20**|**Effective Clustering on Large Attributed Bipartite Graphs**|Renchi Yang et.al.|[2405.11922v1](http://arxiv.org/abs/2405.11922v1)|null|
 |**2024-05-20**|**CSTA: CNN-based Spatiotemporal Attention for Video Summarization**|Jaewon Son et.al.|[2405.11905v2](http://arxiv.org/abs/2405.11905v2)|[link](https://github.com/thswodnjs3/CSTA)|
 
+### General
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-05-21**|**MOSS: Motion-based 3D Clothed Human Synthesis from Monocular Video**|Hongsheng Wang et.al.|[2405.12806v1](http://arxiv.org/abs/2405.12806v1)|null|
+|**2024-05-21**|**LAGA: Layered 3D Avatar Generation and Customization via Gaussian Splatting**|Jia Gong et.al.|[2405.12663v1](http://arxiv.org/abs/2405.12663v1)|null|
+|**2024-05-21**|**Entropic associative memory for real world images**|Noé Hernández et.al.|[2405.12500v1](http://arxiv.org/abs/2405.12500v1)|null|
+|**2024-05-20**|**GarmentDreamer: 3DGS Guided Garment Synthesis with Diverse Geometry and Texture Details**|Boqian Li et.al.|[2405.12420v1](http://arxiv.org/abs/2405.12420v1)|null|
+|**2024-05-20**|**Gaussian Head & Shoulders: High Fidelity Neural Upper Body Avatars with Anchor Gaussian Guided Texture Warping**|Tianhao Wu et.al.|[2405.12069v2](http://arxiv.org/abs/2405.12069v2)|null|
+|**2024-05-20**|**ViViD: Video Virtual Try-on using Diffusion Models**|Zixun Fang et.al.|[2405.11794v1](http://arxiv.org/abs/2405.11794v1)|null|
+|**2024-05-19**|**PBI: Position-Based Dynamics Handles Updated Lagrangian Inelasticity**|Chang Yu et.al.|[2405.11694v1](http://arxiv.org/abs/2405.11694v1)|null|
+|**2024-05-17**|**A Comparative Study of Garment Draping Techniques**|Prerana Achar et.al.|[2405.11056v1](http://arxiv.org/abs/2405.11056v1)|null|
+|**2024-05-15**|**ContourCraft: Learning to Resolve Intersections in Neural Multi-Garment Simulations**|Artur Grigorev et.al.|[2405.09522v1](http://arxiv.org/abs/2405.09522v1)|null|
+|**2024-05-15**|**Color Space Learning for Cross-Color Person Re-Identification**|Jiahao Nie et.al.|[2405.09487v1](http://arxiv.org/abs/2405.09487v1)|[link](https://github.com/niejiahao1998/csl)|
+|**2024-05-14**|**Learning Correspondence for Deformable Objects**|Priya Sundaresan et.al.|[2405.08996v1](http://arxiv.org/abs/2405.08996v1)|null|
+|**2024-05-12**|**LayGA: Layered Gaussian Avatars for Animatable Clothing Transfer**|Siyou Lin et.al.|[2405.07319v1](http://arxiv.org/abs/2405.07319v1)|null|
+|**2024-05-11**|**ManiFoundation Model for General-Purpose Robotic Manipulation of Contact Synthesis with Arbitrary Objects and Robots**|Zhixuan Xu et.al.|[2405.06964v1](http://arxiv.org/abs/2405.06964v1)|null|
+|**2024-05-11**|**UniGarmentManip: A Unified Framework for Category-Level Garment Manipulation via Dense Visual Correspondence**|Ruihai Wu et.al.|[2405.06903v1](http://arxiv.org/abs/2405.06903v1)|null|
+|**2024-05-07**|**TexControl: Sketch-Based Two-Stage Fashion Image Generation Using Diffusion Model**|Yongming Zhang et.al.|[2405.04675v1](http://arxiv.org/abs/2405.04675v1)|null|
+|**2024-05-06**|**Telextiles: End-to-end Remote Transmission of Fabric Tactile Sensation**|Takekazu Kitagishi et.al.|[2405.03363v1](http://arxiv.org/abs/2405.03363v1)|null|
+|**2024-05-06**|**Pinching Tactile Display: A Cloth that Changes Tactile Sensation by Electrostatic Adsorption**|Takekazu Kitagishi et.al.|[2405.03358v1](http://arxiv.org/abs/2405.03358v1)|null|
+|**2024-05-05**|**ClothPPO: A Proximal Policy Optimization Enhancing Framework for Robotic Cloth Manipulation with Observation-Aligned Action Spaces**|Libing Yang et.al.|[2405.04549v1](http://arxiv.org/abs/2405.04549v1)|null|
+|**2024-05-02**|**Differentiable Particles for General-Purpose Deformable Object Manipulation**|Siwei Chen et.al.|[2405.01044v1](http://arxiv.org/abs/2405.01044v1)|null|
+|**2024-04-29**|**4D-DRESS: A 4D Dataset of Real-world Human Clothing with Semantic Annotations**|Wenbo Wang et.al.|[2404.18630v1](http://arxiv.org/abs/2404.18630v1)|null|
+|**2024-04-26**|**Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos**|Zhengze Xu et.al.|[2404.17571v1](http://arxiv.org/abs/2404.17571v1)|null|
+|**2024-04-26**|**MV-VTON: Multi-View Virtual Try-On with Diffusion Models**|Haoyu Wang et.al.|[2404.17364v2](http://arxiv.org/abs/2404.17364v2)|[link](https://github.com/hywang2002/mv-vton)|
+|**2024-04-25**|**TELA: Text to Layer-wise 3D Clothed Human Generation**|Junting Dong et.al.|[2404.16748v1](http://arxiv.org/abs/2404.16748v1)|null|
+|**2024-04-25**|**A Neural-Network-Based Approach for Loose-Fitting Clothing**|Yongxu Jin et.al.|[2404.16896v1](http://arxiv.org/abs/2404.16896v1)|null|
+|**2024-04-24**|**MYCloth: Towards Intelligent and Interactive Online T-Shirt Customization based on User's Preference**|Yexin Liu et.al.|[2404.15801v1](http://arxiv.org/abs/2404.15801v1)|null|
+|**2024-04-22**|**FLDM-VTON: Faithful Latent Diffusion Model for Virtual Try-on**|Chenhui Wang et.al.|[2404.14162v3](http://arxiv.org/abs/2404.14162v3)|null|
+|**2024-04-22**|**How do LLMs Support Deep Learning Testing? A Comprehensive Study Through the Lens of Image Mutation**|Liwen Wang et.al.|[2404.13945v2](http://arxiv.org/abs/2404.13945v2)|null|
+|**2024-04-22**|**PGAHum: Prior-Guided Geometry and Appearance Learning for High-Fidelity Animatable Human Reconstruction**|Hao Wang et.al.|[2404.13862v1](http://arxiv.org/abs/2404.13862v1)|null|
+|**2024-04-19**|**Ring-a-Pose: A Ring for Continuous Hand Pose Tracking**|Tianhong Catherine Yu et.al.|[2404.12980v1](http://arxiv.org/abs/2404.12980v1)|null|
+|**2024-04-19**|**Rethinking Clothes Changing Person ReID: Conflicts, Synthesis, and Optimization**|Junjie Li et.al.|[2404.12611v1](http://arxiv.org/abs/2404.12611v1)|null|
+
+### Virtual Try-On
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-05-01**|**MMTryon: Multi-Modal Multi-Reference Control for High-Quality Fashion Generation**|Xujie Zhang et.al.|[2405.00448v1](http://arxiv.org/abs/2405.00448v1)|null|
+|**2024-04-26**|**Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos**|Zhengze Xu et.al.|[2404.17571v1](http://arxiv.org/abs/2404.17571v1)|null|
+|**2024-04-26**|**FashionSD-X: Multimodal Fashion Garment Synthesis using Latent Diffusion**|Abhishek Kumar Singh et.al.|[2404.18591v1](http://arxiv.org/abs/2404.18591v1)|null|
+|**2024-04-26**|**MV-VTON: Multi-View Virtual Try-On with Diffusion Models**|Haoyu Wang et.al.|[2404.17364v2](http://arxiv.org/abs/2404.17364v2)|[link](https://github.com/hywang2002/mv-vton)|
+|**2024-04-22**|**FLDM-VTON: Faithful Latent Diffusion Model for Virtual Try-on**|Chenhui Wang et.al.|[2404.14162v3](http://arxiv.org/abs/2404.14162v3)|null|
+|**2024-04-01**|**Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On**|Xu Yang et.al.|[2404.01089v1](http://arxiv.org/abs/2404.01089v1)|[link](https://github.com/gal4way/tpd)|
+|**2024-03-21**|**Multimodal-Conditioned Latent Diffusion Models for Fashion Image Editing**|Alberto Baldrati et.al.|[2403.14828v2](http://arxiv.org/abs/2403.14828v2)|[link](https://github.com/aimagelab/ti-mgd)|
+|**2024-03-12**|**Time-Efficient and Identity-Consistent Virtual Try-On Using A Variant of Altered Diffusion Models**|Phuong Dam et.al.|[2403.07371v2](http://arxiv.org/abs/2403.07371v2)|null|
+|**2024-03-04**|**OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**|Yuhao Xu et.al.|[2403.01779v2](http://arxiv.org/abs/2403.01779v2)|[link](https://github.com/levihsu/ootdiffusion)|
+|**2024-01-20**|**Product-Level Try-on: Characteristics-preserving Try-on with Realistic Clothes Shading and Wrinkles**|Yanlong Zang et.al.|[2401.11239v1](http://arxiv.org/abs/2401.11239v1)|null|
+|**2023-12-26**|**Towards Squeezing-Averse Virtual Try-On via Sequential Deformation**|Sang-Heon Shim et.al.|[2312.15861v1](http://arxiv.org/abs/2312.15861v1)|[link](https://github.com/shshim0513/sd-viton)|
+|**2023-12-24**|**A Two-stage Personalized Virtual Try-on Framework with Shape Control and Texture Guidance**|Shufang Zhang et.al.|[2312.15480v1](http://arxiv.org/abs/2312.15480v1)|null|
+|**2023-12-06**|**WarpDiffusion: Efficient Diffusion Model for High-Fidelity Virtual Try-on**|xujie zhang et.al.|[2312.03667v1](http://arxiv.org/abs/2312.03667v1)|null|
+|**2023-11-08**|**Image-Based Virtual Try-On: A Survey**|Dan Song et.al.|[2311.04811v3](http://arxiv.org/abs/2311.04811v3)|[link](https://github.com/little-misfit/survey-of-virtual-try-on)|
+|**2023-10-08**|**Single Stage Warped Cloth Learning and Semantic-Contextual Attention Feature Fusion for Virtual TryOn**|Sanhita Pathak et.al.|[2310.05024v1](http://arxiv.org/abs/2310.05024v1)|null|
+|**2023-08-11**|**Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**|Junhong Gou et.al.|[2308.06101v1](http://arxiv.org/abs/2308.06101v1)|[link](https://github.com/bcmi/DCI-VTON-Virtual-Try-On)|
+|**2023-05-22**|**LaDI-VTON: Latent Diffusion Textual-Inversion Enhanced Virtual Try-On**|Davide Morelli et.al.|[2305.13501v3](http://arxiv.org/abs/2305.13501v3)|[link](https://github.com/miccunifi/ladi-vton)|
+|**2023-04-04**|**Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing**|Alberto Baldrati et.al.|[2304.02051v2](http://arxiv.org/abs/2304.02051v2)|[link](https://github.com/aimagelab/multimodal-garment-designer)|
+|**2023-01-05**|**FICE: Text-Conditioned Fashion Image Editing With Guided GAN Inversion**|Martin Pernuš et.al.|[2301.02110v1](http://arxiv.org/abs/2301.02110v1)|[link](https://github.com/martinpernus/fice)|
+|**2022-12-08**|**C-VTON: Context-Driven Image-Based Virtual Try-On Network**|Benjamin Fele et.al.|[2212.04437v1](http://arxiv.org/abs/2212.04437v1)|[link](https://github.com/benquick123/c-vton)|
+|**2022-10-03**|**Fill in Fabrics: Body-Aware Self-Supervised Inpainting for Image-Based Virtual Try-On**|H. Zunair et.al.|[2210.00918v2](http://arxiv.org/abs/2210.00918v2)|[link](https://github.com/hasibzunair/fifa-tryon)|
+|**2022-06-28**|**High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions**|Sangyun Lee et.al.|[2206.14180v2](http://arxiv.org/abs/2206.14180v2)|[link](https://github.com/sangyun884/hr-viton)|
+|**2022-05-10**|**WG-VITON: Wearing-Guide Virtual Try-On for Top and Bottom Clothes**|Soonchan Park et.al.|[2205.04759v1](http://arxiv.org/abs/2205.04759v1)|null|
+|**2021-11-16**|**Data Augmentation using Random Image Cropping for High-resolution Virtual Try-On (VITON-CROP)**|Taewon Kang et.al.|[2111.08270v1](http://arxiv.org/abs/2111.08270v1)|null|
+|**2021-03-31**|**VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization**|Seunghwan Choi et.al.|[2103.16874v2](http://arxiv.org/abs/2103.16874v2)|[link](https://github.com/shadow2496/VITON-HD)|
+|**2019-11-12**|**VITON-GAN: Virtual Try-on Image Generator Trained with Adversarial Loss**|Shion Honda et.al.|[1911.07926v1](http://arxiv.org/abs/1911.07926v1)|[link](https://github.com/shionhonda/viton-gan)|
+|**2019-06-05**|**Nail Polish Try-On: Realtime Semantic Segmentation of Small Objects for Native and Browser Smartphone AR Applications**|Brendan Duke et.al.|[1906.02222v2](http://arxiv.org/abs/1906.02222v2)|null|
+|**2019-04-15**|**Superconductivity in single-crystalline, aluminum- and gallium-hyperdoped germanium**|Slawomir Prucnal et.al.|[1904.06865v1](http://arxiv.org/abs/1904.06865v1)|null|
+|**2018-12-05**|**An Unpaired Shape Transforming Method for Image Translation and Cross-Domain Retrieval**|Kaili Wang et.al.|[1812.02134v3](http://arxiv.org/abs/1812.02134v3)|null|
+|**2018-11-03**|**Support-Area Dependence of Vibration-Insensitive Optical Cavities**|Won-Kyu Lee et.al.|[1811.02686v2](http://arxiv.org/abs/1811.02686v2)|null|
+
 ### Compatibility
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -175,39 +175,39 @@
 |**2024-05-18**|**WIP: A Unit Testing Framework for Self-Guided Personalized Online Robotics Learning**|Ponkoj Chandra Shill et.al.|[2405.11130v1](http://arxiv.org/abs/2405.11130v1)|null|
 |**2024-05-17**|**CMOS-Compatible, AlScN-Based Integrated Electro-Optic Modulator**|Valerie Yoshioka et.al.|[2405.11102v1](http://arxiv.org/abs/2405.11102v1)|null|
 
-### General
+### Retrieval
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-05-21**|**MOSS: Motion-based 3D Clothed Human Synthesis from Monocular Video**|Hongsheng Wang et.al.|[2405.12806v1](http://arxiv.org/abs/2405.12806v1)|null|
-|**2024-05-21**|**LAGA: Layered 3D Avatar Generation and Customization via Gaussian Splatting**|Jia Gong et.al.|[2405.12663v1](http://arxiv.org/abs/2405.12663v1)|null|
+|**2024-05-21**|**Address-Specific Sustainable Accommodation Choice Through Real-World Data Integration**|Peter J. Bentley et.al.|[2405.12934v1](http://arxiv.org/abs/2405.12934v1)|null|
+|**2024-05-21**|**Panmodal Information Interaction**|Chirag Shah et.al.|[2405.12923v1](http://arxiv.org/abs/2405.12923v1)|null|
+|**2024-05-21**|**Retrievable Domain-Sensitive Feature Memory for Multi-Domain Recommendation**|Yuang Zhao et.al.|[2405.12892v1](http://arxiv.org/abs/2405.12892v1)|null|
+|**2024-05-21**|**Diffusion-RSCC: Diffusion Probabilistic Model for Change Captioning in Remote Sensing Images**|Xiaofei Yu et.al.|[2405.12875v1](http://arxiv.org/abs/2405.12875v1)|[link](https://github.com/fay-y/diffusion-rscc)|
+|**2024-05-21**|**Transparency Distortion Robustness for SOTA Image Segmentation Tasks**|Volker Knauthe et.al.|[2405.12864v1](http://arxiv.org/abs/2405.12864v1)|null|
+|**2024-05-21**|**Robust portfolio optimization model for electronic coupon allocation**|Yuki Uehara et.al.|[2405.12865v1](http://arxiv.org/abs/2405.12865v1)|null|
+|**2024-05-21**|**A Dataset and Baselines for Measuring and Predicting the Music Piece Memorability**|Li-Yang Tseng et.al.|[2405.12847v1](http://arxiv.org/abs/2405.12847v1)|null|
+|**2024-05-21**|**Unveiling the Power of Intermediate Representations for Static Analysis: A Survey**|Bowen Zhang et.al.|[2405.12841v1](http://arxiv.org/abs/2405.12841v1)|null|
+|**2024-05-21**|**GotFunding: A grant recommendation system based on scientific articles**|Tong Zeng et.al.|[2405.12840v1](http://arxiv.org/abs/2405.12840v1)|null|
+|**2024-05-21**|**Comparing Neighbors Together Makes it Easy: Jointly Comparing Multiple Candidates for Efficient and Effective Retrieval**|Jonghyun Song et.al.|[2405.12801v1](http://arxiv.org/abs/2405.12801v1)|[link](https://github.com/yc-song/cmc)|
+|**2024-05-21**|**Epanechnikov Variational Autoencoder**|Tian Qin et.al.|[2405.12783v1](http://arxiv.org/abs/2405.12783v1)|null|
+|**2024-05-21**|**Generative AI and Large Language Models for Cyber Security: All Insights You Need**|Mohamed Amine Ferrag et.al.|[2405.12750v1](http://arxiv.org/abs/2405.12750v1)|null|
+|**2024-05-21**|**Feasibility study on retrieving exoplanetary cloud cover distributions using polarimetry**|S. Winning et.al.|[2405.12727v1](http://arxiv.org/abs/2405.12727v1)|null|
+|**2024-05-21**|**RecGPT: Generative Pre-training for Text-based Recommendation**|Hoang Ngo et.al.|[2405.12715v1](http://arxiv.org/abs/2405.12715v1)|null|
+|**2024-05-21**|**Text-Video Retrieval with Global-Local Semantic Consistent Learning**|Haonan Zhang et.al.|[2405.12710v1](http://arxiv.org/abs/2405.12710v1)|[link](https://github.com/zchoi/glscl)|
+|**2024-05-21**|**Disentangled Representation with Cross Experts Covariance Loss for Multi-Domain Recommendation**|Zhutian Lin et.al.|[2405.12706v1](http://arxiv.org/abs/2405.12706v1)|null|
+|**2024-05-21**|**Retrieval-Augmented Language Model for Extreme Multi-Label Knowledge Graph Link Prediction**|Yu-Hsiang Lin et.al.|[2405.12656v1](http://arxiv.org/abs/2405.12656v1)|[link](https://github.com/exiled1143/retrieval-augmented-language-model-for-multi-label-knowledge-graph-link-prediction)|
+|**2024-05-21**|**ProtT3: Protein-to-Text Generation for Text-based Protein Understanding**|Zhiyuan Liu et.al.|[2405.12564v1](http://arxiv.org/abs/2405.12564v1)|[link](https://github.com/acharkq/prott3)|
+|**2024-05-21**|**Context-Enhanced Video Moment Retrieval with Large Language Models**|Weijia Liu et.al.|[2405.12540v1](http://arxiv.org/abs/2405.12540v1)|null|
+|**2024-05-21**|**Method of Kinetic Energy Reconstruction from Time-of-Flight Mass Spectra**|Aaron Ngai et.al.|[2405.12536v1](http://arxiv.org/abs/2405.12536v1)|null|
+|**2024-05-21**|**Dataset and Benchmark for Urdu Natural Scenes Text Detection, Recognition and Visual Question Answering**|Hiba Maryam et.al.|[2405.12533v1](http://arxiv.org/abs/2405.12533v1)|null|
 |**2024-05-21**|**Entropic associative memory for real world images**|Noé Hernández et.al.|[2405.12500v1](http://arxiv.org/abs/2405.12500v1)|null|
-|**2024-05-20**|**GarmentDreamer: 3DGS Guided Garment Synthesis with Diverse Geometry and Texture Details**|Boqian Li et.al.|[2405.12420v1](http://arxiv.org/abs/2405.12420v1)|null|
-|**2024-05-20**|**Gaussian Head & Shoulders: High Fidelity Neural Upper Body Avatars with Anchor Gaussian Guided Texture Warping**|Tianhao Wu et.al.|[2405.12069v2](http://arxiv.org/abs/2405.12069v2)|null|
-|**2024-05-20**|**ViViD: Video Virtual Try-on using Diffusion Models**|Zixun Fang et.al.|[2405.11794v1](http://arxiv.org/abs/2405.11794v1)|null|
-|**2024-05-19**|**PBI: Position-Based Dynamics Handles Updated Lagrangian Inelasticity**|Chang Yu et.al.|[2405.11694v1](http://arxiv.org/abs/2405.11694v1)|null|
-|**2024-05-17**|**A Comparative Study of Garment Draping Techniques**|Prerana Achar et.al.|[2405.11056v1](http://arxiv.org/abs/2405.11056v1)|null|
-|**2024-05-15**|**ContourCraft: Learning to Resolve Intersections in Neural Multi-Garment Simulations**|Artur Grigorev et.al.|[2405.09522v1](http://arxiv.org/abs/2405.09522v1)|null|
-|**2024-05-15**|**Color Space Learning for Cross-Color Person Re-Identification**|Jiahao Nie et.al.|[2405.09487v1](http://arxiv.org/abs/2405.09487v1)|[link](https://github.com/niejiahao1998/csl)|
-|**2024-05-14**|**Learning Correspondence for Deformable Objects**|Priya Sundaresan et.al.|[2405.08996v1](http://arxiv.org/abs/2405.08996v1)|null|
-|**2024-05-12**|**LayGA: Layered Gaussian Avatars for Animatable Clothing Transfer**|Siyou Lin et.al.|[2405.07319v1](http://arxiv.org/abs/2405.07319v1)|null|
-|**2024-05-11**|**ManiFoundation Model for General-Purpose Robotic Manipulation of Contact Synthesis with Arbitrary Objects and Robots**|Zhixuan Xu et.al.|[2405.06964v1](http://arxiv.org/abs/2405.06964v1)|null|
-|**2024-05-11**|**UniGarmentManip: A Unified Framework for Category-Level Garment Manipulation via Dense Visual Correspondence**|Ruihai Wu et.al.|[2405.06903v1](http://arxiv.org/abs/2405.06903v1)|null|
-|**2024-05-07**|**TexControl: Sketch-Based Two-Stage Fashion Image Generation Using Diffusion Model**|Yongming Zhang et.al.|[2405.04675v1](http://arxiv.org/abs/2405.04675v1)|null|
-|**2024-05-06**|**Telextiles: End-to-end Remote Transmission of Fabric Tactile Sensation**|Takekazu Kitagishi et.al.|[2405.03363v1](http://arxiv.org/abs/2405.03363v1)|null|
-|**2024-05-06**|**Pinching Tactile Display: A Cloth that Changes Tactile Sensation by Electrostatic Adsorption**|Takekazu Kitagishi et.al.|[2405.03358v1](http://arxiv.org/abs/2405.03358v1)|null|
-|**2024-05-05**|**ClothPPO: A Proximal Policy Optimization Enhancing Framework for Robotic Cloth Manipulation with Observation-Aligned Action Spaces**|Libing Yang et.al.|[2405.04549v1](http://arxiv.org/abs/2405.04549v1)|null|
-|**2024-05-02**|**Differentiable Particles for General-Purpose Deformable Object Manipulation**|Siwei Chen et.al.|[2405.01044v1](http://arxiv.org/abs/2405.01044v1)|null|
-|**2024-04-29**|**4D-DRESS: A 4D Dataset of Real-world Human Clothing with Semantic Annotations**|Wenbo Wang et.al.|[2404.18630v1](http://arxiv.org/abs/2404.18630v1)|null|
-|**2024-04-26**|**Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos**|Zhengze Xu et.al.|[2404.17571v1](http://arxiv.org/abs/2404.17571v1)|null|
-|**2024-04-26**|**MV-VTON: Multi-View Virtual Try-On with Diffusion Models**|Haoyu Wang et.al.|[2404.17364v2](http://arxiv.org/abs/2404.17364v2)|[link](https://github.com/hywang2002/mv-vton)|
-|**2024-04-25**|**TELA: Text to Layer-wise 3D Clothed Human Generation**|Junting Dong et.al.|[2404.16748v1](http://arxiv.org/abs/2404.16748v1)|null|
-|**2024-04-25**|**A Neural-Network-Based Approach for Loose-Fitting Clothing**|Yongxu Jin et.al.|[2404.16896v1](http://arxiv.org/abs/2404.16896v1)|null|
-|**2024-04-24**|**MYCloth: Towards Intelligent and Interactive Online T-Shirt Customization based on User's Preference**|Yexin Liu et.al.|[2404.15801v1](http://arxiv.org/abs/2404.15801v1)|null|
-|**2024-04-22**|**FLDM-VTON: Faithful Latent Diffusion Model for Virtual Try-on**|Chenhui Wang et.al.|[2404.14162v3](http://arxiv.org/abs/2404.14162v3)|null|
-|**2024-04-22**|**How do LLMs Support Deep Learning Testing? A Comprehensive Study Through the Lens of Image Mutation**|Liwen Wang et.al.|[2404.13945v2](http://arxiv.org/abs/2404.13945v2)|null|
-|**2024-04-22**|**PGAHum: Prior-Guided Geometry and Appearance Learning for High-Fidelity Animatable Human Reconstruction**|Hao Wang et.al.|[2404.13862v1](http://arxiv.org/abs/2404.13862v1)|null|
-|**2024-04-19**|**Ring-a-Pose: A Ring for Continuous Hand Pose Tracking**|Tianhong Catherine Yu et.al.|[2404.12980v1](http://arxiv.org/abs/2404.12980v1)|null|
-|**2024-04-19**|**Rethinking Clothes Changing Person ReID: Conflicts, Synthesis, and Optimization**|Junjie Li et.al.|[2404.12611v1](http://arxiv.org/abs/2404.12611v1)|null|
+|**2024-05-21**|**RaBitQ: Quantizing High-Dimensional Vectors with a Theoretical Error Bound for Approximate Nearest Neighbor Search**|Jianyang Gao et.al.|[2405.12497v1](http://arxiv.org/abs/2405.12497v1)|null|
+|**2024-05-21**|**Time Matters: Enhancing Pre-trained News Recommendation Models with Robust User Dwell Time Injection**|Hao Jiang et.al.|[2405.12486v1](http://arxiv.org/abs/2405.12486v1)|null|
+|**2024-05-21**|**Towards Detecting and Mitigating Cognitive Bias in Spoken Conversational Search**|Kaixin Ji et.al.|[2405.12480v1](http://arxiv.org/abs/2405.12480v1)|null|
+|**2024-05-21**|**Learning Partially Aligned Item Representation for Cross-Domain Sequential Recommendation**|Mingjia Yin et.al.|[2405.12473v1](http://arxiv.org/abs/2405.12473v1)|null|
+|**2024-05-21**|**Dynamical Geometry of the Haldane Model under a Quantum Quench**|Liwei Qiu et.al.|[2405.12470v1](http://arxiv.org/abs/2405.12470v1)|null|
+|**2024-05-21**|**Learning Structure and Knowledge Aware Representation with Large Language Models for Concept Recommendation**|Qingyao Li et.al.|[2405.12442v1](http://arxiv.org/abs/2405.12442v1)|null|
+|**2024-05-20**|**Question-Based Retrieval using Atomic Units for Enterprise RAG**|Vatsal Raina et.al.|[2405.12363v1](http://arxiv.org/abs/2405.12363v1)|null|
+|**2024-05-20**|**Diversifying by Intent in Recommender Systems**|Yuyan Wang et.al.|[2405.12327v1](http://arxiv.org/abs/2405.12327v1)|null|
 
 ## Transformer
 
@@ -308,7 +308,7 @@
 |**2024-05-21**|**Training and inference in the ReckON RSNN architecture implemented on a MPSoC**|Alejandro Linares-Barranco et.al.|[2405.12849v1](http://arxiv.org/abs/2405.12849v1)|null|
 |**2024-05-21**|**Quantum computing and the stable set problem**|Aljaž Krpan et.al.|[2405.12845v1](http://arxiv.org/abs/2405.12845v1)|null|
 |**2024-05-21**|**An Experimental Study of C-Band Channel Model in Integrated LEO Satellite and Terrestrial Systems**|Hung Nguyen-Kha et.al.|[2405.12839v1](http://arxiv.org/abs/2405.12839v1)|null|
-|**2024-05-21**|**Wav-KAN: Wavelet Kolmogorov-Arnold Networks**|Zavareh Bozorgasl et.al.|[2405.12832v1](http://arxiv.org/abs/2405.12832v1)|null|
+|**2024-05-21**|**Wav-KAN: Wavelet Kolmogorov-Arnold Networks**|Zavareh Bozorgasl et.al.|[2405.12832v1](http://arxiv.org/abs/2405.12832v1)|[link](https://github.com/zavareh1/Wav-KAN)|
 |**2024-05-21**|**Talk2Radar: Bridging Natural Language with 4D mmWave Radar for 3D Referring Expression Comprehension**|Runwei Guan et.al.|[2405.12821v1](http://arxiv.org/abs/2405.12821v1)|null|
 |**2024-05-21**|**Non-equilibrium dynamic hyperuniform states**|Yusheng Lei et.al.|[2405.12818v1](http://arxiv.org/abs/2405.12818v1)|null|
 |**2024-05-21**|**Engineering band structures of two-dimensional materials with remote moire ferroelectricity**|Jing Ding et.al.|[2405.12811v1](http://arxiv.org/abs/2405.12811v1)|null|
