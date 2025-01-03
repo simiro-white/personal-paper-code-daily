@@ -1,43 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2025-01-03 20:39:35 Asia/Shanghai
+ Automated deployment @ 2025-01-03 21:04:18 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
 ## Multi-modal
-
-### CLIP
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-12-30**|**E2EDiff: Direct Mapping from Noise to Data for Enhanced Diffusion Models**|Zhiyu Tan et.al.|[2412.21044v1](http://arxiv.org/abs/2412.21044v1)|null|
-|**2024-12-30**|**Towards Identity-Aware Cross-Modal Retrieval: a Dataset and a Baseline**|Nicola Messina et.al.|[2412.21009v1](http://arxiv.org/abs/2412.21009v1)|[link](https://github.com/mesnico/idclip)|
-|**2024-12-30**|**Hierarchical Banzhaf Interaction for General Video-Language Representation Learning**|Peng Jin et.al.|[2412.20964v1](http://arxiv.org/abs/2412.20964v1)|[link](https://github.com/jpthu17/HBI)|
-|**2024-12-30**|**ProtScan: Modeling and Prediction of RNA-Protein Interactions**|Gianluca Corrado et.al.|[2412.20933v1](http://arxiv.org/abs/2412.20933v1)|null|
-|**2024-12-30**|**Language-based Audio Retrieval with Co-Attention Networks**|Haoran Sun et.al.|[2412.20914v1](http://arxiv.org/abs/2412.20914v1)|null|
-|**2024-12-30**|**Towards Compatible Fine-tuning for Vision-Language Model Updates**|Zhengbo Wang et.al.|[2412.20895v1](http://arxiv.org/abs/2412.20895v1)|null|
-|**2024-12-30**|**Learning to Rank Pre-trained Vision-Language Models for Downstream Tasks**|Yuhe Ding et.al.|[2412.20682v1](http://arxiv.org/abs/2412.20682v1)|null|
-|**2024-12-30**|**Enhancing Visual Representation for Text-based Person Searching**|Wei Shen et.al.|[2412.20646v1](http://arxiv.org/abs/2412.20646v1)|[link](https://github.com/zhangweifeng1218/vfe_tps)|
-|**2024-12-30**|**YOLO-UniOW: Efficient Universal Open-World Object Detection**|Lihao Liu et.al.|[2412.20645v1](http://arxiv.org/abs/2412.20645v1)|null|
-|**2024-12-29**|**Utilizing Multimodal Data for Edge Case Robust Call-sign Recognition and Understanding**|Alexander Blatt et.al.|[2412.20467v1](http://arxiv.org/abs/2412.20467v1)|null|
-|**2024-12-29**|**Defending Multimodal Backdoored Models by Repulsive Visual Prompt Tuning**|Zhifang Zhang et.al.|[2412.20392v1](http://arxiv.org/abs/2412.20392v1)|null|
-|**2024-12-29**|**Tri-Ergon: Fine-grained Video-to-Audio Generation with Multi-modal Conditions and LUFS Control**|Bingliang Li et.al.|[2412.20378v1](http://arxiv.org/abs/2412.20378v1)|null|
-|**2024-12-28**|**Injecting Explainability and Lightweight Design into Weakly Supervised Video Anomaly Detection Systems**|Wen-Dong Jiang et.al.|[2412.20201v1](http://arxiv.org/abs/2412.20201v1)|null|
-|**2024-12-28**|**Multi-Modality Driven LoRA for Adverse Condition Depth Estimation**|Guanglei Yang et.al.|[2412.20162v1](http://arxiv.org/abs/2412.20162v1)|null|
-|**2024-12-28**|**Cross-Modal Mapping: Eliminating the Modality Gap for Few-Shot Image Classification**|Xi Yang et.al.|[2412.20110v1](http://arxiv.org/abs/2412.20110v1)|null|
-|**2024-12-27**|**On the Convergence of DP-SGD with Adaptive Clipping**|Egor Shulgin et.al.|[2412.19916v1](http://arxiv.org/abs/2412.19916v1)|null|
-|**2024-12-27**|**IMAGINE: An 8-to-1b 22nm FD-SOI Compute-In-Memory CNN Accelerator With an End-to-End Analog Charge-Based 0.15-8POPS/W Macro Featuring Distribution-Aware Data Reshaping**|Adrian Kneip et.al.|[2412.19750v1](http://arxiv.org/abs/2412.19750v1)|null|
-|**2024-12-27**|**Toward Modality Gap: Vision Prototype Learning for Weakly-supervised Semantic Segmentation with CLIP**|Zhongxing Xu et.al.|[2412.19650v1](http://arxiv.org/abs/2412.19650v1)|null|
-|**2024-12-27**|**ReNeg: Learning Negative Embedding with Reward Guidance**|Xiaomin Li et.al.|[2412.19637v1](http://arxiv.org/abs/2412.19637v1)|null|
-|**2024-12-27**|**Graph-attention-based Casual Discovery with Trust Region-navigated Clipping Policy Optimization**|Shixuan Liu et.al.|[2412.19578v1](http://arxiv.org/abs/2412.19578v1)|null|
-|**2024-12-27**|**Data-Free Group-Wise Fully Quantized Winograd Convolution via Learnable Scales**|Shuokai Pan et.al.|[2412.19867v1](http://arxiv.org/abs/2412.19867v1)|null|
-|**2024-12-27**|**Nonconvex Stochastic Optimization under Heavy-Tailed Noises: Optimal Convergence without Gradient Clipping**|Zijian Liu et.al.|[2412.19529v1](http://arxiv.org/abs/2412.19529v1)|null|
-|**2024-12-27**|**DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT**|Xiaotao Hu et.al.|[2412.19505v2](http://arxiv.org/abs/2412.19505v2)|[link](https://github.com/yvanyin/drivingworld)|
-|**2024-12-26**|**ViPCap: Retrieval Text-Based Visual Prompts for Lightweight Image Captioning**|Taewhan Kim et.al.|[2412.19289v2](http://arxiv.org/abs/2412.19289v2)|[link](https://github.com/taewhankim/vipcap)|
-|**2024-12-26**|**Referencing Where to Focus: Improving VisualGrounding with Referential Query**|Yabing Wang et.al.|[2412.19155v1](http://arxiv.org/abs/2412.19155v1)|null|
-|**2024-12-26**|**CLIP-GS: Unifying Vision-Language Representation with 3D Gaussian Splatting**|Siyu Jiao et.al.|[2412.19142v1](http://arxiv.org/abs/2412.19142v1)|null|
-|**2024-12-26**|**From Coin to Data: The Impact of Object Detection on Digital Numismatics**|Rafael Cabral et.al.|[2412.19091v1](http://arxiv.org/abs/2412.19091v1)|null|
-|**2024-12-25**|**Open-Vocabulary Panoptic Segmentation Using BERT Pre-Training of Vision-Language Multiway Transformer Model**|Yi-Chia Chen et.al.|[2412.18917v1](http://arxiv.org/abs/2412.18917v1)|[link](https://github.com/ai-application-and-integration-lab/omtseg)|
-|**2024-12-25**|**IUST_PersonReId: A New Domain in Person Re-Identification Datasets**|Alireza Sedighi Moghaddam et.al.|[2412.18874v1](http://arxiv.org/abs/2412.18874v1)|null|
-|**2024-12-25**|**FOR: Finetuning for Object Level Open Vocabulary Image Retrieval**|Hila Levi et.al.|[2412.18806v1](http://arxiv.org/abs/2412.18806v1)|null|
 
 ### Multi-modal
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,75 +39,75 @@
 |**2024-12-30**|**Hierarchical Banzhaf Interaction for General Video-Language Representation Learning**|Peng Jin et.al.|[2412.20964v1](http://arxiv.org/abs/2412.20964v1)|[link](https://github.com/jpthu17/HBI)|
 |**2024-12-30**|**Generative AI Empowered Semantic Feature Multiple Access (SFMA) Over Wireless Networks**|Jiaxiang Wang et.al.|[2412.20937v1](http://arxiv.org/abs/2412.20937v1)|null|
 
+### CLIP
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-12-30**|**E2EDiff: Direct Mapping from Noise to Data for Enhanced Diffusion Models**|Zhiyu Tan et.al.|[2412.21044v1](http://arxiv.org/abs/2412.21044v1)|null|
+|**2024-12-30**|**Towards Identity-Aware Cross-Modal Retrieval: a Dataset and a Baseline**|Nicola Messina et.al.|[2412.21009v1](http://arxiv.org/abs/2412.21009v1)|[link](https://github.com/mesnico/idclip)|
+|**2024-12-30**|**Hierarchical Banzhaf Interaction for General Video-Language Representation Learning**|Peng Jin et.al.|[2412.20964v1](http://arxiv.org/abs/2412.20964v1)|[link](https://github.com/jpthu17/HBI)|
+|**2024-12-30**|**ProtScan: Modeling and Prediction of RNA-Protein Interactions**|Gianluca Corrado et.al.|[2412.20933v1](http://arxiv.org/abs/2412.20933v1)|null|
+|**2024-12-30**|**Language-based Audio Retrieval with Co-Attention Networks**|Haoran Sun et.al.|[2412.20914v1](http://arxiv.org/abs/2412.20914v1)|null|
+|**2024-12-30**|**Towards Compatible Fine-tuning for Vision-Language Model Updates**|Zhengbo Wang et.al.|[2412.20895v1](http://arxiv.org/abs/2412.20895v1)|null|
+|**2024-12-30**|**Learning to Rank Pre-trained Vision-Language Models for Downstream Tasks**|Yuhe Ding et.al.|[2412.20682v1](http://arxiv.org/abs/2412.20682v1)|null|
+|**2024-12-30**|**Enhancing Visual Representation for Text-based Person Searching**|Wei Shen et.al.|[2412.20646v1](http://arxiv.org/abs/2412.20646v1)|[link](https://github.com/zhangweifeng1218/vfe_tps)|
+|**2024-12-30**|**YOLO-UniOW: Efficient Universal Open-World Object Detection**|Lihao Liu et.al.|[2412.20645v1](http://arxiv.org/abs/2412.20645v1)|null|
+|**2024-12-29**|**Utilizing Multimodal Data for Edge Case Robust Call-sign Recognition and Understanding**|Alexander Blatt et.al.|[2412.20467v1](http://arxiv.org/abs/2412.20467v1)|null|
+|**2024-12-29**|**Defending Multimodal Backdoored Models by Repulsive Visual Prompt Tuning**|Zhifang Zhang et.al.|[2412.20392v1](http://arxiv.org/abs/2412.20392v1)|null|
+|**2024-12-29**|**Tri-Ergon: Fine-grained Video-to-Audio Generation with Multi-modal Conditions and LUFS Control**|Bingliang Li et.al.|[2412.20378v1](http://arxiv.org/abs/2412.20378v1)|null|
+|**2024-12-28**|**Injecting Explainability and Lightweight Design into Weakly Supervised Video Anomaly Detection Systems**|Wen-Dong Jiang et.al.|[2412.20201v1](http://arxiv.org/abs/2412.20201v1)|null|
+|**2024-12-28**|**Multi-Modality Driven LoRA for Adverse Condition Depth Estimation**|Guanglei Yang et.al.|[2412.20162v1](http://arxiv.org/abs/2412.20162v1)|null|
+|**2024-12-28**|**Cross-Modal Mapping: Eliminating the Modality Gap for Few-Shot Image Classification**|Xi Yang et.al.|[2412.20110v1](http://arxiv.org/abs/2412.20110v1)|null|
+|**2024-12-27**|**On the Convergence of DP-SGD with Adaptive Clipping**|Egor Shulgin et.al.|[2412.19916v1](http://arxiv.org/abs/2412.19916v1)|null|
+|**2024-12-27**|**IMAGINE: An 8-to-1b 22nm FD-SOI Compute-In-Memory CNN Accelerator With an End-to-End Analog Charge-Based 0.15-8POPS/W Macro Featuring Distribution-Aware Data Reshaping**|Adrian Kneip et.al.|[2412.19750v1](http://arxiv.org/abs/2412.19750v1)|null|
+|**2024-12-27**|**Toward Modality Gap: Vision Prototype Learning for Weakly-supervised Semantic Segmentation with CLIP**|Zhongxing Xu et.al.|[2412.19650v1](http://arxiv.org/abs/2412.19650v1)|null|
+|**2024-12-27**|**ReNeg: Learning Negative Embedding with Reward Guidance**|Xiaomin Li et.al.|[2412.19637v1](http://arxiv.org/abs/2412.19637v1)|null|
+|**2024-12-27**|**Graph-attention-based Casual Discovery with Trust Region-navigated Clipping Policy Optimization**|Shixuan Liu et.al.|[2412.19578v1](http://arxiv.org/abs/2412.19578v1)|null|
+|**2024-12-27**|**Data-Free Group-Wise Fully Quantized Winograd Convolution via Learnable Scales**|Shuokai Pan et.al.|[2412.19867v1](http://arxiv.org/abs/2412.19867v1)|null|
+|**2024-12-27**|**Nonconvex Stochastic Optimization under Heavy-Tailed Noises: Optimal Convergence without Gradient Clipping**|Zijian Liu et.al.|[2412.19529v1](http://arxiv.org/abs/2412.19529v1)|null|
+|**2024-12-27**|**DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT**|Xiaotao Hu et.al.|[2412.19505v2](http://arxiv.org/abs/2412.19505v2)|[link](https://github.com/yvanyin/drivingworld)|
+|**2024-12-26**|**ViPCap: Retrieval Text-Based Visual Prompts for Lightweight Image Captioning**|Taewhan Kim et.al.|[2412.19289v2](http://arxiv.org/abs/2412.19289v2)|[link](https://github.com/taewhankim/vipcap)|
+|**2024-12-26**|**Referencing Where to Focus: Improving VisualGrounding with Referential Query**|Yabing Wang et.al.|[2412.19155v1](http://arxiv.org/abs/2412.19155v1)|null|
+|**2024-12-26**|**CLIP-GS: Unifying Vision-Language Representation with 3D Gaussian Splatting**|Siyu Jiao et.al.|[2412.19142v1](http://arxiv.org/abs/2412.19142v1)|null|
+|**2024-12-26**|**From Coin to Data: The Impact of Object Detection on Digital Numismatics**|Rafael Cabral et.al.|[2412.19091v1](http://arxiv.org/abs/2412.19091v1)|null|
+|**2024-12-25**|**Open-Vocabulary Panoptic Segmentation Using BERT Pre-Training of Vision-Language Multiway Transformer Model**|Yi-Chia Chen et.al.|[2412.18917v1](http://arxiv.org/abs/2412.18917v1)|[link](https://github.com/ai-application-and-integration-lab/omtseg)|
+|**2024-12-25**|**IUST_PersonReId: A New Domain in Person Re-Identification Datasets**|Alireza Sedighi Moghaddam et.al.|[2412.18874v1](http://arxiv.org/abs/2412.18874v1)|null|
+|**2024-12-25**|**FOR: Finetuning for Object Level Open Vocabulary Image Retrieval**|Hila Levi et.al.|[2412.18806v1](http://arxiv.org/abs/2412.18806v1)|null|
+
 ## Fashion
 
-### Recommendation
+### Compatibility
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-12-30**|**Impact of Fourth Industrial Revolution (4IR) on Small and Medium Enterprises (SMEs) and Employment in Bangladesh: Opportunities and Challenges**|Toukir Ahammed et.al.|[2412.21106v1](http://arxiv.org/abs/2412.21106v1)|null|
+|**2024-12-30**|**Topological Responses of the Standard Model Gauge Group**|Zheyan Wan et.al.|[2412.21196v1](http://arxiv.org/abs/2412.21196v1)|null|
+|**2024-12-30**|**Abelian varieties genuinely of $\mathrm{GL}_n$-type**|Francesc Fité et.al.|[2412.21183v1](http://arxiv.org/abs/2412.21183v1)|null|
+|**2024-12-30**|**A Standardized Framework for Sensor Placement in Human Motion Capture and Wearable Applications**|Seyed Yahya Shirazi et.al.|[2412.21159v1](http://arxiv.org/abs/2412.21159v1)|null|
+|**2024-12-30**|**PyG-SSL: A Graph Self-Supervised Learning Toolkit**|Lecheng Zheng et.al.|[2412.21151v1](http://arxiv.org/abs/2412.21151v1)|[link](https://github.com/idea-isail-lab-uiuc/pyg-ssl)|
+|**2024-12-30**|**Adaptive Batch Size Schedules for Distributed Training of Language Models with Data and Model Parallelism**|Tim Tsz-Kit Lau et.al.|[2412.21124v1](http://arxiv.org/abs/2412.21124v1)|null|
+|**2024-12-30**|**A polynomial affine model of gravity: after ten years**|Oscar Castillo-Felisola et.al.|[2412.21122v1](http://arxiv.org/abs/2412.21122v1)|null|
+|**2024-12-30**|**Exploring and Controlling Diversity in LLM-Agent Conversation**|KuanChao Chu et.al.|[2412.21102v1](http://arxiv.org/abs/2412.21102v1)|null|
+|**2024-12-30**|***-Hopf algebroids**|Edwin Beggs et.al.|[2412.21089v1](http://arxiv.org/abs/2412.21089v1)|null|
+|**2024-12-30**|**Edicho: Consistent Image Editing in the Wild**|Qingyan Bai et.al.|[2412.21079v2](http://arxiv.org/abs/2412.21079v2)|[link](https://github.com/ezioby/edicho)|
 |**2024-12-30**|**Privacy-Aware Multi-Device Cooperative Edge Inference with Distributed Resource Bidding**|Wenhao Zhuang et.al.|[2412.21069v1](http://arxiv.org/abs/2412.21069v1)|null|
-|**2024-12-30**|**Towards Effective Discrimination Testing for Generative AI**|Thomas P. Zollo et.al.|[2412.21052v1](http://arxiv.org/abs/2412.21052v1)|null|
-|**2024-12-30**|**Robust Matrix Completion for Discrete Rating-Scale Data**|Aurore Archimbaud et.al.|[2412.20802v1](http://arxiv.org/abs/2412.20802v1)|[link](https://github.com/aalfons/rdmc)|
-|**2024-12-29**|**Regulating radiology AI medical devices that evolve in their lifecycle**|Camila González et.al.|[2412.20498v1](http://arxiv.org/abs/2412.20498v1)|null|
-|**2024-12-29**|**Protégé: Learn and Generate Basic Makeup Styles with Generative Adversarial Networks (GANs)**|Jia Wei Sii et.al.|[2412.20381v1](http://arxiv.org/abs/2412.20381v1)|null|
-|**2024-12-28**|**Recommender Engine Driven Client Selection in Federated Brain Tumor Segmentation**|Muhammad Irfan Khan et.al.|[2412.20250v1](http://arxiv.org/abs/2412.20250v1)|null|
+|**2024-12-30**|**Halma: a routing-based technique for defect mitigation in quantum error correction**|Runshi Zhou et.al.|[2412.21000v1](http://arxiv.org/abs/2412.21000v1)|null|
+|**2024-12-30**|**Genuine Quantum non-Gaussianity and metrological sensitivity of Fock states prepared in a mechanical resonator**|Q. Rumman Rahman et.al.|[2412.20971v1](http://arxiv.org/abs/2412.20971v1)|null|
+|**2024-12-30**|**Towards Compatible Fine-tuning for Vision-Language Model Updates**|Zhengbo Wang et.al.|[2412.20895v1](http://arxiv.org/abs/2412.20895v1)|null|
+|**2024-12-30**|**Incentive-Compatible Collusion-Resistance via Posted Prices**|Matheus V. X. Ferreira et.al.|[2412.20853v1](http://arxiv.org/abs/2412.20853v1)|null|
+|**2024-12-30**|**VMix: Improving Text-to-Image Diffusion Model with Cross-Attention Mixing Control**|Shaojin Wu et.al.|[2412.20800v1](http://arxiv.org/abs/2412.20800v1)|[link](https://github.com/fenfenfenfan/VMix)|
+|**2024-12-30**|**Symmetry-enforced minimal entanglement and correlation in quantum spin chains**|Kangle Li et.al.|[2412.20765v1](http://arxiv.org/abs/2412.20765v1)|null|
+|**2024-12-30**|**High-Sensitivity Vision-Based Tactile Sensing Enhanced by Microstructures and Lightweight CNN**|Mayue Shi et.al.|[2412.20758v1](http://arxiv.org/abs/2412.20758v1)|null|
+|**2024-12-30**|**Align Attention Heads Before Merging Them: An Effective Way for Converting MHA to GQA**|Qingyun Jin et.al.|[2412.20677v1](http://arxiv.org/abs/2412.20677v1)|null|
+|**2024-12-30**|**A wireless bilateral transceiver coil based on volume decoupled resonators for a clinical MR mammography**|Pavel M. Tikhonov et.al.|[2412.20625v1](http://arxiv.org/abs/2412.20625v1)|null|
+|**2024-12-29**|**$σ$-matching and interchangeable structures on the strictly upper triangular matrix algebra**|Mykola Khrypchenko et.al.|[2412.20593v1](http://arxiv.org/abs/2412.20593v1)|null|
+|**2024-12-29**|**TokenRing: An Efficient Parallelism Framework for Infinite-Context LLMs via Bidirectional Communication**|Zongwu Wang et.al.|[2412.20501v1](http://arxiv.org/abs/2412.20501v1)|null|
+|**2024-12-29**|**Automated Demand Forecasting in small to medium-sized enterprises**|Thomas Gaertner et.al.|[2412.20420v1](http://arxiv.org/abs/2412.20420v1)|null|
+|**2024-12-29**|**On the formal ribbon extension of a quasitriangular Hopf algebra**|Quinn T. Kolt et.al.|[2412.20339v1](http://arxiv.org/abs/2412.20339v1)|null|
+|**2024-12-29**|**Hybrid Feedback Control for Global Navigation with Locally Optimal Obstacle Avoidance in n-Dimensional Spaces**|Ishak Cheniouni et.al.|[2412.20320v1](http://arxiv.org/abs/2412.20320v1)|null|
+|**2024-12-28**|**Consistent deformations in the presymplectic BV-AKSZ approach**|Jordi Frias et.al.|[2412.20293v1](http://arxiv.org/abs/2412.20293v1)|null|
+|**2024-12-28**|**Top-quark pole mass extraction at NNLO accuracy**|S. Alekhin et.al.|[2412.20259v1](http://arxiv.org/abs/2412.20259v1)|null|
 |**2024-12-28**|**How To Think About End-To-End Encryption and AI: Training, Processing, Disclosure, and Consent**|Mallory Knodel et.al.|[2412.20231v1](http://arxiv.org/abs/2412.20231v1)|null|
 |**2024-12-28**|**IMSSA: Deploying modern state-space models on memristive in-memory compute hardware**|Sebastian Siegel et.al.|[2412.20215v1](http://arxiv.org/abs/2412.20215v1)|null|
-|**2024-12-28**|**Generative Regression Based Watch Time Prediction for Video Recommendation: Model and Performance**|Hongxu Ma et.al.|[2412.20211v1](http://arxiv.org/abs/2412.20211v1)|null|
 |**2024-12-28**|**Anatomy of information scrambling and decoherence in the integrable Sachdev-Ye-Kitaev model**|Antonio M. García-García et.al.|[2412.20182v1](http://arxiv.org/abs/2412.20182v1)|null|
-|**2024-12-28**|**Topic-Aware Knowledge Graph with Large Language Models for Interoperability in Recommender Systems**|Minhye Jeon et.al.|[2412.20163v1](http://arxiv.org/abs/2412.20163v1)|null|
-|**2024-12-28**|**MADiff: Text-Guided Fashion Image Editing with Mask Prediction and Attention-Enhanced Diffusion**|Zechao Zhan et.al.|[2412.20062v1](http://arxiv.org/abs/2412.20062v1)|null|
-|**2024-12-28**|**A Contrastive Pretrain Model with Prompt Tuning for Multi-center Medication Recommendation**|Qidong Liu et.al.|[2412.20040v1](http://arxiv.org/abs/2412.20040v1)|[link](https://github.com/applied-machine-learning-lab/tempt)|
-|**2024-12-28**|**Invariant debiasing learning for recommendation via biased imputation**|Ting Bai et.al.|[2412.20036v1](http://arxiv.org/abs/2412.20036v1)|[link](https://github.com/bai-lab/kd-debias)|
-|**2024-12-28**|**FashionFAE: Fine-grained Attributes Enhanced Fashion Vision-Language Pre-training**|Jiale Huang et.al.|[2412.19997v1](http://arxiv.org/abs/2412.19997v1)|null|
-|**2024-12-27**|**Structural Similarity in Deep Features: Image Quality Assessment Robust to Geometrically Disparate Reference**|Keke Zhang et.al.|[2412.19553v1](http://arxiv.org/abs/2412.19553v1)|null|
-|**2024-12-27**|**Exploiting Domain-Specific Parallel Data on Multilingual Language Models for Low-resource Language Translation**|Surangika Ranathungaa et.al.|[2412.19522v1](http://arxiv.org/abs/2412.19522v1)|null|
-|**2024-12-27**|**Exploiting Dynamic Sparsity for Near-Field Spatial Non-Stationary XL-MIMO Channel Tracking**|Wenkang Xu amd An Liu et.al.|[2412.19475v1](http://arxiv.org/abs/2412.19475v1)|null|
-|**2024-12-27**|**A Self-Efficacy Theory-based Study on the Teachers Readiness to Teach Artificial Intelligence in Public Schools in Sri Lanka**|Chathura Rajapakse et.al.|[2412.19425v1](http://arxiv.org/abs/2412.19425v1)|null|
-|**2024-12-27**|**A Matrix Logic Approach to Efficient Frequent Itemset Discovery in Large Data Sets**|Xuan Li et.al.|[2412.19420v1](http://arxiv.org/abs/2412.19420v1)|null|
-|**2024-12-26**|**The Internet of Value: Integrating Blockchain and Lightning Network Micropayments for Knowledge Markets**|Ellis Solaiman et.al.|[2412.19384v1](http://arxiv.org/abs/2412.19384v1)|null|
-|**2024-12-26**|**Task Preference Optimization: Improving Multimodal Large Language Models with Vision Task Alignment**|Ziang Yan et.al.|[2412.19326v1](http://arxiv.org/abs/2412.19326v1)|[link](https://github.com/opengvlab/tpo)|
-|**2024-12-26**|**Electron efficiency in LHC Run-2 with the ATLAS experiment**|Otilia Ducu et.al.|[2412.19323v1](http://arxiv.org/abs/2412.19323v1)|null|
-|**2024-12-26**|**Mixed-precision numerics in scientific applications: survey and perspectives**|Aditya Kashi et.al.|[2412.19322v1](http://arxiv.org/abs/2412.19322v1)|null|
-|**2024-12-26**|**From Interests to Insights: An LLM Approach to Course Recommendations Using Natural Language Queries**|Hugh Van Deventer et.al.|[2412.19312v2](http://arxiv.org/abs/2412.19312v2)|[link](https://github.com/hughvd/um-cai-fellowship)|
-|**2024-12-26**|**Analog quantum simulation of small-polaron physics in arrays of neutral atoms with Rydberg-dressed resonant dipole-dipole interaction**|Vladimir M. Stojanovic et.al.|[2412.19305v1](http://arxiv.org/abs/2412.19305v1)|null|
-|**2024-12-26**|**RecLM: Recommendation Instruction Tuning**|Yangqin Jiang et.al.|[2412.19302v2](http://arxiv.org/abs/2412.19302v2)|[link](https://github.com/hkuds/reclm)|
-|**2024-12-26**|**FineVQ: Fine-Grained User Generated Content Video Quality Assessment**|Huiyu Duan et.al.|[2412.19238v1](http://arxiv.org/abs/2412.19238v1)|null|
-|**2024-12-26**|**Towards Popularity-Aware Recommendation: A Multi-Behavior Enhanced Framework with Orthogonality Constraint**|Yishan Han et.al.|[2412.19172v1](http://arxiv.org/abs/2412.19172v1)|null|
-
-### Retrieval
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-12-30**|**Privacy-Aware Multi-Device Cooperative Edge Inference with Distributed Resource Bidding**|Wenhao Zhuang et.al.|[2412.21069v1](http://arxiv.org/abs/2412.21069v1)|null|
-|**2024-12-30**|**Visual Style Prompt Learning Using Diffusion Models for Blind Face Restoration**|Wanglong Lu et.al.|[2412.21042v1](http://arxiv.org/abs/2412.21042v1)|[link](https://github.com/longlongaaago/vspbfr)|
-|**2024-12-30**|**Plancraft: an evaluation dataset for planning with LLM agents**|Gautier Dagan et.al.|[2412.21033v1](http://arxiv.org/abs/2412.21033v1)|[link](https://github.com/gautierdag/plancraft)|
-|**2024-12-30**|**EdgeRAG: Online-Indexed RAG for Edge Devices**|Korakit Seemakhupt et.al.|[2412.21023v2](http://arxiv.org/abs/2412.21023v2)|null|
-|**2024-12-30**|**MapQaTor: A System for Efficient Annotation of Map Query Datasets**|Mahir Labib Dihan et.al.|[2412.21015v1](http://arxiv.org/abs/2412.21015v1)|[link](https://github.com/MapQaTor/.github/tree/main/profile)|
-|**2024-12-30**|**Towards Identity-Aware Cross-Modal Retrieval: a Dataset and a Baseline**|Nicola Messina et.al.|[2412.21009v1](http://arxiv.org/abs/2412.21009v1)|[link](https://github.com/mesnico/idclip)|
-|**2024-12-30**|**Quantitative Phase Retrieval and Characterization of Magnetic Nanostructures via Lorentz (Scanning) Transmission Electron Microscopy**|Kayna L. Mendoza et.al.|[2412.21005v1](http://arxiv.org/abs/2412.21005v1)|null|
-|**2024-12-30**|**Hierarchical Banzhaf Interaction for General Video-Language Representation Learning**|Peng Jin et.al.|[2412.20964v1](http://arxiv.org/abs/2412.20964v1)|[link](https://github.com/jpthu17/HBI)|
-|**2024-12-30**|**Rise of Generative Artificial Intelligence in Science**|Liangping Ding et.al.|[2412.20960v1](http://arxiv.org/abs/2412.20960v1)|null|
-|**2024-12-30**|**GASLITEing the Retrieval: Exploring Vulnerabilities in Dense Embedding-based Search**|Matan Ben-Tov et.al.|[2412.20953v1](http://arxiv.org/abs/2412.20953v1)|[link](https://github.com/matanbt/gaslite)|
-|**2024-12-30**|**ProofCloud: A Proof Retrieval Engine for Verified Proofs in Higher Order Logic**|Shuai Wang et.al.|[2412.20947v1](http://arxiv.org/abs/2412.20947v1)|null|
-|**2024-12-30**|**Ontology-grounded Automatic Knowledge Graph Construction by LLM under Wikidata schema**|Xiaohan Feng et.al.|[2412.20942v1](http://arxiv.org/abs/2412.20942v1)|null|
-|**2024-12-30**|**Enhanced Multimodal RAG-LLM for Accurate Visual Question Answering**|Junxiao Xue et.al.|[2412.20927v1](http://arxiv.org/abs/2412.20927v1)|null|
-|**2024-12-30**|**Low-Light Image Enhancement via Generative Perceptual Priors**|Han Zhou et.al.|[2412.20916v1](http://arxiv.org/abs/2412.20916v1)|null|
-|**2024-12-30**|**Language-based Audio Retrieval with Co-Attention Networks**|Haoran Sun et.al.|[2412.20914v1](http://arxiv.org/abs/2412.20914v1)|null|
-|**2024-12-30**|**Retrieval-Augmented Generation for Mobile Edge Computing via Large Language Model**|Runtao Ren et.al.|[2412.20820v1](http://arxiv.org/abs/2412.20820v1)|null|
-|**2024-12-30**|**Length-Aware DETR for Robust Moment Retrieval**|Seojeong Park et.al.|[2412.20816v1](http://arxiv.org/abs/2412.20816v1)|[link](https://github.com/sjpark5800/la-detr)|
-|**2024-12-30**|**TimeRAF: Retrieval-Augmented Foundation model for Zero-shot Time Series Forecasting**|Huanyu Zhang et.al.|[2412.20810v1](http://arxiv.org/abs/2412.20810v1)|null|
-|**2024-12-30**|**Unsupervised dense retrieval with conterfactual contrastive learning**|Haitian Chen et.al.|[2412.20756v1](http://arxiv.org/abs/2412.20756v1)|null|
-|**2024-12-30**|**Dialogue Director: Bridging the Gap in Dialogue Visualization for Multimodal Storytelling**|Min Zhang et.al.|[2412.20725v1](http://arxiv.org/abs/2412.20725v1)|null|
-|**2024-12-30**|**Enhancing Table Recognition with Vision LLMs: A Benchmark and Neighbor-Guided Toolchain Reasoner**|Yitong Zhou et.al.|[2412.20662v1](http://arxiv.org/abs/2412.20662v1)|null|
-|**2024-12-30**|**Enhancing Visual Representation for Text-based Person Searching**|Wei Shen et.al.|[2412.20646v1](http://arxiv.org/abs/2412.20646v1)|[link](https://github.com/zhangweifeng1218/vfe_tps)|
-|**2024-12-29**|**Audiopedia: Audio QA with Knowledge**|Abhirama Subramanyam Penamakuri et.al.|[2412.20619v1](http://arxiv.org/abs/2412.20619v1)|[link](https://github.com/Abhiram4572/Audiopedia)|
-|**2024-12-29**|**GliLem: Leveraging GliNER for Contextualized Lemmatization in Estonian**|Aleksei Dorkin et.al.|[2412.20597v1](http://arxiv.org/abs/2412.20597v1)|null|
-|**2024-12-29**|**"The Prophet said so!": On Exploring Hadith Presence on Arabic Social Media**|Mahmoud Fawzi et.al.|[2412.20581v1](http://arxiv.org/abs/2412.20581v1)|null|
-|**2024-12-29**|**Electro-Optic Modulator source as sample-free calibrator and frequency stabilizer for Brillouin Microscopy**|Claudia Testi et.al.|[2412.20516v1](http://arxiv.org/abs/2412.20516v1)|null|
-|**2024-12-29**|**A Comprehensive Framework for Reliable Legal AI: Combining Specialized Expert Systems and Adaptive Refinement**|Sidra Nasir et.al.|[2412.20468v1](http://arxiv.org/abs/2412.20468v1)|null|
-|**2024-12-29**|**AmalREC: A Dataset for Relation Extraction and Classification Leveraging Amalgamation of Large Language Models**|Mansi et.al.|[2412.20427v1](http://arxiv.org/abs/2412.20427v1)|null|
-|**2024-12-29**|**Comparative Performance of Advanced NLP Models and LLMs in Multilingual Geo-Entity Detection**|Kalin Kopanov et.al.|[2412.20414v1](http://arxiv.org/abs/2412.20414v1)|null|
-|**2024-12-29**|**Introducing Semantic Capability in LinkedIn's Content Search Engine**|Xin Yang et.al.|[2412.20366v2](http://arxiv.org/abs/2412.20366v2)|null|
+|**2024-12-28**|**Optimal and Feasible Contextuality-based Randomness Generation**|Yuan Liu et.al.|[2412.20126v1](http://arxiv.org/abs/2412.20126v1)|null|
 
 ### Virtual Try-On
 |Publish Date|Title|Authors|PDF|Code|
@@ -245,39 +211,73 @@
 |**2024-12-02**|**Cerberus: Attribute-based person re-identification using semantic IDs**|Chanho Eom et.al.|[2412.01048v1](http://arxiv.org/abs/2412.01048v1)|null|
 |**2024-12-01**|**SAGA: Surface-Aligned Gaussian Avatar**|Ronghan Chen et.al.|[2412.00845v1](http://arxiv.org/abs/2412.00845v1)|null|
 
-### Compatibility
+### Retrieval
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-12-30**|**Topological Responses of the Standard Model Gauge Group**|Zheyan Wan et.al.|[2412.21196v1](http://arxiv.org/abs/2412.21196v1)|null|
-|**2024-12-30**|**Abelian varieties genuinely of $\mathrm{GL}_n$-type**|Francesc Fité et.al.|[2412.21183v1](http://arxiv.org/abs/2412.21183v1)|null|
-|**2024-12-30**|**A Standardized Framework for Sensor Placement in Human Motion Capture and Wearable Applications**|Seyed Yahya Shirazi et.al.|[2412.21159v1](http://arxiv.org/abs/2412.21159v1)|null|
-|**2024-12-30**|**PyG-SSL: A Graph Self-Supervised Learning Toolkit**|Lecheng Zheng et.al.|[2412.21151v1](http://arxiv.org/abs/2412.21151v1)|[link](https://github.com/idea-isail-lab-uiuc/pyg-ssl)|
-|**2024-12-30**|**Adaptive Batch Size Schedules for Distributed Training of Language Models with Data and Model Parallelism**|Tim Tsz-Kit Lau et.al.|[2412.21124v1](http://arxiv.org/abs/2412.21124v1)|null|
-|**2024-12-30**|**A polynomial affine model of gravity: after ten years**|Oscar Castillo-Felisola et.al.|[2412.21122v1](http://arxiv.org/abs/2412.21122v1)|null|
-|**2024-12-30**|**Exploring and Controlling Diversity in LLM-Agent Conversation**|KuanChao Chu et.al.|[2412.21102v1](http://arxiv.org/abs/2412.21102v1)|null|
-|**2024-12-30**|***-Hopf algebroids**|Edwin Beggs et.al.|[2412.21089v1](http://arxiv.org/abs/2412.21089v1)|null|
-|**2024-12-30**|**Edicho: Consistent Image Editing in the Wild**|Qingyan Bai et.al.|[2412.21079v2](http://arxiv.org/abs/2412.21079v2)|[link](https://github.com/ezioby/edicho)|
 |**2024-12-30**|**Privacy-Aware Multi-Device Cooperative Edge Inference with Distributed Resource Bidding**|Wenhao Zhuang et.al.|[2412.21069v1](http://arxiv.org/abs/2412.21069v1)|null|
-|**2024-12-30**|**Halma: a routing-based technique for defect mitigation in quantum error correction**|Runshi Zhou et.al.|[2412.21000v1](http://arxiv.org/abs/2412.21000v1)|null|
-|**2024-12-30**|**Genuine Quantum non-Gaussianity and metrological sensitivity of Fock states prepared in a mechanical resonator**|Q. Rumman Rahman et.al.|[2412.20971v1](http://arxiv.org/abs/2412.20971v1)|null|
-|**2024-12-30**|**Towards Compatible Fine-tuning for Vision-Language Model Updates**|Zhengbo Wang et.al.|[2412.20895v1](http://arxiv.org/abs/2412.20895v1)|null|
-|**2024-12-30**|**Incentive-Compatible Collusion-Resistance via Posted Prices**|Matheus V. X. Ferreira et.al.|[2412.20853v1](http://arxiv.org/abs/2412.20853v1)|null|
-|**2024-12-30**|**VMix: Improving Text-to-Image Diffusion Model with Cross-Attention Mixing Control**|Shaojin Wu et.al.|[2412.20800v1](http://arxiv.org/abs/2412.20800v1)|[link](https://github.com/fenfenfenfan/VMix)|
-|**2024-12-30**|**Symmetry-enforced minimal entanglement and correlation in quantum spin chains**|Kangle Li et.al.|[2412.20765v1](http://arxiv.org/abs/2412.20765v1)|null|
-|**2024-12-30**|**High-Sensitivity Vision-Based Tactile Sensing Enhanced by Microstructures and Lightweight CNN**|Mayue Shi et.al.|[2412.20758v1](http://arxiv.org/abs/2412.20758v1)|null|
-|**2024-12-30**|**Align Attention Heads Before Merging Them: An Effective Way for Converting MHA to GQA**|Qingyun Jin et.al.|[2412.20677v1](http://arxiv.org/abs/2412.20677v1)|null|
-|**2024-12-30**|**A wireless bilateral transceiver coil based on volume decoupled resonators for a clinical MR mammography**|Pavel M. Tikhonov et.al.|[2412.20625v1](http://arxiv.org/abs/2412.20625v1)|null|
-|**2024-12-29**|**$σ$-matching and interchangeable structures on the strictly upper triangular matrix algebra**|Mykola Khrypchenko et.al.|[2412.20593v1](http://arxiv.org/abs/2412.20593v1)|null|
-|**2024-12-29**|**TokenRing: An Efficient Parallelism Framework for Infinite-Context LLMs via Bidirectional Communication**|Zongwu Wang et.al.|[2412.20501v1](http://arxiv.org/abs/2412.20501v1)|null|
-|**2024-12-29**|**Automated Demand Forecasting in small to medium-sized enterprises**|Thomas Gaertner et.al.|[2412.20420v1](http://arxiv.org/abs/2412.20420v1)|null|
-|**2024-12-29**|**On the formal ribbon extension of a quasitriangular Hopf algebra**|Quinn T. Kolt et.al.|[2412.20339v1](http://arxiv.org/abs/2412.20339v1)|null|
-|**2024-12-29**|**Hybrid Feedback Control for Global Navigation with Locally Optimal Obstacle Avoidance in n-Dimensional Spaces**|Ishak Cheniouni et.al.|[2412.20320v1](http://arxiv.org/abs/2412.20320v1)|null|
-|**2024-12-28**|**Consistent deformations in the presymplectic BV-AKSZ approach**|Jordi Frias et.al.|[2412.20293v1](http://arxiv.org/abs/2412.20293v1)|null|
-|**2024-12-28**|**Top-quark pole mass extraction at NNLO accuracy**|S. Alekhin et.al.|[2412.20259v1](http://arxiv.org/abs/2412.20259v1)|null|
+|**2024-12-30**|**Visual Style Prompt Learning Using Diffusion Models for Blind Face Restoration**|Wanglong Lu et.al.|[2412.21042v1](http://arxiv.org/abs/2412.21042v1)|[link](https://github.com/longlongaaago/vspbfr)|
+|**2024-12-30**|**Plancraft: an evaluation dataset for planning with LLM agents**|Gautier Dagan et.al.|[2412.21033v1](http://arxiv.org/abs/2412.21033v1)|[link](https://github.com/gautierdag/plancraft)|
+|**2024-12-30**|**EdgeRAG: Online-Indexed RAG for Edge Devices**|Korakit Seemakhupt et.al.|[2412.21023v2](http://arxiv.org/abs/2412.21023v2)|null|
+|**2024-12-30**|**MapQaTor: A System for Efficient Annotation of Map Query Datasets**|Mahir Labib Dihan et.al.|[2412.21015v1](http://arxiv.org/abs/2412.21015v1)|[link](https://github.com/MapQaTor/.github/tree/main/profile)|
+|**2024-12-30**|**Towards Identity-Aware Cross-Modal Retrieval: a Dataset and a Baseline**|Nicola Messina et.al.|[2412.21009v1](http://arxiv.org/abs/2412.21009v1)|[link](https://github.com/mesnico/idclip)|
+|**2024-12-30**|**Quantitative Phase Retrieval and Characterization of Magnetic Nanostructures via Lorentz (Scanning) Transmission Electron Microscopy**|Kayna L. Mendoza et.al.|[2412.21005v1](http://arxiv.org/abs/2412.21005v1)|null|
+|**2024-12-30**|**Hierarchical Banzhaf Interaction for General Video-Language Representation Learning**|Peng Jin et.al.|[2412.20964v1](http://arxiv.org/abs/2412.20964v1)|[link](https://github.com/jpthu17/HBI)|
+|**2024-12-30**|**Rise of Generative Artificial Intelligence in Science**|Liangping Ding et.al.|[2412.20960v1](http://arxiv.org/abs/2412.20960v1)|null|
+|**2024-12-30**|**GASLITEing the Retrieval: Exploring Vulnerabilities in Dense Embedding-based Search**|Matan Ben-Tov et.al.|[2412.20953v1](http://arxiv.org/abs/2412.20953v1)|[link](https://github.com/matanbt/gaslite)|
+|**2024-12-30**|**ProofCloud: A Proof Retrieval Engine for Verified Proofs in Higher Order Logic**|Shuai Wang et.al.|[2412.20947v1](http://arxiv.org/abs/2412.20947v1)|null|
+|**2024-12-30**|**Ontology-grounded Automatic Knowledge Graph Construction by LLM under Wikidata schema**|Xiaohan Feng et.al.|[2412.20942v1](http://arxiv.org/abs/2412.20942v1)|null|
+|**2024-12-30**|**Enhanced Multimodal RAG-LLM for Accurate Visual Question Answering**|Junxiao Xue et.al.|[2412.20927v1](http://arxiv.org/abs/2412.20927v1)|null|
+|**2024-12-30**|**Low-Light Image Enhancement via Generative Perceptual Priors**|Han Zhou et.al.|[2412.20916v1](http://arxiv.org/abs/2412.20916v1)|null|
+|**2024-12-30**|**Language-based Audio Retrieval with Co-Attention Networks**|Haoran Sun et.al.|[2412.20914v1](http://arxiv.org/abs/2412.20914v1)|null|
+|**2024-12-30**|**Retrieval-Augmented Generation for Mobile Edge Computing via Large Language Model**|Runtao Ren et.al.|[2412.20820v1](http://arxiv.org/abs/2412.20820v1)|null|
+|**2024-12-30**|**Length-Aware DETR for Robust Moment Retrieval**|Seojeong Park et.al.|[2412.20816v1](http://arxiv.org/abs/2412.20816v1)|[link](https://github.com/sjpark5800/la-detr)|
+|**2024-12-30**|**TimeRAF: Retrieval-Augmented Foundation model for Zero-shot Time Series Forecasting**|Huanyu Zhang et.al.|[2412.20810v1](http://arxiv.org/abs/2412.20810v1)|null|
+|**2024-12-30**|**Unsupervised dense retrieval with conterfactual contrastive learning**|Haitian Chen et.al.|[2412.20756v1](http://arxiv.org/abs/2412.20756v1)|null|
+|**2024-12-30**|**Dialogue Director: Bridging the Gap in Dialogue Visualization for Multimodal Storytelling**|Min Zhang et.al.|[2412.20725v1](http://arxiv.org/abs/2412.20725v1)|null|
+|**2024-12-30**|**Enhancing Table Recognition with Vision LLMs: A Benchmark and Neighbor-Guided Toolchain Reasoner**|Yitong Zhou et.al.|[2412.20662v1](http://arxiv.org/abs/2412.20662v1)|null|
+|**2024-12-30**|**Enhancing Visual Representation for Text-based Person Searching**|Wei Shen et.al.|[2412.20646v1](http://arxiv.org/abs/2412.20646v1)|[link](https://github.com/zhangweifeng1218/vfe_tps)|
+|**2024-12-29**|**Audiopedia: Audio QA with Knowledge**|Abhirama Subramanyam Penamakuri et.al.|[2412.20619v1](http://arxiv.org/abs/2412.20619v1)|[link](https://github.com/Abhiram4572/Audiopedia)|
+|**2024-12-29**|**GliLem: Leveraging GliNER for Contextualized Lemmatization in Estonian**|Aleksei Dorkin et.al.|[2412.20597v1](http://arxiv.org/abs/2412.20597v1)|null|
+|**2024-12-29**|**"The Prophet said so!": On Exploring Hadith Presence on Arabic Social Media**|Mahmoud Fawzi et.al.|[2412.20581v1](http://arxiv.org/abs/2412.20581v1)|null|
+|**2024-12-29**|**Electro-Optic Modulator source as sample-free calibrator and frequency stabilizer for Brillouin Microscopy**|Claudia Testi et.al.|[2412.20516v1](http://arxiv.org/abs/2412.20516v1)|null|
+|**2024-12-29**|**A Comprehensive Framework for Reliable Legal AI: Combining Specialized Expert Systems and Adaptive Refinement**|Sidra Nasir et.al.|[2412.20468v1](http://arxiv.org/abs/2412.20468v1)|null|
+|**2024-12-29**|**AmalREC: A Dataset for Relation Extraction and Classification Leveraging Amalgamation of Large Language Models**|Mansi et.al.|[2412.20427v1](http://arxiv.org/abs/2412.20427v1)|null|
+|**2024-12-29**|**Comparative Performance of Advanced NLP Models and LLMs in Multilingual Geo-Entity Detection**|Kalin Kopanov et.al.|[2412.20414v1](http://arxiv.org/abs/2412.20414v1)|null|
+|**2024-12-29**|**Introducing Semantic Capability in LinkedIn's Content Search Engine**|Xin Yang et.al.|[2412.20366v2](http://arxiv.org/abs/2412.20366v2)|null|
+
+### Recommendation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-12-30**|**Impact of Fourth Industrial Revolution (4IR) on Small and Medium Enterprises (SMEs) and Employment in Bangladesh: Opportunities and Challenges**|Toukir Ahammed et.al.|[2412.21106v1](http://arxiv.org/abs/2412.21106v1)|null|
+|**2024-12-30**|**Privacy-Aware Multi-Device Cooperative Edge Inference with Distributed Resource Bidding**|Wenhao Zhuang et.al.|[2412.21069v1](http://arxiv.org/abs/2412.21069v1)|null|
+|**2024-12-30**|**Towards Effective Discrimination Testing for Generative AI**|Thomas P. Zollo et.al.|[2412.21052v1](http://arxiv.org/abs/2412.21052v1)|null|
+|**2024-12-30**|**Robust Matrix Completion for Discrete Rating-Scale Data**|Aurore Archimbaud et.al.|[2412.20802v1](http://arxiv.org/abs/2412.20802v1)|[link](https://github.com/aalfons/rdmc)|
+|**2024-12-29**|**Regulating radiology AI medical devices that evolve in their lifecycle**|Camila González et.al.|[2412.20498v1](http://arxiv.org/abs/2412.20498v1)|null|
+|**2024-12-29**|**Protégé: Learn and Generate Basic Makeup Styles with Generative Adversarial Networks (GANs)**|Jia Wei Sii et.al.|[2412.20381v1](http://arxiv.org/abs/2412.20381v1)|null|
+|**2024-12-28**|**Recommender Engine Driven Client Selection in Federated Brain Tumor Segmentation**|Muhammad Irfan Khan et.al.|[2412.20250v1](http://arxiv.org/abs/2412.20250v1)|null|
 |**2024-12-28**|**How To Think About End-To-End Encryption and AI: Training, Processing, Disclosure, and Consent**|Mallory Knodel et.al.|[2412.20231v1](http://arxiv.org/abs/2412.20231v1)|null|
 |**2024-12-28**|**IMSSA: Deploying modern state-space models on memristive in-memory compute hardware**|Sebastian Siegel et.al.|[2412.20215v1](http://arxiv.org/abs/2412.20215v1)|null|
+|**2024-12-28**|**Generative Regression Based Watch Time Prediction for Video Recommendation: Model and Performance**|Hongxu Ma et.al.|[2412.20211v1](http://arxiv.org/abs/2412.20211v1)|null|
 |**2024-12-28**|**Anatomy of information scrambling and decoherence in the integrable Sachdev-Ye-Kitaev model**|Antonio M. García-García et.al.|[2412.20182v1](http://arxiv.org/abs/2412.20182v1)|null|
-|**2024-12-28**|**Optimal and Feasible Contextuality-based Randomness Generation**|Yuan Liu et.al.|[2412.20126v1](http://arxiv.org/abs/2412.20126v1)|null|
+|**2024-12-28**|**Topic-Aware Knowledge Graph with Large Language Models for Interoperability in Recommender Systems**|Minhye Jeon et.al.|[2412.20163v1](http://arxiv.org/abs/2412.20163v1)|null|
+|**2024-12-28**|**MADiff: Text-Guided Fashion Image Editing with Mask Prediction and Attention-Enhanced Diffusion**|Zechao Zhan et.al.|[2412.20062v1](http://arxiv.org/abs/2412.20062v1)|null|
+|**2024-12-28**|**A Contrastive Pretrain Model with Prompt Tuning for Multi-center Medication Recommendation**|Qidong Liu et.al.|[2412.20040v1](http://arxiv.org/abs/2412.20040v1)|[link](https://github.com/applied-machine-learning-lab/tempt)|
+|**2024-12-28**|**Invariant debiasing learning for recommendation via biased imputation**|Ting Bai et.al.|[2412.20036v1](http://arxiv.org/abs/2412.20036v1)|[link](https://github.com/bai-lab/kd-debias)|
+|**2024-12-28**|**FashionFAE: Fine-grained Attributes Enhanced Fashion Vision-Language Pre-training**|Jiale Huang et.al.|[2412.19997v1](http://arxiv.org/abs/2412.19997v1)|null|
+|**2024-12-27**|**Structural Similarity in Deep Features: Image Quality Assessment Robust to Geometrically Disparate Reference**|Keke Zhang et.al.|[2412.19553v1](http://arxiv.org/abs/2412.19553v1)|null|
+|**2024-12-27**|**Exploiting Domain-Specific Parallel Data on Multilingual Language Models for Low-resource Language Translation**|Surangika Ranathungaa et.al.|[2412.19522v1](http://arxiv.org/abs/2412.19522v1)|null|
+|**2024-12-27**|**Exploiting Dynamic Sparsity for Near-Field Spatial Non-Stationary XL-MIMO Channel Tracking**|Wenkang Xu amd An Liu et.al.|[2412.19475v1](http://arxiv.org/abs/2412.19475v1)|null|
+|**2024-12-27**|**A Self-Efficacy Theory-based Study on the Teachers Readiness to Teach Artificial Intelligence in Public Schools in Sri Lanka**|Chathura Rajapakse et.al.|[2412.19425v1](http://arxiv.org/abs/2412.19425v1)|null|
+|**2024-12-27**|**A Matrix Logic Approach to Efficient Frequent Itemset Discovery in Large Data Sets**|Xuan Li et.al.|[2412.19420v1](http://arxiv.org/abs/2412.19420v1)|null|
+|**2024-12-26**|**The Internet of Value: Integrating Blockchain and Lightning Network Micropayments for Knowledge Markets**|Ellis Solaiman et.al.|[2412.19384v1](http://arxiv.org/abs/2412.19384v1)|null|
+|**2024-12-26**|**Task Preference Optimization: Improving Multimodal Large Language Models with Vision Task Alignment**|Ziang Yan et.al.|[2412.19326v1](http://arxiv.org/abs/2412.19326v1)|[link](https://github.com/opengvlab/tpo)|
+|**2024-12-26**|**Electron efficiency in LHC Run-2 with the ATLAS experiment**|Otilia Ducu et.al.|[2412.19323v1](http://arxiv.org/abs/2412.19323v1)|null|
+|**2024-12-26**|**Mixed-precision numerics in scientific applications: survey and perspectives**|Aditya Kashi et.al.|[2412.19322v1](http://arxiv.org/abs/2412.19322v1)|null|
+|**2024-12-26**|**From Interests to Insights: An LLM Approach to Course Recommendations Using Natural Language Queries**|Hugh Van Deventer et.al.|[2412.19312v2](http://arxiv.org/abs/2412.19312v2)|[link](https://github.com/hughvd/um-cai-fellowship)|
+|**2024-12-26**|**Analog quantum simulation of small-polaron physics in arrays of neutral atoms with Rydberg-dressed resonant dipole-dipole interaction**|Vladimir M. Stojanovic et.al.|[2412.19305v1](http://arxiv.org/abs/2412.19305v1)|null|
+|**2024-12-26**|**RecLM: Recommendation Instruction Tuning**|Yangqin Jiang et.al.|[2412.19302v2](http://arxiv.org/abs/2412.19302v2)|[link](https://github.com/hkuds/reclm)|
+|**2024-12-26**|**FineVQ: Fine-Grained User Generated Content Video Quality Assessment**|Huiyu Duan et.al.|[2412.19238v1](http://arxiv.org/abs/2412.19238v1)|null|
+|**2024-12-26**|**Towards Popularity-Aware Recommendation: A Multi-Behavior Enhanced Framework with Orthogonality Constraint**|Yishan Han et.al.|[2412.19172v1](http://arxiv.org/abs/2412.19172v1)|null|
 
 ## Transformer
 
