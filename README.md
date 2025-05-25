@@ -1,43 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2025-05-24 21:15:46 Asia/Shanghai
+ Automated deployment @ 2025-05-25 10:03:21 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
 ## Fashion
-
-### Retrieval
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-22**|**R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning**|Huatong Song et.al.|[2505.17005v1](http://arxiv.org/abs/2505.17005v1)|null|
-|**2025-05-22**|**$\text{R}^2\text{ec}$: Towards Large Recommender Models with Reasoning**|Runyang You et.al.|[2505.16994v1](http://arxiv.org/abs/2505.16994v1)|null|
-|**2025-05-22**|**VeriFastScore: Speeding up long-form factuality evaluation**|Rishanth Rajendhran et.al.|[2505.16973v1](http://arxiv.org/abs/2505.16973v1)|null|
-|**2025-05-22**|**Fixing Data That Hurts Performance: Cascading LLMs to Relabel Hard Negatives for Robust Information Retrieval**|Nandan Thakur et.al.|[2505.16967v1](http://arxiv.org/abs/2505.16967v1)|null|
-|**2025-05-22**|**Don't "Overthink" Passage Reranking: Is Reasoning Truly Necessary?**|Nour Jedidi et.al.|[2505.16886v1](http://arxiv.org/abs/2505.16886v1)|null|
-|**2025-05-22**|**LARES: Latent Reasoning for Sequential Recommendation**|Enze Liu et.al.|[2505.16865v1](http://arxiv.org/abs/2505.16865v1)|null|
-|**2025-05-22**|**Walk&Retrieve: Simple Yet Effective Zero-shot Retrieval-Augmented Generation via Knowledge Graph Walks**|Martin Böckling et.al.|[2505.16849v1](http://arxiv.org/abs/2505.16849v1)|[link](https://github.com/MartinBoeckling/KGRag)|
-|**2025-05-22**|**SimpleDeepSearcher: Deep Information Seeking via Web-Powered Reasoning Trajectory Synthesis**|Shuang Sun et.al.|[2505.16834v1](http://arxiv.org/abs/2505.16834v1)|null|
-|**2025-05-22**|**DeepRec: Towards a Deep Dive Into the Item Space with Large Language Model Based Recommendation**|Bowen Zheng et.al.|[2505.16810v1](http://arxiv.org/abs/2505.16810v1)|null|
-|**2025-05-22**|**Two-way Evidence self-Alignment based Dual-Gated Reasoning Enhancement**|Kexin Zhang et.al.|[2505.16806v1](http://arxiv.org/abs/2505.16806v1)|null|
-|**2025-05-22**|**Representation Discrepancy Bridging Method for Remote Sensing Image-Text Retrieval**|Hailong Ning et.al.|[2505.16756v1](http://arxiv.org/abs/2505.16756v1)|null|
-|**2025-05-22**|**PyTupli: A Scalable Infrastructure for Collaborative Offline Reinforcement Learning Projects**|Hannah Markgraf et.al.|[2505.16754v1](http://arxiv.org/abs/2505.16754v1)|null|
-|**2025-05-22**|**Action is All You Need: Dual-Flow Generative Ranking Network for Recommendation**|Hao Guo et.al.|[2505.16752v1](http://arxiv.org/abs/2505.16752v1)|null|
-|**2025-05-22**|**A Novel Generative Model with Causality Constraint for Mitigating Biases in Recommender Systems**|Jianfeng Deng et.al.|[2505.16708v1](http://arxiv.org/abs/2505.16708v1)|null|
-|**2025-05-22**|**EZ-VC: Easy Zero-shot Any-to-Any Voice Conversion**|Advait Joglekar et.al.|[2505.16691v1](http://arxiv.org/abs/2505.16691v1)|null|
-|**2025-05-22**|**MDVT: Enhancing Multimodal Recommendation with Model-Agnostic Multimodal-Driven Virtual Triplets**|Jinfeng Xu et.al.|[2505.16665v1](http://arxiv.org/abs/2505.16665v1)|null|
-|**2025-05-22**|**MiLQ: Benchmarking IR Models for Bilingual Web Search with Mixed Language Queries**|Jonghwi Kim et.al.|[2505.16631v1](http://arxiv.org/abs/2505.16631v1)|null|
-|**2025-05-22**|**Beyond LLMs: An Exploration of Small Open-source Language Models in Logging Statement Generation**|Renyi Zhong et.al.|[2505.16590v1](http://arxiv.org/abs/2505.16590v1)|null|
-|**2025-05-22**|**EMULATE: A Multi-Agent Framework for Determining the Veracity of Atomic Claims by Emulating Human Actions**|Spencer Hong et.al.|[2505.16576v1](http://arxiv.org/abs/2505.16576v1)|null|
-|**2025-05-22**|**URLs Help, Topics Guide: Understanding Metadata Utility in LLM Training**|Dongyang Fan et.al.|[2505.16570v1](http://arxiv.org/abs/2505.16570v1)|null|
-|**2025-05-22**|**Causal-Invariant Cross-Domain Out-of-Distribution Recommendation**|Jiajie Zhu et.al.|[2505.16532v1](http://arxiv.org/abs/2505.16532v1)|null|
-|**2025-05-22**|**CUB: Benchmarking Context Utilisation Techniques for Language Models**|Lovisa Hagström et.al.|[2505.16518v1](http://arxiv.org/abs/2505.16518v1)|null|
-|**2025-05-22**|**Utilizing citation index and synthetic quality measure to compare Wikipedia languages across various topics**|Włodzimierz Lewoniewski et.al.|[2505.16506v1](http://arxiv.org/abs/2505.16506v1)|null|
-|**2025-05-22**|**Benchmarking Retrieval-Augmented Multimomal Generation for Document Question Answering**|Kuicai Dong et.al.|[2505.16470v1](http://arxiv.org/abs/2505.16470v1)|null|
-|**2025-05-22**|**Conf-GNNRec: Quantifying and Calibrating the Prediction Confidence for GNN-based Recommendation Methods**|Meng Yan et.al.|[2505.16466v1](http://arxiv.org/abs/2505.16466v1)|null|
-|**2025-05-22**|**Attributing Response to Context: A Jensen-Shannon Divergence Driven Mechanistic Study of Context Attribution in Retrieval-Augmented Generation**|Ruizhe Li et.al.|[2505.16415v1](http://arxiv.org/abs/2505.16415v1)|null|
-|**2025-05-22**|**FREESON: Retriever-Free Retrieval-Augmented Reasoning via Corpus-Traversing MCTS**|Chaeeun Kim et.al.|[2505.16409v1](http://arxiv.org/abs/2505.16409v1)|null|
-|**2025-05-22**|**Quantum-Driven Multihead Inland Waterbody Detection With Transformer-Encoded CYGNSS Delay-Doppler Map Data**|Chia-Hsiang Lin et.al.|[2505.16391v1](http://arxiv.org/abs/2505.16391v1)|null|
-|**2025-05-22**|**DeCafNet: Delegate and Conquer for Efficient Temporal Grounding in Long Videos**|Zijia Lu et.al.|[2505.16376v1](http://arxiv.org/abs/2505.16376v1)|null|
-|**2025-05-22**|**Chain-of-Thought Poisoning Attacks against R1-based Retrieval-Augmented Generation Systems**|Hongru Song et.al.|[2505.16367v1](http://arxiv.org/abs/2505.16367v1)|null|
 
 ### Attribute
 |Publish Date|Title|Authors|PDF|Code|
@@ -72,6 +38,108 @@
 |**2025-05-22**|**Semantic Pivots Enable Cross-Lingual Transfer in Large Language Models**|Kaiyu He et.al.|[2505.16385v1](http://arxiv.org/abs/2505.16385v1)|null|
 |**2025-05-22**|**Estimating Perceptual Attributes of Haptic Textures Using Visuo-Tactile Data**|Mudassir Ibrahim Awan et.al.|[2505.16352v1](http://arxiv.org/abs/2505.16352v1)|null|
 |**2025-05-22**|**Panoptic Captioning: Seeking An Equivalency Bridge for Image and Text**|Kun-Yu Lin et.al.|[2505.16334v1](http://arxiv.org/abs/2505.16334v1)|null|
+
+### Compatibility
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-22**|**3D Equivariant Visuomotor Policy Learning via Spherical Projection**|Boce Hu et.al.|[2505.16969v1](http://arxiv.org/abs/2505.16969v1)|null|
+|**2025-05-22**|**CASS: Nvidia to AMD Transpilation with Data, Models, and Benchmark**|Ahmed Heakl et.al.|[2505.16968v1](http://arxiv.org/abs/2505.16968v1)|null|
+|**2025-05-22**|**The Polar Express: Optimal Matrix Sign Methods and Their Application to the Muon Algorithm**|Noah Amsel et.al.|[2505.16932v1](http://arxiv.org/abs/2505.16932v1)|null|
+|**2025-05-22**|**LARES: Latent Reasoning for Sequential Recommendation**|Enze Liu et.al.|[2505.16865v1](http://arxiv.org/abs/2505.16865v1)|null|
+|**2025-05-22**|**Satellite-assisted Entanglement Distribution with High-Dimensional Photonic Encoding**|V. Domínguez Tubío et.al.|[2505.16751v1](http://arxiv.org/abs/2505.16751v1)|null|
+|**2025-05-22**|**PulserDiff: a pulse differentiable extension for Pulser**|Vytautas Abramavicius et.al.|[2505.16744v1](http://arxiv.org/abs/2505.16744v1)|null|
+|**2025-05-22**|**MCP-RADAR: A Multi-Dimensional Benchmark for Evaluating Tool Use Capabilities in Large Language Models**|Xuanqi Gao et.al.|[2505.16700v1](http://arxiv.org/abs/2505.16700v1)|null|
+|**2025-05-22**|**EZ-VC: Easy Zero-shot Any-to-Any Voice Conversion**|Advait Joglekar et.al.|[2505.16691v1](http://arxiv.org/abs/2505.16691v1)|null|
+|**2025-05-22**|**Hybrid Parameterized Quantum States for Variational Quantum Learning**|Chen-Yu Liu et.al.|[2505.16676v1](http://arxiv.org/abs/2505.16676v1)|null|
+|**2025-05-22**|**Learning non-equilibrium diffusions with Schrödinger bridges: from exactly solvable to simulation-free**|Stephen Y. Zhang et.al.|[2505.16644v1](http://arxiv.org/abs/2505.16644v1)|null|
+|**2025-05-22**|**URLs Help, Topics Guide: Understanding Metadata Utility in LLM Training**|Dongyang Fan et.al.|[2505.16570v1](http://arxiv.org/abs/2505.16570v1)|null|
+|**2025-05-22**|**Consistent and Compatible Modelling of Cyber Intrusions and Incident Response Demonstrated in the Context of Malware Attacks on Critical Infrastructure**|Peter Maynard et.al.|[2505.16398v1](http://arxiv.org/abs/2505.16398v1)|null|
+|**2025-05-22**|**Is Quantum Optimization Ready? An Effort Towards Neural Network Compression using Adiabatic Quantum Computing**|Zhehui Wanga et.al.|[2505.16332v1](http://arxiv.org/abs/2505.16332v1)|null|
+|**2025-05-22**|**TensorAR: Refinement is All You Need in Autoregressive Image Generation**|Cheng Cheng et.al.|[2505.16324v1](http://arxiv.org/abs/2505.16324v1)|null|
+|**2025-05-22**|**Spontaneous Speech Variables for Evaluating LLMs Cognitive Plausibility**|Sheng-Fu Wang et.al.|[2505.16277v1](http://arxiv.org/abs/2505.16277v1)|null|
+|**2025-05-22**|**MADCluster: Model-agnostic Anomaly Detection with Self-supervised Clustering Network**|Sangyong Lee et.al.|[2505.16223v1](http://arxiv.org/abs/2505.16223v1)|null|
+|**2025-05-22**|**Sudoku-Bench: Evaluating creative reasoning with Sudoku variants**|Jeffrey Seely et.al.|[2505.16135v1](http://arxiv.org/abs/2505.16135v1)|null|
+|**2025-05-22**|**Towards Stream-Based Monitoring for EVM Networks**|Emanuel Onica et.al.|[2505.16095v1](http://arxiv.org/abs/2505.16095v1)|null|
+|**2025-05-21**|**Bidirectional Variational Autoencoders**|Bart Kosko et.al.|[2505.16074v1](http://arxiv.org/abs/2505.16074v1)|null|
+|**2025-05-21**|**Fast-wave slow-wave spectral deferred correction methods applied to the compressible Euler equations**|Alex Brown et.al.|[2505.15985v1](http://arxiv.org/abs/2505.15985v1)|null|
+|**2025-05-21**|**Training Step-Level Reasoning Verifiers with Formal Verification Tools**|Ryo Kamoi et.al.|[2505.15960v1](http://arxiv.org/abs/2505.15960v1)|null|
+|**2025-05-21**|**The Hydrodynamic Approach to Quantum Gravity**|T. Banks et.al.|[2505.15941v1](http://arxiv.org/abs/2505.15941v1)|null|
+|**2025-05-21**|**PhyX: Does Your Model Have the "Wits" for Physical Reasoning?**|Hui Shen et.al.|[2505.15929v1](http://arxiv.org/abs/2505.15929v1)|null|
+|**2025-05-21**|**Challenger: Affordable Adversarial Driving Video Generation**|Zhiyuan Xu et.al.|[2505.15880v1](http://arxiv.org/abs/2505.15880v1)|null|
+|**2025-05-21**|**Deep greedy unfolding: Sorting out argsorting in greedy sparse recovery algorithms**|Sina Mohammad-Taheri et.al.|[2505.15661v1](http://arxiv.org/abs/2505.15661v1)|null|
+|**2025-05-21**|**A Methodology to Evaluate Strategies Predicting Rankings on Unseen Domains**|Sébastien Piérard et.al.|[2505.15595v1](http://arxiv.org/abs/2505.15595v1)|null|
+|**2025-05-21**|**An enhanced extriangulated subquotient**|Nao Mochizuki et.al.|[2505.15534v1](http://arxiv.org/abs/2505.15534v1)|null|
+|**2025-05-21**|**Continuous-time iterative linear-quadratic regulator**|Juraj Lieskovský et.al.|[2505.15525v1](http://arxiv.org/abs/2505.15525v1)|null|
+|**2025-05-21**|**Directional Non-Commutative Monoidal Structures for Compositional Embeddings in Machine Learning**|Mahesh Godavarti et.al.|[2505.15507v1](http://arxiv.org/abs/2505.15507v1)|null|
+|**2025-05-21**|**Efficient Differentiable Approximation of Generalized Low-rank Regularization**|Naiqi Li et.al.|[2505.15407v1](http://arxiv.org/abs/2505.15407v1)|[link](https://github.com/naiqili/edlrr)|
+
+### Virtual Try-On
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-22**|**Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction**|Dong Li et.al.|[2505.16980v1](http://arxiv.org/abs/2505.16980v1)|null|
+|**2025-05-22**|**Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On**|Siqi Wan et.al.|[2505.16977v1](http://arxiv.org/abs/2505.16977v1)|null|
+|**2025-04-17**|**Enhancing Person-to-Person Virtual Try-On with Multi-Garment Virtual Try-Off**|Riza Velioglu et.al.|[2504.13078v1](http://arxiv.org/abs/2504.13078v1)|[link](https://github.com/rizavelioglu/tryoffdiff)|
+|**2025-03-11**|**MF-VITON: High-Fidelity Mask-Free Virtual Try-On with Minimal Input**|Zhenchen Wan et.al.|[2503.08650v1](http://arxiv.org/abs/2503.08650v1)|null|
+|**2025-02-13**|**E-MD3C: Taming Masked Diffusion Transformers for Efficient Zero-Shot Object Customization**|Trung X. Pham et.al.|[2502.09164v1](http://arxiv.org/abs/2502.09164v1)|null|
+|**2025-01-20**|**EfficientVITON: An Efficient Virtual Try-On Model using Optimized Diffusion Process**|Mostafa Atef et.al.|[2501.11776v1](http://arxiv.org/abs/2501.11776v1)|null|
+|**2025-01-08**|**Enhancing Virtual Try-On with Synthetic Pairs and Error-Aware Noise Scheduling**|Nannan Li et.al.|[2501.04666v3](http://arxiv.org/abs/2501.04666v3)|null|
+|**2025-01-07**|**HYB-VITON: A Hybrid Approach to Virtual Try-On Combining Explicit and Implicit Warping**|Kosuke Takemoto et.al.|[2501.03910v1](http://arxiv.org/abs/2501.03910v1)|[link](https://github.com/takesukeds/hyb-viton)|
+|**2024-12-13**|**Dynamic Try-On: Taming Video Virtual Try-on with Dynamic Attention Mechanism**|Jun Zheng et.al.|[2412.09822v1](http://arxiv.org/abs/2412.09822v1)|null|
+|**2024-12-11**|**TryOffAnyone: Tiled Cloth Generation from a Dressed Person**|Ioannis Xarchakos et.al.|[2412.08573v2](http://arxiv.org/abs/2412.08573v2)|[link](https://github.com/ixarchakos/try-off-anyone)|
+|**2024-11-27**|**TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models**|Riza Velioglu et.al.|[2411.18350v1](http://arxiv.org/abs/2411.18350v1)|[link](https://github.com/rizavelioglu/tryoffdiff)|
+|**2024-11-26**|**TED-VITON: Transformer-Empowered Diffusion Models for Virtual Try-On**|Zhenchen Wan et.al.|[2411.17017v3](http://arxiv.org/abs/2411.17017v3)|[link](https://github.com/zhenchenwan/ted-viton)|
+|**2024-11-15**|**Try-On-Adapter: A Simple and Flexible Try-On Paradigm**|Hanzhong Guo et.al.|[2411.10187v1](http://arxiv.org/abs/2411.10187v1)|null|
+|**2024-10-16**|**Surface plasmon resonance sensor based on a novel prism for the detection of a broad range of polymers**|Natalia A. Gutierrez Andrade et.al.|[2410.12440v2](http://arxiv.org/abs/2410.12440v2)|null|
+|**2024-09-22**|**GlamTry: Advancing Virtual Try-On for High-End Accessories**|Ting-Yu Chang et.al.|[2409.14553v1](http://arxiv.org/abs/2409.14553v1)|null|
+|**2024-09-12**|**Improving Virtual Try-On with Garment-focused Diffusion Models**|Siqi Wan et.al.|[2409.08258v1](http://arxiv.org/abs/2409.08258v1)|[link](https://github.com/siqi0905/gardiff)|
+|**2024-09-02**|**DPDEdit: Detail-Preserved Diffusion Models for Multimodal Fashion Image Editing**|Xiaolong Wang et.al.|[2409.01086v2](http://arxiv.org/abs/2409.01086v2)|null|
+|**2024-07-15**|**WildVidFit: Video Virtual Try-On in the Wild via Image-Based Controlled Diffusion Models**|Zijian He et.al.|[2407.10625v1](http://arxiv.org/abs/2407.10625v1)|null|
+|**2024-07-04**|**DiCTI: Diffusion-based Clothing Designer via Text-guided Input**|Ajda Lampe et.al.|[2407.03901v1](http://arxiv.org/abs/2407.03901v1)|null|
+|**2024-06-04**|**GraVITON: Graph based garment warping with attention guided inversion for Virtual-tryon**|Sanhita Pathak et.al.|[2406.02184v1](http://arxiv.org/abs/2406.02184v1)|null|
+|**2024-05-28**|**VITON-DiT: Learning In-the-Wild Video Try-On from Human Dance Videos via Diffusion Transformers**|Jun Zheng et.al.|[2405.18326v2](http://arxiv.org/abs/2405.18326v2)|null|
+|**2024-05-01**|**MMTryon: Multi-Modal Multi-Reference Control for High-Quality Fashion Generation**|Xujie Zhang et.al.|[2405.00448v4](http://arxiv.org/abs/2405.00448v4)|null|
+|**2024-04-26**|**Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos**|Zhengze Xu et.al.|[2404.17571v1](http://arxiv.org/abs/2404.17571v1)|null|
+|**2024-04-26**|**FashionSD-X: Multimodal Fashion Garment Synthesis using Latent Diffusion**|Abhishek Kumar Singh et.al.|[2404.18591v1](http://arxiv.org/abs/2404.18591v1)|null|
+|**2024-04-26**|**MV-VTON: Multi-View Virtual Try-On with Diffusion Models**|Haoyu Wang et.al.|[2404.17364v4](http://arxiv.org/abs/2404.17364v4)|[link](https://github.com/hywang2002/mv-vton)|
+|**2024-04-22**|**FLDM-VTON: Faithful Latent Diffusion Model for Virtual Try-on**|Chenhui Wang et.al.|[2404.14162v3](http://arxiv.org/abs/2404.14162v3)|null|
+|**2024-04-01**|**Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On**|Xu Yang et.al.|[2404.01089v1](http://arxiv.org/abs/2404.01089v1)|[link](https://github.com/gal4way/tpd)|
+|**2024-03-21**|**Multimodal-Conditioned Latent Diffusion Models for Fashion Image Editing**|Alberto Baldrati et.al.|[2403.14828v2](http://arxiv.org/abs/2403.14828v2)|[link](https://github.com/aimagelab/ti-mgd)|
+|**2024-03-12**|**Time-Efficient and Identity-Consistent Virtual Try-On Using A Variant of Altered Diffusion Models**|Phuong Dam et.al.|[2403.07371v3](http://arxiv.org/abs/2403.07371v3)|null|
+|**2024-03-04**|**OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**|Yuhao Xu et.al.|[2403.01779v2](http://arxiv.org/abs/2403.01779v2)|[link](https://github.com/levihsu/ootdiffusion)|
+
+### Retrieval
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-22**|**R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning**|Huatong Song et.al.|[2505.17005v1](http://arxiv.org/abs/2505.17005v1)|null|
+|**2025-05-22**|**$\text{R}^2\text{ec}$: Towards Large Recommender Models with Reasoning**|Runyang You et.al.|[2505.16994v1](http://arxiv.org/abs/2505.16994v1)|null|
+|**2025-05-22**|**VeriFastScore: Speeding up long-form factuality evaluation**|Rishanth Rajendhran et.al.|[2505.16973v1](http://arxiv.org/abs/2505.16973v1)|null|
+|**2025-05-22**|**Fixing Data That Hurts Performance: Cascading LLMs to Relabel Hard Negatives for Robust Information Retrieval**|Nandan Thakur et.al.|[2505.16967v1](http://arxiv.org/abs/2505.16967v1)|null|
+|**2025-05-22**|**Don't "Overthink" Passage Reranking: Is Reasoning Truly Necessary?**|Nour Jedidi et.al.|[2505.16886v1](http://arxiv.org/abs/2505.16886v1)|null|
+|**2025-05-22**|**LARES: Latent Reasoning for Sequential Recommendation**|Enze Liu et.al.|[2505.16865v1](http://arxiv.org/abs/2505.16865v1)|null|
+|**2025-05-22**|**Walk&Retrieve: Simple Yet Effective Zero-shot Retrieval-Augmented Generation via Knowledge Graph Walks**|Martin Böckling et.al.|[2505.16849v1](http://arxiv.org/abs/2505.16849v1)|[link](https://github.com/MartinBoeckling/KGRag)|
+|**2025-05-22**|**SimpleDeepSearcher: Deep Information Seeking via Web-Powered Reasoning Trajectory Synthesis**|Shuang Sun et.al.|[2505.16834v1](http://arxiv.org/abs/2505.16834v1)|null|
+|**2025-05-22**|**DeepRec: Towards a Deep Dive Into the Item Space with Large Language Model Based Recommendation**|Bowen Zheng et.al.|[2505.16810v1](http://arxiv.org/abs/2505.16810v1)|null|
+|**2025-05-22**|**Two-way Evidence self-Alignment based Dual-Gated Reasoning Enhancement**|Kexin Zhang et.al.|[2505.16806v1](http://arxiv.org/abs/2505.16806v1)|null|
+|**2025-05-22**|**Representation Discrepancy Bridging Method for Remote Sensing Image-Text Retrieval**|Hailong Ning et.al.|[2505.16756v1](http://arxiv.org/abs/2505.16756v1)|null|
+|**2025-05-22**|**PyTupli: A Scalable Infrastructure for Collaborative Offline Reinforcement Learning Projects**|Hannah Markgraf et.al.|[2505.16754v1](http://arxiv.org/abs/2505.16754v1)|null|
+|**2025-05-22**|**Action is All You Need: Dual-Flow Generative Ranking Network for Recommendation**|Hao Guo et.al.|[2505.16752v1](http://arxiv.org/abs/2505.16752v1)|null|
+|**2025-05-22**|**A Novel Generative Model with Causality Constraint for Mitigating Biases in Recommender Systems**|Jianfeng Deng et.al.|[2505.16708v1](http://arxiv.org/abs/2505.16708v1)|null|
+|**2025-05-22**|**EZ-VC: Easy Zero-shot Any-to-Any Voice Conversion**|Advait Joglekar et.al.|[2505.16691v1](http://arxiv.org/abs/2505.16691v1)|null|
+|**2025-05-22**|**MDVT: Enhancing Multimodal Recommendation with Model-Agnostic Multimodal-Driven Virtual Triplets**|Jinfeng Xu et.al.|[2505.16665v1](http://arxiv.org/abs/2505.16665v1)|null|
+|**2025-05-22**|**MiLQ: Benchmarking IR Models for Bilingual Web Search with Mixed Language Queries**|Jonghwi Kim et.al.|[2505.16631v1](http://arxiv.org/abs/2505.16631v1)|null|
+|**2025-05-22**|**Beyond LLMs: An Exploration of Small Open-source Language Models in Logging Statement Generation**|Renyi Zhong et.al.|[2505.16590v1](http://arxiv.org/abs/2505.16590v1)|null|
+|**2025-05-22**|**EMULATE: A Multi-Agent Framework for Determining the Veracity of Atomic Claims by Emulating Human Actions**|Spencer Hong et.al.|[2505.16576v1](http://arxiv.org/abs/2505.16576v1)|null|
+|**2025-05-22**|**URLs Help, Topics Guide: Understanding Metadata Utility in LLM Training**|Dongyang Fan et.al.|[2505.16570v1](http://arxiv.org/abs/2505.16570v1)|null|
+|**2025-05-22**|**Causal-Invariant Cross-Domain Out-of-Distribution Recommendation**|Jiajie Zhu et.al.|[2505.16532v1](http://arxiv.org/abs/2505.16532v1)|null|
+|**2025-05-22**|**CUB: Benchmarking Context Utilisation Techniques for Language Models**|Lovisa Hagström et.al.|[2505.16518v1](http://arxiv.org/abs/2505.16518v1)|null|
+|**2025-05-22**|**Utilizing citation index and synthetic quality measure to compare Wikipedia languages across various topics**|Włodzimierz Lewoniewski et.al.|[2505.16506v1](http://arxiv.org/abs/2505.16506v1)|null|
+|**2025-05-22**|**Benchmarking Retrieval-Augmented Multimomal Generation for Document Question Answering**|Kuicai Dong et.al.|[2505.16470v1](http://arxiv.org/abs/2505.16470v1)|null|
+|**2025-05-22**|**Conf-GNNRec: Quantifying and Calibrating the Prediction Confidence for GNN-based Recommendation Methods**|Meng Yan et.al.|[2505.16466v1](http://arxiv.org/abs/2505.16466v1)|null|
+|**2025-05-22**|**Attributing Response to Context: A Jensen-Shannon Divergence Driven Mechanistic Study of Context Attribution in Retrieval-Augmented Generation**|Ruizhe Li et.al.|[2505.16415v1](http://arxiv.org/abs/2505.16415v1)|null|
+|**2025-05-22**|**FREESON: Retriever-Free Retrieval-Augmented Reasoning via Corpus-Traversing MCTS**|Chaeeun Kim et.al.|[2505.16409v1](http://arxiv.org/abs/2505.16409v1)|null|
+|**2025-05-22**|**Quantum-Driven Multihead Inland Waterbody Detection With Transformer-Encoded CYGNSS Delay-Doppler Map Data**|Chia-Hsiang Lin et.al.|[2505.16391v1](http://arxiv.org/abs/2505.16391v1)|null|
+|**2025-05-22**|**DeCafNet: Delegate and Conquer for Efficient Temporal Grounding in Long Videos**|Zijia Lu et.al.|[2505.16376v1](http://arxiv.org/abs/2505.16376v1)|null|
+|**2025-05-22**|**Chain-of-Thought Poisoning Attacks against R1-based Retrieval-Augmented Generation Systems**|Hongru Song et.al.|[2505.16367v1](http://arxiv.org/abs/2505.16367v1)|null|
 
 ### General
 |Publish Date|Title|Authors|PDF|Code|
@@ -139,74 +207,6 @@
 |**2025-05-21**|**Who "Controls" Where Work Shall be Done? State-of-Practice in Post-Pandemic Remote Work Regulation**|Darja Smite et.al.|[2505.15743v1](http://arxiv.org/abs/2505.15743v1)|null|
 |**2025-05-21**|**A Methodology to Evaluate Strategies Predicting Rankings on Unseen Domains**|Sébastien Piérard et.al.|[2505.15595v1](http://arxiv.org/abs/2505.15595v1)|null|
 |**2025-05-21**|**What Is Serendipity? An Interview Study to Conceptualize Experienced Serendipity in Recommender Systems**|Brett Binst et.al.|[2505.15440v1](http://arxiv.org/abs/2505.15440v1)|null|
-|**2025-05-21**|**Efficient Differentiable Approximation of Generalized Low-rank Regularization**|Naiqi Li et.al.|[2505.15407v1](http://arxiv.org/abs/2505.15407v1)|[link](https://github.com/naiqili/edlrr)|
-
-### Virtual Try-On
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-22**|**Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction**|Dong Li et.al.|[2505.16980v1](http://arxiv.org/abs/2505.16980v1)|null|
-|**2025-05-22**|**Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On**|Siqi Wan et.al.|[2505.16977v1](http://arxiv.org/abs/2505.16977v1)|null|
-|**2025-04-17**|**Enhancing Person-to-Person Virtual Try-On with Multi-Garment Virtual Try-Off**|Riza Velioglu et.al.|[2504.13078v1](http://arxiv.org/abs/2504.13078v1)|[link](https://github.com/rizavelioglu/tryoffdiff)|
-|**2025-03-11**|**MF-VITON: High-Fidelity Mask-Free Virtual Try-On with Minimal Input**|Zhenchen Wan et.al.|[2503.08650v1](http://arxiv.org/abs/2503.08650v1)|null|
-|**2025-02-13**|**E-MD3C: Taming Masked Diffusion Transformers for Efficient Zero-Shot Object Customization**|Trung X. Pham et.al.|[2502.09164v1](http://arxiv.org/abs/2502.09164v1)|null|
-|**2025-01-20**|**EfficientVITON: An Efficient Virtual Try-On Model using Optimized Diffusion Process**|Mostafa Atef et.al.|[2501.11776v1](http://arxiv.org/abs/2501.11776v1)|null|
-|**2025-01-08**|**Enhancing Virtual Try-On with Synthetic Pairs and Error-Aware Noise Scheduling**|Nannan Li et.al.|[2501.04666v3](http://arxiv.org/abs/2501.04666v3)|null|
-|**2025-01-07**|**HYB-VITON: A Hybrid Approach to Virtual Try-On Combining Explicit and Implicit Warping**|Kosuke Takemoto et.al.|[2501.03910v1](http://arxiv.org/abs/2501.03910v1)|[link](https://github.com/takesukeds/hyb-viton)|
-|**2024-12-13**|**Dynamic Try-On: Taming Video Virtual Try-on with Dynamic Attention Mechanism**|Jun Zheng et.al.|[2412.09822v1](http://arxiv.org/abs/2412.09822v1)|null|
-|**2024-12-11**|**TryOffAnyone: Tiled Cloth Generation from a Dressed Person**|Ioannis Xarchakos et.al.|[2412.08573v2](http://arxiv.org/abs/2412.08573v2)|[link](https://github.com/ixarchakos/try-off-anyone)|
-|**2024-11-27**|**TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models**|Riza Velioglu et.al.|[2411.18350v1](http://arxiv.org/abs/2411.18350v1)|[link](https://github.com/rizavelioglu/tryoffdiff)|
-|**2024-11-26**|**TED-VITON: Transformer-Empowered Diffusion Models for Virtual Try-On**|Zhenchen Wan et.al.|[2411.17017v3](http://arxiv.org/abs/2411.17017v3)|[link](https://github.com/zhenchenwan/ted-viton)|
-|**2024-11-15**|**Try-On-Adapter: A Simple and Flexible Try-On Paradigm**|Hanzhong Guo et.al.|[2411.10187v1](http://arxiv.org/abs/2411.10187v1)|null|
-|**2024-10-16**|**Surface plasmon resonance sensor based on a novel prism for the detection of a broad range of polymers**|Natalia A. Gutierrez Andrade et.al.|[2410.12440v2](http://arxiv.org/abs/2410.12440v2)|null|
-|**2024-09-22**|**GlamTry: Advancing Virtual Try-On for High-End Accessories**|Ting-Yu Chang et.al.|[2409.14553v1](http://arxiv.org/abs/2409.14553v1)|null|
-|**2024-09-12**|**Improving Virtual Try-On with Garment-focused Diffusion Models**|Siqi Wan et.al.|[2409.08258v1](http://arxiv.org/abs/2409.08258v1)|[link](https://github.com/siqi0905/gardiff)|
-|**2024-09-02**|**DPDEdit: Detail-Preserved Diffusion Models for Multimodal Fashion Image Editing**|Xiaolong Wang et.al.|[2409.01086v2](http://arxiv.org/abs/2409.01086v2)|null|
-|**2024-07-15**|**WildVidFit: Video Virtual Try-On in the Wild via Image-Based Controlled Diffusion Models**|Zijian He et.al.|[2407.10625v1](http://arxiv.org/abs/2407.10625v1)|null|
-|**2024-07-04**|**DiCTI: Diffusion-based Clothing Designer via Text-guided Input**|Ajda Lampe et.al.|[2407.03901v1](http://arxiv.org/abs/2407.03901v1)|null|
-|**2024-06-04**|**GraVITON: Graph based garment warping with attention guided inversion for Virtual-tryon**|Sanhita Pathak et.al.|[2406.02184v1](http://arxiv.org/abs/2406.02184v1)|null|
-|**2024-05-28**|**VITON-DiT: Learning In-the-Wild Video Try-On from Human Dance Videos via Diffusion Transformers**|Jun Zheng et.al.|[2405.18326v2](http://arxiv.org/abs/2405.18326v2)|null|
-|**2024-05-01**|**MMTryon: Multi-Modal Multi-Reference Control for High-Quality Fashion Generation**|Xujie Zhang et.al.|[2405.00448v4](http://arxiv.org/abs/2405.00448v4)|null|
-|**2024-04-26**|**Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos**|Zhengze Xu et.al.|[2404.17571v1](http://arxiv.org/abs/2404.17571v1)|null|
-|**2024-04-26**|**FashionSD-X: Multimodal Fashion Garment Synthesis using Latent Diffusion**|Abhishek Kumar Singh et.al.|[2404.18591v1](http://arxiv.org/abs/2404.18591v1)|null|
-|**2024-04-26**|**MV-VTON: Multi-View Virtual Try-On with Diffusion Models**|Haoyu Wang et.al.|[2404.17364v4](http://arxiv.org/abs/2404.17364v4)|[link](https://github.com/hywang2002/mv-vton)|
-|**2024-04-22**|**FLDM-VTON: Faithful Latent Diffusion Model for Virtual Try-on**|Chenhui Wang et.al.|[2404.14162v3](http://arxiv.org/abs/2404.14162v3)|null|
-|**2024-04-01**|**Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On**|Xu Yang et.al.|[2404.01089v1](http://arxiv.org/abs/2404.01089v1)|[link](https://github.com/gal4way/tpd)|
-|**2024-03-21**|**Multimodal-Conditioned Latent Diffusion Models for Fashion Image Editing**|Alberto Baldrati et.al.|[2403.14828v2](http://arxiv.org/abs/2403.14828v2)|[link](https://github.com/aimagelab/ti-mgd)|
-|**2024-03-12**|**Time-Efficient and Identity-Consistent Virtual Try-On Using A Variant of Altered Diffusion Models**|Phuong Dam et.al.|[2403.07371v3](http://arxiv.org/abs/2403.07371v3)|null|
-|**2024-03-04**|**OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**|Yuhao Xu et.al.|[2403.01779v2](http://arxiv.org/abs/2403.01779v2)|[link](https://github.com/levihsu/ootdiffusion)|
-
-### Compatibility
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-22**|**3D Equivariant Visuomotor Policy Learning via Spherical Projection**|Boce Hu et.al.|[2505.16969v1](http://arxiv.org/abs/2505.16969v1)|null|
-|**2025-05-22**|**CASS: Nvidia to AMD Transpilation with Data, Models, and Benchmark**|Ahmed Heakl et.al.|[2505.16968v1](http://arxiv.org/abs/2505.16968v1)|null|
-|**2025-05-22**|**The Polar Express: Optimal Matrix Sign Methods and Their Application to the Muon Algorithm**|Noah Amsel et.al.|[2505.16932v1](http://arxiv.org/abs/2505.16932v1)|null|
-|**2025-05-22**|**LARES: Latent Reasoning for Sequential Recommendation**|Enze Liu et.al.|[2505.16865v1](http://arxiv.org/abs/2505.16865v1)|null|
-|**2025-05-22**|**Satellite-assisted Entanglement Distribution with High-Dimensional Photonic Encoding**|V. Domínguez Tubío et.al.|[2505.16751v1](http://arxiv.org/abs/2505.16751v1)|null|
-|**2025-05-22**|**PulserDiff: a pulse differentiable extension for Pulser**|Vytautas Abramavicius et.al.|[2505.16744v1](http://arxiv.org/abs/2505.16744v1)|null|
-|**2025-05-22**|**MCP-RADAR: A Multi-Dimensional Benchmark for Evaluating Tool Use Capabilities in Large Language Models**|Xuanqi Gao et.al.|[2505.16700v1](http://arxiv.org/abs/2505.16700v1)|null|
-|**2025-05-22**|**EZ-VC: Easy Zero-shot Any-to-Any Voice Conversion**|Advait Joglekar et.al.|[2505.16691v1](http://arxiv.org/abs/2505.16691v1)|null|
-|**2025-05-22**|**Hybrid Parameterized Quantum States for Variational Quantum Learning**|Chen-Yu Liu et.al.|[2505.16676v1](http://arxiv.org/abs/2505.16676v1)|null|
-|**2025-05-22**|**Learning non-equilibrium diffusions with Schrödinger bridges: from exactly solvable to simulation-free**|Stephen Y. Zhang et.al.|[2505.16644v1](http://arxiv.org/abs/2505.16644v1)|null|
-|**2025-05-22**|**URLs Help, Topics Guide: Understanding Metadata Utility in LLM Training**|Dongyang Fan et.al.|[2505.16570v1](http://arxiv.org/abs/2505.16570v1)|null|
-|**2025-05-22**|**Consistent and Compatible Modelling of Cyber Intrusions and Incident Response Demonstrated in the Context of Malware Attacks on Critical Infrastructure**|Peter Maynard et.al.|[2505.16398v1](http://arxiv.org/abs/2505.16398v1)|null|
-|**2025-05-22**|**Is Quantum Optimization Ready? An Effort Towards Neural Network Compression using Adiabatic Quantum Computing**|Zhehui Wanga et.al.|[2505.16332v1](http://arxiv.org/abs/2505.16332v1)|null|
-|**2025-05-22**|**TensorAR: Refinement is All You Need in Autoregressive Image Generation**|Cheng Cheng et.al.|[2505.16324v1](http://arxiv.org/abs/2505.16324v1)|null|
-|**2025-05-22**|**Spontaneous Speech Variables for Evaluating LLMs Cognitive Plausibility**|Sheng-Fu Wang et.al.|[2505.16277v1](http://arxiv.org/abs/2505.16277v1)|null|
-|**2025-05-22**|**MADCluster: Model-agnostic Anomaly Detection with Self-supervised Clustering Network**|Sangyong Lee et.al.|[2505.16223v1](http://arxiv.org/abs/2505.16223v1)|null|
-|**2025-05-22**|**Sudoku-Bench: Evaluating creative reasoning with Sudoku variants**|Jeffrey Seely et.al.|[2505.16135v1](http://arxiv.org/abs/2505.16135v1)|null|
-|**2025-05-22**|**Towards Stream-Based Monitoring for EVM Networks**|Emanuel Onica et.al.|[2505.16095v1](http://arxiv.org/abs/2505.16095v1)|null|
-|**2025-05-21**|**Bidirectional Variational Autoencoders**|Bart Kosko et.al.|[2505.16074v1](http://arxiv.org/abs/2505.16074v1)|null|
-|**2025-05-21**|**Fast-wave slow-wave spectral deferred correction methods applied to the compressible Euler equations**|Alex Brown et.al.|[2505.15985v1](http://arxiv.org/abs/2505.15985v1)|null|
-|**2025-05-21**|**Training Step-Level Reasoning Verifiers with Formal Verification Tools**|Ryo Kamoi et.al.|[2505.15960v1](http://arxiv.org/abs/2505.15960v1)|null|
-|**2025-05-21**|**The Hydrodynamic Approach to Quantum Gravity**|T. Banks et.al.|[2505.15941v1](http://arxiv.org/abs/2505.15941v1)|null|
-|**2025-05-21**|**PhyX: Does Your Model Have the "Wits" for Physical Reasoning?**|Hui Shen et.al.|[2505.15929v1](http://arxiv.org/abs/2505.15929v1)|null|
-|**2025-05-21**|**Challenger: Affordable Adversarial Driving Video Generation**|Zhiyuan Xu et.al.|[2505.15880v1](http://arxiv.org/abs/2505.15880v1)|null|
-|**2025-05-21**|**Deep greedy unfolding: Sorting out argsorting in greedy sparse recovery algorithms**|Sina Mohammad-Taheri et.al.|[2505.15661v1](http://arxiv.org/abs/2505.15661v1)|null|
-|**2025-05-21**|**A Methodology to Evaluate Strategies Predicting Rankings on Unseen Domains**|Sébastien Piérard et.al.|[2505.15595v1](http://arxiv.org/abs/2505.15595v1)|null|
-|**2025-05-21**|**An enhanced extriangulated subquotient**|Nao Mochizuki et.al.|[2505.15534v1](http://arxiv.org/abs/2505.15534v1)|null|
-|**2025-05-21**|**Continuous-time iterative linear-quadratic regulator**|Juraj Lieskovský et.al.|[2505.15525v1](http://arxiv.org/abs/2505.15525v1)|null|
-|**2025-05-21**|**Directional Non-Commutative Monoidal Structures for Compositional Embeddings in Machine Learning**|Mahesh Godavarti et.al.|[2505.15507v1](http://arxiv.org/abs/2505.15507v1)|null|
 |**2025-05-21**|**Efficient Differentiable Approximation of Generalized Low-rank Regularization**|Naiqi Li et.al.|[2505.15407v1](http://arxiv.org/abs/2505.15407v1)|[link](https://github.com/naiqili/edlrr)|
 
 ## Transformer
